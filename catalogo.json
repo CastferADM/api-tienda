@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T12:16:27.499Z",
+  "generated_at": "2026-02-14T12:21:34.016Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -24761,6 +24761,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "VEDE9771-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "PANT2514",
+      "model": "2 en 1 Secado Rapido con cierre",
+      "price": 18000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Cire secado rapido",
+      "image": "",
+      "carpeta_id": "1GE9b0nRgBmYxQ1UkhB8C7ooUMMFpDFXQ",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT2514-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT2514-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
