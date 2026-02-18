@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T00:41:27.578Z",
+  "generated_at": "2026-02-18T00:46:32.169Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -24792,6 +24792,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "PANT2514-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "BERM1278",
+      "model": "MOM CON ROTURA",
+      "price": 11500,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "PAC",
+      "style": "Liso",
+      "material": "Jean Rigido",
+      "image": "",
+      "carpeta_id": "12ZctahoBXOySJQCQc1RHf-ZDDXEgS2MI",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "BERM1278-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "BERM1278-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
