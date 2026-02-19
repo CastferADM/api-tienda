@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T14:16:34.100Z",
+  "generated_at": "2026-02-19T14:21:31.144Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -24823,6 +24823,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "BERM1278-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "BERM5695",
+      "model": "Mom Con rotura gastado",
+      "price": 17200,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "CASTFER",
+      "style": "Liso",
+      "material": "Jeans",
+      "image": "",
+      "carpeta_id": "1D12nr2Rl8GoUSkFZA3FtYFebzFzavAup",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "BERM5695-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "BERM5695-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
