@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T16:36:36.168Z",
+  "generated_at": "2026-02-20T16:41:40.106Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -24854,6 +24854,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "BERM5695-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP3886",
+      "model": "Termico de Neoprem",
+      "price": 23175,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprem",
+      "image": "",
+      "carpeta_id": "1SCy5TkR0VLv9x-_-FyE-Od9X-Ib2qb2F",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP3886-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP3886-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
