@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T19:11:33.311Z",
+  "generated_at": "2026-02-20T19:16:28.363Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -24885,6 +24885,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP3886-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "JOGG3364",
+      "model": "BPSC6734",
+      "price": 16875,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Gabardina",
+      "image": "",
+      "carpeta_id": "1SaI8pYyMOW6JgGOYdMq_k5OJInolHF3F",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG3364-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG3364-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
