@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T13:06:28.072Z",
+  "generated_at": "2026-02-21T13:11:28.355Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -24916,6 +24916,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "JOGG3364-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "JOGG8912",
+      "model": "Cargo Talle Especial",
+      "price": 18000,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "LIONESA",
+      "style": "Liso",
+      "material": "Gabardina",
+      "image": "",
+      "carpeta_id": "1bFS7Rxtxes7zrK3aSOTgfUHAQZoIkoSt",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG8912-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG8912-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
