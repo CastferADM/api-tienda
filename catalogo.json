@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T15:41:29.637Z",
+  "generated_at": "2026-02-26T15:46:31.846Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -24947,6 +24947,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "JOGG8912-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP3977",
+      "model": "Universitaria de corderito",
+      "price": 20000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "SSJ",
+      "style": "",
+      "material": "",
+      "image": "",
+      "carpeta_id": "1QobFsFHniMDUJCvfo6fpdP6jyz5Dg8No",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP3977-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP3977-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
