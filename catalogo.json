@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T12:21:37.861Z",
+  "generated_at": "2026-03-02T12:26:26.903Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -25050,6 +25050,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP3977-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "MEDI9511",
+      "model": "Animado",
+      "price": 908.33,
+      "minor_surcharge": 0,
+      "category_id": "Medias",
+      "categoryName": "Medias",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Unisex",
+      "brand": "JCF",
+      "style": "Liso",
+      "material": "Algodon",
+      "image": "",
+      "carpeta_id": "1fNqZikuxlL397Okl2KUiLfaUcAaAwQjQ",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "MEDI9511-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "MEDI9511-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
