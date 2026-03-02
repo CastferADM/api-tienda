@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T12:46:28.803Z",
+  "generated_at": "2026-03-02T12:51:28.752Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -25081,6 +25081,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "MEDI9511-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP1837",
+      "model": "HARSH RACING",
+      "price": 32600,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Bordado",
+      "material": "Ecocuero",
+      "image": "",
+      "carpeta_id": "1xIDqe-b0KuWmCCjm05kbpNNU5MpBrx5M",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1837-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1837-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
