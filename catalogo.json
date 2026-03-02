@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T13:46:30.891Z",
+  "generated_at": "2026-03-02T13:51:33.932Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -19,7 +19,167 @@
     }
   },
   "colors": {
-    "undefined": {
+    "Negro": {
+      "hex": "000000",
+      "textEdge": "White"
+    },
+    "Azul marino": {
+      "hex": "00008A",
+      "textEdge": "White"
+    },
+    "Azul": {
+      "hex": "0000FF",
+      "textEdge": "White"
+    },
+    "Verde": {
+      "hex": "00FF00",
+      "textEdge": "000000"
+    },
+    "Cian": {
+      "hex": "00FFFF",
+      "textEdge": "000000"
+    },
+    "Esmeralda": {
+      "hex": "019875",
+      "textEdge": "000000"
+    },
+    "Azul acero": {
+      "hex": "1482B4",
+      "textEdge": "White"
+    },
+    "Turquesa": {
+      "hex": "40E0D0",
+      "textEdge": "000000"
+    },
+    "Turquesa Claro": {
+      "hex": "40E0D0",
+      "textEdge": "000000"
+    },
+    "Verde Militar": {
+      "hex": "4B5320",
+      "textEdge": "White"
+    },
+    "Violeta": {
+      "hex": "4C2882",
+      "textEdge": "White"
+    },
+    "Purpura": {
+      "hex": "620B57",
+      "textEdge": "White"
+    },
+    "Aguamarina medio": {
+      "hex": "66CDAA",
+      "textEdge": "000000"
+    },
+    "Azul pizarra": {
+      "hex": "6A5ACD",
+      "textEdge": "White"
+    },
+    "Aguamarina": {
+      "hex": "7FFFD4",
+      "textEdge": "000000"
+    },
+    "Morado": {
+      "hex": "800080",
+      "textEdge": "White"
+    },
+    "Gris": {
+      "hex": "808080",
+      "textEdge": "White"
+    },
+    "Bison": {
+      "hex": "847450",
+      "textEdge": "White"
+    },
+    "Azul celeste": {
+      "hex": "87CEEB",
+      "textEdge": "000000"
+    },
+    "Bordo": {
+      "hex": "8B0000",
+      "textEdge": "White"
+    },
+    "Marron": {
+      "hex": "8B4513",
+      "textEdge": "White"
+    },
+    "Celeste": {
+      "hex": "ADD8E6",
+      "textEdge": "000000"
+    },
+    "Amarillo Verde": {
+      "hex": "ADFF2F",
+      "textEdge": "000000"
+    },
+    "Lavanda": {
+      "hex": "C080FF",
+      "textEdge": "000000"
+    },
+    "Arena": {
+      "hex": "C2B280",
+      "textEdge": "000000"
+    },
+    "Lima": {
+      "hex": "C3FF00",
+      "textEdge": "000000"
+    },
+    "Gris claro": {
+      "hex": "D3D3D3",
+      "textEdge": "000000"
+    },
+    "Amarillo mostaza": {
+      "hex": "E3B439",
+      "textEdge": "White"
+    },
+    "Beige": {
+      "hex": "F5F5DC",
+      "textEdge": "Black"
+    },
+    "Salmon": {
+      "hex": "FA8072",
+      "textEdge": "000000"
+    },
+    "Rojo": {
+      "hex": "FF0000",
+      "textEdge": "White"
+    },
+    "Rojo anaranjado": {
+      "hex": "FF4500",
+      "textEdge": "White"
+    },
+    "Rosa fuerte": {
+      "hex": "FF69B4",
+      "textEdge": "White"
+    },
+    "Surtido": {
+      "hex": "FF69B4-800080",
+      "textEdge": "White"
+    },
+    "Coral": {
+      "hex": "FF7F50",
+      "textEdge": "White"
+    },
+    "Naranja": {
+      "hex": "FFA500",
+      "textEdge": "000000"
+    },
+    "Rosa": {
+      "hex": "FFC0CB",
+      "textEdge": "000000"
+    },
+    "Amarillo": {
+      "hex": "FFFF00",
+      "textEdge": "000000"
+    },
+    "Blanco": {
+      "hex": "FFFFFF",
+      "textEdge": "Black"
+    },
+    "Az&Am": {
+      "hex": "0000FF-FFFF00",
+      "textEdge": "FFFFFF"
+    },
+    "Ne&Gr": {
       "hex": "000000-D3D3D3",
       "textEdge": "FFFFFF"
     }
