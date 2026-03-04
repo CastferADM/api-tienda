@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T21:07:35.062Z",
+  "generated_at": "2026-03-04T21:12:36.438Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -25138,6 +25138,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "BOXE4164-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "TAPA2669",
+      "model": "Trench Clasico estilo Britanico 02",
+      "price": 45000,
+      "minor_surcharge": 0,
+      "category_id": "Tapado",
+      "categoryName": "Tapado",
+      "parentCategory": "",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "Runchuanyidu",
+      "style": "Liso",
+      "material": "Gabardina Poliester",
+      "image": "",
+      "carpeta_id": "1xMoOdNtV5o58lL1iNJo8mfXL82lscM1h",
+      "woo_id": 38469,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "TAPA2669-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "TAPA2669-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
