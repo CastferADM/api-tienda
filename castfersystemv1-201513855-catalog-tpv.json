@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T16:12:35.188Z",
+  "generated_at": "2026-03-04T16:17:35.529Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -3345,37 +3345,6 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "BOXE4087-Surtido-Surtido-JM MAYORISTA"
-        }
-      ]
-    },
-    {
-      "id": "BOXE4164",
-      "model": "Classic Algodon",
-      "price": 1458.34,
-      "minor_surcharge": 0,
-      "category_id": "Boxer",
-      "categoryName": "Boxer",
-      "parentCategory": "",
-      "season": "SIN-TEMPORADA",
-      "gender": "Hombre",
-      "brand": "UOMO",
-      "style": "Estampado,Liso",
-      "material": "Algodon",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4164%2FBOXE4164-1GM-T.jpg",
-      "carpeta_id": "1ZpnthZBZWbcSSSbRiZ7TVt3Z5Prg0jXP",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "CASTFER",
-          "variation_id": "BOXE4164-Surtido-Surtido-CASTFER"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "JM MAYORISTA",
-          "variation_id": "BOXE4164-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     },
@@ -25138,6 +25107,37 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "TAPA2022-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "BOXE2085",
+      "model": "Classic Algodon 2",
+      "price": 1458.34,
+      "minor_surcharge": 0,
+      "category_id": "Boxer",
+      "categoryName": "Boxer",
+      "parentCategory": "",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "UOMO",
+      "style": "Estampado,Liso",
+      "material": "Algodon",
+      "image": "",
+      "carpeta_id": "1A2MOrDBsAFCuJczm-yUTnV61ONHZzA6W",
+      "woo_id": 38449,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "BOXE2085-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "BOXE2085-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
