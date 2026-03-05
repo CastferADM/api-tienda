@@ -26571,7 +26571,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "27",
+                  "valor": "25",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -26678,7 +26678,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "27"
+                          "stock": "25"
                         }
                       ]
                     }
@@ -26695,7 +26695,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "27"
+                          "stock": "25"
                         }
                       ]
                     }
@@ -56912,5 +56912,6 @@
     "cbu": "3100054928135814",
     "banco": "MercadoPago"
   },
-  "aplicar_marca_agua": false
+  "aplicar_marca_agua": false,
+  "timestamp_ms": 1772739211214
 }
