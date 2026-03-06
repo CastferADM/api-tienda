@@ -31647,10 +31647,18 @@
               },
               "imagen": [
                 {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2514%2FPANT2514-1fDKA.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2514%2FPANT2514-1fDKA.jpg",
+                  "archivo_id": "1fDKA4d7OEl9nZTXorEv2MDWtPUaHvGOG",
+                  "portada": true,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-03T16:01:53.169Z"
+                },
+                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2514%2FPANT2514-1j26d.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2514%2FPANT2514-1j26d.jpg",
                   "archivo_id": "1j26d_HIHsKsDtljn5DM6Vi4GJyIHG7Fz",
-                  "portada": true,
+                  "portada": false,
                   "orden": 16,
                   "fecha_carga": "2026-03-03T16:01:53.169Z"
                 },
@@ -56817,5 +56825,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1772805206451
+  "timestamp_ms": 1772805506506
 }
