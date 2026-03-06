@@ -18127,7 +18127,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8089%2FCAMP8089-1HQyq.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8089%2FCAMP8089-1HQyq.jpg",
                   "archivo_id": "1HQyq4Swzma9S7hNfFMPEbGXQPxrlYzF9",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
                   "fecha_carga": "2026-03-03T15:50:03.951Z"
                 },
@@ -18135,7 +18135,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8089%2FCAMP8089-1Pp7P.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8089%2FCAMP8089-1Pp7P.jpg",
                   "archivo_id": "1Pp7PLSCopcHWjAZaVIq3Hx4UjTNvP1Sp",
-                  "portada": false,
+                  "portada": true,
                   "orden": 8,
                   "fecha_carga": "2026-03-03T15:50:03.951Z"
                 }
@@ -18245,7 +18245,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8251%2FCAMP8251-1TuiR.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8251%2FCAMP8251-1TuiR.jpg",
                   "archivo_id": "1TuiRFjsrfmFbN2pi2S1ANzobeaqPMgt0",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
                   "fecha_carga": "2026-03-03T15:50:03.951Z"
                 },
@@ -18285,7 +18285,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8251%2FCAMP8251-1TNXt.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8251%2FCAMP8251-1TNXt.jpg",
                   "archivo_id": "1TNXtWJ_K9Pj5Vq35RuGs0jkhC8TeadIa",
-                  "portada": false,
+                  "portada": true,
                   "orden": 40,
                   "fecha_carga": "2026-03-03T15:50:03.951Z"
                 },
@@ -31656,7 +31656,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "65",
+                  "valor": "64",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -31715,7 +31715,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "65"
+                          "stock": "64"
                         }
                       ]
                     }
@@ -31732,7 +31732,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "65"
+                          "stock": "64"
                         }
                       ]
                     }
@@ -31749,7 +31749,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "65"
+                          "stock": "64"
                         }
                       ]
                     }
@@ -56723,5 +56723,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1772813312834
+  "timestamp_ms": 1772813611297
 }
