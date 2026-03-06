@@ -32207,6 +32207,14 @@
                   "portada": true,
                   "orden": 2,
                   "fecha_carga": "2026-03-03T15:54:28.159Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2984%2FPANT2984-19ica.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2984%2FPANT2984-19ica.jpg",
+                  "archivo_id": "19icaERnWFUFoAznWRLe8ohxz_9zFuK45",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-06T14:24:36.124Z"
                 }
               ],
               "variedad": [
@@ -33763,7 +33771,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "26",
+                  "valor": "23",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -33794,7 +33802,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "26"
+                          "stock": "23"
                         }
                       ]
                     }
@@ -33811,7 +33819,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "26"
+                          "stock": "23"
                         }
                       ]
                     }
@@ -33828,7 +33836,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "26"
+                          "stock": "23"
                         }
                       ]
                     }
@@ -34513,7 +34521,7 @@
                   "archivo_id": "1B0iXvtUDMNIBY7lhee8H8GL506um_np9",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-03-06T14:23:30.233Z"
+                  "fecha_carga": "2026-03-06T14:23:39.559Z"
                 }
               ],
               "variedad": [
@@ -56683,5 +56691,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1772807040729
+  "timestamp_ms": 1772807308395
 }
