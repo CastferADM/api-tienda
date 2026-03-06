@@ -21821,7 +21821,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL6522%2FCHAL6522-18drQ.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL6522%2FCHAL6522-18drQ.jpg",
                   "archivo_id": "18drQSBIJgrGVv2xvPC9pUO5KJSBIN636",
-                  "portada": true,
+                  "portada": false,
                   "orden": 4,
                   "fecha_carga": "2026-03-03T15:50:03.951Z"
                 },
@@ -21845,7 +21845,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL6522%2FCHAL6522-11rCc.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL6522%2FCHAL6522-11rCc.jpg",
                   "archivo_id": "11rCcKRj9DIpPjCc9aFC9mDS2PH954CI0",
-                  "portada": false,
+                  "portada": true,
                   "orden": 14,
                   "fecha_carga": "2026-03-03T15:50:03.951Z"
                 },
@@ -23912,7 +23912,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 13000,
+                  "precio": 16000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -56723,5 +56723,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1772816608667
+  "timestamp_ms": 1772816906306
 }
