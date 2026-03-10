@@ -53632,7 +53632,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "05-08-2025"
+                  "valor": "10-03-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -53653,7 +53653,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 1250,
+                  "precio": 2000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {
@@ -53670,7 +53670,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 2000,
+                  "precio": 3333.33,
                   "variedad": "Pack x3",
                   "minima": 3,
                   "sub_variedad": {
@@ -56715,5 +56715,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773144148391
+  "timestamp_ms": 1773145054469
 }
