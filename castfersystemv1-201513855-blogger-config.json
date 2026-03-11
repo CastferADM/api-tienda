@@ -7599,7 +7599,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 48900,
+                  "precio": 45000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {}
@@ -27879,7 +27879,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "62",
+                  "valor": "61",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -27962,7 +27962,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "62"
+                          "stock": "61"
                         }
                       ]
                     }
@@ -27979,7 +27979,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "62"
+                          "stock": "61"
                         }
                       ]
                     }
@@ -27996,7 +27996,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "62"
+                          "stock": "61"
                         }
                       ]
                     }
@@ -57071,5 +57071,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773238446896
+  "timestamp_ms": 1773239361154
 }
