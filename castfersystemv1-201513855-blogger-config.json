@@ -46409,8 +46409,28 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4164%2FBOXE4164-1iefS.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4164%2FBOXE4164-1iefS.jpg",
+                  "archivo_id": "1iefSXPjJNZ8gdMNFkUMSOLlq4JJNhhp1",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-12T19:14:49.435Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4164%2FBOXE4164-1Sscp.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4164%2FBOXE4164-1Sscp.jpg",
+                  "archivo_id": "1SscplE14sTBQHHpSA8EkWmcPicQG8IvO",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-12T19:14:49.435Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4164%2FBOXE4164-1hQn7.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4164%2FBOXE4164-1hQn7.jpg",
+                  "archivo_id": "1hQn7b54W3_4OfKWz49iBNLetiV0PpHx0",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-03-12T19:14:49.435Z"
                 }
               ],
               "variedad": [
@@ -57124,5 +57144,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773341946333
+  "timestamp_ms": 1773342934596
 }
