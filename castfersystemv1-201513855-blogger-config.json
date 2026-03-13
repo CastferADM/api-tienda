@@ -25918,7 +25918,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "97",
+                  "valor": "96",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -25985,7 +25985,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "97"
+                          "stock": "96"
                         }
                       ]
                     }
@@ -26002,7 +26002,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "97"
+                          "stock": "96"
                         }
                       ]
                     }
@@ -26019,7 +26019,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "97"
+                          "stock": "96"
                         }
                       ]
                     }
@@ -26694,7 +26694,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "595",
+                  "valor": "594",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -26801,7 +26801,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "595"
+                          "stock": "594"
                         }
                       ]
                     }
@@ -26818,7 +26818,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "595"
+                          "stock": "594"
                         }
                       ]
                     }
@@ -28710,7 +28710,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "21-08-2025"
+                  "valor": "13-03-2026"
                 },
                 "video": {
                   "label": "Video",
@@ -29017,19 +29017,19 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1SBmh.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1SBmh.jpg",
-                  "archivo_id": "1SBmhQRJ_iBdOv0IeWeKai56U4NmpGy6B",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-03-03T15:50:03.951Z"
-                },
-                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-12LZe.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-12LZe.jpg",
                   "archivo_id": "12LZeZLlwG5JAk9wXwZHh9qxNO6c56oMA",
-                  "portada": false,
+                  "portada": true,
                   "orden": 10,
+                  "fecha_carga": "2026-03-03T15:50:03.951Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1SBmh.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1SBmh.jpg",
+                  "archivo_id": "1SBmhQRJ_iBdOv0IeWeKai56U4NmpGy6B",
+                  "portada": false,
+                  "orden": 2,
                   "fecha_carga": "2026-03-03T15:50:03.951Z"
                 },
                 {
@@ -30548,7 +30548,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "2948",
+                  "valor": "2947",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -30579,7 +30579,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "2948"
+                          "stock": "2947"
                         }
                       ]
                     }
@@ -57148,5 +57148,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773417547643
+  "timestamp_ms": 1773418438660
 }
