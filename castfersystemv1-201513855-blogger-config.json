@@ -15811,7 +15811,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "37",
+                  "valor": "36",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -15918,7 +15918,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "37"
+                          "stock": "36"
                         }
                       ]
                     }
@@ -15935,7 +15935,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "37"
+                          "stock": "36"
                         }
                       ]
                     }
@@ -15952,7 +15952,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "37"
+                          "stock": "36"
                         }
                       ]
                     }
@@ -36421,7 +36421,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "331",
+                  "valor": "330",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -36464,7 +36464,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "331"
+                          "stock": "330"
                         }
                       ]
                     }
@@ -36481,7 +36481,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "331"
+                          "stock": "330"
                         }
                       ]
                     }
@@ -41494,11 +41494,11 @@
                 {
                   "moneda": "$",
                   "precio": 35000,
-                  "variedad": "Docena",
-                  "minima": 6,
+                  "variedad": "Menor",
+                  "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#FF69B4-800080",
+                      "color": "#cccccc",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -42992,6 +42992,118 @@
             {
               "codigo": 898,
               "categoria": "Tapado",
+              "nombre": "TAPA7105",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Camperon Puffer tornasolado"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "REEWIN"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer-Juvenil",
+                  "icono": ""
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Cire-Tornasolado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "92",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "05-08-2025"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1132264462,
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20TAPA7105%0A%F0%9F%94%B9%20Modelo%3A%20Camperon%20Puffer%20tornasolado%0A%F0%9F%94%B9%20Marca%3A%20REEWIN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer-Juvenil%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7105%2FTAPA7105-1fYnI.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7105%2FTAPA7105-1fYnI.jpg",
+                  "archivo_id": "1fYnI1X0JT67hXUiOvlRNwOgQItjuDcZC",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-03T16:01:53.169Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7105%2FTAPA7105-1xnSn.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7105%2FTAPA7105-1xnSn.jpg",
+                  "archivo_id": "1xnSnLpdooEzgiiHQDfVkUZVl_47gnf3g",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-03T16:01:53.169Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7105%2FTAPA7105-1YX-S.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7105%2FTAPA7105-1YX-S.jpg",
+                  "archivo_id": "1YX-SCMj_rE8VMBCr_XRcMmIeRwgvLCPE",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-03T16:01:53.169Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7105%2FTAPA7105-1-qZB.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7105%2FTAPA7105-1-qZB.jpg",
+                  "archivo_id": "1-qZBiooPyePjH-w_6wz1QIfhgDpzJdUU",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-03T16:01:53.169Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 35000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "92"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2025-08-05T07:00:00.000Z"
+            },
+            {
+              "codigo": 899,
+              "categoria": "Tapado",
               "nombre": "TAPA7153",
               "descripcion": {
                 "modelo": {
@@ -43084,23 +43196,6 @@
                 {
                   "moneda": "$",
                   "precio": 35000,
-                  "variedad": "Docena",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "97"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 45000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -45418,7 +45513,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "20",
+                  "valor": "17",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -45461,7 +45556,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "20"
+                          "stock": "17"
                         }
                       ]
                     }
@@ -45478,7 +45573,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "20"
+                          "stock": "17"
                         }
                       ]
                     }
@@ -57229,5 +57324,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773493136259
+  "timestamp_ms": 1773494038393
 }
