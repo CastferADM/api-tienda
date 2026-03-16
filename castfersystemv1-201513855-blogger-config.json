@@ -32165,7 +32165,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "51",
+                  "valor": "435",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -32224,7 +32224,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "51"
+                          "stock": "435"
                         }
                       ]
                     }
@@ -32241,7 +32241,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "51"
+                          "stock": "435"
                         }
                       ]
                     }
@@ -32258,7 +32258,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "51"
+                          "stock": "435"
                         }
                       ]
                     }
@@ -32855,8 +32855,20 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3220%2FPANT3220-1w8s5.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3220%2FPANT3220-1w8s5.jpg",
+                  "archivo_id": "1w8s5HhCHaSx6Nhh7csOpf0dwYGB4NMGT",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-16T02:25:07.047Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3220%2FPANT3220-1zUq6.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3220%2FPANT3220-1zUq6.jpg",
+                  "archivo_id": "1zUq6JdgDRGp7vqkyefqwdWhrh87AfFI-",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-16T02:25:07.047Z"
                 }
               ],
               "variedad": [
@@ -57725,5 +57737,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773627240822
+  "timestamp_ms": 1773628139855
 }
