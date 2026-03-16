@@ -2466,7 +2466,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "02-10-2025"
+                  "valor": "16-03-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -32378,7 +32378,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "434",
+                  "valor": "433",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -32437,7 +32437,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "434"
+                          "stock": "433"
                         }
                       ]
                     }
@@ -32454,7 +32454,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "434"
+                          "stock": "433"
                         }
                       ]
                     }
@@ -32471,7 +32471,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "434"
+                          "stock": "433"
                         }
                       ]
                     }
@@ -37434,7 +37434,7 @@
                   "archivo_id": "1iu8zGe7UUdGBUHJGXCznkVDHaBACIYG5",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-03-16T14:31:40.027Z"
+                  "fecha_carga": "2026-03-16T19:27:20.434Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME2460%2FREME2460-1R7KN.jpg",
@@ -37442,7 +37442,15 @@
                   "archivo_id": "1R7KNyKhdFXQnTDJbdxpim7bWTmizk_3G",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-03-16T14:31:40.027Z"
+                  "fecha_carga": "2026-03-16T19:27:20.434Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME2460%2FREME2460-1zhK4.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME2460%2FREME2460-1zhK4.jpg",
+                  "archivo_id": "1zhK4OW1NOBF8hfANHxi2TftPznTMYVRX",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-16T19:27:20.434Z"
                 }
               ],
               "variedad": [
@@ -58014,5 +58022,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773688445845
+  "timestamp_ms": 1773689342376
 }
