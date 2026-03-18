@@ -11218,7 +11218,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "78",
+                  "valor": "77",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11285,7 +11285,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "78"
+                          "stock": "77"
                         }
                       ]
                     }
@@ -11302,7 +11302,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "78"
+                          "stock": "77"
                         }
                       ]
                     }
@@ -11319,7 +11319,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "78"
+                          "stock": "77"
                         }
                       ]
                     }
@@ -14232,7 +14232,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "91",
+                  "valor": "90",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -14307,7 +14307,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "91"
+                          "stock": "90"
                         }
                       ]
                     }
@@ -14324,7 +14324,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "91"
+                          "stock": "90"
                         }
                       ]
                     }
@@ -31788,7 +31788,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "110",
+                  "valor": "109",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -31839,7 +31839,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "110"
+                          "stock": "109"
                         }
                       ]
                     }
@@ -31856,7 +31856,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "110"
+                          "stock": "109"
                         }
                       ]
                     }
@@ -31873,7 +31873,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "110"
+                          "stock": "109"
                         }
                       ]
                     }
@@ -33065,7 +33065,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "142",
+                  "valor": "141",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -33085,7 +33085,7 @@
                   "archivo_id": "1XCF-wUdw3IpTyjHAslOtYXsi4_OQMjux",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-03-18T15:11:48.184Z"
+                  "fecha_carga": "2026-03-18T15:25:49.377Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3220%2FPANT3220-1rEiQ.jpg",
@@ -33093,7 +33093,7 @@
                   "archivo_id": "1rEiQGqpp8SZXAcIVok8p1fgP1SfCpjm0",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-03-18T15:11:48.184Z"
+                  "fecha_carga": "2026-03-18T15:25:49.377Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3220%2FPANT3220-17jH3.jpg",
@@ -33101,7 +33101,15 @@
                   "archivo_id": "17jH3xjtmcCYAYTFsB8lN4cHR7EXrILpm",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-03-18T15:11:48.184Z"
+                  "fecha_carga": "2026-03-18T15:25:49.377Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3220%2FPANT3220-1MlTk.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3220%2FPANT3220-1MlTk.jpg",
+                  "archivo_id": "1MlTk_TjQ0tGpNiPinSxHBUs-F1_lJgSL",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T15:25:49.377Z"
                 }
               ],
               "variedad": [
@@ -33116,7 +33124,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "142"
+                          "stock": "141"
                         }
                       ]
                     }
@@ -33133,7 +33141,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "142"
+                          "stock": "141"
                         }
                       ]
                     }
@@ -58225,5 +58233,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773846851820
+  "timestamp_ms": 1773847765504
 }
