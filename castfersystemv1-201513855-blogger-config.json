@@ -542,6 +542,24 @@
       "moneda": "$",
       "costo_envio": 0,
       "hora_entrega": ""
+    },
+    {
+      "codigo": "",
+      "descripcion": "",
+      "cuit": "",
+      "ubicacion": "Flores CABA",
+      "moneda": "$",
+      "costo_envio": 0,
+      "hora_entrega": ""
+    },
+    {
+      "codigo": "",
+      "descripcion": "",
+      "cuit": "",
+      "ubicacion": "Flores CABA",
+      "moneda": "$",
+      "costo_envio": 0,
+      "hora_entrega": ""
     }
   ],
   "pagina_carrusel": [
@@ -16003,7 +16021,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "33",
+                  "valor": "27",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -16110,7 +16128,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "33"
+                          "stock": "27"
                         }
                       ]
                     }
@@ -16127,7 +16145,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "33"
+                          "stock": "27"
                         }
                       ]
                     }
@@ -16144,7 +16162,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "33"
+                          "stock": "27"
                         }
                       ]
                     }
@@ -31301,7 +31319,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "2879",
+                  "valor": "2878",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -31332,7 +31350,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "2879"
+                          "stock": "2878"
                         }
                       ]
                     }
@@ -51419,7 +51437,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "123",
+                  "valor": "111",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -51450,7 +51468,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "123"
+                          "stock": "111"
                         }
                       ]
                     }
@@ -51467,7 +51485,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "123"
+                          "stock": "111"
                         }
                       ]
                     }
@@ -58375,5 +58393,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774269187838
+  "timestamp_ms": 1774270023294
 }
