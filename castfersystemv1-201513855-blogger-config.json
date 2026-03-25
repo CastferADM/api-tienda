@@ -5855,7 +5855,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "221",
+                  "valor": "220",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -5898,7 +5898,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "221"
+                          "stock": "220"
                         }
                       ]
                     }
@@ -5915,7 +5915,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "221"
+                          "stock": "220"
                         }
                       ]
                     }
@@ -11538,7 +11538,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "100",
+                  "valor": "99",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11650,7 +11650,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "100"
+                          "stock": "99"
                         }
                       ]
                     }
@@ -11667,7 +11667,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "100"
+                          "stock": "99"
                         }
                       ]
                     }
@@ -29386,16 +29386,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "118",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -29409,7 +29416,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1168%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1168%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -29500,14 +29507,34 @@
                   "precio": 18000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "118"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 15000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "118"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -30202,25 +30229,32 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "118",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "01-09-2025"
+                  "valor": "25-03-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG8863%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20con%20piel%20LISO%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG8863%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20con%20piel%20LISO%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -30311,14 +30345,34 @@
                   "precio": 12000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "118"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 15000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "118"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -33297,7 +33351,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "181",
+                  "valor": "180",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -33404,7 +33458,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "181"
+                          "stock": "180"
                         }
                       ]
                     }
@@ -46839,16 +46893,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "231",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -46857,7 +46918,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE2830%0A%F0%9F%94%B9%20Modelo%3A%20Classic%20Colores%20Surt.%20T.%20M-XL%0A%F0%9F%94%B9%20Marca%3A%20LODY%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE2830%0A%F0%9F%94%B9%20Modelo%3A%20Classic%20Colores%20Surt.%20T.%20M-XL%0A%F0%9F%94%B9%20Marca%3A%20LODY%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -46884,14 +46945,34 @@
                   "precio": 7000,
                   "variedad": "Pack x3",
                   "minima": 3,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "231"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 5833.34,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "231"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -58106,5 +58187,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774451835526
+  "timestamp_ms": 1774452736070
 }
