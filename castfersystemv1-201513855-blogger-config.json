@@ -34835,10 +34835,18 @@
               },
               "imagen": [
                 {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6757%2FPANT6757-1goBy.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6757%2FPANT6757-1goBy.jpg",
+                  "archivo_id": "1goBya6hP1SrnJeLNz8A7ZK9Oc4QyG0Iq",
+                  "portada": true,
+                  "orden": 28,
+                  "fecha_carga": "2026-03-18T18:08:22.159Z"
+                },
+                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6757%2FPANT6757-1gbry.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6757%2FPANT6757-1gbry.jpg",
                   "archivo_id": "1gbry6UigyYO5q43vflH9JlcY-s54LlwG",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
                   "fecha_carga": "2026-03-18T18:08:22.159Z"
                 },
@@ -34904,14 +34912,6 @@
                   "archivo_id": "1li5Xkr73A37EsVCE4IiRF-J0AOaIu2_-",
                   "portada": false,
                   "orden": 18,
-                  "fecha_carga": "2026-03-18T18:08:22.159Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6757%2FPANT6757-1nmux.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6757%2FPANT6757-1nmux.jpg",
-                  "archivo_id": "1nmuxT_Lf33C_-K8NGCqLV0Cn6Dh5u2Iv",
-                  "portada": false,
-                  "orden": 20,
                   "fecha_carga": "2026-03-18T18:08:22.159Z"
                 }
               ],
@@ -46908,7 +46908,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "231",
+                  "valor": "228",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -46951,7 +46951,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "231"
+                          "stock": "228"
                         }
                       ]
                     }
@@ -46968,7 +46968,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "231"
+                          "stock": "228"
                         }
                       ]
                     }
@@ -58187,5 +58187,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774453641896
+  "timestamp_ms": 1774454639394
 }
