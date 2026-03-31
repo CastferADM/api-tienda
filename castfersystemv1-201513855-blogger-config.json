@@ -4280,14 +4280,6 @@
                   "portada": false,
                   "orden": 6,
                   "fecha_carga": "2026-03-31T12:48:32.496Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM9381%2FBERM9381-18pYc.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM9381%2FBERM9381-18pYc.jpg",
-                  "archivo_id": "18pYcqFygXFCp_5Cp-agFh6FDkjEkbTvy",
-                  "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-03-31T12:48:32.496Z"
                 }
               ],
               "variedad": [
@@ -34395,7 +34387,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "310",
+                  "valor": "307",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -34430,7 +34422,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "310"
+                          "stock": "307"
                         }
                       ]
                     }
@@ -34447,7 +34439,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "310"
+                          "stock": "307"
                         }
                       ]
                     }
@@ -37558,7 +37550,7 @@
                   "archivo_id": "1l5sPCPuLNlueI1DXtLo5LtxoDdetW_ZP",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                  "fecha_carga": "2026-03-31T12:51:51.592Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME1493%2FREME1493-1tlK1.jpg",
@@ -37566,7 +37558,7 @@
                   "archivo_id": "1tlK1PRpZ0e-Deu1gqKqb1ichnYy5pTd8",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                  "fecha_carga": "2026-03-31T12:51:51.592Z"
                 }
               ],
               "variedad": [
@@ -58275,5 +58267,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774961478286
+  "timestamp_ms": 1774962429743
 }
