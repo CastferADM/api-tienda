@@ -11668,7 +11668,7 @@
                   "archivo_id": "1zO6148rilDLhZwjh5sBbPzFqe3CKLBng",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-04-01T15:32:05.402Z"
+                  "fecha_carga": "2026-04-01T16:13:17.928Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4356%2FCAMP4356-1262r.jpg",
@@ -11676,7 +11676,7 @@
                   "archivo_id": "1262rrVLxh9HgX3o-gTkF1X2fqp8C4aEM",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-04-01T15:32:05.402Z"
+                  "fecha_carga": "2026-04-01T16:13:17.928Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4356%2FCAMP4356-1qi-d.jpg",
@@ -11684,7 +11684,7 @@
                   "archivo_id": "1qi-dkRc_lxjv5poXrIaBImBkLRDs8pki",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-04-01T15:32:05.402Z"
+                  "fecha_carga": "2026-04-01T16:13:17.928Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4356%2FCAMP4356-1Xl-m.jpg",
@@ -11692,7 +11692,7 @@
                   "archivo_id": "1Xl-m2-cvhlA8UShivtJ1ekWfzjRJ5d3u",
                   "portada": false,
                   "orden": 8,
-                  "fecha_carga": "2026-04-01T15:32:05.402Z"
+                  "fecha_carga": "2026-04-01T16:13:17.928Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4356%2FCAMP4356-126zZ.jpg",
@@ -11700,7 +11700,15 @@
                   "archivo_id": "126zZFsUrKJbPHiSD65JUfZhHiQaRGjke",
                   "portada": false,
                   "orden": 10,
-                  "fecha_carga": "2026-04-01T15:32:05.402Z"
+                  "fecha_carga": "2026-04-01T16:13:17.928Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4356%2FCAMP4356-1tDGZ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4356%2FCAMP4356-1tDGZ.jpg",
+                  "archivo_id": "1tDGZ1pOoE300TZ2hfM_qZ9YMbuEW_VCE",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-04-01T16:13:17.928Z"
                 }
               ],
               "variedad": [
@@ -32999,7 +33007,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "102",
+                  "valor": "101",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -33050,7 +33058,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "102"
+                          "stock": "101"
                         }
                       ]
                     }
@@ -33067,7 +33075,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "102"
+                          "stock": "101"
                         }
                       ]
                     }
@@ -58214,5 +58222,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775057749242
+  "timestamp_ms": 1775060474351
 }
