@@ -17348,10 +17348,18 @@
               },
               "imagen": [
                 {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7069%2FCAMP7069-18KKX.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7069%2FCAMP7069-18KKX.jpg",
+                  "archivo_id": "18KKX94VtHdXvYszhnyxFl1Tyt8_H41J-",
+                  "portada": true,
+                  "orden": 48,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7069%2FCAMP7069-1DZKh.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7069%2FCAMP7069-1DZKh.jpg",
                   "archivo_id": "1DZKhP0KEAO8EXcqEu_2-BxDopspxzSqJ",
-                  "portada": true,
+                  "portada": false,
                   "orden": 4,
                   "fecha_carga": "2026-03-18T17:52:02.398Z"
                 },
@@ -17417,14 +17425,6 @@
                   "archivo_id": "1fXQCq70KKojFaBj2VXERoKNYpXJwYcjp",
                   "portada": false,
                   "orden": 40,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7069%2FCAMP7069-18KKX.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7069%2FCAMP7069-18KKX.jpg",
-                  "archivo_id": "18KKX94VtHdXvYszhnyxFl1Tyt8_H41J-",
-                  "portada": false,
-                  "orden": 48,
                   "fecha_carga": "2026-03-18T17:52:02.398Z"
                 }
               ],
@@ -58203,5 +58203,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775178344978
+  "timestamp_ms": 1775178563311
 }
