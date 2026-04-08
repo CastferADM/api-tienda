@@ -5880,23 +5880,16 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": [
-                    "Surtido"
-                  ]
+                  "valores": []
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
+                  "valores": []
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "14",
-                  "estado": "Alta"
+                  "valor": "0",
+                  "estado": "Baja"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -5905,7 +5898,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE1208%0A%F0%9F%94%B9%20Modelo%3A%20Classic%20Talle%20Especial%203XL-4XL%0A%F0%9F%94%B9%20Marca%3A%20XY%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE1208%0A%F0%9F%94%B9%20Modelo%3A%20Classic%20Talle%20Especial%203XL-4XL%0A%F0%9F%94%B9%20Marca%3A%20XY%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
                 }
               },
               "imagen": [
@@ -5932,34 +5925,14 @@
                   "precio": 8000,
                   "variedad": "Pack x3",
                   "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "14"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
                   "precio": 6416.6,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "14"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -6233,7 +6206,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "488",
+                  "valor": "296",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -6292,7 +6265,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "488"
+                          "stock": "296"
                         }
                       ]
                     }
@@ -6309,7 +6282,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "488"
+                          "stock": "296"
                         }
                       ]
                     }
@@ -10504,7 +10477,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "96",
+                  "valor": "90",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10587,7 +10560,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "96"
+                          "stock": "90"
                         }
                       ]
                     }
@@ -10604,7 +10577,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "96"
+                          "stock": "90"
                         }
                       ]
                     }
@@ -26276,7 +26249,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "65",
+                  "valor": "53",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -26383,7 +26356,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "65"
+                          "stock": "53"
                         }
                       ]
                     }
@@ -26400,7 +26373,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "65"
+                          "stock": "53"
                         }
                       ]
                     }
@@ -28612,7 +28585,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "101",
+                  "valor": "89",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -28663,7 +28636,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "101"
+                          "stock": "89"
                         }
                       ]
                     }
@@ -28680,7 +28653,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "101"
+                          "stock": "89"
                         }
                       ]
                     }
@@ -33371,7 +33344,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "422",
+                  "valor": "398",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -33478,7 +33451,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "422"
+                          "stock": "398"
                         }
                       ]
                     }
@@ -33495,7 +33468,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "422"
+                          "stock": "398"
                         }
                       ]
                     }
@@ -33512,7 +33485,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "422"
+                          "stock": "398"
                         }
                       ]
                     }
@@ -42097,7 +42070,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "2784",
+                  "valor": "2780",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -42128,7 +42101,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "2784"
+                          "stock": "2780"
                         }
                       ]
                     }
@@ -45649,7 +45622,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "29",
+                  "valor": "17",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -45756,7 +45729,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "29"
+                          "stock": "17"
                         }
                       ]
                     }
@@ -45773,7 +45746,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "29"
+                          "stock": "17"
                         }
                       ]
                     }
@@ -45790,7 +45763,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "29"
+                          "stock": "17"
                         }
                       ]
                     }
@@ -58617,5 +58590,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775678437809
+  "timestamp_ms": 1775679374054
 }
