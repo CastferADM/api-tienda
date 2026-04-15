@@ -17906,8 +17906,28 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5646%2FCAMP5646-15gck.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5646%2FCAMP5646-15gck.jpg",
+                  "archivo_id": "15gck_yDs9LgiuWT38dhcewlbGX4HAwEF",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-15T12:58:18.875Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5646%2FCAMP5646-1HBNN.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5646%2FCAMP5646-1HBNN.jpg",
+                  "archivo_id": "1HBNNyhh8mP21cPqTgwAd7FW0ebdT8-Re",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-04-15T12:58:18.875Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5646%2FCAMP5646-1ex04.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5646%2FCAMP5646-1ex04.jpg",
+                  "archivo_id": "1ex04kzYN5DPZaEis-DSdBVFvV2e4DqHF",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-04-15T12:58:18.875Z"
                 }
               ],
               "variedad": [
@@ -59511,5 +59531,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776257880954
+  "timestamp_ms": 1776258049286
 }
