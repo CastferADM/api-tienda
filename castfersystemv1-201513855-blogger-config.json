@@ -16839,8 +16839,36 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4736%2FCAMP4736-1RbOR.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4736%2FCAMP4736-1RbOR.jpg",
+                  "archivo_id": "1RbOR84wx1KZ_0Qo7FLtLKxt5hLvp9t6K",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-15T13:19:59.107Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4736%2FCAMP4736-1TQhm.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4736%2FCAMP4736-1TQhm.jpg",
+                  "archivo_id": "1TQhmRrZI1J5D2tueQdPFyRukr14w8hKV",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-04-15T13:19:59.107Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4736%2FCAMP4736-1-K6p.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4736%2FCAMP4736-1-K6p.jpg",
+                  "archivo_id": "1-K6p7ove9pxWLht0aarb3IM3Bx3BxUzW",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-04-15T13:19:59.107Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4736%2FCAMP4736-1z_pl.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4736%2FCAMP4736-1z_pl.jpg",
+                  "archivo_id": "1z_plIRIo_hBZsuv14P6vgmD52YpIgw56",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-04-15T13:19:59.107Z"
                 }
               ],
               "variedad": [
@@ -59511,5 +59539,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776258943841
+  "timestamp_ms": 1776259856423
 }
