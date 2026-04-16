@@ -23404,8 +23404,28 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8377%2FCAMP8377-1LRgt.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8377%2FCAMP8377-1LRgt.jpg",
+                  "archivo_id": "1LRgtm1ZSi0NZrh5Mae_hcoWTd4e0B3Dl",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-16T16:38:52.180Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8377%2FCAMP8377-1Afqt.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8377%2FCAMP8377-1Afqt.jpg",
+                  "archivo_id": "1Afqt4FSOEoiXUzqitvocBgJ3N34YiTTQ",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-04-16T16:38:52.180Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8377%2FCAMP8377-1ILu3.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8377%2FCAMP8377-1ILu3.jpg",
+                  "archivo_id": "1ILu31Me5DxRsOj1MF1I8rYDKfgxYl60X",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-04-16T16:38:52.180Z"
                 }
               ],
               "variedad": [
@@ -55179,7 +55199,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "100",
+                  "valor": "76",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -55238,7 +55258,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "100"
+                          "stock": "76"
                         }
                       ]
                     }
@@ -59735,5 +59755,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776357059523
+  "timestamp_ms": 1776357956403
 }
