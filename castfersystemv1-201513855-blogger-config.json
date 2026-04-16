@@ -9838,7 +9838,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "212",
+                  "valor": "211",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9881,7 +9881,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "212"
+                          "stock": "211"
                         }
                       ]
                     }
@@ -9898,7 +9898,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "212"
+                          "stock": "211"
                         }
                       ]
                     }
@@ -29163,7 +29163,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "88",
+                  "valor": "87",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -29214,7 +29214,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "88"
+                          "stock": "87"
                         }
                       ]
                     }
@@ -29231,7 +29231,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "88"
+                          "stock": "87"
                         }
                       ]
                     }
@@ -45006,7 +45006,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "154",
+                  "valor": "153",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -45113,7 +45113,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "154"
+                          "stock": "153"
                         }
                       ]
                     }
@@ -45351,8 +45351,44 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-1-AGS.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-1-AGS.jpg",
+                  "archivo_id": "1-AGSYCBEpSGBuLBtmwUZJapjmKyQin4l",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-16T14:55:29.247Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-12eum.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-12eum.jpg",
+                  "archivo_id": "12eum-2cjLCMQMIM50IemComzIkE2HPI7",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-04-16T14:55:29.247Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-1jdcq.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-1jdcq.jpg",
+                  "archivo_id": "1jdcqGE7YIimQDSGJ6fvicEjtGVTjV0MA",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-04-16T14:55:29.247Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-1WzPM.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-1WzPM.jpg",
+                  "archivo_id": "1WzPMz729EXJMKtcrVEEZnaxV_MSkVuW-",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-04-16T14:55:29.247Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-1s-3W.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4185%2FPANT4185-1s-3W.jpg",
+                  "archivo_id": "1s-3WsWAqfhtJWPaYEc9X7HTxNGaJC01t",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-04-16T14:55:29.247Z"
                 }
               ],
               "variedad": [
@@ -59679,5 +59715,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776349885031
+  "timestamp_ms": 1776351722428
 }
