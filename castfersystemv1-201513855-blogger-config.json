@@ -24894,7 +24894,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9452%2FCAMP9452-1sudt.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9452%2FCAMP9452-1sudt.jpg",
                   "archivo_id": "1sudtFkGXXLwkhOPT3t13wiCiBschaAJS",
-                  "portada": false,
+                  "portada": true,
                   "orden": 2,
                   "fecha_carga": "2026-04-15T16:52:32.374Z"
                 },
@@ -24902,7 +24902,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9452%2FCAMP9452-1Y660.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9452%2FCAMP9452-1Y660.jpg",
                   "archivo_id": "1Y660VKA9c2cAv0Pke5gtronRj9UW87L2",
-                  "portada": true,
+                  "portada": false,
                   "orden": 3,
                   "fecha_carga": "2026-04-15T16:52:32.374Z"
                 },
@@ -59611,5 +59611,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776340842857
+  "timestamp_ms": 1776341785085
 }
