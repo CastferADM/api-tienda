@@ -17482,7 +17482,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "52",
+                  "valor": "50",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -17589,7 +17589,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "52"
+                          "stock": "50"
                         }
                       ]
                     }
@@ -17606,7 +17606,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "52"
+                          "stock": "50"
                         }
                       ]
                     }
@@ -23416,7 +23416,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "95",
+                  "valor": "94",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -23451,7 +23451,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "95"
+                          "stock": "94"
                         }
                       ]
                     }
@@ -23468,7 +23468,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "95"
+                          "stock": "94"
                         }
                       ]
                     }
@@ -33118,7 +33118,31 @@
                   "archivo_id": "1lPmeRlj2v_1_gYhd3tJ4kZihJXgEbNSo",
                   "portada": true,
                   "orden": 4,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                  "fecha_carga": "2026-04-17T14:51:46.266Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1x99k.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1x99k.jpg",
+                  "archivo_id": "1x99k-WW-XOjPnDBHJqOq8gsNTwvbk45t",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-04-17T14:51:46.266Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1xwZg.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1xwZg.jpg",
+                  "archivo_id": "1xwZgP0eMjhSrSAijWiomkYu9DQpss_Ao",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-04-17T14:51:46.266Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1W975.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1W975.jpg",
+                  "archivo_id": "1W975PCE2vKk8HHa75LNdchTjS7a6bcUY",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-04-17T14:51:46.266Z"
                 }
               ],
               "variedad": [
@@ -60363,5 +60387,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776437190703
+  "timestamp_ms": 1776437991323
 }
