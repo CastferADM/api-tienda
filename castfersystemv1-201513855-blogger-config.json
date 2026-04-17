@@ -6910,7 +6910,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "103",
+                  "valor": "100",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -6953,7 +6953,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "103"
+                          "stock": "100"
                         }
                       ]
                     }
@@ -6970,7 +6970,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "103"
+                          "stock": "100"
                         }
                       ]
                     }
@@ -33113,36 +33113,36 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1lPme.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1lPme.jpg",
-                  "archivo_id": "1lPmeRlj2v_1_gYhd3tJ4kZihJXgEbNSo",
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1W975.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1W975.jpg",
+                  "archivo_id": "1W975PCE2vKk8HHa75LNdchTjS7a6bcUY",
                   "portada": true,
-                  "orden": 4,
-                  "fecha_carga": "2026-04-17T14:51:46.266Z"
+                  "orden": 1,
+                  "fecha_carga": "2026-04-17T16:39:32.566Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1x99k.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1x99k.jpg",
                   "archivo_id": "1x99k-WW-XOjPnDBHJqOq8gsNTwvbk45t",
                   "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-04-17T14:51:46.266Z"
+                  "orden": 2,
+                  "fecha_carga": "2026-04-17T16:39:32.566Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1xwZg.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1xwZg.jpg",
                   "archivo_id": "1xwZgP0eMjhSrSAijWiomkYu9DQpss_Ao",
                   "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-04-17T14:51:46.266Z"
+                  "orden": 3,
+                  "fecha_carga": "2026-04-17T16:39:32.566Z"
                 },
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1W975.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1W975.jpg",
-                  "archivo_id": "1W975PCE2vKk8HHa75LNdchTjS7a6bcUY",
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1lPme.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2445%2FJOGG2445-1lPme.jpg",
+                  "archivo_id": "1lPmeRlj2v_1_gYhd3tJ4kZihJXgEbNSo",
                   "portada": false,
-                  "orden": 10,
-                  "fecha_carga": "2026-04-17T14:51:46.266Z"
+                  "orden": 4,
+                  "fecha_carga": "2026-04-17T16:39:32.566Z"
                 }
               ],
               "variedad": [
@@ -60333,5 +60333,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776443472891
+  "timestamp_ms": 1776444329344
 }
