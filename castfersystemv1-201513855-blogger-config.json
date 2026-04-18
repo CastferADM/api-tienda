@@ -15706,23 +15706,16 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": [
-                    "Surtido"
-                  ]
+                  "valores": []
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
+                  "valores": []
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "42",
-                  "estado": "Alta"
+                  "valor": "0",
+                  "estado": "Baja"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -15736,7 +15729,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP5343%0A%F0%9F%94%B9%20Modelo%3A%20Bomber%20Universitario%2FLiso%20Reversible%20R%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP5343%0A%F0%9F%94%B9%20Modelo%3A%20Bomber%20Universitario%2FLiso%20Reversible%20R%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
                 }
               },
               "imagen": [
@@ -15827,17 +15820,7 @@
                   "precio": 38000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "42"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -20604,7 +20587,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "94",
+                  "valor": "93",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -20639,7 +20622,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "94"
+                          "stock": "93"
                         }
                       ]
                     }
@@ -29888,7 +29871,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "369",
+                  "valor": "367",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -29995,7 +29978,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "369"
+                          "stock": "367"
                         }
                       ]
                     }
@@ -30012,7 +29995,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "369"
+                          "stock": "367"
                         }
                       ]
                     }
@@ -37899,7 +37882,15 @@
                   "archivo_id": "1DwM-xn3U-U8hMwqWAILduEPbhPot8eFE",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-04-18T12:11:46.859Z"
+                  "fecha_carga": "2026-04-18T12:27:15.473Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1236%2FPANT1236-1EDe6.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1236%2FPANT1236-1EDe6.jpg",
+                  "archivo_id": "1EDe6ZpEUEIRUN1TjfoSaOgkGB87707sz",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-04-18T12:27:15.473Z"
                 }
               ],
               "variedad": [
@@ -41029,8 +41020,12 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5822%2FPANT5822-1T-D8.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5822%2FPANT5822-1T-D8.jpg",
+                  "archivo_id": "1T-D8KVYqPkseK3Fsvo6UJevRkARi4dlg",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-18T12:25:48.830Z"
                 }
               ],
               "variedad": [
@@ -52143,5 +52138,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776514644877
+  "timestamp_ms": 1776515517757
 }
