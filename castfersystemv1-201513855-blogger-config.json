@@ -37894,8 +37894,12 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1236%2FPANT1236-1DwM-.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1236%2FPANT1236-1DwM-.jpg",
+                  "archivo_id": "1DwM-xn3U-U8hMwqWAILduEPbhPot8eFE",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-18T12:11:46.859Z"
                 }
               ],
               "variedad": [
@@ -52139,5 +52143,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776512910073
+  "timestamp_ms": 1776514644877
 }
