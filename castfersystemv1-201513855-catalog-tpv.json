@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T12:28:06.874Z",
+  "generated_at": "2026-04-24T12:43:09.589Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34826,7 +34826,7 @@
       "id": "CAMP7238",
       "model": "Bomber A 2 en 1 Manga desmontable",
       "price": 26500,
-      "display_price": 39750,
+      "display_price": 40000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -34843,31 +34843,13 @@
         {
           "variedad_id": "CAMP7238-Docena",
           "nombre": "Docena",
-          "precio_unitario": 39750,
+          "precio_unitario": 40000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP7238-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 39750,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP7238-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 39750,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "CAMP7238-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 39750,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP7238-Menor",
           "nombre": "Menor",
-          "precio_unitario": 53000,
+          "precio_unitario": 55000,
           "cantidad_minima": 1
         }
       ],
@@ -39517,31 +39499,13 @@
       {
         "variedad_id": "CAMP7238-Docena",
         "nombre": "Docena",
-        "precio_unitario": 39750,
+        "precio_unitario": 40000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP7238-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 39750,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP7238-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 39750,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "CAMP7238-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 39750,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP7238-Menor",
         "nombre": "Menor",
-        "precio_unitario": 53000,
+        "precio_unitario": 55000,
         "cantidad_minima": 1
       }
     ]
@@ -41633,5 +41597,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1777033870619
+  "timestamp_ms": 1777034765282
 }
