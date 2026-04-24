@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T12:13:08.457Z",
+  "generated_at": "2026-04-24T12:28:06.874Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34821,6 +34821,70 @@
           "variation_id": "PANT5424-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "CAMP7238",
+      "model": "Bomber A 2 en 1 Manga desmontable",
+      "price": 26500,
+      "display_price": 39750,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "URUS",
+      "style": "Liso",
+      "material": "PU",
+      "image": "",
+      "carpeta_id": "14mV5zvdRsEuAYjVw74QF4wB0x14U3C-s",
+      "woo_id": 39239,
+      "varieties": [
+        {
+          "variedad_id": "CAMP7238-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 39750,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP7238-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 39750,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP7238-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 39750,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CAMP7238-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 39750,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP7238-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 53000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP7238-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP7238-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -39448,6 +39512,38 @@
         "precio_unitario": 35000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP7238": [
+      {
+        "variedad_id": "CAMP7238-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 39750,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP7238-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 39750,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP7238-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 39750,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CAMP7238-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 39750,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP7238-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 53000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -41537,5 +41633,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1777032935588
+  "timestamp_ms": 1777033870619
 }
