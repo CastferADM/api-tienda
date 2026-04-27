@@ -38229,7 +38229,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "64",
+                  "valor": "62",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -38272,7 +38272,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "64"
+                          "stock": "62"
                         }
                       ]
                     }
@@ -40881,7 +40881,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "28",
+                  "valor": "27",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -40912,7 +40912,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "28"
+                          "stock": "27"
                         }
                       ]
                     }
@@ -43461,7 +43461,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "19",
+                  "valor": "16",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -43492,7 +43492,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "19"
+                          "stock": "16"
                         }
                       ]
                     }
@@ -51449,7 +51449,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "18-08-2025"
+                  "valor": "27-04-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -51478,7 +51478,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA2971%2FTAPA2971-14xL7.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA2971%2FTAPA2971-14xL7.jpg",
                   "archivo_id": "14xL7bUle9XDItAtTjKOD5yidJv7vGyAu",
-                  "portada": false,
+                  "portada": true,
                   "orden": 6,
                   "fecha_carga": "2026-04-23T16:27:58.185Z"
                 },
@@ -51486,7 +51486,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA2971%2FTAPA2971-1IMTO.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA2971%2FTAPA2971-1IMTO.jpg",
                   "archivo_id": "1IMTO1xNQKIQbfta0pt_tHUwk1G8XSoYP",
-                  "portada": true,
+                  "portada": false,
                   "orden": 8,
                   "fecha_carga": "2026-04-23T16:27:58.185Z"
                 }
@@ -53236,5 +53236,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1777299567716
+  "timestamp_ms": 1777300373829
 }
