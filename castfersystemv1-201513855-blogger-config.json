@@ -533,6 +533,15 @@
       "moneda": "$",
       "costo_envio": 5000,
       "hora_entrega": "1899-12-30T20:11:03.000Z"
+    },
+    {
+      "codigo": "BUSCO LO MIO",
+      "descripcion": "BUSCO LO MIO",
+      "cuit": "",
+      "ubicacion": "",
+      "moneda": "$",
+      "costo_envio": 6000,
+      "hora_entrega": "1899-12-30T18:40:01.000Z"
     }
   ],
   "pagina_carrusel": [
@@ -10182,7 +10191,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "54",
+                  "valor": "52",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10289,7 +10298,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "54"
+                          "stock": "52"
                         }
                       ]
                     }
@@ -24296,7 +24305,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "25",
+                  "valor": "24",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -24363,7 +24372,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "25"
+                          "stock": "24"
                         }
                       ]
                     }
@@ -24528,7 +24537,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "36",
+                  "valor": "34",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -24559,7 +24568,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "36"
+                          "stock": "34"
                         }
                       ]
                     }
@@ -38857,7 +38866,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "87",
+                  "valor": "86",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -38908,7 +38917,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "87"
+                          "stock": "86"
                         }
                       ]
                     }
@@ -53220,5 +53229,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1777468651066
+  "timestamp_ms": 1777470534359
 }
