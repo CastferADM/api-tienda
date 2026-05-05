@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T18:08:56.802Z",
+  "generated_at": "2026-05-05T18:23:57.528Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34925,6 +34925,70 @@
           "variation_id": "PANT5738-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "CAMP4138",
+      "model": "Reversible rompeviento/uniqlo",
+      "price": 0,
+      "display_price": null,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "TMILL",
+      "style": "Liso",
+      "material": "",
+      "image": "",
+      "carpeta_id": "1my_OCvKa7u9FuRS3WI9ZzpcN5fyZQgy4",
+      "woo_id": 39295,
+      "varieties": [
+        {
+          "variedad_id": "CAMP4138-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 0,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP4138-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 0,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP4138-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 0,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP4138-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 0,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP4138-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 0,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP4138-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP4138-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -39592,6 +39656,38 @@
         "precio_unitario": 35400,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP4138": [
+      {
+        "variedad_id": "CAMP4138-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 0,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP4138-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 0,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP4138-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 0,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP4138-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 0,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP4138-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 0,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -41737,5 +41833,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778004663594
+  "timestamp_ms": 1778005620658
 }
