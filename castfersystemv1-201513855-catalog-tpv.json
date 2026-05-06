@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T19:08:57.658Z",
+  "generated_at": "2026-05-06T19:23:59.665Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34262,7 +34262,7 @@
       "id": "PANT8857",
       "model": "Baggi termico  CASUAL",
       "price": 22000,
-      "display_price": 33000,
+      "display_price": 32000,
       "minor_surcharge": 0,
       "category_id": "Pantalon",
       "categoryName": "Pantalon",
@@ -34279,13 +34279,13 @@
         {
           "variedad_id": "PANT8857-Docena",
           "nombre": "Docena",
-          "precio_unitario": 33000,
+          "precio_unitario": 32000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "PANT8857-Menor",
           "nombre": "Menor",
-          "precio_unitario": 44000,
+          "precio_unitario": 40000,
           "cantidad_minima": 1
         }
       ],
@@ -34318,7 +34318,7 @@
       "brand": "XKFS",
       "style": "Liso",
       "material": "Algodon",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1236%2FPANT1236-1DwM-.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1236%2FPANT1236-1EDe6.jpg",
       "carpeta_id": "1LWCHFsITNfIqKdVLbFcKsq-4jarbsDLv",
       "woo_id": 39121,
       "varieties": [
@@ -34994,7 +34994,7 @@
       "id": "CAMP1005",
       "model": "Talle Especial",
       "price": 19000,
-      "display_price": 28500,
+      "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -35011,31 +35011,19 @@
         {
           "variedad_id": "CAMP1005-Docena",
           "nombre": "Docena",
-          "precio_unitario": 28500,
+          "precio_unitario": 22000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "CAMP1005-Media-Docena",
           "nombre": "Media-Docena",
-          "precio_unitario": 28500,
+          "precio_unitario": 22000,
           "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP1005-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 28500,
-          "cantidad_minima": 3
-        },
-        {
-          "variedad_id": "CAMP1005-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 28500,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP1005-Menor",
           "nombre": "Menor",
-          "precio_unitario": 38000,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -38617,7 +38605,7 @@
       {
         "variedad_id": "PANT8857-Docena",
         "nombre": "Docena",
-        "precio_unitario": 33000,
+        "precio_unitario": 32000,
         "cantidad_minima": 12
       }
     ],
@@ -39757,31 +39745,19 @@
       {
         "variedad_id": "CAMP1005-Docena",
         "nombre": "Docena",
-        "precio_unitario": 28500,
+        "precio_unitario": 22000,
         "cantidad_minima": 12
       },
       {
         "variedad_id": "CAMP1005-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 28500,
+        "precio_unitario": 22000,
         "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP1005-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 28500,
-        "cantidad_minima": 3
-      },
-      {
-        "variedad_id": "CAMP1005-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 28500,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP1005-Menor",
         "nombre": "Menor",
-        "precio_unitario": 38000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ]
@@ -41937,5 +41913,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778094679961
+  "timestamp_ms": 1778095665009
 }
