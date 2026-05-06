@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T17:08:57.581Z",
+  "generated_at": "2026-05-06T17:23:58.013Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34989,6 +34989,70 @@
           "variation_id": "CAMP4138-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "CAMP1005",
+      "model": "Talle Especial",
+      "price": 19000,
+      "display_price": 28500,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "COLUMBIA",
+      "style": "Liso",
+      "material": "Neoprem",
+      "image": "",
+      "carpeta_id": "15dUkJ34mORGurf4Mh244TtezTZUyqjs9",
+      "woo_id": 39302,
+      "varieties": [
+        {
+          "variedad_id": "CAMP1005-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 28500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP1005-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 28500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP1005-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 28500,
+          "cantidad_minima": 3
+        },
+        {
+          "variedad_id": "CAMP1005-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 28500,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP1005-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 38000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1005-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1005-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -39688,6 +39752,38 @@
         "precio_unitario": 0,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP1005": [
+      {
+        "variedad_id": "CAMP1005-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 28500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP1005-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 28500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP1005-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 28500,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "CAMP1005-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 28500,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP1005-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 38000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -41841,5 +41937,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778087502372
+  "timestamp_ms": 1778088361652
 }
