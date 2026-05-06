@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T12:24:02.913Z",
+  "generated_at": "2026-05-06T12:38:57.230Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -12342,7 +12342,7 @@
       "material": "Cire premium",
       "image": "",
       "carpeta_id": "1P1uOUuF5Dr_Bo9yXqV_AvI3YHIVYo8_k",
-      "woo_id": 33002,
+      "woo_id": 39299,
       "varieties": [
         {
           "variedad_id": "JOGG7138-Menor",
@@ -12454,7 +12454,7 @@
       "material": "Gabardina",
       "image": "",
       "carpeta_id": "1BTH5dFwtHd8_xyFuP8ErjqXXtf5JjSzT",
-      "woo_id": 33408,
+      "woo_id": 39296,
       "varieties": [
         {
           "variedad_id": "JOGG8083-Menor",
@@ -12587,7 +12587,7 @@
       "id": "JOGG8816",
       "model": "Cargo Botapie C/cierre",
       "price": 10,
-      "display_price": 15,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Joggers",
       "categoryName": "Joggers",
@@ -12604,7 +12604,7 @@
         {
           "variedad_id": "JOGG8816-Curva",
           "nombre": "Curva",
-          "precio_unitario": 15,
+          "precio_unitario": 25000,
           "cantidad_minima": 6
         },
         {
@@ -12616,7 +12616,7 @@
         {
           "variedad_id": "JOGG8816-Docena",
           "nombre": "Docena",
-          "precio_unitario": 15,
+          "precio_unitario": 25000,
           "cantidad_minima": 12
         }
       ],
@@ -17931,7 +17931,7 @@
       "id": "SWEA2502",
       "model": "CUELLO O TERMICO",
       "price": 15500,
-      "display_price": 23000,
+      "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Sueter",
       "categoryName": "Sueter",
@@ -17948,7 +17948,7 @@
         {
           "variedad_id": "SWEA2502-Docena",
           "nombre": "Docena",
-          "precio_unitario": 23000,
+          "precio_unitario": 22000,
           "cantidad_minima": 12
         },
         {
@@ -33928,7 +33928,7 @@
       "id": "CAMP3649",
       "model": "BOMBER MOUTDT",
       "price": 16000,
-      "display_price": 24000,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -33945,13 +33945,13 @@
         {
           "variedad_id": "CAMP3649-Docena",
           "nombre": "Docena",
-          "precio_unitario": 24000,
+          "precio_unitario": 25000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "CAMP3649-Menor",
           "nombre": "Menor",
-          "precio_unitario": 32000,
+          "precio_unitario": 35000,
           "cantidad_minima": 1
         }
       ],
@@ -36215,7 +36215,7 @@
       {
         "variedad_id": "CAMP3649-Docena",
         "nombre": "Docena",
-        "precio_unitario": 24000,
+        "precio_unitario": 25000,
         "cantidad_minima": 12
       }
     ],
@@ -37611,13 +37611,13 @@
       {
         "variedad_id": "JOGG8816-Curva",
         "nombre": "Curva",
-        "precio_unitario": 15,
+        "precio_unitario": 25000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "JOGG8816-Docena",
         "nombre": "Docena",
-        "precio_unitario": 15,
+        "precio_unitario": 25000,
         "cantidad_minima": 12
       }
     ],
@@ -39199,7 +39199,7 @@
       {
         "variedad_id": "SWEA2502-Docena",
         "nombre": "Docena",
-        "precio_unitario": 23000,
+        "precio_unitario": 22000,
         "cantidad_minima": 12
       }
     ],
@@ -41837,5 +41837,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778070392473
+  "timestamp_ms": 1778071314390
 }
