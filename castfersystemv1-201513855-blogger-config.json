@@ -13357,7 +13357,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "38",
+                  "valor": "32",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -13415,7 +13415,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 24000,
+                  "precio": 25000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {
@@ -13424,7 +13424,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "38"
+                          "stock": "32"
                         }
                       ]
                     }
@@ -31210,7 +31210,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "05-08-2025"
+                  "valor": "06-05-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -31294,7 +31294,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "04-09-2025"
+                  "valor": "06-05-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -31447,7 +31447,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 15,
+                  "precio": 25000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -31464,7 +31464,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
+                  "precio": 25000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {
@@ -50910,7 +50910,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 23000,
+                  "precio": 22000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {
@@ -53438,5 +53438,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1778069607833
+  "timestamp_ms": 1778071383998
 }
