@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T12:39:01.939Z",
+  "generated_at": "2026-05-07T12:54:05.328Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35041,6 +35041,57 @@
           "variation_id": "CAMP1005-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "CAMP3926",
+      "model": "3 en 1 Con piel desmontable",
+      "price": 30500,
+      "display_price": 45750,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "CIRE/FIBRA",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "CAMP3926-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 45750,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP3926-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 45750,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP3926-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 45750,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP3926-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 45750,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP3926-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 61000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": []
     }
   ],
   "priceConfig": {
@@ -39760,6 +39811,38 @@
         "precio_unitario": 30000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP3926": [
+      {
+        "variedad_id": "CAMP3926-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 45750,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP3926-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 45750,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP3926-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 45750,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP3926-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 45750,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP3926-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 61000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -41913,5 +41996,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778157691989
+  "timestamp_ms": 1778158677589
 }
