@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T13:53:58.100Z",
+  "generated_at": "2026-05-07T14:08:57.992Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34929,8 +34929,8 @@
     {
       "id": "CAMP4138",
       "model": "Reversible rompeviento/uniqlo",
-      "price": 0,
-      "display_price": null,
+      "price": 22800,
+      "display_price": 30000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -34947,31 +34947,19 @@
         {
           "variedad_id": "CAMP4138-Docena",
           "nombre": "Docena",
-          "precio_unitario": 0,
+          "precio_unitario": 30000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "CAMP4138-Media-Docena",
           "nombre": "Media-Docena",
-          "precio_unitario": 0,
+          "precio_unitario": 30000,
           "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP4138-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 0,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "CAMP4138-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 0,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP4138-Menor",
           "nombre": "Menor",
-          "precio_unitario": 0,
+          "precio_unitario": 40000,
           "cantidad_minima": 1
         }
       ],
@@ -39823,31 +39811,19 @@
       {
         "variedad_id": "CAMP4138-Docena",
         "nombre": "Docena",
-        "precio_unitario": 0,
+        "precio_unitario": 30000,
         "cantidad_minima": 12
       },
       {
         "variedad_id": "CAMP4138-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 0,
+        "precio_unitario": 30000,
         "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP4138-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 0,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP4138-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 0,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP4138-Menor",
         "nombre": "Menor",
-        "precio_unitario": 0,
+        "precio_unitario": 40000,
         "cantidad_minima": 1
       }
     ],
@@ -42069,5 +42045,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778162176058
+  "timestamp_ms": 1778163063457
 }
