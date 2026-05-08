@@ -51651,16 +51651,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "312",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -51669,7 +51676,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SUET1224%0A%F0%9F%94%B9%20Modelo%3A%20CUELLO%20O%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SUET1224%0A%F0%9F%94%B9%20Modelo%3A%20CUELLO%20O%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -51681,37 +51688,43 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 15000,
+                  "precio": 16000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "312"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
-                  "precio": 15000,
-                  "variedad": "Media-Docena",
-                  "minima": 6,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 15000,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 20000,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "312"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-08T07:00:00.000Z"
             },
             {
-              "codigo": 600,
+              "codigo": 598,
               "categoria": "Sueter",
               "nombre": "SWEA1421",
               "descripcion": {
@@ -51778,7 +51791,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 601,
+              "codigo": 599,
               "categoria": "Sueter",
               "nombre": "SWEA2372",
               "descripcion": {
@@ -51874,7 +51887,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 602,
+              "codigo": 600,
               "categoria": "Sueter",
               "nombre": "SWEA2502",
               "descripcion": {
@@ -51994,7 +52007,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 603,
+              "codigo": 601,
               "categoria": "Sueter",
               "nombre": "SWEA4513",
               "descripcion": {
@@ -52078,7 +52091,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 604,
+              "codigo": 602,
               "categoria": "Sueter",
               "nombre": "SWEA7199",
               "descripcion": {
@@ -52162,7 +52175,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 605,
+              "codigo": 603,
               "categoria": "Sueter",
               "nombre": "SWEA7239",
               "descripcion": {
@@ -52266,7 +52279,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 606,
+              "codigo": 604,
               "categoria": "Sueter",
               "nombre": "SWEA7784",
               "descripcion": {
@@ -52370,7 +52383,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tapado.svg",
           "producto": [
             {
-              "codigo": 607,
+              "codigo": 605,
               "categoria": "Tapado",
               "nombre": "TAPA2022",
               "descripcion": {
@@ -52483,7 +52496,7 @@
               "upd": "2026-03-03T08:00:00.000Z"
             },
             {
-              "codigo": 609,
+              "codigo": 607,
               "categoria": "Tapado",
               "nombre": "TAPA2273",
               "descripcion": {
@@ -52567,7 +52580,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 610,
+              "codigo": 608,
               "categoria": "Tapado",
               "nombre": "TAPA2669",
               "descripcion": {
@@ -52668,7 +52681,7 @@
               "upd": "2026-03-04T08:00:00.000Z"
             },
             {
-              "codigo": 612,
+              "codigo": 610,
               "categoria": "Tapado",
               "nombre": "TAPA2971",
               "descripcion": {
@@ -52780,7 +52793,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 613,
+              "codigo": 611,
               "categoria": "Tapado",
               "nombre": "TAPA3058",
               "descripcion": {
@@ -52864,7 +52877,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 614,
+              "codigo": 612,
               "categoria": "Tapado",
               "nombre": "TAPA3445",
               "descripcion": {
@@ -53024,7 +53037,7 @@
               "upd": "2025-08-23T07:00:00.000Z"
             },
             {
-              "codigo": 615,
+              "codigo": 613,
               "categoria": "Tapado",
               "nombre": "TAPA5175",
               "descripcion": {
@@ -53153,7 +53166,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 617,
+              "codigo": 615,
               "categoria": "Tapado",
               "nombre": "TAPA5212",
               "descripcion": {
@@ -53265,7 +53278,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 618,
+              "codigo": 616,
               "categoria": "Tapado",
               "nombre": "TAPA5832",
               "descripcion": {
@@ -53377,7 +53390,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 619,
+              "codigo": 617,
               "categoria": "Tapado",
               "nombre": "TAPA6837",
               "descripcion": {
@@ -53473,7 +53486,7 @@
               "upd": "2025-08-26T07:00:00.000Z"
             },
             {
-              "codigo": 620,
+              "codigo": 618,
               "categoria": "Tapado",
               "nombre": "TAPA7255",
               "descripcion": {
@@ -53561,7 +53574,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 621,
+              "codigo": 619,
               "categoria": "Tapado",
               "nombre": "TAPA8171",
               "descripcion": {
@@ -53649,7 +53662,7 @@
               "upd": "2025-08-26T07:00:00.000Z"
             },
             {
-              "codigo": 622,
+              "codigo": 620,
               "categoria": "Tapado",
               "nombre": "TAPA8271",
               "descripcion": {
@@ -53753,7 +53766,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
-              "codigo": 623,
+              "codigo": 621,
               "categoria": "Top",
               "nombre": "TOP2036",
               "descripcion": {
@@ -53827,7 +53840,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 625,
+              "codigo": 623,
               "categoria": "Top",
               "nombre": "TOP3532",
               "descripcion": {
@@ -53901,7 +53914,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 627,
+              "codigo": 625,
               "categoria": "Top",
               "nombre": "TOP4556",
               "descripcion": {
@@ -53975,7 +53988,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 629,
+              "codigo": 627,
               "categoria": "Top",
               "nombre": "TOP8032",
               "descripcion": {
@@ -54049,7 +54062,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 631,
+              "codigo": 629,
               "categoria": "Top",
               "nombre": "TOP9427",
               "descripcion": {
@@ -54131,7 +54144,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/vedetina.svg",
           "producto": [
             {
-              "codigo": 633,
+              "codigo": 631,
               "categoria": "Vedetina",
               "nombre": "VEDE1235",
               "descripcion": {
@@ -54205,7 +54218,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 635,
+              "codigo": 633,
               "categoria": "Vedetina",
               "nombre": "VEDE1475",
               "descripcion": {
@@ -54279,7 +54292,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 637,
+              "codigo": 635,
               "categoria": "Vedetina",
               "nombre": "VEDE2000",
               "descripcion": {
@@ -54391,7 +54404,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 638,
+              "codigo": 636,
               "categoria": "Vedetina",
               "nombre": "VEDE9652",
               "descripcion": {
@@ -54503,5 +54516,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1778239698073
+  "timestamp_ms": 1778240580766
 }
