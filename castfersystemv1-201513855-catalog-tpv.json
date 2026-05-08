@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T13:08:57.049Z",
+  "generated_at": "2026-05-08T13:24:02.275Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35439,6 +35439,64 @@
           "variation_id": "SUET1224-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "SUET9180",
+      "model": "con polar  Talle especial",
+      "price": 16000,
+      "display_price": 1500,
+      "minor_surcharge": 0,
+      "category_id": "Sueter",
+      "categoryName": "Sueter",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Poliester",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": 39346,
+      "varieties": [
+        {
+          "variedad_id": "SUET9180-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 25000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "SUET9180-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 1500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "SUET9180-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 1500,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "SUET9180-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 30000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "SUET9180-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "SUET9180-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -40288,6 +40346,32 @@
         "precio_unitario": 28000,
         "cantidad_minima": 1
       }
+    ],
+    "SUET9180": [
+      {
+        "variedad_id": "SUET9180-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 25000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "SUET9180-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 1500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "SUET9180-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 1500,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "SUET9180-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -42457,5 +42541,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778245867966
+  "timestamp_ms": 1778246860723
 }
