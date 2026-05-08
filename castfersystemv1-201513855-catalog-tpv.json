@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T10:53:56.849Z",
+  "generated_at": "2026-05-08T11:08:56.862Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34957,12 +34957,6 @@
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "CAMP4138-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 30000,
-          "cantidad_minima": 6
-        },
-        {
           "variedad_id": "CAMP4138-Menor",
           "nombre": "Menor",
           "precio_unitario": 40000,
@@ -35208,7 +35202,7 @@
       "id": "CAMP7842",
       "model": "Bomber BE",
       "price": 19000,
-      "display_price": 28500,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -35225,31 +35219,13 @@
         {
           "variedad_id": "CAMP7842-Docena",
           "nombre": "Docena",
-          "precio_unitario": 28500,
+          "precio_unitario": 25000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP7842-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 28500,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP7842-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 28500,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "CAMP7842-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 28500,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP7842-Menor",
           "nombre": "Menor",
-          "precio_unitario": 38000,
+          "precio_unitario": 35000,
           "cantidad_minima": 1
         }
       ],
@@ -35270,7 +35246,7 @@
     },
     {
       "id": "CAMP1705",
-      "model": "Bomber BE",
+      "model": "Bomber TREND",
       "price": 19000,
       "display_price": 28500,
       "minor_surcharge": 0,
@@ -35333,51 +35309,33 @@
       ]
     },
     {
-      "id": "CAMP6348",
-      "model": "Reversible Rompeviento/uniqlo",
-      "price": 22800,
-      "display_price": 34200,
+      "id": "PANT7825",
+      "model": "Neoprene cargo termico",
+      "price": 17300,
+      "display_price": 26000,
       "minor_surcharge": 0,
-      "category_id": "Campera",
-      "categoryName": "Campera",
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
       "parentCategory": "INDUMENTARIA",
-      "season": "INVIERNO",
-      "gender": "Mujer",
-      "brand": "TMILL",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "KNUP",
       "style": "Liso",
-      "material": "CIRE",
+      "material": "Neoprene",
       "image": "",
-      "carpeta_id": "1QzE5cslNUbWyOaDsEw-Xg1mhE7xJ51IJ",
-      "woo_id": 39340,
+      "carpeta_id": "1nJIULkZwENI6PNZ7YsFmgjfo7kRO-bed",
+      "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "CAMP6348-Docena",
+          "variedad_id": "PANT7825-Docena",
           "nombre": "Docena",
-          "precio_unitario": 34200,
+          "precio_unitario": 26000,
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "CAMP6348-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 34200,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP6348-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 34200,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "CAMP6348-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 34200,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "CAMP6348-Menor",
+          "variedad_id": "PANT7825-Menor",
           "nombre": "Menor",
-          "precio_unitario": 45600,
+          "precio_unitario": 35000,
           "cantidad_minima": 1
         }
       ],
@@ -35386,13 +35344,13 @@
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "CASTFER",
-          "variation_id": "CAMP6348-Surtido-Surtido-CASTFER"
+          "variation_id": "PANT7825-Surtido-Surtido-CASTFER"
         },
         {
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
-          "variation_id": "CAMP6348-Surtido-Surtido-JM MAYORISTA"
+          "variation_id": "PANT7825-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
@@ -40077,12 +40035,6 @@
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "CAMP4138-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 30000,
-        "cantidad_minima": 6
-      },
-      {
         "variedad_id": "CAMP4138-Menor",
         "nombre": "Menor",
         "precio_unitario": 40000,
@@ -40173,31 +40125,13 @@
       {
         "variedad_id": "CAMP7842-Docena",
         "nombre": "Docena",
-        "precio_unitario": 28500,
+        "precio_unitario": 25000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP7842-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 28500,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP7842-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 28500,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "CAMP7842-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 28500,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP7842-Menor",
         "nombre": "Menor",
-        "precio_unitario": 38000,
+        "precio_unitario": 35000,
         "cantidad_minima": 1
       }
     ],
@@ -40233,35 +40167,17 @@
         "cantidad_minima": 1
       }
     ],
-    "CAMP6348": [
+    "PANT7825": [
       {
-        "variedad_id": "CAMP6348-Docena",
+        "variedad_id": "PANT7825-Docena",
         "nombre": "Docena",
-        "precio_unitario": 34200,
+        "precio_unitario": 26000,
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "CAMP6348-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 34200,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP6348-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 34200,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP6348-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 34200,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "CAMP6348-Menor",
+        "variedad_id": "PANT7825-Menor",
         "nombre": "Menor",
-        "precio_unitario": 45600,
+        "precio_unitario": 35000,
         "cantidad_minima": 1
       }
     ]
@@ -42429,5 +42345,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778237789615
+  "timestamp_ms": 1778238734347
 }
