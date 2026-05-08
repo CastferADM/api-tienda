@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T10:23:56.633Z",
+  "generated_at": "2026-05-08T10:38:58.853Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34445,8 +34445,8 @@
     {
       "id": "CALZ1103",
       "model": "Termica con Piel  CENSK",
-      "price": 8583.33,
-      "display_price": 8583,
+      "price": 8600,
+      "display_price": 14500,
       "minor_surcharge": 0,
       "category_id": "Calza",
       "categoryName": "Calza",
@@ -34463,8 +34463,14 @@
         {
           "variedad_id": "CALZ1103-Docena",
           "nombre": "Docena",
-          "precio_unitario": 8583,
+          "precio_unitario": 14500,
           "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CALZ1103-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
         }
       ],
       "variations": [
@@ -39715,8 +39721,14 @@
       {
         "variedad_id": "CALZ1103-Docena",
         "nombre": "Docena",
-        "precio_unitario": 8583,
+        "precio_unitario": 14500,
         "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CALZ1103-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
       }
     ],
     "CAMP9337": [
@@ -42057,5 +42069,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778235987842
+  "timestamp_ms": 1778236931190
 }
