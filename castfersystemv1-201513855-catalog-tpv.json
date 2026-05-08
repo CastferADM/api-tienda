@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T11:23:57.199Z",
+  "generated_at": "2026-05-08T11:38:57.594Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35398,7 +35398,7 @@
       "id": "SUET1224",
       "model": "CUELLO O TERMICO",
       "price": 10000,
-      "display_price": 15000,
+      "display_price": 16000,
       "minor_surcharge": 0,
       "category_id": "Sueter",
       "categoryName": "Sueter",
@@ -35415,25 +35415,13 @@
         {
           "variedad_id": "SUET1224-Docena",
           "nombre": "Docena",
-          "precio_unitario": 15000,
+          "precio_unitario": 16000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "SUET1224-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 15000,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "SUET1224-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 15000,
-          "cantidad_minima": 4
         },
         {
           "variedad_id": "SUET1224-Menor",
           "nombre": "Menor",
-          "precio_unitario": 20000,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -40291,25 +40279,13 @@
       {
         "variedad_id": "SUET1224-Docena",
         "nombre": "Docena",
-        "precio_unitario": 15000,
+        "precio_unitario": 16000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "SUET1224-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 15000,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "SUET1224-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 15000,
-        "cantidad_minima": 4
       },
       {
         "variedad_id": "SUET1224-Menor",
         "nombre": "Menor",
-        "precio_unitario": 20000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ]
@@ -42477,5 +42453,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778239627156
+  "timestamp_ms": 1778240447750
 }
