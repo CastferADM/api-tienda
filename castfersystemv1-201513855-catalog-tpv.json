@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T10:38:58.853Z",
+  "generated_at": "2026-05-08T10:53:56.849Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35145,6 +35145,256 @@
           "variation_id": "CAMP8909-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "PANT6103",
+      "model": "Recto impermeable con LYCRA",
+      "price": 13000,
+      "display_price": 19500,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "SPORT",
+      "style": "Liso",
+      "material": "Microfibra",
+      "image": "",
+      "carpeta_id": "16Zi5QSb5i6_CFVGv-zbhPcVTG86EvUJB",
+      "woo_id": 39323,
+      "varieties": [
+        {
+          "variedad_id": "PANT6103-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 19500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "PANT6103-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT6103-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT6103-Surtido-Surtido-JM MAYORISTA"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT6103-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT6103-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP7842",
+      "model": "Bomber BE",
+      "price": 19000,
+      "display_price": 28500,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "GDHWD",
+      "style": "Liso",
+      "material": "Algodon",
+      "image": "",
+      "carpeta_id": "1srl5jCDCLh8c9qDa7cZyiRYPv1whCCxI",
+      "woo_id": 39328,
+      "varieties": [
+        {
+          "variedad_id": "CAMP7842-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 28500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP7842-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 28500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP7842-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 28500,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CAMP7842-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 28500,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP7842-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 38000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP7842-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP7842-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP1705",
+      "model": "Bomber BE",
+      "price": 19000,
+      "display_price": 28500,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "GDHWD",
+      "style": "Liso",
+      "material": "Algodon",
+      "image": "",
+      "carpeta_id": "1JphSLRHscEHW8lzMpqjyAqO4y61iQv6T",
+      "woo_id": 39334,
+      "varieties": [
+        {
+          "variedad_id": "CAMP1705-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 28500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP1705-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 28500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP1705-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 28500,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CAMP1705-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 28500,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP1705-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 38000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1705-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1705-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP6348",
+      "model": "Reversible Rompeviento/uniqlo",
+      "price": 22800,
+      "display_price": 34200,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "TMILL",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "",
+      "carpeta_id": "1QzE5cslNUbWyOaDsEw-Xg1mhE7xJ51IJ",
+      "woo_id": 39340,
+      "varieties": [
+        {
+          "variedad_id": "CAMP6348-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 34200,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP6348-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 34200,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP6348-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 34200,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP6348-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 34200,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP6348-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 45600,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP6348-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP6348-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -39904,6 +40154,116 @@
         "precio_unitario": 61000,
         "cantidad_minima": 1
       }
+    ],
+    "PANT6103": [
+      {
+        "variedad_id": "PANT6103-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 19500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "PANT6103-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP7842": [
+      {
+        "variedad_id": "CAMP7842-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 28500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP7842-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 28500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP7842-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 28500,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CAMP7842-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 28500,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP7842-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 38000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP1705": [
+      {
+        "variedad_id": "CAMP1705-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 28500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP1705-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 28500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP1705-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 28500,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CAMP1705-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 28500,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP1705-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 38000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP6348": [
+      {
+        "variedad_id": "CAMP6348-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 34200,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP6348-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 34200,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP6348-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 34200,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP6348-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 34200,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP6348-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 45600,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -42069,5 +42429,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778236931190
+  "timestamp_ms": 1778237789615
 }
