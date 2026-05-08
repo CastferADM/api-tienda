@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T13:24:02.275Z",
+  "generated_at": "2026-05-08T13:38:57.196Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35444,7 +35444,7 @@
       "id": "SUET9180",
       "model": "con polar  Talle especial",
       "price": 16000,
-      "display_price": 1500,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Sueter",
       "categoryName": "Sueter",
@@ -35463,18 +35463,6 @@
           "nombre": "Docena",
           "precio_unitario": 25000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "SUET9180-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 1500,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "SUET9180-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 1500,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "SUET9180-Menor",
@@ -40355,18 +40343,6 @@
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "SUET9180-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 1500,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "SUET9180-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 1500,
-        "cantidad_minima": 1
-      },
-      {
         "variedad_id": "SUET9180-Menor",
         "nombre": "Menor",
         "precio_unitario": 30000,
@@ -42541,5 +42517,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778246860723
+  "timestamp_ms": 1778247695533
 }
