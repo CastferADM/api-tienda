@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T16:23:58.381Z",
+  "generated_at": "2026-05-08T16:38:56.718Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34878,7 +34878,7 @@
       "id": "PANT5738",
       "model": "Cargo Tactico BLACK Termico Neoprene",
       "price": 17700,
-      "display_price": 26550,
+      "display_price": 26000,
       "minor_surcharge": 0,
       "category_id": "Pantalon",
       "categoryName": "Pantalon",
@@ -34895,25 +34895,13 @@
         {
           "variedad_id": "PANT5738-Docena",
           "nombre": "Docena",
-          "precio_unitario": 26550,
+          "precio_unitario": 26000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "PANT5738-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 26550,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "PANT5738-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 26550,
-          "cantidad_minima": 7
         },
         {
           "variedad_id": "PANT5738-Menor",
           "nombre": "Menor",
-          "precio_unitario": 35400,
+          "precio_unitario": 35000,
           "cantidad_minima": 1
         }
       ],
@@ -40137,25 +40125,13 @@
       {
         "variedad_id": "PANT5738-Docena",
         "nombre": "Docena",
-        "precio_unitario": 26550,
+        "precio_unitario": 26000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "PANT5738-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 26550,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "PANT5738-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 26550,
-        "cantidad_minima": 7
       },
       {
         "variedad_id": "PANT5738-Menor",
         "nombre": "Menor",
-        "precio_unitario": 35400,
+        "precio_unitario": 35000,
         "cantidad_minima": 1
       }
     ],
@@ -42517,5 +42493,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778257570268
+  "timestamp_ms": 1778258512079
 }
