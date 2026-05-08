@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T11:08:56.862Z",
+  "generated_at": "2026-05-08T11:23:57.199Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35003,12 +35003,6 @@
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "CAMP1005-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 22000,
-          "cantidad_minima": 6
-        },
-        {
           "variedad_id": "CAMP1005-Menor",
           "nombre": "Menor",
           "precio_unitario": 30000,
@@ -35351,6 +35345,110 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "PANT7825-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP1830",
+      "model": "EXTREME Classic",
+      "price": 30200,
+      "display_price": 45000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Ecocuero",
+      "image": "",
+      "carpeta_id": "17sy66OF33OLhIwnGRkA5xvf2T_1s9y1r",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "CAMP1830-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 45000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP1830-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 60000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1830-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1830-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "SUET1224",
+      "model": "CUELLO O TERMICO",
+      "price": 10000,
+      "display_price": 15000,
+      "minor_surcharge": 0,
+      "category_id": "Sueter",
+      "categoryName": "Sueter",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "SM",
+      "style": "Liso",
+      "material": "Algodon",
+      "image": "",
+      "carpeta_id": "10kkt5ARSiBOrYYb9iL_Y_Y4wt2m6WR30",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "SUET1224-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 15000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "SUET1224-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 15000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "SUET1224-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 15000,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "SUET1224-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "SUET1224-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "SUET1224-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
@@ -40049,12 +40147,6 @@
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "CAMP1005-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 22000,
-        "cantidad_minima": 6
-      },
-      {
         "variedad_id": "CAMP1005-Menor",
         "nombre": "Menor",
         "precio_unitario": 30000,
@@ -40178,6 +40270,46 @@
         "variedad_id": "PANT7825-Menor",
         "nombre": "Menor",
         "precio_unitario": 35000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP1830": [
+      {
+        "variedad_id": "CAMP1830-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 45000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP1830-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1
+      }
+    ],
+    "SUET1224": [
+      {
+        "variedad_id": "SUET1224-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 15000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "SUET1224-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 15000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "SUET1224-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 15000,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "SUET1224-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
         "cantidad_minima": 1
       }
     ]
@@ -42345,5 +42477,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778238734347
+  "timestamp_ms": 1778239627156
 }
