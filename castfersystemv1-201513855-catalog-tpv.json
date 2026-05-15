@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T01:38:56.406Z",
+  "generated_at": "2026-05-15T01:51:48.532Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -20,7 +20,7 @@
           "Factura IVA",
           "Presupuesto"
         ],
-        "printerIp": "192.168.0.32",
+        "printerIp": "192.168.0.31",
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -44,7 +44,7 @@
           "Efectivo",
           "Transferencia"
         ],
-        "printerIp": "192.168.0.32",
+        "printerIp": "192.168.0.31",
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -9039,7 +9039,7 @@
       "brand": "YD",
       "style": "Liso",
       "material": "Fibra",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL2946%2FCHAL2946-1AwTJ.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL2946%2FCHAL2946-1DjLS.jpg",
       "carpeta_id": "1dVqe-GLa_viBvX9LZkDdPTfJ-z4qhVO4",
       "woo_id": 32907,
       "varieties": [
@@ -9179,7 +9179,7 @@
       "material": "Fibra",
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL4112%2FCHAL4112-1wNHV.jpg",
       "carpeta_id": "1CiD-Wa20q22tQ1IH2JyCYuK8lH4cOgBv",
-      "woo_id": 32936,
+      "woo_id": 39355,
       "varieties": [
         {
           "variedad_id": "CHAL4112-Menor",
@@ -18749,7 +18749,7 @@
       "id": "TAPA5832",
       "model": "DE JEAN CON PIEL OVERSIZE",
       "price": 39500,
-      "display_price": 63000,
+      "display_price": 60000,
       "minor_surcharge": 0,
       "category_id": "Tapado",
       "categoryName": "Tapado",
@@ -18766,7 +18766,7 @@
         {
           "variedad_id": "TAPA5832-Docena",
           "nombre": "Docena",
-          "precio_unitario": 63000,
+          "precio_unitario": 60000,
           "cantidad_minima": 12
         },
         {
@@ -34987,7 +34987,7 @@
         {
           "variedad_id": "CAMP1005-Menor",
           "nombre": "Menor",
-          "precio_unitario": 30000,
+          "precio_unitario": 35000,
           "cantidad_minima": 1
         }
       ],
@@ -35530,8 +35530,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1380",
-    "DOLAR_BLUE_COMPRA": "1400",
+    "DOLAR_BLUE_VENTA": "1400",
+    "DOLAR_BLUE_COMPRA": "1420",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -39799,7 +39799,7 @@
       {
         "variedad_id": "TAPA5832-Docena",
         "nombre": "Docena",
-        "precio_unitario": 63000,
+        "precio_unitario": 60000,
         "cantidad_minima": 12
       }
     ],
@@ -40147,7 +40147,7 @@
       {
         "variedad_id": "CAMP1005-Menor",
         "nombre": "Menor",
-        "precio_unitario": 30000,
+        "precio_unitario": 35000,
         "cantidad_minima": 1
       }
     ],
@@ -42125,7 +42125,7 @@
     },
     {
       "id": "1243ce4d",
-      "name": "IGNACIO"
+      "name": "IGNACIO 4309"
     },
     {
       "id": "25261393",
@@ -42378,6 +42378,38 @@
     {
       "id": "62b74700",
       "name": "Karina argañaraz"
+    },
+    {
+      "id": "b29cd4fc",
+      "name": "Claudio cardozo"
+    },
+    {
+      "id": "260ec0b5",
+      "name": "Giselle lujan tevez"
+    },
+    {
+      "id": "08d289cf",
+      "name": "Claudia Martinez"
+    },
+    {
+      "id": "870c276c",
+      "name": "Stefania Soto Aguilera"
+    },
+    {
+      "id": "6fccaeff",
+      "name": "Gustavo Javier Soto"
+    },
+    {
+      "id": "259dbc5b",
+      "name": "Hector Fabian Galarza"
+    },
+    {
+      "id": "b8806c08",
+      "name": "Jonatan gonzalez"
+    },
+    {
+      "id": "bcf37988",
+      "name": "julia palmeras"
     }
   ],
   "paymentMethods": [
@@ -42481,5 +42513,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778767862181
+  "timestamp_ms": 1778810074237
 }
