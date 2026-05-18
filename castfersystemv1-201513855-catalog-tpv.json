@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T14:51:50.545Z",
+  "generated_at": "2026-05-18T15:06:49.443Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -27569,7 +27569,7 @@
       "id": "MEDI4117",
       "model": "3/4 Est. Classic",
       "price": 1247.4,
-      "display_price": 1247.4,
+      "display_price": 2000,
       "minor_surcharge": 0,
       "category_id": "Medias",
       "categoryName": "Medias",
@@ -27582,7 +27582,14 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMEDI4117%2FMEDI4117-1WSNB.jpg",
       "carpeta_id": "1kevdtK7DccSaPH-BRmNuP8WpewgJ3Ix_",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "MEDI4117-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 2000,
+          "cantidad_minima": 12
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -27734,7 +27741,7 @@
       "id": "MEDI4783",
       "model": "Larga Negras",
       "price": 1478.4,
-      "display_price": 2000,
+      "display_price": 2333.33,
       "minor_surcharge": 0,
       "category_id": "Medias",
       "categoryName": "Medias",
@@ -27751,7 +27758,7 @@
         {
           "variedad_id": "MEDI4783-Docena",
           "nombre": "Docena",
-          "precio_unitario": 2000,
+          "precio_unitario": 2333.33,
           "cantidad_minima": 12
         }
       ],
@@ -28085,7 +28092,7 @@
       "id": "MEDI5666",
       "model": "3/4 Surt. Classic",
       "price": 1247.4,
-      "display_price": 1750,
+      "display_price": 2000,
       "minor_surcharge": 0,
       "category_id": "Medias",
       "categoryName": "Medias",
@@ -28102,7 +28109,7 @@
         {
           "variedad_id": "MEDI5666-Docena",
           "nombre": "Docena",
-          "precio_unitario": 1750,
+          "precio_unitario": 2000,
           "cantidad_minima": 12
         }
       ],
@@ -29307,7 +29314,7 @@
       "id": "MEDI9637",
       "model": "Larga Surt. Classic",
       "price": 1478.4,
-      "display_price": 2000,
+      "display_price": 2333.33,
       "minor_surcharge": 0,
       "category_id": "Medias",
       "categoryName": "Medias",
@@ -29324,7 +29331,7 @@
         {
           "variedad_id": "MEDI9637-Docena",
           "nombre": "Docena",
-          "precio_unitario": 2000,
+          "precio_unitario": 2333.33,
           "cantidad_minima": 12
         },
         {
@@ -38291,7 +38298,7 @@
       {
         "variedad_id": "MEDI4783-Docena",
         "nombre": "Docena",
-        "precio_unitario": 2000,
+        "precio_unitario": 2333.33,
         "cantidad_minima": 12
       }
     ],
@@ -38345,7 +38352,7 @@
       {
         "variedad_id": "MEDI5666-Docena",
         "nombre": "Docena",
-        "precio_unitario": 1750,
+        "precio_unitario": 2000,
         "cantidad_minima": 12
       }
     ],
@@ -38529,7 +38536,7 @@
       {
         "variedad_id": "MEDI9637-Docena",
         "nombre": "Docena",
-        "precio_unitario": 2000,
+        "precio_unitario": 2333.33,
         "cantidad_minima": 12
       },
       {
@@ -40311,6 +40318,14 @@
         "nombre": "Menor",
         "precio_unitario": 30000,
         "cantidad_minima": 1
+      }
+    ],
+    "MEDI4117": [
+      {
+        "variedad_id": "MEDI4117-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 2000,
+        "cantidad_minima": 12
       }
     ]
   },
@@ -42533,5 +42548,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779116089547
+  "timestamp_ms": 1779116987048
 }
