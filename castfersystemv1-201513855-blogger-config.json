@@ -10933,7 +10933,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "22",
+                  "valor": "21",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10964,7 +10964,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "22"
+                          "stock": "21"
                         }
                       ]
                     }
@@ -10981,7 +10981,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "22"
+                          "stock": "21"
                         }
                       ]
                     }
@@ -51675,7 +51675,7 @@
                   "archivo_id": "1quxYadyTGIVp2DJaGmW9_iVAmmK-hKzf",
                   "portada": true,
                   "orden": 12,
-                  "fecha_carga": "2026-05-20T18:32:19.270Z"
+                  "fecha_carga": "2026-05-20T18:37:04.466Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET1224%2FSUET1224-1qxcE.webp",
@@ -51683,7 +51683,7 @@
                   "archivo_id": "1qxcEoaaqsY-WSaWbrl3KGmaLKRl0_Tof",
                   "portada": false,
                   "orden": 14,
-                  "fecha_carga": "2026-05-20T18:32:19.270Z"
+                  "fecha_carga": "2026-05-20T18:37:04.466Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET1224%2FSUET1224-16UUS.png",
@@ -51691,7 +51691,7 @@
                   "archivo_id": "16UUSiDkgmHmJtc4REDU-G0GKRwNwWC5H",
                   "portada": false,
                   "orden": 16,
-                  "fecha_carga": "2026-05-20T18:32:19.270Z"
+                  "fecha_carga": "2026-05-20T18:37:04.466Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET1224%2FSUET1224-18oUx.png",
@@ -51699,7 +51699,15 @@
                   "archivo_id": "18oUxWividE6ITCTgG1A31w5e1KWKvBGY",
                   "portada": false,
                   "orden": 18,
-                  "fecha_carga": "2026-05-20T18:32:19.270Z"
+                  "fecha_carga": "2026-05-20T18:37:04.466Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET1224%2FSUET1224-1a_P8.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET1224%2FSUET1224-1a_P8.png",
+                  "archivo_id": "1a_P8tnVHSO-5wMZzacivLJhkZpI_vmcM",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-05-20T18:37:04.466Z"
                 }
               ],
               "variedad": [
@@ -54634,5 +54642,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779302480048
+  "timestamp_ms": 1779303414912
 }
