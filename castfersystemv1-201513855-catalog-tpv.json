@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T02:51:49.412Z",
+  "generated_at": "2026-05-21T04:06:49.841Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35063,7 +35063,7 @@
       "id": "CAMP8909",
       "model": "2 en 1 Con piel desmontable",
       "price": 30500,
-      "display_price": 45750,
+      "display_price": 46000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -35073,38 +35073,20 @@
       "brand": "ELT",
       "style": "Liso",
       "material": "CIRE/FIBRA",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8909%2FCAMP8909-1JA6c.jpeg",
       "carpeta_id": "1z6aFTCGv9WxnxoVTlGpB5pEORvRyzyAK",
       "woo_id": 39314,
       "varieties": [
         {
           "variedad_id": "CAMP8909-Docena",
           "nombre": "Docena",
-          "precio_unitario": 45750,
+          "precio_unitario": 46000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP8909-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 45750,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP8909-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 45750,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "CAMP8909-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 45750,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP8909-Menor",
           "nombre": "Menor",
-          "precio_unitario": 61000,
+          "precio_unitario": 60000,
           "cantidad_minima": 1
         }
       ],
@@ -35472,6 +35454,58 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "SUET9180-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP7774",
+      "model": "Impermeable sin piel - TREND CARGO",
+      "price": 30000,
+      "display_price": 35000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Cire",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": 39367,
+      "varieties": [
+        {
+          "variedad_id": "CAMP7774-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 35000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP7774-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 40000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP7774-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 55000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP7774-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP7774-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
@@ -36940,14 +36974,6 @@
         "cantidad_minima": 12
       }
     ],
-    "CAMP6253": [
-      {
-        "variedad_id": "CAMP6253-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 48000,
-        "cantidad_minima": 12
-      }
-    ],
     "CAMP6256": [
       {
         "variedad_id": "CAMP6256-Docena",
@@ -37001,14 +37027,6 @@
         "variedad_id": "CAMP6595-Docena",
         "nombre": "Docena",
         "precio_unitario": 50000,
-        "cantidad_minima": 12
-      }
-    ],
-    "CAMP6648": [
-      {
-        "variedad_id": "CAMP6648-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 48000,
         "cantidad_minima": 12
       }
     ],
@@ -40176,31 +40194,13 @@
       {
         "variedad_id": "CAMP8909-Docena",
         "nombre": "Docena",
-        "precio_unitario": 45750,
+        "precio_unitario": 46000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP8909-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 45750,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP8909-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 45750,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP8909-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 45750,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP8909-Menor",
         "nombre": "Menor",
-        "precio_unitario": 61000,
+        "precio_unitario": 60000,
         "cantidad_minima": 1
       }
     ],
@@ -40326,6 +40326,26 @@
         "nombre": "Docena",
         "precio_unitario": 2000,
         "cantidad_minima": 12
+      }
+    ],
+    "CAMP7774": [
+      {
+        "variedad_id": "CAMP7774-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 35000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP7774-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 40000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP7774-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 55000,
+        "cantidad_minima": 1
       }
     ]
   },
@@ -42576,5 +42596,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779332079156
+  "timestamp_ms": 1779336523371
 }
