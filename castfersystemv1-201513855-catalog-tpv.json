@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T23:06:49.846Z",
+  "generated_at": "2026-05-21T23:21:49.351Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -4068,39 +4068,6 @@
       ]
     },
     {
-      "id": "CAMP2173",
-      "model": "Classic con piel",
-      "price": 29400,
-      "display_price": 29400,
-      "minor_surcharge": 0,
-      "category_id": "Campera",
-      "categoryName": "Campera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "INVIERNO",
-      "gender": "Hombre",
-      "brand": "TMILL",
-      "style": "Liso",
-      "material": "Cire",
-      "image": "",
-      "carpeta_id": "13HRKL3iAS993BrcYp9-jq-uACBqs5SY1",
-      "woo_id": 38756,
-      "varieties": [],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "CASTFER",
-          "variation_id": "CAMP2173-Surtido-Surtido-CASTFER"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "JM MAYORISTA",
-          "variation_id": "CAMP2173-Surtido-Surtido-JM MAYORISTA"
-        }
-      ]
-    },
-    {
       "id": "CAMP2179",
       "model": "Conjunto con jogging recto",
       "price": 20000,
@@ -5792,7 +5759,7 @@
         {
           "variedad_id": "CAMP5313-Menor",
           "nombre": "Menor",
-          "precio_unitario": 40000,
+          "precio_unitario": 35000,
           "cantidad_minima": 1
         },
         {
@@ -7269,7 +7236,7 @@
       "brand": "I-RUN",
       "style": "Liso",
       "material": "Cire",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7137%2FCAMP7137-19I8t.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7137%2FCAMP7137-1Vdjt.jpg",
       "carpeta_id": "1BPaG1eImFY2GMTB_sEjd5rax-lf9Yb0Z",
       "woo_id": 38966,
       "varieties": [
@@ -42604,5 +42571,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779404944677
+  "timestamp_ms": 1779405891683
 }
