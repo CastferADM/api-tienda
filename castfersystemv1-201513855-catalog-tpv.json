@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T04:06:51.094Z",
+  "generated_at": "2026-05-23T04:21:49.969Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -6077,7 +6077,7 @@
     {
       "id": "CAMP5907",
       "model": "Cuero cierre cromado",
-      "price": 26000,
+      "price": 28700,
       "display_price": 38000,
       "minor_surcharge": 0,
       "category_id": "Campera",
@@ -17897,7 +17897,7 @@
     {
       "id": "SWEA2502",
       "model": "CUELLO O TERMICO",
-      "price": 15500,
+      "price": 14300,
       "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Sueter",
@@ -33209,7 +33209,7 @@
     {
       "id": "CAMP7947",
       "model": "CUERO TALLE ESPECIAL",
-      "price": 30000,
+      "price": 30500,
       "display_price": 44000,
       "minor_surcharge": 0,
       "category_id": "Campera",
@@ -35565,6 +35565,116 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CONJ4023-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP6113",
+      "model": "Bomber NASA BLACK",
+      "price": 33600,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "",
+      "carpeta_id": "1YXIVmLerjZkfoxIDhzfvjPJCMWqB6NCJ",
+      "woo_id": 39394,
+      "varieties": [
+        {
+          "variedad_id": "CAMP6113-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 48000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP6113-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 65000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP6113-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP6113-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP9259",
+      "model": "Termica micropolar",
+      "price": 17000,
+      "display_price": 25500,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Lana",
+      "image": "",
+      "carpeta_id": "1Sd6qcLX-MggU_a1GZZeQfrdhvGi1uPVj",
+      "woo_id": 39400,
+      "varieties": [
+        {
+          "variedad_id": "CAMP9259-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 25500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP9259-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 25500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP9259-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 25500,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP9259-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 25500,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP9259-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 34000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP9259-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP9259-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
@@ -40434,6 +40544,52 @@
         "precio_unitario": 65000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP6113": [
+      {
+        "variedad_id": "CAMP6113-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP6113-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 65000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP9259": [
+      {
+        "variedad_id": "CAMP9259-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 25500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP9259-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 25500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP9259-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25500,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP9259-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 25500,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP9259-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 34000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -42695,5 +42851,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779509317336
+  "timestamp_ms": 1779510271273
 }
