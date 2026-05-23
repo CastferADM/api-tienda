@@ -14028,16 +14028,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "7",
+                  "estado": "Media"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -14046,7 +14053,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP3777%0A%F0%9F%94%B9%20Modelo%3A%20Bomber%20UNIVERSITARIO%20CON%20PIEL%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP3777%0A%F0%9F%94%B9%20Modelo%3A%20Bomber%20UNIVERSITARIO%20CON%20PIEL%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -14137,7 +14144,17 @@
                   "precio": 50000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "7"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -15160,7 +15177,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "7",
+                  "valor": "6",
                   "estado": "Media"
                 },
                 "ultima_actualizacion": {
@@ -15272,7 +15289,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "7"
+                          "stock": "6"
                         }
                       ]
                     }
@@ -20862,7 +20879,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "253",
+                  "valor": "252",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -20905,7 +20922,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "253"
+                          "stock": "252"
                         }
                       ]
                     }
@@ -44646,7 +44663,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "243",
+                  "valor": "242",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -44677,7 +44694,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "243"
+                          "stock": "242"
                         }
                       ]
                     }
@@ -44694,7 +44711,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "243"
+                          "stock": "242"
                         }
                       ]
                     }
@@ -55356,5 +55373,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779559877420
+  "timestamp_ms": 1779560780551
 }
