@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T02:51:49.600Z",
+  "generated_at": "2026-05-23T04:06:51.094Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -6989,7 +6989,7 @@
     {
       "id": "CAMP6851",
       "model": "Cuero",
-      "price": 27000,
+      "price": 29500,
       "display_price": 38000,
       "minor_surcharge": 0,
       "category_id": "Campera",
@@ -35289,7 +35289,7 @@
     {
       "id": "CAMP1830",
       "model": "EXTREME Classic",
-      "price": 30200,
+      "price": 31900,
       "display_price": 45000,
       "minor_surcharge": 0,
       "category_id": "Campera",
@@ -35302,7 +35302,7 @@
       "material": "Ecocuero",
       "image": "",
       "carpeta_id": "17sy66OF33OLhIwnGRkA5xvf2T_1s9y1r",
-      "woo_id": "",
+      "woo_id": 39391,
       "varieties": [
         {
           "variedad_id": "CAMP1830-Docena",
@@ -35473,6 +35473,98 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP7774-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CONJ7151",
+      "model": "Neoprene con LYCRA TERMICO",
+      "price": 31500,
+      "display_price": 45000,
+      "minor_surcharge": 0,
+      "category_id": "CONJUNTOO",
+      "categoryName": "CONJUNTOO",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprene",
+      "image": "",
+      "carpeta_id": "1YGA4BmREGesBWz7l4MvEXJUcO3F1SP1u",
+      "woo_id": 39385,
+      "varieties": [
+        {
+          "variedad_id": "CONJ7151-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 45000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CONJ7151-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 60000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CONJ7151-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CONJ7151-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CONJ4023",
+      "model": "Neoprene con LYCRA TERMICO",
+      "price": 34500,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "CONJUNTOO",
+      "categoryName": "CONJUNTOO",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprene",
+      "image": "",
+      "carpeta_id": "1_3hNmyVD_uNwFFFaKcUWsoeahkT-Rexu",
+      "woo_id": 39388,
+      "varieties": [
+        {
+          "variedad_id": "CONJ4023-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 48000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CONJ4023-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 65000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CONJ4023-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CONJ4023-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
@@ -40314,6 +40406,34 @@
         "precio_unitario": 55000,
         "cantidad_minima": 1
       }
+    ],
+    "CONJ7151": [
+      {
+        "variedad_id": "CONJ7151-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 45000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CONJ7151-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CONJ4023": [
+      {
+        "variedad_id": "CONJ4023-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CONJ4023-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 65000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -42575,5 +42695,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779504824446
+  "timestamp_ms": 1779509317336
 }
