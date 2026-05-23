@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T04:21:49.969Z",
+  "generated_at": "2026-05-23T04:36:50.873Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35618,7 +35618,7 @@
       "id": "CAMP9259",
       "model": "Termica micropolar",
       "price": 17000,
-      "display_price": 25500,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -35635,31 +35635,13 @@
         {
           "variedad_id": "CAMP9259-Docena",
           "nombre": "Docena",
-          "precio_unitario": 25500,
+          "precio_unitario": 25000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP9259-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 25500,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP9259-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 25500,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "CAMP9259-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 25500,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP9259-Menor",
           "nombre": "Menor",
-          "precio_unitario": 34000,
+          "precio_unitario": 35000,
           "cantidad_minima": 1
         }
       ],
@@ -35675,6 +35657,296 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP9259-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP1554",
+      "model": "Puffer reversible",
+      "price": 30500,
+      "display_price": 45000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "PU",
+      "image": "",
+      "carpeta_id": "1um_v_3vLtkKy9NOI8aCCGixe1hWcN2z_",
+      "woo_id": 39406,
+      "varieties": [
+        {
+          "variedad_id": "CAMP1554-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 45000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP1554-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 60000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1554-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1554-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CHAL7641",
+      "model": "Classic puffer",
+      "price": 23000,
+      "display_price": 34500,
+      "minor_surcharge": 0,
+      "category_id": "Chaleco",
+      "categoryName": "Chaleco",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "PU",
+      "image": "",
+      "carpeta_id": "1qKfD9boKndHU3TYZcPyIXQ957d1zvKfA",
+      "woo_id": 39412,
+      "varieties": [
+        {
+          "variedad_id": "CHAL7641-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 34500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CHAL7641-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 34500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CHAL7641-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 34500,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CHAL7641-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 46000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CHAL7641-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CHAL7641-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CHAL4757",
+      "model": "Largo PU",
+      "price": 29000,
+      "display_price": 43500,
+      "minor_surcharge": 0,
+      "category_id": "Chaleco",
+      "categoryName": "Chaleco",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "PU",
+      "image": "",
+      "carpeta_id": "1FUe6iTM1p93pn0tu3MyZk6hTTYdFS_ak",
+      "woo_id": 39417,
+      "varieties": [
+        {
+          "variedad_id": "CHAL4757-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 43500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CHAL4757-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 43500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CHAL4757-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 43500,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CHAL4757-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 58000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CHAL4757-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CHAL4757-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP5784",
+      "model": "MOCHILERO",
+      "price": 33600,
+      "display_price": 50400,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": 39422,
+      "varieties": [
+        {
+          "variedad_id": "CAMP5784-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 50400,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP5784-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 50400,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP5784-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 50400,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP5784-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 50400,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP5784-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 67200,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP5784-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP5784-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP6921",
+      "model": "Puffer manga desmontable",
+      "price": 22500,
+      "display_price": 33750,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "SP",
+      "style": "Liso",
+      "material": "PU",
+      "image": "",
+      "carpeta_id": "18AyagwAHI_zFQJ1bAJzEYNQqNYykHvc9",
+      "woo_id": 39428,
+      "varieties": [
+        {
+          "variedad_id": "CAMP6921-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 33750,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP6921-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 33750,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP6921-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 33750,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP6921-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 33750,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP6921-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 45000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP6921-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP6921-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
@@ -40563,31 +40835,143 @@
       {
         "variedad_id": "CAMP9259-Docena",
         "nombre": "Docena",
-        "precio_unitario": 25500,
+        "precio_unitario": 25000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP9259-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 25500,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP9259-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25500,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP9259-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 25500,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP9259-Menor",
         "nombre": "Menor",
-        "precio_unitario": 34000,
+        "precio_unitario": 35000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP1554": [
+      {
+        "variedad_id": "CAMP1554-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 45000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP1554-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CHAL7641": [
+      {
+        "variedad_id": "CHAL7641-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 34500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CHAL7641-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 34500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CHAL7641-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 34500,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CHAL7641-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 46000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CHAL4757": [
+      {
+        "variedad_id": "CHAL4757-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 43500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CHAL4757-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 43500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CHAL4757-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 43500,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CHAL4757-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 58000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP5784": [
+      {
+        "variedad_id": "CAMP5784-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 50400,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP5784-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 50400,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP5784-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 50400,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP5784-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 50400,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP5784-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 67200,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP6921": [
+      {
+        "variedad_id": "CAMP6921-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 33750,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP6921-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 33750,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP6921-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 33750,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP6921-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 33750,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP6921-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 45000,
         "cantidad_minima": 1
       }
     ]
@@ -42851,5 +43235,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779510271273
+  "timestamp_ms": 1779511203905
 }
