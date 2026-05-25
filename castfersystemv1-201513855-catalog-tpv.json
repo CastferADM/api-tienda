@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T14:36:49.041Z",
+  "generated_at": "2026-05-25T14:51:50.276Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -4923,7 +4923,7 @@
         {
           "variedad_id": "CAMP3777-Menor",
           "nombre": "Menor",
-          "precio_unitario": 65000,
+          "precio_unitario": 60000,
           "cantidad_minima": 1
         },
         {
@@ -5156,39 +5156,6 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP4356-Surtido-Surtido-JM MAYORISTA"
-        }
-      ]
-    },
-    {
-      "id": "CAMP4548",
-      "model": "Neoprem",
-      "price": 14700,
-      "display_price": 14700,
-      "minor_surcharge": 0,
-      "category_id": "Campera",
-      "categoryName": "Campera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "INVIERNO",
-      "gender": "Hombre",
-      "brand": "COLUMBIA",
-      "style": "Liso",
-      "material": "Neoprem",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4548%2FCAMP4548-197Rl.jpg",
-      "carpeta_id": "15qKRci2X9iLIAyqGu4YTNgwn75l4MPWa",
-      "woo_id": "",
-      "varieties": [],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "CASTFER",
-          "variation_id": "CAMP4548-Surtido-Surtido-CASTFER"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "JM MAYORISTA",
-          "variation_id": "CAMP4548-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     },
@@ -8396,7 +8363,7 @@
       "material": "Cire",
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9319%2FCAMP9319-1nBBe.jpg",
       "carpeta_id": "1iK9JtqN6_ZVgSQvkTVOTMEjyH54uzSIe",
-      "woo_id": "",
+      "woo_id": 39440,
       "varieties": [],
       "variations": [
         {
@@ -43115,5 +43082,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779719933236
+  "timestamp_ms": 1779720879677
 }
