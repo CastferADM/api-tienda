@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T01:26:37.324Z",
+  "generated_at": "2026-05-26T01:41:36.760Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -404,7 +404,7 @@
     {
       "id": "Corpiño",
       "name": "Corpiño",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/corpiño.svg"
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/brasier.svg"
     }
   ],
   "products": [
@@ -35899,7 +35899,7 @@
     "SOQUETES": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/soquetes.svg",
     "TOP": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
     "VEDETINA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/vedetina.svg",
-    "CORPIÑO": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/corpiño.svg"
+    "CORPIÑO": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/brasier.svg"
   },
   "generalConfig": {
     "GENERAL_ID": "CASTFER",
@@ -38118,14 +38118,6 @@
         "nombre": "Docena",
         "precio_unitario": 15,
         "cantidad_minima": 12
-      }
-    ],
-    "CORP2661": [
-      {
-        "variedad_id": "CORP2661-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 14,
-        "cantidad_minima": 1
       }
     ],
     "CULO2008": [
@@ -43082,5 +43074,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779758959419
+  "timestamp_ms": 1779759949086
 }
