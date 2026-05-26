@@ -29374,292 +29374,6 @@
           ]
         },
         {
-          "codigo": 13,
-          "nombre": "CONJUNTOO",
-          "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjuntoo.svg",
-          "producto": [
-            {
-              "codigo": 334,
-              "categoria": "CONJUNTOO",
-              "nombre": "CONJ4023",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Neoprene con LYCRA TERMICO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELT"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Neoprene"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "58",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "25-05-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ4023%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20con%20LYCRA%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1Hj2d.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1Hj2d.webp",
-                  "archivo_id": "1Hj2dS_-MR3LpKmSuz1-p9SVOFg-ZHzAw",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1LI1n.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1LI1n.webp",
-                  "archivo_id": "1LI1nDgMvgxrwAcg8hMM-AVD2CjYIq6aE",
-                  "portada": false,
-                  "orden": 4,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-19W8p.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-19W8p.webp",
-                  "archivo_id": "19W8pkmq01vaWx-hn664fxDFgqZqOjure",
-                  "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1cQXR.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1cQXR.webp",
-                  "archivo_id": "1cQXRv8b-mMQ-7sMTjcrcVwEHUZafVYUF",
-                  "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1AzuD.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1AzuD.webp",
-                  "archivo_id": "1AzuDrAw1UZBAwVHPRZGfsGQdnCab2FHY",
-                  "portada": false,
-                  "orden": 10,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1_zfj.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1_zfj.webp",
-                  "archivo_id": "1_zfjkAJNDrwhfI_4TaQhKD8Crl3-pEq2",
-                  "portada": false,
-                  "orden": 12,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1Z4cr.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1Z4cr.webp",
-                  "archivo_id": "1Z4crrkTiA3IMOesfpDBnUZIaFVAARuMm",
-                  "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1bZfo.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1bZfo.webp",
-                  "archivo_id": "1bZfoU7fWkjXguqjpym4CMyhWDGhcYEVm",
-                  "portada": false,
-                  "orden": 16,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1C7E5.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1C7E5.webp",
-                  "archivo_id": "1C7E5WrrdW4TOrR_6z3mgYprxqYYsubfk",
-                  "portada": false,
-                  "orden": 18,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1y7DU.webp",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1y7DU.webp",
-                  "archivo_id": "1y7DUvN8Cmz6xWqIGiwytFod7ul8qQcmr",
-                  "portada": false,
-                  "orden": 20,
-                  "fecha_carga": "2026-05-26T00:08:33.604Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 48000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "58"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 65000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "58"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-05-23T07:00:00.000Z"
-            },
-            {
-              "codigo": 336,
-              "categoria": "CONJUNTOO",
-              "nombre": "CONJ7151",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Neoprene con LYCRA TERMICO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELT"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Neoprene"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "72",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "23-05-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ7151%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20con%20LYCRA%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 45000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "72"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 60000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "72"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-05-23T07:00:00.000Z"
-            }
-          ]
-        },
-        {
           "codigo": 14,
           "nombre": "Corpiño",
           "url_categoria": "",
@@ -55413,6 +55127,297 @@
           ]
         }
       ]
+    },
+    {
+      "nombre_padre": "undefined",
+      "categorias": [
+        {
+          "codigo": 13,
+          "nombre": "CONJUNTOO",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjuntoo.svg",
+          "producto": [
+            {
+              "codigo": 334,
+              "categoria": "CONJUNTOO",
+              "nombre": "CONJ4023",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Neoprene con LYCRA TERMICO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprene"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "58",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "25-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1132264462,
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ4023%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20con%20LYCRA%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1Hj2d.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1Hj2d.webp",
+                  "archivo_id": "1Hj2dS_-MR3LpKmSuz1-p9SVOFg-ZHzAw",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1LI1n.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1LI1n.webp",
+                  "archivo_id": "1LI1nDgMvgxrwAcg8hMM-AVD2CjYIq6aE",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-19W8p.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-19W8p.webp",
+                  "archivo_id": "19W8pkmq01vaWx-hn664fxDFgqZqOjure",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1cQXR.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1cQXR.webp",
+                  "archivo_id": "1cQXRv8b-mMQ-7sMTjcrcVwEHUZafVYUF",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1AzuD.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1AzuD.webp",
+                  "archivo_id": "1AzuDrAw1UZBAwVHPRZGfsGQdnCab2FHY",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1_zfj.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1_zfj.webp",
+                  "archivo_id": "1_zfjkAJNDrwhfI_4TaQhKD8Crl3-pEq2",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1Z4cr.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1Z4cr.webp",
+                  "archivo_id": "1Z4crrkTiA3IMOesfpDBnUZIaFVAARuMm",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1bZfo.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1bZfo.webp",
+                  "archivo_id": "1bZfoU7fWkjXguqjpym4CMyhWDGhcYEVm",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1C7E5.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1C7E5.webp",
+                  "archivo_id": "1C7E5WrrdW4TOrR_6z3mgYprxqYYsubfk",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1y7DU.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ4023%2FCONJ4023-1y7DU.webp",
+                  "archivo_id": "1y7DUvN8Cmz6xWqIGiwytFod7ul8qQcmr",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-05-26T00:08:33.604Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 48000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "58"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 65000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "58"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-05-23T07:00:00.000Z"
+            },
+            {
+              "codigo": 336,
+              "categoria": "CONJUNTOO",
+              "nombre": "CONJ7151",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Neoprene con LYCRA TERMICO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprene"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "72",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "23-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1132264462,
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ7151%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20con%20LYCRA%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 45000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "72"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 60000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "72"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-05-23T07:00:00.000Z"
+            }
+          ]
+        }
+      ]
     }
   ],
   "formas_pago": [
@@ -55449,5 +55454,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779756444366
+  "timestamp_ms": 1779758152364
 }
