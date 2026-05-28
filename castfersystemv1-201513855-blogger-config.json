@@ -15996,10 +15996,18 @@
               },
               "imagen": [
                 {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1GFJG.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1GFJG.png",
+                  "archivo_id": "1GFJGbtqcHdr4qae-BOYj0gmPbjSUSWV6",
+                  "portada": true,
+                  "orden": 24,
+                  "fecha_carga": "2026-05-28T23:51:06.227Z"
+                },
+                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-18v0w.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-18v0w.jpg",
                   "archivo_id": "18v0wvatvblvDkXkFAznv1DEXMtzS7u67",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
                   "fecha_carga": "2026-05-28T03:11:01.945Z"
                 },
@@ -16057,23 +16065,15 @@
                   "archivo_id": "1lLD8msw_oMS_EBy98XZPiJLbwQpc4TKb",
                   "portada": false,
                   "orden": 16,
-                  "fecha_carga": "2026-05-28T23:37:59.905Z"
+                  "fecha_carga": "2026-05-28T23:51:06.227Z"
                 },
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1MrnP.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1MrnP.png",
-                  "archivo_id": "1MrnPI01aTeQ89OeDv6w0Bi0AzbY9ETmu",
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1WC5X.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1WC5X.png",
+                  "archivo_id": "1WC5X6eyD3aF7pda6FUcC6Fkjvb6VD7AN",
                   "portada": false,
-                  "orden": 18,
-                  "fecha_carga": "2026-05-28T23:37:59.905Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1j-QL.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1j-QL.png",
-                  "archivo_id": "1j-QLlLsV0a_BbFfZOFKJQCTgBWgyfMQ7",
-                  "portada": false,
-                  "orden": 20,
-                  "fecha_carga": "2026-05-28T23:37:59.905Z"
+                  "orden": 22,
+                  "fecha_carga": "2026-05-28T23:51:06.227Z"
                 }
               ],
               "variedad": [
@@ -63000,5 +63000,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1780011829107
+  "timestamp_ms": 1780012707272
 }
