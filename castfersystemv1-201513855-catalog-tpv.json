@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T13:11:37.623Z",
+  "generated_at": "2026-05-28T13:26:37.211Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35856,6 +35856,52 @@
           "variation_id": "CAMP6921-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "CAMP1850",
+      "model": "Neoprene sofshell NEGRO",
+      "price": 20500,
+      "display_price": 30750,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprene",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": 39468,
+      "varieties": [
+        {
+          "variedad_id": "CAMP1850-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 30750,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP1850-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 41000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1850-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1850-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -40799,6 +40845,20 @@
         "precio_unitario": 45000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP1850": [
+      {
+        "variedad_id": "CAMP1850-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 30750,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP1850-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 41000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -43076,5 +43136,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779974045871
+  "timestamp_ms": 1779974975752
 }
