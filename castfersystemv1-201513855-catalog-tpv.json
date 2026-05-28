@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T00:26:37.615Z",
+  "generated_at": "2026-05-28T00:41:36.829Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34915,7 +34915,7 @@
       "brand": "COLUMBIA",
       "style": "Liso",
       "material": "Neoprem",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1005%2FCAMP1005-1MH8F.jpg",
       "carpeta_id": "15dUkJ34mORGurf4Mh244TtezTZUyqjs9",
       "woo_id": 39302,
       "varieties": [
@@ -40460,20 +40460,6 @@
         "cantidad_minima": 1
       }
     ],
-    "CAMP7238": [
-      {
-        "variedad_id": "CAMP7238-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 40000,
-        "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP7238-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 55000,
-        "cantidad_minima": 1
-      }
-    ],
     "PANT5738": [
       {
         "variedad_id": "PANT5738-Docena",
@@ -43090,5 +43076,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779928126851
+  "timestamp_ms": 1779929055632
 }
