@@ -11455,7 +11455,7 @@
                   "archivo_id": "1EHbtFJJvIJ323EwSEhYq7IFNrRX8vIrl",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-05-28T17:11:53.361Z"
+                  "fecha_carga": "2026-05-28T17:50:55.025Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1sqwt.webp",
@@ -11463,7 +11463,7 @@
                   "archivo_id": "1sqwtbLqdjm8VD3ypdo7b8baxfIe4mXvQ",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-05-28T17:11:53.361Z"
+                  "fecha_carga": "2026-05-28T17:50:55.025Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-12irL.webp",
@@ -11471,7 +11471,7 @@
                   "archivo_id": "12irL1ewctlBbu3aUnj_SX7AWZZbC_SBS",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-05-28T17:11:53.361Z"
+                  "fecha_carga": "2026-05-28T17:50:55.025Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-19_pI.webp",
@@ -11479,7 +11479,7 @@
                   "archivo_id": "19_pI6CbMNPNeBa0um9hHPld3VkPZFEI4",
                   "portada": false,
                   "orden": 8,
-                  "fecha_carga": "2026-05-28T17:11:53.361Z"
+                  "fecha_carga": "2026-05-28T17:50:55.025Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1BfRw.webp",
@@ -11487,7 +11487,7 @@
                   "archivo_id": "1BfRwciFa0_kQ1si5_b2-m2HBQjRLdz86",
                   "portada": false,
                   "orden": 10,
-                  "fecha_carga": "2026-05-28T17:11:53.361Z"
+                  "fecha_carga": "2026-05-28T17:50:55.025Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1bFqd.png",
@@ -11495,7 +11495,7 @@
                   "archivo_id": "1bFqdeHbj3G5qlpgrAbUBVs_eIul6y7ox",
                   "portada": false,
                   "orden": 12,
-                  "fecha_carga": "2026-05-28T17:11:53.361Z"
+                  "fecha_carga": "2026-05-28T17:50:55.025Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-11Ogc.png",
@@ -11503,7 +11503,15 @@
                   "archivo_id": "11Ogc6duhRsiUrqZB9N6P0kMIpCuldteQ",
                   "portada": false,
                   "orden": 14,
-                  "fecha_carga": "2026-05-28T17:11:53.361Z"
+                  "fecha_carga": "2026-05-28T17:50:55.025Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1Nx9f.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1Nx9f.png",
+                  "archivo_id": "1Nx9fOart2FdjsVb3FocCK1Ypvh2iR6-Z",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-05-28T17:50:55.025Z"
                 }
               ],
               "variedad": [
@@ -40318,7 +40326,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "344",
+                  "valor": "337",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -40385,7 +40393,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "344"
+                          "stock": "337"
                         }
                       ]
                     }
@@ -55523,5 +55531,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779990346708
+  "timestamp_ms": 1779991347210
 }
