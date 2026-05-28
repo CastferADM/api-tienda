@@ -11450,8 +11450,52 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1EHbt.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1EHbt.webp",
+                  "archivo_id": "1EHbtFJJvIJ323EwSEhYq7IFNrRX8vIrl",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-28T17:05:34.407Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1sqwt.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1sqwt.webp",
+                  "archivo_id": "1sqwtbLqdjm8VD3ypdo7b8baxfIe4mXvQ",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-05-28T17:05:34.407Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-12irL.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-12irL.webp",
+                  "archivo_id": "12irL1ewctlBbu3aUnj_SX7AWZZbC_SBS",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-05-28T17:05:34.407Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-19_pI.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-19_pI.webp",
+                  "archivo_id": "19_pI6CbMNPNeBa0um9hHPld3VkPZFEI4",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-05-28T17:05:34.407Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1BfRw.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1BfRw.webp",
+                  "archivo_id": "1BfRwciFa0_kQ1si5_b2-m2HBQjRLdz86",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-05-28T17:05:34.407Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1bFqd.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4138%2FCAMP4138-1bFqd.png",
+                  "archivo_id": "1bFqdeHbj3G5qlpgrAbUBVs_eIul6y7ox",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-05-28T17:05:34.407Z"
                 }
               ],
               "variedad": [
@@ -29062,7 +29106,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "69",
+                  "valor": "63",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -29174,7 +29218,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "69"
+                          "stock": "63"
                         }
                       ]
                     }
@@ -29387,7 +29431,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "65",
+                  "valor": "53",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -29494,7 +29538,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "65"
+                          "stock": "53"
                         }
                       ]
                     }
@@ -33336,7 +33380,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "113",
+                  "valor": "112",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -33371,7 +33415,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "113"
+                          "stock": "112"
                         }
                       ]
                     }
@@ -55498,5 +55542,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779987709568
+  "timestamp_ms": 1779988572997
 }
