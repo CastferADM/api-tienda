@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T13:26:37.211Z",
+  "generated_at": "2026-05-28T13:41:38.980Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35267,7 +35267,7 @@
       "brand": "YD",
       "style": "Liso",
       "material": "Ecocuero",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1830%2FCAMP1830-1wnXf.jpg",
       "carpeta_id": "17sy66OF33OLhIwnGRkA5xvf2T_1s9y1r",
       "woo_id": 39391,
       "varieties": [
@@ -35861,7 +35861,7 @@
       "id": "CAMP1850",
       "model": "Neoprene sofshell NEGRO",
       "price": 20500,
-      "display_price": 30750,
+      "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -35871,20 +35871,20 @@
       "brand": "ELT",
       "style": "Liso",
       "material": "Neoprene",
-      "image": "",
-      "carpeta_id": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1850%2FCAMP1850-1ufVf.webp",
+      "carpeta_id": "1UfWPNLj6_ROGjQaMd7BTuRu2b4-KMJo3",
       "woo_id": 39468,
       "varieties": [
         {
           "variedad_id": "CAMP1850-Docena",
           "nombre": "Docena",
-          "precio_unitario": 30750,
+          "precio_unitario": 35000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "CAMP1850-Menor",
           "nombre": "Menor",
-          "precio_unitario": 41000,
+          "precio_unitario": 45000,
           "cantidad_minima": 1
         }
       ],
@@ -40850,13 +40850,13 @@
       {
         "variedad_id": "CAMP1850-Docena",
         "nombre": "Docena",
-        "precio_unitario": 30750,
+        "precio_unitario": 35000,
         "cantidad_minima": 12
       },
       {
         "variedad_id": "CAMP1850-Menor",
         "nombre": "Menor",
-        "precio_unitario": 41000,
+        "precio_unitario": 45000,
         "cantidad_minima": 1
       }
     ]
@@ -43136,5 +43136,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779974975752
+  "timestamp_ms": 1779975928095
 }
