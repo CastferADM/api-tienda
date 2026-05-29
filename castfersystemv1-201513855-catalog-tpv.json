@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T02:56:36.779Z",
+  "generated_at": "2026-05-29T09:11:37.471Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35641,7 +35641,7 @@
       "brand": "YD",
       "style": "Liso",
       "material": "PU",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1554%2FCAMP1554-1wZfs.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1554%2FCAMP1554-1Ob-q.png",
       "carpeta_id": "1um_v_3vLtkKy9NOI8aCCGixe1hWcN2z_",
       "woo_id": 39406,
       "varieties": [
@@ -35900,6 +35900,144 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP1850-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP9305",
+      "model": "3 EN 1 Desmontable",
+      "price": 25000,
+      "display_price": 38000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9305%2FCAMP9305-1rZCk.jpeg",
+      "carpeta_id": "1yrYK0azFhx9gkBc3BWoqKy1utYoa5Fx0",
+      "woo_id": 39492,
+      "varieties": [
+        {
+          "variedad_id": "CAMP9305-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 38000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP9305-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 50000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP9305-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP9305-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP2788",
+      "model": "3 en 1 demontable chaleco",
+      "price": 31000,
+      "display_price": 45000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1dJGo.jpeg",
+      "carpeta_id": "1Z9aaquu6AdtNA-GqJvTRdJyGbd5blhiE",
+      "woo_id": 39498,
+      "varieties": [
+        {
+          "variedad_id": "CAMP2788-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 45000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP2788-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 60000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP2788-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP2788-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "PANT3327",
+      "model": "Cargo Termico Recto Neoprene",
+      "price": 17000,
+      "display_price": 26000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprem",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3327%2FPANT3327-1KvXc.jpeg",
+      "carpeta_id": "13oCLw4DchosNyS7WmXIMT37Nep59gzYr",
+      "woo_id": 39505,
+      "varieties": [
+        {
+          "variedad_id": "PANT3327-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 26000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "PANT3327-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 35000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT3327-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT3327-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
@@ -40859,6 +40997,48 @@
         "precio_unitario": 45000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP9305": [
+      {
+        "variedad_id": "CAMP9305-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 38000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP9305-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 50000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP2788": [
+      {
+        "variedad_id": "CAMP2788-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 45000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP2788-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT3327": [
+      {
+        "variedad_id": "PANT3327-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 26000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "PANT3327-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 35000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -43140,5 +43320,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780023531185
+  "timestamp_ms": 1780046076206
 }
