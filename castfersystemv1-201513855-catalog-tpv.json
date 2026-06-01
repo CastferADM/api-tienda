@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T02:45:26.037Z",
+  "generated_at": "2026-06-01T09:00:25.169Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -4117,7 +4117,7 @@
       "id": "CAMP2197",
       "model": "Vintage cierre cruzado",
       "price": 28000,
-      "display_price": 38000,
+      "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -4134,13 +4134,13 @@
         {
           "variedad_id": "CAMP2197-Menor",
           "nombre": "Menor",
-          "precio_unitario": 50000,
+          "precio_unitario": 45000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP2197-Docena",
           "nombre": "Docena",
-          "precio_unitario": 38000,
+          "precio_unitario": 35000,
           "cantidad_minima": 12
         }
       ],
@@ -4162,7 +4162,7 @@
     {
       "id": "CAMP2276",
       "model": "Bomber M - UNIVERSITARIO",
-      "price": 31000,
+      "price": 27700,
       "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Campera",
@@ -4173,7 +4173,7 @@
       "brand": "YD",
       "style": "Liso",
       "material": "Cire",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2276%2FCAMP2276-11aFj.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2276%2FCAMP2276-1CHeH.jpg",
       "carpeta_id": "1KGc78ePp7J_3P6lNzVewvbQoFKW3yjOa",
       "woo_id": 33409,
       "varieties": [
@@ -7792,7 +7792,7 @@
       "id": "CAMP8251",
       "model": "BOMBER ICON",
       "price": 28000,
-      "display_price": 40000,
+      "display_price": 38000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -7815,7 +7815,7 @@
         {
           "variedad_id": "CAMP8251-Docena",
           "nombre": "Docena",
-          "precio_unitario": 40000,
+          "precio_unitario": 38000,
           "cantidad_minima": 12
         }
       ],
@@ -35825,7 +35825,7 @@
       "brand": "SP",
       "style": "Liso",
       "material": "PU",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP6921%2FCAMP6921-1aNbe.png",
       "carpeta_id": "18AyagwAHI_zFQJ1bAJzEYNQqNYykHvc9",
       "woo_id": 39428,
       "varieties": [
@@ -35871,7 +35871,7 @@
       "brand": "ELT",
       "style": "Liso",
       "material": "Neoprene",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1850%2FCAMP1850-1ufVf.webp",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1850%2FCAMP1850-1uI9V.png",
       "carpeta_id": "1UfWPNLj6_ROGjQaMd7BTuRu2b4-KMJo3",
       "woo_id": 39468,
       "varieties": [
@@ -35917,7 +35917,7 @@
       "brand": "ELT",
       "style": "Liso",
       "material": "CIRE",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9305%2FCAMP9305-1rZCk.jpeg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9305%2FCAMP9305-1gROR.png",
       "carpeta_id": "1yrYK0azFhx9gkBc3BWoqKy1utYoa5Fx0",
       "woo_id": 39492,
       "varieties": [
@@ -36102,6 +36102,52 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "JOGG2399-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
+    },
+    {
+      "id": "CAMP8236",
+      "model": "Impermeable sin piel",
+      "price": 28000,
+      "display_price": 38000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Cire",
+      "image": "",
+      "carpeta_id": "1FHlgALYaaRls1Lq6m1H0a1SwvsPexo5x",
+      "woo_id": 39520,
+      "varieties": [
+        {
+          "variedad_id": "CAMP8236-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 38000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP8236-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 55000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP8236-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP8236-Surtido-Surtido-JM MAYORISTA"
         }
       ]
     }
@@ -37218,7 +37264,7 @@
       {
         "variedad_id": "CAMP2197-Docena",
         "nombre": "Docena",
-        "precio_unitario": 38000,
+        "precio_unitario": 35000,
         "cantidad_minima": 12
       }
     ],
@@ -37323,14 +37369,6 @@
         "variedad_id": "CAMP3508-Docena",
         "nombre": "Docena",
         "precio_unitario": 45000,
-        "cantidad_minima": 12
-      }
-    ],
-    "CAMP3649": [
-      {
-        "variedad_id": "CAMP3649-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 25000,
         "cantidad_minima": 12
       }
     ],
@@ -37439,14 +37477,6 @@
         "variedad_id": "CAMP4728-Docena",
         "nombre": "Docena",
         "precio_unitario": 45000,
-        "cantidad_minima": 12
-      }
-    ],
-    "CAMP4736": [
-      {
-        "variedad_id": "CAMP4736-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 25000,
         "cantidad_minima": 12
       }
     ],
@@ -37640,14 +37670,6 @@
         "cantidad_minima": 12
       }
     ],
-    "CAMP6709": [
-      {
-        "variedad_id": "CAMP6709-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 40000,
-        "cantidad_minima": 12
-      }
-    ],
     "CAMP6775": [
       {
         "variedad_id": "CAMP6775-Docena",
@@ -37772,7 +37794,7 @@
       {
         "variedad_id": "CAMP8251-Docena",
         "nombre": "Docena",
-        "precio_unitario": 40000,
+        "precio_unitario": 38000,
         "cantidad_minima": 12
       }
     ],
@@ -41135,6 +41157,20 @@
         "precio_unitario": 23000,
         "cantidad_minima": 120
       }
+    ],
+    "CAMP8236": [
+      {
+        "variedad_id": "CAMP8236-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 38000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP8236-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 55000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -43428,5 +43464,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780282059905
+  "timestamp_ms": 1780304558529
 }
