@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T12:15:19.297Z",
+  "generated_at": "2026-06-01T12:30:20.169Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -2476,12 +2476,6 @@
       "carpeta_id": "1vDWWfoVMgXSSHJpQ-FimQtTAO3AQ83E2",
       "woo_id": 34412,
       "varieties": [
-        {
-          "variedad_id": "BERM9381-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 21000,
-          "cantidad_minima": 6
-        },
         {
           "variedad_id": "BERM9381-Menor",
           "nombre": "Menor",
@@ -36472,12 +36466,6 @@
     ],
     "BERM9381": [
       {
-        "variedad_id": "BERM9381-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 21000,
-        "cantidad_minima": 6
-      },
-      {
         "variedad_id": "BERM9381-Docena",
         "nombre": "Docena",
         "precio_unitario": 21000,
@@ -43464,5 +43452,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780316221055
+  "timestamp_ms": 1780317167013
 }
