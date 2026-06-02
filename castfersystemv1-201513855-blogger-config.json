@@ -2165,6 +2165,14 @@
                   "portada": false,
                   "orden": 16,
                   "fecha_carga": "2026-04-28T04:30:11.772Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2040%2FBERM2040-1E0Nd.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2040%2FBERM2040-1E0Nd.png",
+                  "archivo_id": "1E0NdWNTpCESMZ9uNnJRqlSlHZm8NAl5G",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-06-02T18:50:09.261Z"
                 }
               ],
               "variedad": [
@@ -45450,7 +45458,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "220",
+                  "valor": "219",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -45517,7 +45525,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "220"
+                          "stock": "219"
                         }
                       ]
                     }
@@ -45534,7 +45542,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "220"
+                          "stock": "219"
                         }
                       ]
                     }
@@ -46831,7 +46839,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "60",
+                  "valor": "59",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -46890,7 +46898,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "60"
+                          "stock": "59"
                         }
                       ]
                     }
@@ -62213,5 +62221,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1780426088511
+  "timestamp_ms": 1780426962053
 }
