@@ -28181,7 +28181,7 @@
                   "archivo_id": "13aVXcwN11XoaczmcF0x_0vx5HT7kHPWj",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-06-04T10:50:38.215Z"
+                  "fecha_carga": "2026-06-04T15:05:51.545Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1348%2FJOGG1348-12O4o.png",
@@ -28189,7 +28189,7 @@
                   "archivo_id": "12O4oYEqJY1X49gvF9v3DQ_UV5VZ0zhaj",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-06-04T10:50:38.215Z"
+                  "fecha_carga": "2026-06-04T15:05:51.545Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1348%2FJOGG1348-1jbee.png",
@@ -28197,7 +28197,15 @@
                   "archivo_id": "1jbeec7cbliBOmAU2pM5Eh6jm9gDwHBA6",
                   "portada": false,
                   "orden": 8,
-                  "fecha_carga": "2026-06-04T10:50:38.215Z"
+                  "fecha_carga": "2026-06-04T15:05:51.545Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1348%2FJOGG1348-1FBsv.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1348%2FJOGG1348-1FBsv.png",
+                  "archivo_id": "1FBsv-NyJqmjAs6k63DPjA8uFqTXR-G2S",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-06-04T15:05:51.545Z"
                 }
               ],
               "variedad": [
@@ -28796,7 +28804,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2427%2FJOGG2427-1dzg7.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2427%2FJOGG2427-1dzg7.jpg",
                   "archivo_id": "1dzg7HWOocCTUC-HqJxuPnYhr1bLUJx-r",
-                  "portada": false,
+                  "portada": true,
                   "orden": 2,
                   "fecha_carga": "2026-04-23T16:22:32.376Z"
                 },
@@ -28804,7 +28812,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2427%2FJOGG2427-13jNC.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2427%2FJOGG2427-13jNC.jpg",
                   "archivo_id": "13jNCtIPZYNFSd8bcR07F3QH2wSQt_poO",
-                  "portada": true,
+                  "portada": false,
                   "orden": 4,
                   "fecha_carga": "2026-04-23T16:22:32.376Z"
                 }
@@ -46953,7 +46961,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "57",
+                  "valor": "56",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -47012,7 +47020,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "57"
+                          "stock": "56"
                         }
                       ]
                     }
@@ -62375,5 +62383,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1780585359312
+  "timestamp_ms": 1780586287980
 }
