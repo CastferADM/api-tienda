@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T14:30:20.193Z",
+  "generated_at": "2026-06-05T14:45:24.937Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36113,7 +36113,7 @@
       "id": "CAMP6893",
       "model": "Gamulan",
       "price": 28500,
-      "display_price": 42750,
+      "display_price": 40000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -36130,31 +36130,19 @@
         {
           "variedad_id": "CAMP6893-Docena",
           "nombre": "Docena",
-          "precio_unitario": 42750,
+          "precio_unitario": 40000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "CAMP6893-Media-Docena",
           "nombre": "Media-Docena",
-          "precio_unitario": 42750,
+          "precio_unitario": 40000,
           "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP6893-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 42750,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "CAMP6893-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 42750,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP6893-Menor",
           "nombre": "Menor",
-          "precio_unitario": 57000,
+          "precio_unitario": 55000,
           "cantidad_minima": 1
         }
       ],
@@ -36204,15 +36192,9 @@
           "cantidad_minima": 6
         },
         {
-          "variedad_id": "CHAL7718-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 33000,
-          "cantidad_minima": 4
-        },
-        {
           "variedad_id": "CHAL7718-Menor",
           "nombre": "Menor",
-          "precio_unitario": 44000,
+          "precio_unitario": 45000,
           "cantidad_minima": 1
         }
       ],
@@ -36235,7 +36217,7 @@
       "id": "CAMP2546",
       "model": "Bomber NASA con piel",
       "price": 26500,
-      "display_price": 39750,
+      "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -36252,31 +36234,19 @@
         {
           "variedad_id": "CAMP2546-Docena",
           "nombre": "Docena",
-          "precio_unitario": 39750,
+          "precio_unitario": 35000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "CAMP2546-Media-Docena",
           "nombre": "Media-Docena",
-          "precio_unitario": 39750,
+          "precio_unitario": 35000,
           "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP2546-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 39750,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "CAMP2546-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 39750,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP2546-Menor",
           "nombre": "Menor",
-          "precio_unitario": 53000,
+          "precio_unitario": 45000,
           "cantidad_minima": 1
         }
       ],
@@ -41200,31 +41170,19 @@
       {
         "variedad_id": "CAMP6893-Docena",
         "nombre": "Docena",
-        "precio_unitario": 42750,
+        "precio_unitario": 40000,
         "cantidad_minima": 12
       },
       {
         "variedad_id": "CAMP6893-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 42750,
+        "precio_unitario": 40000,
         "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP6893-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 42750,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP6893-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 42750,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP6893-Menor",
         "nombre": "Menor",
-        "precio_unitario": 57000,
+        "precio_unitario": 55000,
         "cantidad_minima": 1
       }
     ],
@@ -41242,15 +41200,9 @@
         "cantidad_minima": 6
       },
       {
-        "variedad_id": "CHAL7718-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 33000,
-        "cantidad_minima": 4
-      },
-      {
         "variedad_id": "CHAL7718-Menor",
         "nombre": "Menor",
-        "precio_unitario": 44000,
+        "precio_unitario": 45000,
         "cantidad_minima": 1
       }
     ],
@@ -41258,31 +41210,19 @@
       {
         "variedad_id": "CAMP2546-Docena",
         "nombre": "Docena",
-        "precio_unitario": 39750,
+        "precio_unitario": 35000,
         "cantidad_minima": 12
       },
       {
         "variedad_id": "CAMP2546-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 39750,
+        "precio_unitario": 35000,
         "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP2546-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 39750,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "CAMP2546-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 39750,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP2546-Menor",
         "nombre": "Menor",
-        "precio_unitario": 53000,
+        "precio_unitario": 45000,
         "cantidad_minima": 1
       }
     ]
@@ -43614,5 +43554,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780669939295
+  "timestamp_ms": 1780670864634
 }
