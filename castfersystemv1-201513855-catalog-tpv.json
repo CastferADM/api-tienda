@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T15:15:19.251Z",
+  "generated_at": "2026-06-05T20:15:18.956Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -14563,7 +14563,7 @@
       "brand": "I-RUN",
       "style": "Liso",
       "material": "Gabardina",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6124%2FPANT6124-1F9MK.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6124%2FPANT6124-1hD8p.jpg",
       "carpeta_id": "1jLf3L7ZGzPqiXUM-p72HF-8-s5KFODVW",
       "woo_id": 33438,
       "varieties": [
@@ -36264,6 +36264,51 @@
           "variation_id": "CAMP2546-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "CAMP5671",
+      "model": "Neoprem termica Talles Especiales",
+      "price": 32000,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "CAMP5671-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 48000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP5671-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 48000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP5671-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 48000,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CAMP5671-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 64000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": []
     }
   ],
   "priceConfig": {
@@ -41225,6 +41270,32 @@
         "precio_unitario": 45000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP5671": [
+      {
+        "variedad_id": "CAMP5671-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP5671-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP5671-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 48000,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CAMP5671-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 64000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -43554,5 +43625,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780672609225
+  "timestamp_ms": 1780690634942
 }
