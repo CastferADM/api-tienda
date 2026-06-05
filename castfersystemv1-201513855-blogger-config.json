@@ -46258,20 +46258,28 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-11iyX.jpeg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-11iyX.jpeg",
-                  "archivo_id": "11iyXzxew17TAemfgip60C6Sl21o2qdR1",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-06-05T22:30:53.900Z"
-                },
-                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1Mi6O.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1Mi6O.png",
                   "archivo_id": "1Mi6O8mWL_NKqc61AwpLs9yMxzKk71Kat",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-06-05T23:02:57.496Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-11iyX.jpeg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-11iyX.jpeg",
+                  "archivo_id": "11iyXzxew17TAemfgip60C6Sl21o2qdR1",
                   "portada": false,
-                  "orden": 4,
-                  "fecha_carga": "2026-06-05T22:30:53.900Z"
+                  "orden": 2,
+                  "fecha_carga": "2026-06-05T23:02:57.496Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1SZFV.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1SZFV.png",
+                  "archivo_id": "1SZFVvBtMGwk8Oaiz-eZMpePzgl3vIinb",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-06-05T23:02:57.496Z"
                 }
               ],
               "variedad": [
@@ -62921,5 +62929,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1780699624324
+  "timestamp_ms": 1780701457212
 }
