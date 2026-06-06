@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T02:45:20.155Z",
+  "generated_at": "2026-06-06T09:00:23.897Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36123,7 +36123,7 @@
       "brand": "YD",
       "style": "Liso",
       "material": "",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP6893%2FCAMP6893-1aWdM.webp",
       "carpeta_id": "1RGZl7TM1-Gg0suDcZWjWURK7gzjc6QSW",
       "woo_id": 39568,
       "varieties": [
@@ -36217,7 +36217,7 @@
       "id": "CAMP2546",
       "model": "Bomber NASA con piel",
       "price": 26500,
-      "display_price": 35000,
+      "display_price": 36000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -36227,20 +36227,20 @@
       "brand": "URUS",
       "style": "Liso",
       "material": "CIRE",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-142EL.webp",
       "carpeta_id": "19xcvJUBffCkv9TgsXJApJwJu3A_MU0st",
       "woo_id": 39579,
       "varieties": [
         {
           "variedad_id": "CAMP2546-Docena",
           "nombre": "Docena",
-          "precio_unitario": 35000,
+          "precio_unitario": 36000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "CAMP2546-Media-Docena",
           "nombre": "Media-Docena",
-          "precio_unitario": 35000,
+          "precio_unitario": 36000,
           "cantidad_minima": 6
         },
         {
@@ -36290,25 +36290,26 @@
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "CAMP5671-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 48000,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP5671-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 48000,
-          "cantidad_minima": 4
-        },
-        {
           "variedad_id": "CAMP5671-Menor",
           "nombre": "Menor",
           "precio_unitario": 64000,
           "cantidad_minima": 1
         }
       ],
-      "variations": []
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP5671-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP5671-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -41255,13 +41256,13 @@
       {
         "variedad_id": "CAMP2546-Docena",
         "nombre": "Docena",
-        "precio_unitario": 35000,
+        "precio_unitario": 36000,
         "cantidad_minima": 12
       },
       {
         "variedad_id": "CAMP2546-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 35000,
+        "precio_unitario": 36000,
         "cantidad_minima": 6
       },
       {
@@ -41277,18 +41278,6 @@
         "nombre": "Docena",
         "precio_unitario": 48000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP5671-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 48000,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP5671-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 48000,
-        "cantidad_minima": 4
       },
       {
         "variedad_id": "CAMP5671-Menor",
@@ -43625,5 +43614,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780714015102
+  "timestamp_ms": 1780736514544
 }
