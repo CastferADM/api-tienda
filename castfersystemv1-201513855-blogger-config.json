@@ -746,7 +746,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/mochila.svg",
           "producto": [
             {
-              "codigo": 446,
+              "codigo": 450,
               "categoria": "Mochila",
               "nombre": "MOCH1013",
               "descripcion": {
@@ -850,7 +850,7 @@
               "upd": "2025-10-21T07:00:00.000Z"
             },
             {
-              "codigo": 447,
+              "codigo": 451,
               "categoria": "Mochila",
               "nombre": "MOCH2922",
               "descripcion": {
@@ -943,7 +943,7 @@
               "upd": "2025-09-09T07:00:00.000Z"
             },
             {
-              "codigo": 448,
+              "codigo": 452,
               "categoria": "Mochila",
               "nombre": "MOCH3076",
               "descripcion": {
@@ -1036,7 +1036,7 @@
               "upd": "2025-09-09T07:00:00.000Z"
             },
             {
-              "codigo": 449,
+              "codigo": 453,
               "categoria": "Mochila",
               "nombre": "MOCH5800",
               "descripcion": {
@@ -9282,7 +9282,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "24",
+                  "valor": "23",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9394,7 +9394,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "24"
+                          "stock": "23"
                         }
                       ]
                     }
@@ -29523,6 +29523,111 @@
             {
               "codigo": 358,
               "categoria": "Joggers",
+              "nombre": "JOGG2630",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cargo con cierre Bulldog"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "I-RUN"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "-"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "40",
+                    "42",
+                    "44",
+                    "46",
+                    "48",
+                    "50"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "06-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1132264462,
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2630%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20con%20cierre%20Bulldog%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048%2C%2050"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Media-Docena",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 32000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-06T07:00:00.000Z"
+            },
+            {
+              "codigo": 362,
+              "categoria": "Joggers",
               "nombre": "JOGG3364",
               "descripcion": {
                 "modelo": {
@@ -29682,7 +29787,7 @@
               "upd": "2026-02-20T08:00:00.000Z"
             },
             {
-              "codigo": 360,
+              "codigo": 364,
               "categoria": "Joggers",
               "nombre": "JOGG3618",
               "descripcion": {
@@ -29816,7 +29921,7 @@
               "upd": "2025-09-05T07:00:00.000Z"
             },
             {
-              "codigo": 361,
+              "codigo": 365,
               "categoria": "Joggers",
               "nombre": "JOGG3649",
               "descripcion": {
@@ -29990,7 +30095,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 362,
+              "codigo": 366,
               "categoria": "Joggers",
               "nombre": "JOGG3994",
               "descripcion": {
@@ -30184,7 +30289,7 @@
               "upd": "2025-08-19T07:00:00.000Z"
             },
             {
-              "codigo": 363,
+              "codigo": 367,
               "categoria": "Joggers",
               "nombre": "JOGG4218",
               "descripcion": {
@@ -30368,7 +30473,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 364,
+              "codigo": 368,
               "categoria": "Joggers",
               "nombre": "JOGG4505",
               "descripcion": {
@@ -30572,7 +30677,7 @@
               "upd": "2026-03-14T07:00:00.000Z"
             },
             {
-              "codigo": 366,
+              "codigo": 370,
               "categoria": "Joggers",
               "nombre": "JOGG4575",
               "descripcion": {
@@ -30684,7 +30789,7 @@
               "upd": "2026-04-08T07:00:00.000Z"
             },
             {
-              "codigo": 369,
+              "codigo": 373,
               "categoria": "Joggers",
               "nombre": "JOGG5692",
               "descripcion": {
@@ -30796,7 +30901,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 370,
+              "codigo": 374,
               "categoria": "Joggers",
               "nombre": "JOGG5979",
               "descripcion": {
@@ -30967,7 +31072,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 371,
+              "codigo": 375,
               "categoria": "Joggers",
               "nombre": "JOGG6137",
               "descripcion": {
@@ -31103,7 +31208,7 @@
               "upd": "2025-09-09T07:00:00.000Z"
             },
             {
-              "codigo": 372,
+              "codigo": 376,
               "categoria": "Joggers",
               "nombre": "JOGG6718",
               "descripcion": {
@@ -31285,7 +31390,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 373,
+              "codigo": 377,
               "categoria": "Joggers",
               "nombre": "JOGG6891",
               "descripcion": {
@@ -31459,7 +31564,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 374,
+              "codigo": 378,
               "categoria": "Joggers",
               "nombre": "JOGG7138",
               "descripcion": {
@@ -31557,7 +31662,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 375,
+              "codigo": 379,
               "categoria": "Joggers",
               "nombre": "JOGG8083",
               "descripcion": {
@@ -31667,7 +31772,7 @@
               "upd": "2025-09-03T07:00:00.000Z"
             },
             {
-              "codigo": 376,
+              "codigo": 380,
               "categoria": "Joggers",
               "nombre": "JOGG8816",
               "descripcion": {
@@ -31846,7 +31951,7 @@
               "upd": "2025-11-15T08:00:00.000Z"
             },
             {
-              "codigo": 378,
+              "codigo": 382,
               "categoria": "Joggers",
               "nombre": "JOGG8912",
               "descripcion": {
@@ -31935,7 +32040,7 @@
               "upd": "2026-02-21T08:00:00.000Z"
             },
             {
-              "codigo": 379,
+              "codigo": 383,
               "categoria": "Joggers",
               "nombre": "JOGG9495",
               "descripcion": {
@@ -32090,7 +32195,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 380,
+              "codigo": 384,
               "categoria": "Joggers",
               "nombre": "JOGG9674",
               "descripcion": {
@@ -32276,7 +32381,7 @@
               "upd": "2025-08-21T07:00:00.000Z"
             },
             {
-              "codigo": 381,
+              "codigo": 385,
               "categoria": "Joggers",
               "nombre": "JOGG9948",
               "descripcion": {
@@ -32406,7 +32511,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 382,
+              "codigo": 386,
               "categoria": "Jogging",
               "nombre": "JOGG1168",
               "descripcion": {
@@ -32585,7 +32690,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 383,
+              "codigo": 387,
               "categoria": "Jogging",
               "nombre": "JOGG1309",
               "descripcion": {
@@ -32740,7 +32845,7 @@
               "upd": "2026-03-25T07:00:00.000Z"
             },
             {
-              "codigo": 384,
+              "codigo": 388,
               "categoria": "Jogging",
               "nombre": "JOGG1971",
               "descripcion": {
@@ -32865,7 +32970,7 @@
               "upd": "2025-08-25T07:00:00.000Z"
             },
             {
-              "codigo": 386,
+              "codigo": 390,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "descripcion": {
@@ -33053,7 +33158,7 @@
               "upd": "2025-08-13T07:00:00.000Z"
             },
             {
-              "codigo": 388,
+              "codigo": 392,
               "categoria": "Jogging",
               "nombre": "JOGG3224",
               "descripcion": {
@@ -33224,7 +33329,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 389,
+              "codigo": 393,
               "categoria": "Jogging",
               "nombre": "JOGG5725",
               "descripcion": {
@@ -33395,7 +33500,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 390,
+              "codigo": 394,
               "categoria": "Jogging",
               "nombre": "JOGG8863",
               "descripcion": {
@@ -33575,7 +33680,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 391,
+              "codigo": 395,
               "categoria": "Jogging",
               "nombre": "JOGG9403",
               "descripcion": {
@@ -33754,7 +33859,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg",
           "producto": [
             {
-              "codigo": 450,
+              "codigo": 454,
               "categoria": "Musculosa",
               "nombre": "MUSC1197",
               "descripcion": {
@@ -33879,7 +33984,7 @@
               "upd": "2025-10-20T07:00:00.000Z"
             },
             {
-              "codigo": 451,
+              "codigo": 455,
               "categoria": "Musculosa",
               "nombre": "MUSC4466",
               "descripcion": {
@@ -34008,7 +34113,7 @@
               "upd": "2025-10-21T07:00:00.000Z"
             },
             {
-              "codigo": 452,
+              "codigo": 456,
               "categoria": "Musculosa",
               "nombre": "MUSC6180",
               "descripcion": {
@@ -34136,7 +34241,7 @@
               "upd": "2025-10-20T07:00:00.000Z"
             },
             {
-              "codigo": 453,
+              "codigo": 457,
               "categoria": "Musculosa",
               "nombre": "MUSC6658",
               "descripcion": {
@@ -34244,7 +34349,7 @@
               "upd": "2025-10-20T07:00:00.000Z"
             },
             {
-              "codigo": 454,
+              "codigo": 458,
               "categoria": "Musculosa",
               "nombre": "MUSC8127",
               "descripcion": {
@@ -34349,7 +34454,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 455,
+              "codigo": 459,
               "categoria": "Pantalon",
               "nombre": "PANT1062",
               "descripcion": {
@@ -34442,7 +34547,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 456,
+              "codigo": 460,
               "categoria": "Pantalon",
               "nombre": "PANT1236",
               "descripcion": {
@@ -34567,7 +34672,7 @@
               "upd": "2026-04-16T07:00:00.000Z"
             },
             {
-              "codigo": 457,
+              "codigo": 461,
               "categoria": "Pantalon",
               "nombre": "PANT1252",
               "descripcion": {
@@ -34622,7 +34727,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "31",
+                  "valor": "30",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -34673,7 +34778,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "31"
+                          "stock": "30"
                         }
                       ]
                     }
@@ -34690,7 +34795,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "31"
+                          "stock": "30"
                         }
                       ]
                     }
@@ -34700,7 +34805,7 @@
               "upd": "2026-04-18T07:00:00.000Z"
             },
             {
-              "codigo": 459,
+              "codigo": 463,
               "categoria": "Pantalon",
               "nombre": "PANT1318",
               "descripcion": {
@@ -34774,8 +34879,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "5",
-                  "estado": "Media"
+                  "valor": "4",
+                  "estado": "Baja"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -34809,7 +34914,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "5"
+                          "stock": "4"
                         }
                       ]
                     }
@@ -34826,7 +34931,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "5"
+                          "stock": "4"
                         }
                       ]
                     }
@@ -34836,7 +34941,7 @@
               "upd": "2026-02-03T08:00:00.000Z"
             },
             {
-              "codigo": 461,
+              "codigo": 465,
               "categoria": "Pantalon",
               "nombre": "PANT1477",
               "descripcion": {
@@ -34952,7 +35057,7 @@
               "upd": "2026-01-08T08:00:00.000Z"
             },
             {
-              "codigo": 463,
+              "codigo": 467,
               "categoria": "Pantalon",
               "nombre": "PANT1507",
               "descripcion": {
@@ -35109,7 +35214,7 @@
               "upd": "2025-12-12T08:00:00.000Z"
             },
             {
-              "codigo": 465,
+              "codigo": 469,
               "categoria": "Pantalon",
               "nombre": "PANT1627",
               "descripcion": {
@@ -35243,7 +35348,7 @@
               "upd": "2026-01-27T08:00:00.000Z"
             },
             {
-              "codigo": 466,
+              "codigo": 470,
               "categoria": "Pantalon",
               "nombre": "PANT1661",
               "descripcion": {
@@ -35357,7 +35462,7 @@
               "upd": "2026-04-13T07:00:00.000Z"
             },
             {
-              "codigo": 467,
+              "codigo": 471,
               "categoria": "Pantalon",
               "nombre": "PANT1760",
               "descripcion": {
@@ -35452,7 +35557,7 @@
               "upd": "2026-01-29T08:00:00.000Z"
             },
             {
-              "codigo": 468,
+              "codigo": 472,
               "categoria": "Pantalon",
               "nombre": "PANT1775",
               "descripcion": {
@@ -35565,7 +35670,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 469,
+              "codigo": 473,
               "categoria": "Pantalon",
               "nombre": "PANT1977",
               "descripcion": {
@@ -35684,7 +35789,7 @@
               "upd": "2026-04-23T07:00:00.000Z"
             },
             {
-              "codigo": 471,
+              "codigo": 475,
               "categoria": "Pantalon",
               "nombre": "PANT2074",
               "descripcion": {
@@ -35797,7 +35902,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 472,
+              "codigo": 476,
               "categoria": "Pantalon",
               "nombre": "PANT2514",
               "descripcion": {
@@ -35988,7 +36093,7 @@
               "upd": "2026-02-14T08:00:00.000Z"
             },
             {
-              "codigo": 473,
+              "codigo": 477,
               "categoria": "Pantalon",
               "nombre": "PANT2662",
               "descripcion": {
@@ -36113,7 +36218,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 474,
+              "codigo": 478,
               "categoria": "Pantalon",
               "nombre": "PANT2685",
               "descripcion": {
@@ -36249,7 +36354,7 @@
               "upd": "2025-12-12T08:00:00.000Z"
             },
             {
-              "codigo": 475,
+              "codigo": 479,
               "categoria": "Pantalon",
               "nombre": "PANT2728",
               "descripcion": {
@@ -36410,7 +36515,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 476,
+              "codigo": 480,
               "categoria": "Pantalon",
               "nombre": "PANT2769",
               "descripcion": {
@@ -36520,7 +36625,7 @@
               "upd": "2026-04-18T07:00:00.000Z"
             },
             {
-              "codigo": 478,
+              "codigo": 482,
               "categoria": "Pantalon",
               "nombre": "PANT2984",
               "descripcion": {
@@ -36654,7 +36759,7 @@
               "upd": "2025-09-18T07:00:00.000Z"
             },
             {
-              "codigo": 479,
+              "codigo": 483,
               "categoria": "Pantalon",
               "nombre": "PANT3220",
               "descripcion": {
@@ -36784,7 +36889,7 @@
               "upd": "2026-03-15T07:00:00.000Z"
             },
             {
-              "codigo": 480,
+              "codigo": 484,
               "categoria": "Pantalon",
               "nombre": "PANT3291",
               "descripcion": {
@@ -36905,7 +37010,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 481,
+              "codigo": 485,
               "categoria": "Pantalon",
               "nombre": "PANT3327",
               "descripcion": {
@@ -37077,7 +37182,7 @@
               "upd": "2026-05-29T07:00:00.000Z"
             },
             {
-              "codigo": 483,
+              "codigo": 487,
               "categoria": "Pantalon",
               "nombre": "PANT3385",
               "descripcion": {
@@ -37230,7 +37335,7 @@
               "upd": "2026-04-14T07:00:00.000Z"
             },
             {
-              "codigo": 485,
+              "codigo": 489,
               "categoria": "Pantalon",
               "nombre": "PANT4022",
               "descripcion": {
@@ -37411,7 +37516,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 486,
+              "codigo": 490,
               "categoria": "Pantalon",
               "nombre": "PANT4185",
               "descripcion": {
@@ -37558,7 +37663,7 @@
               "upd": "2026-04-13T07:00:00.000Z"
             },
             {
-              "codigo": 488,
+              "codigo": 492,
               "categoria": "Pantalon",
               "nombre": "PANT4283",
               "descripcion": {
@@ -37665,7 +37770,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 489,
+              "codigo": 493,
               "categoria": "Pantalon",
               "nombre": "PANT4318",
               "descripcion": {
@@ -37771,7 +37876,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 490,
+              "codigo": 494,
               "categoria": "Pantalon",
               "nombre": "PANT4502",
               "descripcion": {
@@ -37864,7 +37969,7 @@
               "upd": "2026-04-16T07:00:00.000Z"
             },
             {
-              "codigo": 491,
+              "codigo": 495,
               "categoria": "Pantalon",
               "nombre": "PANT4741",
               "descripcion": {
@@ -38013,7 +38118,7 @@
               "upd": "2026-04-16T07:00:00.000Z"
             },
             {
-              "codigo": 492,
+              "codigo": 496,
               "categoria": "Pantalon",
               "nombre": "PANT4771",
               "descripcion": {
@@ -38126,7 +38231,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 493,
+              "codigo": 497,
               "categoria": "Pantalon",
               "nombre": "PANT4858",
               "descripcion": {
@@ -38233,7 +38338,7 @@
               "upd": "2025-11-03T08:00:00.000Z"
             },
             {
-              "codigo": 494,
+              "codigo": 498,
               "categoria": "Pantalon",
               "nombre": "PANT4942",
               "descripcion": {
@@ -38324,7 +38429,7 @@
               "upd": "2025-10-07T07:00:00.000Z"
             },
             {
-              "codigo": 495,
+              "codigo": 499,
               "categoria": "Pantalon",
               "nombre": "PANT5032",
               "descripcion": {
@@ -38408,7 +38513,7 @@
               "upd": "2025-08-19T07:00:00.000Z"
             },
             {
-              "codigo": 496,
+              "codigo": 500,
               "categoria": "Pantalon",
               "nombre": "PANT5330",
               "descripcion": {
@@ -38509,7 +38614,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 497,
+              "codigo": 501,
               "categoria": "Pantalon",
               "nombre": "PANT5424",
               "descripcion": {
@@ -38705,7 +38810,7 @@
               "upd": "2026-04-23T07:00:00.000Z"
             },
             {
-              "codigo": 500,
+              "codigo": 504,
               "categoria": "Pantalon",
               "nombre": "PANT5527",
               "descripcion": {
@@ -38806,7 +38911,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 501,
+              "codigo": 505,
               "categoria": "Pantalon",
               "nombre": "PANT5536",
               "descripcion": {
@@ -38982,7 +39087,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 502,
+              "codigo": 506,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "descripcion": {
@@ -39098,7 +39203,7 @@
               "upd": "2026-05-05T07:00:00.000Z"
             },
             {
-              "codigo": 504,
+              "codigo": 508,
               "categoria": "Pantalon",
               "nombre": "PANT5822",
               "descripcion": {
@@ -39215,7 +39320,7 @@
               "upd": "2026-04-16T07:00:00.000Z"
             },
             {
-              "codigo": 505,
+              "codigo": 509,
               "categoria": "Pantalon",
               "nombre": "PANT6003",
               "descripcion": {
@@ -39351,7 +39456,7 @@
               "upd": "2026-04-09T07:00:00.000Z"
             },
             {
-              "codigo": 507,
+              "codigo": 511,
               "categoria": "Pantalon",
               "nombre": "PANT6103",
               "descripcion": {
@@ -39466,7 +39571,7 @@
               "upd": "2026-05-08T07:00:00.000Z"
             },
             {
-              "codigo": 509,
+              "codigo": 513,
               "categoria": "Pantalon",
               "nombre": "PANT6124",
               "descripcion": {
@@ -39585,7 +39690,7 @@
               "upd": "2025-09-10T07:00:00.000Z"
             },
             {
-              "codigo": 511,
+              "codigo": 515,
               "categoria": "Pantalon",
               "nombre": "PANT6757",
               "descripcion": {
@@ -39779,7 +39884,7 @@
               "upd": "2026-03-17T07:00:00.000Z"
             },
             {
-              "codigo": 513,
+              "codigo": 517,
               "categoria": "Pantalon",
               "nombre": "PANT7001",
               "descripcion": {
@@ -39896,7 +40001,7 @@
               "upd": "2025-08-19T07:00:00.000Z"
             },
             {
-              "codigo": 514,
+              "codigo": 518,
               "categoria": "Pantalon",
               "nombre": "PANT7378",
               "descripcion": {
@@ -40062,7 +40167,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 515,
+              "codigo": 519,
               "categoria": "Pantalon",
               "nombre": "PANT7607",
               "descripcion": {
@@ -40174,7 +40279,7 @@
               "upd": "2025-09-12T07:00:00.000Z"
             },
             {
-              "codigo": 516,
+              "codigo": 520,
               "categoria": "Pantalon",
               "nombre": "PANT7653",
               "descripcion": {
@@ -40282,7 +40387,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 517,
+              "codigo": 521,
               "categoria": "Pantalon",
               "nombre": "PANT7825",
               "descripcion": {
@@ -40437,7 +40542,7 @@
               "upd": "2026-05-08T07:00:00.000Z"
             },
             {
-              "codigo": 519,
+              "codigo": 523,
               "categoria": "Pantalon",
               "nombre": "PANT8032",
               "descripcion": {
@@ -40559,7 +40664,7 @@
               "upd": "2025-08-29T07:00:00.000Z"
             },
             {
-              "codigo": 520,
+              "codigo": 524,
               "categoria": "Pantalon",
               "nombre": "PANT8330",
               "descripcion": {
@@ -40676,7 +40781,7 @@
               "upd": "2025-10-23T07:00:00.000Z"
             },
             {
-              "codigo": 521,
+              "codigo": 525,
               "categoria": "Pantalon",
               "nombre": "PANT8374",
               "descripcion": {
@@ -40798,7 +40903,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 522,
+              "codigo": 526,
               "categoria": "Pantalon",
               "nombre": "PANT8379",
               "descripcion": {
@@ -40900,7 +41005,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 523,
+              "codigo": 527,
               "categoria": "Pantalon",
               "nombre": "PANT8425",
               "descripcion": {
@@ -41019,7 +41124,7 @@
               "upd": "2025-12-13T08:00:00.000Z"
             },
             {
-              "codigo": 524,
+              "codigo": 528,
               "categoria": "Pantalon",
               "nombre": "PANT8555",
               "descripcion": {
@@ -41115,7 +41220,7 @@
               "upd": "2025-08-27T07:00:00.000Z"
             },
             {
-              "codigo": 525,
+              "codigo": 529,
               "categoria": "Pantalon",
               "nombre": "PANT8742",
               "descripcion": {
@@ -41210,7 +41315,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 526,
+              "codigo": 530,
               "categoria": "Pantalon",
               "nombre": "PANT8857",
               "descripcion": {
@@ -41297,7 +41402,7 @@
               "upd": "2026-04-16T07:00:00.000Z"
             },
             {
-              "codigo": 527,
+              "codigo": 531,
               "categoria": "Pantalon",
               "nombre": "PANT9067",
               "descripcion": {
@@ -41409,7 +41514,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 528,
+              "codigo": 532,
               "categoria": "Pantalon",
               "nombre": "PANT9366",
               "descripcion": {
@@ -41534,7 +41639,7 @@
               "upd": "2025-10-08T07:00:00.000Z"
             },
             {
-              "codigo": 530,
+              "codigo": 534,
               "categoria": "Pantalon",
               "nombre": "PANT9575",
               "descripcion": {
@@ -41653,7 +41758,7 @@
               "upd": "2025-08-29T07:00:00.000Z"
             },
             {
-              "codigo": 532,
+              "codigo": 536,
               "categoria": "Pantalon",
               "nombre": "PANT9704",
               "descripcion": {
@@ -41769,7 +41874,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 533,
+              "codigo": 537,
               "categoria": "Pantalon",
               "nombre": "PANT9862",
               "descripcion": {
@@ -41962,7 +42067,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/parka.svg",
           "producto": [
             {
-              "codigo": 534,
+              "codigo": 538,
               "categoria": "Parka",
               "nombre": "PARK7162",
               "descripcion": {
@@ -42077,7 +42182,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 535,
+              "codigo": 539,
               "categoria": "Remera",
               "nombre": "REME1051",
               "descripcion": {
@@ -42201,7 +42306,7 @@
               "upd": "2026-01-26T08:00:00.000Z"
             },
             {
-              "codigo": 536,
+              "codigo": 540,
               "categoria": "Remera",
               "nombre": "REME1493",
               "descripcion": {
@@ -42326,7 +42431,7 @@
               "upd": "2025-10-20T07:00:00.000Z"
             },
             {
-              "codigo": 537,
+              "codigo": 541,
               "categoria": "Remera",
               "nombre": "REME2460",
               "descripcion": {
@@ -42462,7 +42567,7 @@
               "upd": "2025-10-20T07:00:00.000Z"
             },
             {
-              "codigo": 538,
+              "codigo": 542,
               "categoria": "Remera",
               "nombre": "REME2547",
               "descripcion": {
@@ -42509,7 +42614,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "82",
+                  "valor": "77",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -42568,7 +42673,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "82"
+                          "stock": "77"
                         }
                       ]
                     }
@@ -42578,7 +42683,7 @@
               "upd": "2026-01-12T08:00:00.000Z"
             },
             {
-              "codigo": 539,
+              "codigo": 543,
               "categoria": "Remera",
               "nombre": "REME3620",
               "descripcion": {
@@ -42742,7 +42847,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 540,
+              "codigo": 544,
               "categoria": "Remera",
               "nombre": "REME3916",
               "descripcion": {
@@ -42930,7 +43035,7 @@
               "upd": "2025-08-08T07:00:00.000Z"
             },
             {
-              "codigo": 541,
+              "codigo": 545,
               "categoria": "Remera",
               "nombre": "REME4747",
               "descripcion": {
@@ -43084,7 +43189,7 @@
               "upd": "2025-09-07T07:00:00.000Z"
             },
             {
-              "codigo": 542,
+              "codigo": 546,
               "categoria": "Remera",
               "nombre": "REME4798",
               "descripcion": {
@@ -43213,7 +43318,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 543,
+              "codigo": 547,
               "categoria": "Remera",
               "nombre": "REME5487",
               "descripcion": {
@@ -43405,7 +43510,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 544,
+              "codigo": 548,
               "categoria": "Remera",
               "nombre": "REME5523",
               "descripcion": {
@@ -43509,7 +43614,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 545,
+              "codigo": 549,
               "categoria": "Remera",
               "nombre": "REME5666",
               "descripcion": {
@@ -43638,7 +43743,7 @@
               "upd": "2025-12-12T08:00:00.000Z"
             },
             {
-              "codigo": 547,
+              "codigo": 551,
               "categoria": "Remera",
               "nombre": "REME6020",
               "descripcion": {
@@ -43754,7 +43859,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 548,
+              "codigo": 552,
               "categoria": "Remera",
               "nombre": "REME6930",
               "descripcion": {
@@ -43910,7 +44015,7 @@
               "upd": "2025-09-07T07:00:00.000Z"
             },
             {
-              "codigo": 549,
+              "codigo": 553,
               "categoria": "Remera",
               "nombre": "REME7823",
               "descripcion": {
@@ -44043,7 +44148,7 @@
               "upd": "2025-10-27T07:00:00.000Z"
             },
             {
-              "codigo": 550,
+              "codigo": 554,
               "categoria": "Remera",
               "nombre": "REME8635",
               "descripcion": {
@@ -44143,7 +44248,7 @@
               "upd": "2025-12-12T08:00:00.000Z"
             },
             {
-              "codigo": 551,
+              "codigo": 555,
               "categoria": "Remera",
               "nombre": "REME8708",
               "descripcion": {
@@ -44279,7 +44384,7 @@
               "upd": "2025-12-12T08:00:00.000Z"
             },
             {
-              "codigo": 552,
+              "codigo": 556,
               "categoria": "Remera",
               "nombre": "REME9880",
               "descripcion": {
@@ -44398,7 +44503,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sacoo_blazer.svg",
           "producto": [
             {
-              "codigo": 553,
+              "codigo": 557,
               "categoria": "Sacoo Blazer",
               "nombre": "SACO5319",
               "descripcion": {
@@ -44524,7 +44629,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
           "producto": [
             {
-              "codigo": 554,
+              "codigo": 558,
               "categoria": "Short",
               "nombre": "SHOR1681",
               "descripcion": {
@@ -44655,7 +44760,7 @@
               "upd": "2025-09-22T07:00:00.000Z"
             },
             {
-              "codigo": 555,
+              "codigo": 559,
               "categoria": "Short",
               "nombre": "SHOR1954",
               "descripcion": {
@@ -44811,7 +44916,7 @@
               "upd": "2025-08-17T07:00:00.000Z"
             },
             {
-              "codigo": 556,
+              "codigo": 560,
               "categoria": "Short",
               "nombre": "SHOR2406",
               "descripcion": {
@@ -44896,7 +45001,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 558,
+              "codigo": 562,
               "categoria": "Short",
               "nombre": "SHOR2847",
               "descripcion": {
@@ -45072,7 +45177,7 @@
               "upd": "2025-08-25T07:00:00.000Z"
             },
             {
-              "codigo": 559,
+              "codigo": 563,
               "categoria": "Short",
               "nombre": "SHOR3080",
               "descripcion": {
@@ -45164,7 +45269,7 @@
               "upd": "2025-12-22T08:00:00.000Z"
             },
             {
-              "codigo": 560,
+              "codigo": 564,
               "categoria": "Short",
               "nombre": "SHOR4735",
               "descripcion": {
@@ -45279,7 +45384,7 @@
               "upd": "2026-01-23T08:00:00.000Z"
             },
             {
-              "codigo": 561,
+              "codigo": 565,
               "categoria": "Short",
               "nombre": "SHOR4900",
               "descripcion": {
@@ -45460,7 +45565,7 @@
               "upd": "2025-08-17T07:00:00.000Z"
             },
             {
-              "codigo": 562,
+              "codigo": 566,
               "categoria": "Short",
               "nombre": "SHOR5755",
               "descripcion": {
@@ -45606,7 +45711,7 @@
               "upd": "2025-12-19T08:00:00.000Z"
             },
             {
-              "codigo": 564,
+              "codigo": 568,
               "categoria": "Short",
               "nombre": "SHOR5944",
               "descripcion": {
@@ -45691,7 +45796,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 566,
+              "codigo": 570,
               "categoria": "Short",
               "nombre": "SHOR6965",
               "descripcion": {
@@ -45811,7 +45916,7 @@
               "upd": "2025-10-17T07:00:00.000Z"
             },
             {
-              "codigo": 567,
+              "codigo": 571,
               "categoria": "Short",
               "nombre": "SHOR8180",
               "descripcion": {
@@ -45987,7 +46092,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 568,
+              "codigo": 572,
               "categoria": "Short",
               "nombre": "SHOR9090",
               "descripcion": {
@@ -46087,7 +46192,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 613,
+              "codigo": 617,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "descripcion": {
@@ -46150,7 +46255,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "205",
+                  "valor": "204",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -46217,7 +46322,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "205"
+                          "stock": "204"
                         }
                       ]
                     }
@@ -46234,7 +46339,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "205"
+                          "stock": "204"
                         }
                       ]
                     }
@@ -46244,7 +46349,7 @@
               "upd": "2026-05-08T07:00:00.000Z"
             },
             {
-              "codigo": 615,
+              "codigo": 619,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "descripcion": {
@@ -46401,7 +46506,7 @@
               "upd": "2026-05-08T07:00:00.000Z"
             },
             {
-              "codigo": 617,
+              "codigo": 621,
               "categoria": "Sueter",
               "nombre": "SWEA1421",
               "descripcion": {
@@ -46484,7 +46589,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 618,
+              "codigo": 622,
               "categoria": "Sueter",
               "nombre": "SWEA2372",
               "descripcion": {
@@ -46604,7 +46709,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 619,
+              "codigo": 623,
               "categoria": "Sueter",
               "nombre": "SWEA2502",
               "descripcion": {
@@ -46667,7 +46772,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "306",
+                  "valor": "305",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -46734,7 +46839,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "306"
+                          "stock": "305"
                         }
                       ]
                     }
@@ -46744,7 +46849,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 620,
+              "codigo": 624,
               "categoria": "Sueter",
               "nombre": "SWEA4513",
               "descripcion": {
@@ -46844,7 +46949,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 621,
+              "codigo": 625,
               "categoria": "Sueter",
               "nombre": "SWEA7199",
               "descripcion": {
@@ -46940,7 +47045,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 622,
+              "codigo": 626,
               "categoria": "Sueter",
               "nombre": "SWEA7239",
               "descripcion": {
@@ -47048,7 +47153,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 623,
+              "codigo": 627,
               "categoria": "Sueter",
               "nombre": "SWEA7784",
               "descripcion": {
@@ -47172,7 +47277,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tapado.svg",
           "producto": [
             {
-              "codigo": 624,
+              "codigo": 628,
               "categoria": "Tapado",
               "nombre": "TAPA2022",
               "descripcion": {
@@ -47297,7 +47402,7 @@
               "upd": "2026-03-03T08:00:00.000Z"
             },
             {
-              "codigo": 626,
+              "codigo": 630,
               "categoria": "Tapado",
               "nombre": "TAPA2273",
               "descripcion": {
@@ -47422,7 +47527,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 627,
+              "codigo": 631,
               "categoria": "Tapado",
               "nombre": "TAPA2669",
               "descripcion": {
@@ -47535,7 +47640,7 @@
               "upd": "2026-03-04T08:00:00.000Z"
             },
             {
-              "codigo": 629,
+              "codigo": 633,
               "categoria": "Tapado",
               "nombre": "TAPA2971",
               "descripcion": {
@@ -47664,7 +47769,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 630,
+              "codigo": 634,
               "categoria": "Tapado",
               "nombre": "TAPA3058",
               "descripcion": {
@@ -47773,7 +47878,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 631,
+              "codigo": 635,
               "categoria": "Tapado",
               "nombre": "TAPA3445",
               "descripcion": {
@@ -47960,7 +48065,7 @@
               "upd": "2025-08-23T07:00:00.000Z"
             },
             {
-              "codigo": 632,
+              "codigo": 636,
               "categoria": "Tapado",
               "nombre": "TAPA5175",
               "descripcion": {
@@ -48114,7 +48219,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 634,
+              "codigo": 638,
               "categoria": "Tapado",
               "nombre": "TAPA5212",
               "descripcion": {
@@ -48232,7 +48337,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 635,
+              "codigo": 639,
               "categoria": "Tapado",
               "nombre": "TAPA5832",
               "descripcion": {
@@ -48362,7 +48467,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 636,
+              "codigo": 640,
               "categoria": "Tapado",
               "nombre": "TAPA6837",
               "descripcion": {
@@ -48474,7 +48579,7 @@
               "upd": "2025-08-26T07:00:00.000Z"
             },
             {
-              "codigo": 637,
+              "codigo": 641,
               "categoria": "Tapado",
               "nombre": "TAPA7255",
               "descripcion": {
@@ -48567,7 +48672,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 638,
+              "codigo": 642,
               "categoria": "Tapado",
               "nombre": "TAPA8171",
               "descripcion": {
@@ -48671,7 +48776,7 @@
               "upd": "2025-08-26T07:00:00.000Z"
             },
             {
-              "codigo": 639,
+              "codigo": 643,
               "categoria": "Tapado",
               "nombre": "TAPA8271",
               "descripcion": {
@@ -51011,7 +51116,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "119",
+                  "valor": "116",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -51070,7 +51175,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "119"
+                          "stock": "116"
                         }
                       ]
                     }
@@ -51087,7 +51192,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "119"
+                          "stock": "116"
                         }
                       ]
                     }
@@ -54736,7 +54841,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/mallas.svg",
           "producto": [
             {
-              "codigo": 392,
+              "codigo": 396,
               "categoria": "Mallas",
               "nombre": "MALL4211",
               "descripcion": {
@@ -54817,7 +54922,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 394,
+              "codigo": 398,
               "categoria": "Mallas",
               "nombre": "MALL5210",
               "descripcion": {
@@ -54898,7 +55003,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 396,
+              "codigo": 400,
               "categoria": "Mallas",
               "nombre": "MALL9997",
               "descripcion": {
@@ -54987,7 +55092,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 398,
+              "codigo": 402,
               "categoria": "Medias",
               "nombre": "MEDI1233",
               "descripcion": {
@@ -55117,7 +55222,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 400,
+              "codigo": 404,
               "categoria": "Medias",
               "nombre": "MEDI1364",
               "descripcion": {
@@ -55212,7 +55317,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 401,
+              "codigo": 405,
               "categoria": "Medias",
               "nombre": "MEDI1489",
               "descripcion": {
@@ -55335,7 +55440,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 402,
+              "codigo": 406,
               "categoria": "Medias",
               "nombre": "MEDI1768",
               "descripcion": {
@@ -55420,7 +55525,7 @@
               "upd": "2026-04-09T07:00:00.000Z"
             },
             {
-              "codigo": 403,
+              "codigo": 407,
               "categoria": "Medias",
               "nombre": "MEDI2140",
               "descripcion": {
@@ -55522,7 +55627,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 405,
+              "codigo": 409,
               "categoria": "Medias",
               "nombre": "MEDI2480",
               "descripcion": {
@@ -55607,7 +55712,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 406,
+              "codigo": 410,
               "categoria": "Medias",
               "nombre": "MEDI3366",
               "descripcion": {
@@ -55721,7 +55826,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 407,
+              "codigo": 411,
               "categoria": "Medias",
               "nombre": "MEDI3475",
               "descripcion": {
@@ -55854,7 +55959,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 408,
+              "codigo": 412,
               "categoria": "Medias",
               "nombre": "MEDI3530",
               "descripcion": {
@@ -55970,7 +56075,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 410,
+              "codigo": 414,
               "categoria": "Medias",
               "nombre": "MEDI3678",
               "descripcion": {
@@ -56073,7 +56178,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 411,
+              "codigo": 415,
               "categoria": "Medias",
               "nombre": "MEDI3991",
               "descripcion": {
@@ -56186,7 +56291,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 412,
+              "codigo": 416,
               "categoria": "Medias",
               "nombre": "MEDI4117",
               "descripcion": {
@@ -56283,7 +56388,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 413,
+              "codigo": 417,
               "categoria": "Medias",
               "nombre": "MEDI4783",
               "descripcion": {
@@ -56400,7 +56505,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 414,
+              "codigo": 418,
               "categoria": "Medias",
               "nombre": "MEDI5131",
               "descripcion": {
@@ -56530,7 +56635,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 416,
+              "codigo": 420,
               "categoria": "Medias",
               "nombre": "MEDI5227",
               "descripcion": {
@@ -56646,7 +56751,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 417,
+              "codigo": 421,
               "categoria": "Medias",
               "nombre": "MEDI5246",
               "descripcion": {
@@ -56760,7 +56865,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 418,
+              "codigo": 422,
               "categoria": "Medias",
               "nombre": "MEDI5447",
               "descripcion": {
@@ -56873,7 +56978,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 419,
+              "codigo": 423,
               "categoria": "Medias",
               "nombre": "MEDI5612",
               "descripcion": {
@@ -56986,7 +57091,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 420,
+              "codigo": 424,
               "categoria": "Medias",
               "nombre": "MEDI5666",
               "descripcion": {
@@ -57099,7 +57204,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 421,
+              "codigo": 425,
               "categoria": "Medias",
               "nombre": "MEDI6218",
               "descripcion": {
@@ -57214,7 +57319,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 423,
+              "codigo": 427,
               "categoria": "Medias",
               "nombre": "MEDI6259",
               "descripcion": {
@@ -57318,7 +57423,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 424,
+              "codigo": 428,
               "categoria": "Medias",
               "nombre": "MEDI6263",
               "descripcion": {
@@ -57429,7 +57534,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 425,
+              "codigo": 429,
               "categoria": "Medias",
               "nombre": "MEDI6350",
               "descripcion": {
@@ -57531,7 +57636,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 427,
+              "codigo": 431,
               "categoria": "Medias",
               "nombre": "MEDI6449",
               "descripcion": {
@@ -57614,7 +57719,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 428,
+              "codigo": 432,
               "categoria": "Medias",
               "nombre": "MEDI7170",
               "descripcion": {
@@ -57736,7 +57841,7 @@
               "upd": "2025-10-22T07:00:00.000Z"
             },
             {
-              "codigo": 430,
+              "codigo": 434,
               "categoria": "Medias",
               "nombre": "MEDI7388",
               "descripcion": {
@@ -57829,7 +57934,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 431,
+              "codigo": 435,
               "categoria": "Medias",
               "nombre": "MEDI7406",
               "descripcion": {
@@ -57942,7 +58047,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 432,
+              "codigo": 436,
               "categoria": "Medias",
               "nombre": "MEDI7439",
               "descripcion": {
@@ -58061,7 +58166,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 433,
+              "codigo": 437,
               "categoria": "Medias",
               "nombre": "MEDI7644",
               "descripcion": {
@@ -58158,7 +58263,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 434,
+              "codigo": 438,
               "categoria": "Medias",
               "nombre": "MEDI8496",
               "descripcion": {
@@ -58275,7 +58380,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 435,
+              "codigo": 439,
               "categoria": "Medias",
               "nombre": "MEDI8571",
               "descripcion": {
@@ -58392,7 +58497,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 436,
+              "codigo": 440,
               "categoria": "Medias",
               "nombre": "MEDI8606",
               "descripcion": {
@@ -58489,7 +58594,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 437,
+              "codigo": 441,
               "categoria": "Medias",
               "nombre": "MEDI8990",
               "descripcion": {
@@ -58605,7 +58710,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 439,
+              "codigo": 443,
               "categoria": "Medias",
               "nombre": "MEDI9245",
               "descripcion": {
@@ -58720,7 +58825,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 440,
+              "codigo": 444,
               "categoria": "Medias",
               "nombre": "MEDI9309",
               "descripcion": {
@@ -58837,7 +58942,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 441,
+              "codigo": 445,
               "categoria": "Medias",
               "nombre": "MEDI9327",
               "descripcion": {
@@ -58950,7 +59055,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 442,
+              "codigo": 446,
               "categoria": "Medias",
               "nombre": "MEDI9335",
               "descripcion": {
@@ -59055,7 +59160,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 443,
+              "codigo": 447,
               "categoria": "Medias",
               "nombre": "MEDI9511",
               "descripcion": {
@@ -59140,7 +59245,7 @@
               "upd": "2026-03-02T08:00:00.000Z"
             },
             {
-              "codigo": 444,
+              "codigo": 448,
               "categoria": "Medias",
               "nombre": "MEDI9637",
               "descripcion": {
@@ -59266,7 +59371,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slip.svg",
           "producto": [
             {
-              "codigo": 569,
+              "codigo": 573,
               "categoria": "Slip",
               "nombre": "SLIP1954",
               "descripcion": {
@@ -59383,7 +59488,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 571,
+              "codigo": 575,
               "categoria": "Slip",
               "nombre": "SLIP5394",
               "descripcion": {
@@ -59504,7 +59609,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 573,
+              "codigo": 577,
               "categoria": "Slip",
               "nombre": "SLIP7424",
               "descripcion": {
@@ -59613,7 +59718,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 575,
+              "codigo": 579,
               "categoria": "Slip",
               "nombre": "SLIP9518",
               "descripcion": {
@@ -59738,7 +59843,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/soquetes.svg",
           "producto": [
             {
-              "codigo": 577,
+              "codigo": 581,
               "categoria": "Soquetes",
               "nombre": "SOQU1278",
               "descripcion": {
@@ -59832,7 +59937,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 579,
+              "codigo": 583,
               "categoria": "Soquetes",
               "nombre": "SOQU1662",
               "descripcion": {
@@ -59947,7 +60052,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 580,
+              "codigo": 584,
               "categoria": "Soquetes",
               "nombre": "SOQU2037",
               "descripcion": {
@@ -60049,7 +60154,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 582,
+              "codigo": 586,
               "categoria": "Soquetes",
               "nombre": "SOQU2614",
               "descripcion": {
@@ -60188,7 +60293,7 @@
               "upd": "2026-04-20T07:00:00.000Z"
             },
             {
-              "codigo": 585,
+              "codigo": 589,
               "categoria": "Soquetes",
               "nombre": "SOQU2696",
               "descripcion": {
@@ -60302,7 +60407,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 587,
+              "codigo": 591,
               "categoria": "Soquetes",
               "nombre": "SOQU3187",
               "descripcion": {
@@ -60387,7 +60492,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 588,
+              "codigo": 592,
               "categoria": "Soquetes",
               "nombre": "SOQU3230",
               "descripcion": {
@@ -60485,7 +60590,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 590,
+              "codigo": 594,
               "categoria": "Soquetes",
               "nombre": "SOQU3367",
               "descripcion": {
@@ -60601,7 +60706,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 592,
+              "codigo": 596,
               "categoria": "Soquetes",
               "nombre": "SOQU3841",
               "descripcion": {
@@ -60715,7 +60820,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 593,
+              "codigo": 597,
               "categoria": "Soquetes",
               "nombre": "SOQU4334",
               "descripcion": {
@@ -60803,7 +60908,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 594,
+              "codigo": 598,
               "categoria": "Soquetes",
               "nombre": "SOQU4736",
               "descripcion": {
@@ -60906,7 +61011,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 596,
+              "codigo": 600,
               "categoria": "Soquetes",
               "nombre": "SOQU4890",
               "descripcion": {
@@ -61024,7 +61129,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 597,
+              "codigo": 601,
               "categoria": "Soquetes",
               "nombre": "SOQU5933",
               "descripcion": {
@@ -61138,7 +61243,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 599,
+              "codigo": 603,
               "categoria": "Soquetes",
               "nombre": "SOQU6844",
               "descripcion": {
@@ -61221,7 +61326,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 601,
+              "codigo": 605,
               "categoria": "Soquetes",
               "nombre": "SOQU6875",
               "descripcion": {
@@ -61335,7 +61440,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 603,
+              "codigo": 607,
               "categoria": "Soquetes",
               "nombre": "SOQU6985",
               "descripcion": {
@@ -61468,7 +61573,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 604,
+              "codigo": 608,
               "categoria": "Soquetes",
               "nombre": "SOQU7018",
               "descripcion": {
@@ -61581,7 +61686,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 605,
+              "codigo": 609,
               "categoria": "Soquetes",
               "nombre": "SOQU7019",
               "descripcion": {
@@ -61699,7 +61804,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 606,
+              "codigo": 610,
               "categoria": "Soquetes",
               "nombre": "SOQU7897",
               "descripcion": {
@@ -61784,7 +61889,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 607,
+              "codigo": 611,
               "categoria": "Soquetes",
               "nombre": "SOQU8534",
               "descripcion": {
@@ -61899,7 +62004,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 608,
+              "codigo": 612,
               "categoria": "Soquetes",
               "nombre": "SOQU8547",
               "descripcion": {
@@ -62013,7 +62118,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 610,
+              "codigo": 614,
               "categoria": "Soquetes",
               "nombre": "SOQU8706",
               "descripcion": {
@@ -62127,7 +62232,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 612,
+              "codigo": 616,
               "categoria": "Soquetes",
               "nombre": "SOQU9376",
               "descripcion": {
@@ -62211,7 +62316,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
-              "codigo": 640,
+              "codigo": 644,
               "categoria": "Top",
               "nombre": "TOP2036",
               "descripcion": {
@@ -62292,7 +62397,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 642,
+              "codigo": 646,
               "categoria": "Top",
               "nombre": "TOP3532",
               "descripcion": {
@@ -62373,7 +62478,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 644,
+              "codigo": 648,
               "categoria": "Top",
               "nombre": "TOP4556",
               "descripcion": {
@@ -62454,7 +62559,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 646,
+              "codigo": 650,
               "categoria": "Top",
               "nombre": "TOP8032",
               "descripcion": {
@@ -62535,7 +62640,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 648,
+              "codigo": 652,
               "categoria": "Top",
               "nombre": "TOP9427",
               "descripcion": {
@@ -62624,7 +62729,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/vedetina.svg",
           "producto": [
             {
-              "codigo": 650,
+              "codigo": 654,
               "categoria": "Vedetina",
               "nombre": "VEDE1235",
               "descripcion": {
@@ -62705,7 +62810,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 652,
+              "codigo": 656,
               "categoria": "Vedetina",
               "nombre": "VEDE1475",
               "descripcion": {
@@ -62786,7 +62891,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 654,
+              "codigo": 658,
               "categoria": "Vedetina",
               "nombre": "VEDE2000",
               "descripcion": {
@@ -62898,7 +63003,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 655,
+              "codigo": 659,
               "categoria": "Vedetina",
               "nombre": "VEDE9652",
               "descripcion": {
@@ -63017,5 +63122,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1780755575147
+  "timestamp_ms": 1780756353540
 }
