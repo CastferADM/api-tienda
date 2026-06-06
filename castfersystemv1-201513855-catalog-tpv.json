@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T14:15:37.743Z",
+  "generated_at": "2026-06-06T14:30:19.958Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36310,6 +36310,64 @@
           "variation_id": "CAMP5671-Surtido-Surtido-JM MAYORISTA"
         }
       ]
+    },
+    {
+      "id": "JOGG2630",
+      "model": "Cargo con cierre Bulldog",
+      "price": 16000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "",
+      "image": "",
+      "carpeta_id": "1NdT_2Sva9q-a9HIdGbIJHmbjpjgg0xUR",
+      "woo_id": 39594,
+      "varieties": [
+        {
+          "variedad_id": "JOGG2630-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 24000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "JOGG2630-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 24000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "JOGG2630-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 24000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "JOGG2630-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 32000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG2630-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG2630-Surtido-Surtido-JM MAYORISTA"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -41285,6 +41343,32 @@
         "precio_unitario": 64000,
         "cantidad_minima": 1
       }
+    ],
+    "JOGG2630": [
+      {
+        "variedad_id": "JOGG2630-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 24000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "JOGG2630-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 24000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "JOGG2630-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "JOGG2630-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -43614,5 +43698,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780755551557
+  "timestamp_ms": 1780756380781
 }
