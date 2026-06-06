@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T16:00:20.433Z",
+  "generated_at": "2026-06-06T16:15:19.611Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36315,7 +36315,7 @@
       "id": "JOGG2630",
       "model": "Cargo con cierre Bulldog",
       "price": 16000,
-      "display_price": 24000,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Joggers",
       "categoryName": "Joggers",
@@ -36332,25 +36332,19 @@
         {
           "variedad_id": "JOGG2630-Docena",
           "nombre": "Docena",
-          "precio_unitario": 24000,
+          "precio_unitario": 25000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "JOGG2630-Media-Docena",
           "nombre": "Media-Docena",
-          "precio_unitario": 24000,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "JOGG2630-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 24000,
+          "precio_unitario": 25000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "JOGG2630-Menor",
           "nombre": "Menor",
-          "precio_unitario": 32000,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -41348,25 +41342,19 @@
       {
         "variedad_id": "JOGG2630-Docena",
         "nombre": "Docena",
-        "precio_unitario": 24000,
+        "precio_unitario": 25000,
         "cantidad_minima": 12
       },
       {
         "variedad_id": "JOGG2630-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 24000,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "JOGG2630-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
+        "precio_unitario": 25000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "JOGG2630-Menor",
         "nombre": "Menor",
-        "precio_unitario": 32000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ]
@@ -43698,5 +43686,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780761735465
+  "timestamp_ms": 1780762646673
 }
