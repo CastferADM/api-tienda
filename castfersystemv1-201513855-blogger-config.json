@@ -11523,6 +11523,38 @@
                   "portada": false,
                   "orden": 4,
                   "fecha_carga": "2026-06-01T04:33:33.994Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1OlI-.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1OlI-.webp",
+                  "archivo_id": "1OlI-VxEkB9T9PxBNFb8HNStFixtEOHEv",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-06-09T15:42:57.099Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1qNrC.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1qNrC.webp",
+                  "archivo_id": "1qNrCzsH-jaJTFHghLbosr3gv_Od5-udn",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-06-09T15:42:57.099Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1bzkB.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1bzkB.webp",
+                  "archivo_id": "1bzkBdrMf2HMrNQdGS4-MBg8MPOqsXYFS",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-06-09T15:42:57.099Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1mgDB.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1mgDB.webp",
+                  "archivo_id": "1mgDBBArkumjW4wlikkDr0_3OQzAiusAr",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-06-09T15:42:57.099Z"
                 }
               ],
               "variedad": [
@@ -34901,7 +34933,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "89",
+                  "valor": "88",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -35008,7 +35040,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "89"
+                          "stock": "88"
                         }
                       ]
                     }
@@ -50814,7 +50846,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "44",
+                  "valor": "43",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -50857,7 +50889,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "44"
+                          "stock": "43"
                         }
                       ]
                     }
@@ -66100,5 +66132,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781019623692
+  "timestamp_ms": 1781020505332
 }
