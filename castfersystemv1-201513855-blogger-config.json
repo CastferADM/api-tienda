@@ -8651,7 +8651,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "28",
+                  "valor": "27",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8763,7 +8763,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "28"
+                          "stock": "27"
                         }
                       ]
                     }
@@ -11530,7 +11530,7 @@
                   "archivo_id": "1OlI-VxEkB9T9PxBNFb8HNStFixtEOHEv",
                   "portada": false,
                   "orden": 12,
-                  "fecha_carga": "2026-06-09T17:35:09.680Z"
+                  "fecha_carga": "2026-06-09T17:47:13.734Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1qNrC.webp",
@@ -11538,7 +11538,7 @@
                   "archivo_id": "1qNrCzsH-jaJTFHghLbosr3gv_Od5-udn",
                   "portada": false,
                   "orden": 14,
-                  "fecha_carga": "2026-06-09T17:35:09.680Z"
+                  "fecha_carga": "2026-06-09T17:47:13.734Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1bzkB.webp",
@@ -11546,7 +11546,7 @@
                   "archivo_id": "1bzkBdrMf2HMrNQdGS4-MBg8MPOqsXYFS",
                   "portada": false,
                   "orden": 16,
-                  "fecha_carga": "2026-06-09T17:35:09.680Z"
+                  "fecha_carga": "2026-06-09T17:47:13.734Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1mgDB.webp",
@@ -11554,7 +11554,7 @@
                   "archivo_id": "1mgDBBArkumjW4wlikkDr0_3OQzAiusAr",
                   "portada": false,
                   "orden": 18,
-                  "fecha_carga": "2026-06-09T17:35:09.680Z"
+                  "fecha_carga": "2026-06-09T17:47:13.734Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1ol3o.png",
@@ -11562,7 +11562,7 @@
                   "archivo_id": "1ol3oboyafrZphAH2DQP7KXMkfP6RXzKt",
                   "portada": false,
                   "orden": 20,
-                  "fecha_carga": "2026-06-09T17:35:09.680Z"
+                  "fecha_carga": "2026-06-09T17:47:13.734Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1aBpY.png",
@@ -11570,7 +11570,23 @@
                   "archivo_id": "1aBpYN__0EL1iwPO6SBNdSHcWV3qaQqyJ",
                   "portada": false,
                   "orden": 22,
-                  "fecha_carga": "2026-06-09T17:35:09.680Z"
+                  "fecha_carga": "2026-06-09T17:47:13.734Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1BwIV.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1BwIV.png",
+                  "archivo_id": "1BwIVr5GQW5ns65_THpebSVdl_YoMIyN5",
+                  "portada": false,
+                  "orden": 24,
+                  "fecha_carga": "2026-06-09T17:47:13.734Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1QebE.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2788%2FCAMP2788-1QebE.png",
+                  "archivo_id": "1QebEpDrNnycOLSqIUCNMd1mCp5QB-liX",
+                  "portada": false,
+                  "orden": 26,
+                  "fecha_carga": "2026-06-09T17:47:13.734Z"
                 }
               ],
               "variedad": [
@@ -66148,5 +66164,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781026751310
+  "timestamp_ms": 1781027747350
 }
