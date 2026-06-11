@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T14:56:18.698Z",
+  "generated_at": "2026-06-11T15:11:20.352Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37319,6 +37319,59 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG4058",
+      "model": "Cargo con cierre",
+      "price": 16823,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Gabardina",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": 39628,
+      "varieties": [
+        {
+          "variedad_id": "JOGG4058-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 25000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "JOGG4058-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 25000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "JOGG4058-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 30000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG4058-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG4058-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -42342,6 +42395,26 @@
         "precio_unitario": 30000,
         "cantidad_minima": 1
       }
+    ],
+    "JOGG4058": [
+      {
+        "variedad_id": "JOGG4058-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 25000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "JOGG4058-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "JOGG4058-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -44687,5 +44760,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781189875245
+  "timestamp_ms": 1781190815201
 }
