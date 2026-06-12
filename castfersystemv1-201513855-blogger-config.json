@@ -14885,7 +14885,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "05-08-2025"
+                  "valor": "12-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -14895,8 +14895,20 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4904%2FCAMP4904-1ZMAG.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4904%2FCAMP4904-1ZMAG.webp",
+                  "archivo_id": "1ZMAG3KTf2bEtUgfr-ucuPA6BhOkB6AHb",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-12T15:55:21.383Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4904%2FCAMP4904-1-jKX.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4904%2FCAMP4904-1-jKX.webp",
+                  "archivo_id": "1-jKXsTz61VBzHZL-v2gLRPD-WqssIpme",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-12T15:55:21.383Z"
                 }
               ],
               "variedad": [
@@ -22711,7 +22723,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "101",
+                  "valor": "100",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -22794,7 +22806,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "101"
+                          "stock": "100"
                         }
                       ]
                     }
@@ -22811,7 +22823,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "101"
+                          "stock": "100"
                         }
                       ]
                     }
@@ -40020,7 +40032,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "33",
+                  "valor": "32",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -40063,7 +40075,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "33"
+                          "stock": "32"
                         }
                       ]
                     }
@@ -66331,5 +66343,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781279038117
+  "timestamp_ms": 1781279907866
 }
