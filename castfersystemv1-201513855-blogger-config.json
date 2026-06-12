@@ -11494,7 +11494,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "159",
+                  "valor": "158",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11569,7 +11569,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "159"
+                          "stock": "158"
                         }
                       ]
                     }
@@ -11586,7 +11586,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "159"
+                          "stock": "158"
                         }
                       ]
                     }
@@ -36269,7 +36269,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "22",
+                  "valor": "19",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -36320,7 +36320,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "22"
+                          "stock": "19"
                         }
                       ]
                     }
@@ -36337,7 +36337,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "22"
+                          "stock": "19"
                         }
                       ]
                     }
@@ -51360,20 +51360,12 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA8271%2FTAPA8271-12ZYt.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA8271%2FTAPA8271-12ZYt.jpg",
-                  "archivo_id": "12ZYt3nq1f6ahsCYnR01SJRnITEaEg5vF",
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA8271%2FTAPA8271-1FDfR.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA8271%2FTAPA8271-1FDfR.webp",
+                  "archivo_id": "1FDfR_koRJPBoJGAGVcrpgciIQrxx76rV",
                   "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-04-23T16:27:58.185Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA8271%2FTAPA8271-1s3yr.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA8271%2FTAPA8271-1s3yr.jpg",
-                  "archivo_id": "1s3yrvaQ4IwMC-ep_a5jgfT53xoUtON4H",
-                  "portada": false,
-                  "orden": 4,
-                  "fecha_carga": "2026-04-23T16:27:58.185Z"
+                  "orden": 6,
+                  "fecha_carga": "2026-06-12T14:25:45.597Z"
                 }
               ],
               "variedad": [
@@ -66307,5 +66299,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781273654833
+  "timestamp_ms": 1781274502586
 }
