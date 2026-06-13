@@ -32688,7 +32688,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "13-09-2025"
+                  "valor": "12-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -32698,19 +32698,19 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG6718%2FJOGG6718-19vwh.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG6718%2FJOGG6718-19vwh.jpg",
-                  "archivo_id": "19vwht3wghYiSqdLeUn0a493vGrUI5Ewt",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-04-23T16:27:58.185Z"
-                },
-                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG6718%2FJOGG6718-1av6H.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG6718%2FJOGG6718-1av6H.jpg",
                   "archivo_id": "1av6HMbYvScGBpQ2eb3tcxarfzqSES43D",
-                  "portada": false,
+                  "portada": true,
                   "orden": 22,
+                  "fecha_carga": "2026-04-23T16:27:58.185Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG6718%2FJOGG6718-19vwh.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG6718%2FJOGG6718-19vwh.jpg",
+                  "archivo_id": "19vwht3wghYiSqdLeUn0a493vGrUI5Ewt",
+                  "portada": false,
+                  "orden": 2,
                   "fecha_carga": "2026-04-23T16:27:58.185Z"
                 },
                 {
@@ -32872,7 +32872,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "05-08-2025"
+                  "valor": "12-06-2026"
                 },
                 "video": {
                   "label": "Video",
@@ -66329,5 +66329,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781312368706
+  "timestamp_ms": 1781316770663
 }
