@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:41:19.689Z",
+  "generated_at": "2026-06-14T22:56:19.716Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37443,6 +37443,201 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP8428",
+      "model": "Bomber Alg WS",
+      "price": 17600,
+      "display_price": 26400,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Algodon",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8428%2FCAMP8428-1hTHp.webp",
+      "carpeta_id": "1pZPE9sGKIS8POEMukCFMWQtcPTWZEaLX",
+      "woo_id": 39748,
+      "varieties": [
+        {
+          "variedad_id": "CAMP8428-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 26400,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP8428-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 26400,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP8428-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 26400,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CAMP8428-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 26400,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP8428-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 35200,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP8428-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP8428-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP1896",
+      "model": "Bomber Alg C Sport",
+      "price": 17600,
+      "display_price": 26400,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Algodon",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1896%2FCAMP1896-1SmB1.webp",
+      "carpeta_id": "1majf3vvoAGgfuBpt2C1oNE7PP7BZdrwA",
+      "woo_id": 39754,
+      "varieties": [
+        {
+          "variedad_id": "CAMP1896-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 26400,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP1896-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 26400,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP1896-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 26400,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CAMP1896-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 26400,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP1896-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 35200,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1896-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1896-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP9583",
+      "model": "2 EN 1 Saca manga U COLLECTION",
+      "price": 30250,
+      "display_price": 45375,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "",
+      "carpeta_id": "1tbSXEOXNuYH_l2WH5xWwaoR1S242eFgh",
+      "woo_id": 39760,
+      "varieties": [
+        {
+          "variedad_id": "CAMP9583-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 45375,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP9583-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 45375,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP9583-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 45375,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP9583-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 45375,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP9583-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 60500,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP9583-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP9583-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -42530,6 +42725,102 @@
         "precio_unitario": 38000,
         "cantidad_minima": 60
       }
+    ],
+    "CAMP8428": [
+      {
+        "variedad_id": "CAMP8428-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 26400,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP8428-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 26400,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP8428-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 26400,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CAMP8428-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 26400,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP8428-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 35200,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP1896": [
+      {
+        "variedad_id": "CAMP1896-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 26400,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP1896-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 26400,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP1896-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 26400,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CAMP1896-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 26400,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP1896-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 35200,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP9583": [
+      {
+        "variedad_id": "CAMP9583-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 45375,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP9583-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 45375,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP9583-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 45375,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP9583-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 45375,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP9583-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60500,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -44883,5 +45174,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781477026168
+  "timestamp_ms": 1781477884890
 }
