@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T20:26:19.053Z",
+  "generated_at": "2026-06-14T20:41:18.923Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -7654,53 +7654,6 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP7490-Surtido-Surtido-JM MAYORISTA"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "CAMP7497",
-      "model": "Neoprene SOFTSHELL",
-      "price": 15200,
-      "display_price": 19000,
-      "minor_surcharge": 0,
-      "category_id": "Campera",
-      "categoryName": "Campera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "INVIERNO",
-      "gender": "Hombre",
-      "brand": "COLUMBIA",
-      "style": "Liso",
-      "material": "Neoprem",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7497%2FCAMP7497-1mNg4.jpg",
-      "carpeta_id": "1MagM2wyyCv_IviD_qfbOfZc8ounv4esf",
-      "woo_id": 39198,
-      "varieties": [
-        {
-          "variedad_id": "CAMP7497-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 25000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "CAMP7497-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 19000,
-          "cantidad_minima": 12
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "CASTFER",
-          "variation_id": "CAMP7497-Surtido-Surtido-CASTFER"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "JM MAYORISTA",
-          "variation_id": "CAMP7497-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -35730,8 +35683,8 @@
     {
       "id": "CAMP1005",
       "model": "Talle Especial",
-      "price": 19000,
-      "display_price": 22000,
+      "price": 17800,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -35748,7 +35701,7 @@
         {
           "variedad_id": "CAMP1005-Docena",
           "nombre": "Docena",
-          "precio_unitario": 22000,
+          "precio_unitario": 24000,
           "cantidad_minima": 12
         },
         {
@@ -35756,6 +35709,12 @@
           "nombre": "Menor",
           "precio_unitario": 35000,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP1005-Caja",
+          "nombre": "Caja",
+          "precio_unitario": 21000,
+          "cantidad_minima": 144
         }
       ],
       "variations": [
@@ -37377,7 +37336,7 @@
       "id": "CAMP3218",
       "model": "Neoprene SOFTSHELL",
       "price": 16042,
-      "display_price": 20000,
+      "display_price": 18500,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -37387,7 +37346,7 @@
       "brand": "COLUMBIA",
       "style": "Liso",
       "material": "Neoprem",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP3218%2FCAMP3218-1gTAx.webp",
       "carpeta_id": "1VRLQm--jqs8xCDnafvWudGpVF2Dct0PN",
       "woo_id": 39726,
       "varieties": [
@@ -37400,8 +37359,14 @@
         {
           "variedad_id": "CAMP3218-Menor",
           "nombre": "Menor",
-          "precio_unitario": 32084,
+          "precio_unitario": 27000,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP3218-Caja",
+          "nombre": "Caja",
+          "precio_unitario": 18500,
+          "cantidad_minima": 144
         }
       ],
       "variations": [
@@ -38970,14 +38935,6 @@
         "variedad_id": "CAMP7490-Docena",
         "nombre": "Docena",
         "precio_unitario": 40000,
-        "cantidad_minima": 12
-      }
-    ],
-    "CAMP7497": [
-      {
-        "variedad_id": "CAMP7497-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 19000,
         "cantidad_minima": 12
       }
     ],
@@ -41961,7 +41918,7 @@
       {
         "variedad_id": "CAMP1005-Docena",
         "nombre": "Docena",
-        "precio_unitario": 22000,
+        "precio_unitario": 24000,
         "cantidad_minima": 12
       },
       {
@@ -41969,6 +41926,12 @@
         "nombre": "Menor",
         "precio_unitario": 35000,
         "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP1005-Caja",
+        "nombre": "Caja",
+        "precio_unitario": 21000,
+        "cantidad_minima": 144
       }
     ],
     "CAMP8909": [
@@ -42473,8 +42436,14 @@
       {
         "variedad_id": "CAMP3218-Menor",
         "nombre": "Menor",
-        "precio_unitario": 32084,
+        "precio_unitario": 27000,
         "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP3218-Caja",
+        "nombre": "Caja",
+        "precio_unitario": 18500,
+        "cantidad_minima": 144
       }
     ]
   },
@@ -44829,5 +44798,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781468909970
+  "timestamp_ms": 1781469820188
 }
