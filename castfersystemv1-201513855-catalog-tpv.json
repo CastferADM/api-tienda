@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:11:19.156Z",
+  "generated_at": "2026-06-14T22:26:19.286Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -4998,8 +4998,8 @@
     {
       "id": "CAMP3777",
       "model": "Bomber UNIVERSITARIO CON PIEL",
-      "price": 33500,
-      "display_price": 45000,
+      "price": 34600,
+      "display_price": 47000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -5022,7 +5022,7 @@
         {
           "variedad_id": "CAMP3777-Docena",
           "nombre": "Docena",
-          "precio_unitario": 45000,
+          "precio_unitario": 47000,
           "cantidad_minima": 12
         }
       ],
@@ -37384,6 +37384,71 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP9086",
+      "model": "2 EN 1 SACAMANGA",
+      "price": 29000,
+      "display_price": 43500,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "",
+      "carpeta_id": "1ZL0SLan1LPlyJXOjV5fg90zkg4UbtWeZ",
+      "woo_id": 39741,
+      "varieties": [
+        {
+          "variedad_id": "CAMP9086-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 43500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP9086-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 43500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP9086-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 43500,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP9086-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 43500,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP9086-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 58000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP9086-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP9086-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -38596,7 +38661,7 @@
       {
         "variedad_id": "CAMP3777-Docena",
         "nombre": "Docena",
-        "precio_unitario": 45000,
+        "precio_unitario": 47000,
         "cantidad_minima": 12
       }
     ],
@@ -42445,6 +42510,38 @@
         "precio_unitario": 18500,
         "cantidad_minima": 144
       }
+    ],
+    "CAMP9086": [
+      {
+        "variedad_id": "CAMP9086-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 43500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP9086-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 43500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP9086-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 43500,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP9086-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 43500,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP9086-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 58000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -44798,5 +44895,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781475182294
+  "timestamp_ms": 1781476136951
 }
