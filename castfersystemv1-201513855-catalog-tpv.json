@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:26:19.286Z",
+  "generated_at": "2026-06-14T22:41:19.689Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34372,7 +34372,7 @@
     {
       "id": "CAMP1033",
       "model": "Bomber Universitario",
-      "price": 15400,
+      "price": 17000,
       "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Campera",
@@ -36124,8 +36124,8 @@
     {
       "id": "SUET9180",
       "model": "con polar  Talle especial",
-      "price": 16000,
-      "display_price": 25000,
+      "price": 18000,
+      "display_price": 23000,
       "minor_surcharge": 0,
       "category_id": "Sueter",
       "categoryName": "Sueter",
@@ -36150,6 +36150,12 @@
           "nombre": "Menor",
           "precio_unitario": 30000,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "SUET9180-Caja",
+          "nombre": "Caja",
+          "precio_unitario": 23000,
+          "cantidad_minima": 120
         }
       ],
       "variations": [
@@ -36553,7 +36559,7 @@
     {
       "id": "CAMP5784",
       "model": "MOCHILERO",
-      "price": 33600,
+      "price": 34700,
       "display_price": 50000,
       "minor_surcharge": 0,
       "category_id": "Campera",
@@ -37389,7 +37395,7 @@
       "id": "CAMP9086",
       "model": "2 EN 1 SACAMANGA",
       "price": 29000,
-      "display_price": 43500,
+      "display_price": 38000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -37399,39 +37405,27 @@
       "brand": "ELT",
       "style": "Liso",
       "material": "CIRE",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9086%2FCAMP9086-1Xub3.webp",
       "carpeta_id": "1ZL0SLan1LPlyJXOjV5fg90zkg4UbtWeZ",
       "woo_id": 39741,
       "varieties": [
         {
           "variedad_id": "CAMP9086-Docena",
           "nombre": "Docena",
-          "precio_unitario": 43500,
+          "precio_unitario": 41000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP9086-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 43500,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP9086-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 43500,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "CAMP9086-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 43500,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP9086-Menor",
           "nombre": "Menor",
           "precio_unitario": 58000,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP9086-Caja",
+          "nombre": "Caja",
+          "precio_unitario": 38000,
+          "cantidad_minima": 60
         }
       ],
       "variations": [
@@ -42109,6 +42103,12 @@
         "nombre": "Menor",
         "precio_unitario": 30000,
         "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "SUET9180-Caja",
+        "nombre": "Caja",
+        "precio_unitario": 23000,
+        "cantidad_minima": 120
       }
     ],
     "MEDI4117": [
@@ -42515,32 +42515,20 @@
       {
         "variedad_id": "CAMP9086-Docena",
         "nombre": "Docena",
-        "precio_unitario": 43500,
+        "precio_unitario": 41000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP9086-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 43500,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP9086-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 43500,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP9086-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 43500,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP9086-Menor",
         "nombre": "Menor",
         "precio_unitario": 58000,
         "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP9086-Caja",
+        "nombre": "Caja",
+        "precio_unitario": 38000,
+        "cantidad_minima": 60
       }
     ]
   },
@@ -44895,5 +44883,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781476136951
+  "timestamp_ms": 1781477026168
 }
