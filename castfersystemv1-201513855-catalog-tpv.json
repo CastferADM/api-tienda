@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T23:26:22.225Z",
+  "generated_at": "2026-06-14T23:41:18.843Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37643,7 +37643,7 @@
       "id": "CAMP6734",
       "model": "Gamulan",
       "price": 31500,
-      "display_price": 47250,
+      "display_price": 42000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -37660,32 +37660,20 @@
         {
           "variedad_id": "CAMP6734-Docena",
           "nombre": "Docena",
-          "precio_unitario": 47250,
+          "precio_unitario": 47000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP6734-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 47250,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP6734-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 47250,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "CAMP6734-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 47250,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP6734-Menor",
           "nombre": "Menor",
-          "precio_unitario": 63000,
+          "precio_unitario": 60000,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP6734-Caja",
+          "nombre": "Caja",
+          "precio_unitario": 42000,
+          "cantidad_minima": 48
         }
       ],
       "variations": [
@@ -42891,32 +42879,20 @@
       {
         "variedad_id": "CAMP6734-Docena",
         "nombre": "Docena",
-        "precio_unitario": 47250,
+        "precio_unitario": 47000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP6734-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 47250,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP6734-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 47250,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP6734-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 47250,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP6734-Menor",
         "nombre": "Menor",
-        "precio_unitario": 63000,
+        "precio_unitario": 60000,
         "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP6734-Caja",
+        "nombre": "Caja",
+        "precio_unitario": 42000,
+        "cantidad_minima": 48
       }
     ]
   },
@@ -45271,5 +45247,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781479712628
+  "timestamp_ms": 1781480596436
 }
