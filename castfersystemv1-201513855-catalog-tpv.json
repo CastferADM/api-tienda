@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T23:41:18.843Z",
+  "generated_at": "2026-06-14T23:56:18.963Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34129,28 +34129,10 @@
       "woo_id": 38549,
       "varieties": [
         {
-          "variedad_id": "CAMP9033-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "CAMP9033-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 24000,
-          "cantidad_minima": 4
-        },
-        {
           "variedad_id": "CAMP9033-Docena",
           "nombre": "Docena",
           "precio_unitario": 22000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP9033-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 24000,
-          "cantidad_minima": 6
         },
         {
           "variedad_id": "CAMP9033-Menor",
@@ -34373,7 +34355,7 @@
       "id": "CAMP1033",
       "model": "Bomber Universitario",
       "price": 17000,
-      "display_price": 22000,
+      "display_price": 24000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -34390,13 +34372,13 @@
         {
           "variedad_id": "CAMP1033-Docena",
           "nombre": "Docena",
-          "precio_unitario": 22000,
+          "precio_unitario": 24000,
           "cantidad_minima": 12
         },
         {
           "variedad_id": "CAMP1033-Menor",
           "nombre": "Menor",
-          "precio_unitario": 30000,
+          "precio_unitario": 32000,
           "cantidad_minima": 1
         }
       ],
@@ -37448,7 +37430,7 @@
       "id": "CAMP8428",
       "model": "Bomber Alg WS",
       "price": 17600,
-      "display_price": 26400,
+      "display_price": 24000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -37465,31 +37447,13 @@
         {
           "variedad_id": "CAMP8428-Docena",
           "nombre": "Docena",
-          "precio_unitario": 26400,
+          "precio_unitario": 24000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP8428-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 26400,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP8428-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 26400,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "CAMP8428-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 26400,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP8428-Menor",
           "nombre": "Menor",
-          "precio_unitario": 35200,
+          "precio_unitario": 32000,
           "cantidad_minima": 1
         }
       ],
@@ -37513,7 +37477,7 @@
       "id": "CAMP1896",
       "model": "Bomber Alg C Sport",
       "price": 17600,
-      "display_price": 26400,
+      "display_price": 24000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -37530,31 +37494,13 @@
         {
           "variedad_id": "CAMP1896-Docena",
           "nombre": "Docena",
-          "precio_unitario": 26400,
+          "precio_unitario": 24000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP1896-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 26400,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP1896-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 26400,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "CAMP1896-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 26400,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP1896-Menor",
           "nombre": "Menor",
-          "precio_unitario": 35200,
+          "precio_unitario": 32000,
           "cantidad_minima": 1
         }
       ],
@@ -37653,7 +37599,7 @@
       "brand": "YD",
       "style": "Liso",
       "material": "Ecocuero",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP6734%2FCAMP6734-1tCpJ.webp",
       "carpeta_id": "1wC8TzlHgGEIgfIJYzNAhr8HEDKst_dzV",
       "woo_id": 39766,
       "varieties": [
@@ -39327,22 +39273,10 @@
     ],
     "CAMP9033": [
       {
-        "variedad_id": "CAMP9033-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 4
-      },
-      {
         "variedad_id": "CAMP9033-Docena",
         "nombre": "Docena",
         "precio_unitario": 22000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP9033-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 24000,
-        "cantidad_minima": 6
       }
     ],
     "CAMP9389": [
@@ -42783,31 +42717,13 @@
       {
         "variedad_id": "CAMP8428-Docena",
         "nombre": "Docena",
-        "precio_unitario": 26400,
+        "precio_unitario": 24000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP8428-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 26400,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP8428-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 26400,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "CAMP8428-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 26400,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP8428-Menor",
         "nombre": "Menor",
-        "precio_unitario": 35200,
+        "precio_unitario": 32000,
         "cantidad_minima": 1
       }
     ],
@@ -42815,31 +42731,13 @@
       {
         "variedad_id": "CAMP1896-Docena",
         "nombre": "Docena",
-        "precio_unitario": 26400,
+        "precio_unitario": 24000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP1896-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 26400,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP1896-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 26400,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "CAMP1896-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 26400,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP1896-Menor",
         "nombre": "Menor",
-        "precio_unitario": 35200,
+        "precio_unitario": 32000,
         "cantidad_minima": 1
       }
     ],
@@ -45247,5 +45145,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781480596436
+  "timestamp_ms": 1781481519741
 }
