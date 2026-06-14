@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T20:11:21.446Z",
+  "generated_at": "2026-06-14T20:26:19.053Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37372,6 +37372,53 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP3218",
+      "model": "Neoprene SOFTSHELL",
+      "price": 16042,
+      "display_price": 20000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "COLUMBIA",
+      "style": "Liso",
+      "material": "Neoprem",
+      "image": "",
+      "carpeta_id": "1VRLQm--jqs8xCDnafvWudGpVF2Dct0PN",
+      "woo_id": 39726,
+      "varieties": [
+        {
+          "variedad_id": "CAMP3218-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 20000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP3218-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 32084,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP3218-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP3218-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -42415,6 +42462,20 @@
         "precio_unitario": 30000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP3218": [
+      {
+        "variedad_id": "CAMP3218-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 20000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP3218-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32084,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -44768,5 +44829,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781468024100
+  "timestamp_ms": 1781468909970
 }
