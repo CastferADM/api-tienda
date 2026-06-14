@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:56:19.716Z",
+  "generated_at": "2026-06-14T23:11:18.730Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37588,7 +37588,7 @@
       "brand": "ELT",
       "style": "Liso",
       "material": "CIRE",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9583%2FCAMP9583-1ewAV.webp",
       "carpeta_id": "1tbSXEOXNuYH_l2WH5xWwaoR1S242eFgh",
       "woo_id": 39760,
       "varieties": [
@@ -37635,6 +37635,71 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP9583-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP6734",
+      "model": "Gamulan",
+      "price": 31500,
+      "display_price": 47250,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Ecocuero",
+      "image": "",
+      "carpeta_id": "1wC8TzlHgGEIgfIJYzNAhr8HEDKst_dzV",
+      "woo_id": 39766,
+      "varieties": [
+        {
+          "variedad_id": "CAMP6734-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 47250,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP6734-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 47250,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP6734-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 47250,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP6734-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 47250,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP6734-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 63000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP6734-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP6734-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -42821,6 +42886,38 @@
         "precio_unitario": 60500,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP6734": [
+      {
+        "variedad_id": "CAMP6734-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 47250,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP6734-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 47250,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP6734-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 47250,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP6734-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 47250,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP6734-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 63000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -45174,5 +45271,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781477884890
+  "timestamp_ms": 1781478785711
 }
