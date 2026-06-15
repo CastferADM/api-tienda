@@ -23213,12 +23213,28 @@
               },
               "imagen": [
                 {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9086%2FCAMP9086-1PIpt.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9086%2FCAMP9086-1PIpt.png",
+                  "archivo_id": "1PIpt3_ZZ0YbzlqVoK0Eag1rO62ZwnZMC",
+                  "portada": false,
+                  "orden": 1,
+                  "fecha_carga": "2026-06-15T01:24:08.989Z"
+                },
+                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9086%2FCAMP9086-1Xub3.webp",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9086%2FCAMP9086-1Xub3.webp",
                   "archivo_id": "1Xub3zdtfckkdSkpM4G1HJzPWZ577vYmm",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-06-14T22:33:55.246Z"
+                  "fecha_carga": "2026-06-15T01:24:08.989Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9086%2FCAMP9086-1shFP.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9086%2FCAMP9086-1shFP.png",
+                  "archivo_id": "1shFPYohfPiajUOD_CEt4hDVemsl0c5c-",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-06-15T01:24:08.989Z"
                 }
               ],
               "variedad": [
@@ -67207,5 +67223,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781481522511
+  "timestamp_ms": 1781486907376
 }
