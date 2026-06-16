@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:26:19.018Z",
+  "generated_at": "2026-06-16T12:41:18.886Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -9623,7 +9623,7 @@
       "id": "CHAL6522",
       "model": "Classic NORTH F",
       "price": 25300,
-      "display_price": 38000,
+      "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Chaleco",
       "categoryName": "Chaleco",
@@ -9646,7 +9646,7 @@
         {
           "variedad_id": "CHAL6522-Docena",
           "nombre": "Docena",
-          "precio_unitario": 38000,
+          "precio_unitario": 35000,
           "cantidad_minima": 12
         }
       ],
@@ -39395,7 +39395,7 @@
       {
         "variedad_id": "CHAL6522-Docena",
         "nombre": "Docena",
-        "precio_unitario": 38000,
+        "precio_unitario": 35000,
         "cantidad_minima": 12
       }
     ],
@@ -45125,5 +45125,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781612904284
+  "timestamp_ms": 1781613773634
 }
