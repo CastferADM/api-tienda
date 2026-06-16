@@ -21532,12 +21532,28 @@
               },
               "imagen": [
                 {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8428%2FCAMP8428-1J3zt.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8428%2FCAMP8428-1J3zt.png",
+                  "archivo_id": "1J3ztISTBVM2ATQkxRqaNkxq894iGJeRB",
+                  "portada": false,
+                  "orden": 1,
+                  "fecha_carga": "2026-06-16T19:17:56.795Z"
+                },
+                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8428%2FCAMP8428-1hTHp.webp",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8428%2FCAMP8428-1hTHp.webp",
                   "archivo_id": "1hTHpNv4W_1chh2KU09iVjc-s0dQByGpc",
                   "portada": true,
                   "orden": 2,
                   "fecha_carga": "2026-06-14T22:54:59.226Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8428%2FCAMP8428-1hsm9.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8428%2FCAMP8428-1hsm9.png",
+                  "archivo_id": "1hsm9YPCPn6JSKkOI2eJ2lqnIKqk5UYvm",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-06-16T19:17:56.795Z"
                 }
               ],
               "variedad": [
@@ -49033,7 +49049,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "175",
+                  "valor": "169",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -49100,7 +49116,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "175"
+                          "stock": "169"
                         }
                       ]
                     }
@@ -49117,7 +49133,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "175"
+                          "stock": "169"
                         }
                       ]
                     }
@@ -66753,5 +66769,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781637239880
+  "timestamp_ms": 1781638109275
 }
