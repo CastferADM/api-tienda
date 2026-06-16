@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T02:56:19.346Z",
+  "generated_at": "2026-06-16T09:11:20.274Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -6928,7 +6928,7 @@
       "material": "Micrifibra",
       "image": "",
       "carpeta_id": "",
-      "woo_id": 37560,
+      "woo_id": 39971,
       "varieties": [
         {
           "variedad_id": "CAMP6678-Curva",
@@ -12002,53 +12002,6 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "JOGG5692-Surtido-Surtido-JM MAYORISTA"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "JOGG5725",
-      "model": "Joggin Cargo con piel CAMUFLADO",
-      "price": 9000,
-      "display_price": 15000,
-      "minor_surcharge": 0,
-      "category_id": "Jogging",
-      "categoryName": "Jogging",
-      "parentCategory": "INDUMENTARIA",
-      "season": "INVIERNO",
-      "gender": "Hombre",
-      "brand": "GELUFEI",
-      "style": "Camuflado",
-      "material": "Acetato",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG5725%2FJOGG5725-1pEsa.jpg",
-      "carpeta_id": "12r99RpM_gq8PJVUbyVFifoXpn6yMVTae",
-      "woo_id": 39709,
-      "varieties": [
-        {
-          "variedad_id": "JOGG5725-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 18000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "JOGG5725-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 15000,
-          "cantidad_minima": 12
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "CASTFER",
-          "variation_id": "JOGG5725-Surtido-Surtido-CASTFER"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "JM MAYORISTA",
-          "variation_id": "JOGG5725-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -37637,6 +37590,53 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG3637",
+      "model": "Joggin Cargo con piel CAMUFLADO",
+      "price": 9000,
+      "display_price": 15000,
+      "minor_surcharge": 0,
+      "category_id": "Jogging",
+      "categoryName": "Jogging",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "GELUFEI",
+      "style": "Camuflado",
+      "material": "Acetato",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG3637%2FJOGG3637-1zCXv.webp",
+      "carpeta_id": "1PDAZNFGU0GOnzHGWGbWPMY-tVxHEFTe2",
+      "woo_id": 39923,
+      "varieties": [
+        {
+          "variedad_id": "JOGG3637-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 15000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "JOGG3637-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 18000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG3637-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG3637-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -38709,14 +38709,6 @@
         "cantidad_minima": 12
       }
     ],
-    "CAMP2113": [
-      {
-        "variedad_id": "CAMP2113-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 35000,
-        "cantidad_minima": 12
-      }
-    ],
     "CAMP2179": [
       {
         "variedad_id": "CAMP2179-Docena",
@@ -38993,14 +38985,6 @@
         "cantidad_minima": 12
       }
     ],
-    "CAMP5762": [
-      {
-        "variedad_id": "CAMP5762-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 45000,
-        "cantidad_minima": 12
-      }
-    ],
     "CAMP5907": [
       {
         "variedad_id": "CAMP5907-Docena",
@@ -39102,20 +39086,6 @@
         "variedad_id": "CAMP6595-Docena",
         "nombre": "Docena",
         "precio_unitario": 50000,
-        "cantidad_minima": 12
-      }
-    ],
-    "CAMP6678": [
-      {
-        "variedad_id": "CAMP6678-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 37200,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP6678-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 37000,
         "cantidad_minima": 12
       }
     ],
@@ -40058,14 +40028,6 @@
         "variedad_id": "JOGG5692-Docena",
         "nombre": "Docena",
         "precio_unitario": 28000,
-        "cantidad_minima": 12
-      }
-    ],
-    "JOGG5725": [
-      {
-        "variedad_id": "JOGG5725-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 15000,
         "cantidad_minima": 12
       }
     ],
@@ -42792,6 +42754,20 @@
         "precio_unitario": 42000,
         "cantidad_minima": 48
       }
+    ],
+    "JOGG3637": [
+      {
+        "variedad_id": "JOGG3637-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 15000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "JOGG3637-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 18000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -45149,5 +45125,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781578793538
+  "timestamp_ms": 1781601218374
 }
