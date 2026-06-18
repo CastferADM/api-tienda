@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T11:26:18.596Z",
+  "generated_at": "2026-06-18T11:41:20.132Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -38574,6 +38574,198 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP1314",
+      "sku": "XL-12309MNA02",
+      "model": "Puffer THE YOUN NIGH 2.0",
+      "price": 27500,
+      "display_price": 41250,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso,Combinado",
+      "material": "Cire",
+      "image": "",
+      "carpeta_id": "1-6c0zvokuT3ACuQvg22oQvHSkuIqDGti",
+      "woo_id": 39989,
+      "varieties": [
+        {
+          "variedad_id": "CAMP1314-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 41250,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP1314-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 41250,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP1314-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 41250,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP1314-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 41250,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP1314-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 55000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1314-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1314-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP6559",
+      "sku": "BW12016XL",
+      "model": "2 EN 1 TALLE ESPECIAL THE YOUN NIGH",
+      "price": 33600,
+      "display_price": 50400,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Cire",
+      "image": "",
+      "carpeta_id": "1g3zgRCoMrip90XMl2Z6WgEqsuoWTQOBq",
+      "woo_id": 39995,
+      "varieties": [
+        {
+          "variedad_id": "CAMP6559-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 50400,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP6559-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 50400,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP6559-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 50400,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CAMP6559-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 50400,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP6559-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 67200,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP6559-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP6559-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CHAL5055",
+      "sku": "BS66551M",
+      "model": "Reversible Puffer-Corderoy ESFUERZO",
+      "price": 23700,
+      "display_price": 35550,
+      "minor_surcharge": 0,
+      "category_id": "Chaleco",
+      "categoryName": "Chaleco",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "",
+      "carpeta_id": "1lnMDUyVP6Yxu6lSwZIx_6g7QVZKqTgMZ",
+      "woo_id": 40001,
+      "varieties": [
+        {
+          "variedad_id": "CHAL5055-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 35550,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CHAL5055-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 35550,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CHAL5055-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 35550,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CHAL5055-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 47400,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CHAL5055-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CHAL5055-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -43737,6 +43929,96 @@
         "precio_unitario": 55000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP1314": [
+      {
+        "variedad_id": "CAMP1314-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 41250,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP1314-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 41250,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP1314-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 41250,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP1314-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 41250,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP1314-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 55000,
+        "cantidad_minima": 1
+      }
+    ],
+    "CAMP6559": [
+      {
+        "variedad_id": "CAMP6559-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 50400,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP6559-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 50400,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP6559-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 50400,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CAMP6559-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 50400,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP6559-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 67200,
+        "cantidad_minima": 1
+      }
+    ],
+    "CHAL5055": [
+      {
+        "variedad_id": "CHAL5055-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 35550,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CHAL5055-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 35550,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CHAL5055-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 35550,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CHAL5055-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 47400,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -46126,5 +46408,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781782122191
+  "timestamp_ms": 1781783027862
 }
