@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T11:11:19.980Z",
+  "generated_at": "2026-06-18T11:26:18.596Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -38508,6 +38508,72 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP3100",
+      "sku": "XL-12316MN02",
+      "model": "Puffer Classic THE YOUN NIGH",
+      "price": 27500,
+      "display_price": 41250,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso,Combinado",
+      "material": "Cire",
+      "image": "",
+      "carpeta_id": "1AKiBnSJrCyiGE3RR8F7WRJHYtnery8GT",
+      "woo_id": 39983,
+      "varieties": [
+        {
+          "variedad_id": "CAMP3100-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 41250,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP3100-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 41250,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP3100-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 41250,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP3100-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 41250,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP3100-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 55000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP3100-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP3100-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -43639,6 +43705,38 @@
         "precio_unitario": 18000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP3100": [
+      {
+        "variedad_id": "CAMP3100-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 41250,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP3100-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 41250,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP3100-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 41250,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP3100-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 41250,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP3100-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 55000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -46028,5 +46126,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781781225787
+  "timestamp_ms": 1781782122191
 }
