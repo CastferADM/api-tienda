@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T17:11:18.795Z",
+  "generated_at": "2026-06-18T17:26:19.023Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -38514,7 +38514,7 @@
       "sku": "XL-12316MN02",
       "model": "Puffer Classic THE YOUN NIGH",
       "price": 27500,
-      "display_price": 41250,
+      "display_price": 45000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -38531,31 +38531,13 @@
         {
           "variedad_id": "CAMP3100-Docena",
           "nombre": "Docena",
-          "precio_unitario": 41250,
+          "precio_unitario": 45000,
           "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP3100-Media-Docena",
-          "nombre": "Media-Docena",
-          "precio_unitario": 41250,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CAMP3100-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 41250,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "CAMP3100-Combo",
-          "nombre": "Combo",
-          "precio_unitario": 41250,
-          "cantidad_minima": 1
         },
         {
           "variedad_id": "CAMP3100-Menor",
           "nombre": "Menor",
-          "precio_unitario": 55000,
+          "precio_unitario": 60000,
           "cantidad_minima": 1
         }
       ],
@@ -43902,31 +43884,13 @@
       {
         "variedad_id": "CAMP3100-Docena",
         "nombre": "Docena",
-        "precio_unitario": 41250,
+        "precio_unitario": 45000,
         "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP3100-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 41250,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "CAMP3100-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 41250,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "CAMP3100-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 41250,
-        "cantidad_minima": 1
       },
       {
         "variedad_id": "CAMP3100-Menor",
         "nombre": "Menor",
-        "precio_unitario": 55000,
+        "precio_unitario": 60000,
         "cantidad_minima": 1
       }
     ],
@@ -46416,5 +46380,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781802794882
+  "timestamp_ms": 1781803674315
 }
