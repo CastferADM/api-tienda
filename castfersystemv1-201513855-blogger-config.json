@@ -597,6 +597,15 @@
       "moneda": "$",
       "costo_envio": 0,
       "hora_entrega": "1899-12-30T23:00:00.000Z"
+    },
+    {
+      "codigo": "expreso garmendia",
+      "descripcion": "expreso garmendia",
+      "cuit": "",
+      "ubicacion": "",
+      "moneda": "$",
+      "costo_envio": 0,
+      "hora_entrega": "1899-12-30T23:00:00.000Z"
     }
   ],
   "pagina_carrusel": [
@@ -23053,7 +23062,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "27",
+                  "valor": "26",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -23120,7 +23129,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "27"
+                          "stock": "26"
                         }
                       ]
                     }
@@ -39794,7 +39803,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "110",
+                  "valor": "109",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -39853,7 +39862,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "110"
+                          "stock": "109"
                         }
                       ]
                     }
@@ -39870,7 +39879,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "110"
+                          "stock": "109"
                         }
                       ]
                     }
@@ -49532,7 +49541,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "157",
+                  "valor": "155",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -49599,7 +49608,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "157"
+                          "stock": "155"
                         }
                       ]
                     }
@@ -49616,7 +49625,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "157"
+                          "stock": "155"
                         }
                       ]
                     }
@@ -67252,5 +67261,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781795599680
+  "timestamp_ms": 1781796489869
 }
