@@ -9383,7 +9383,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "3",
+                  "valor": "2",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -9450,7 +9450,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "3"
+                          "stock": "2"
                         }
                       ]
                     }
@@ -9467,7 +9467,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "3"
+                          "stock": "2"
                         }
                       ]
                     }
@@ -11659,7 +11659,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "101",
+                  "valor": "100",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11734,7 +11734,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "101"
+                          "stock": "100"
                         }
                       ]
                     }
@@ -11751,7 +11751,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "101"
+                          "stock": "100"
                         }
                       ]
                     }
@@ -67468,5 +67468,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1781898225238
+  "timestamp_ms": 1781899111307
 }
