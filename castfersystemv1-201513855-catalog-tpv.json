@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T00:26:19.623Z",
+  "generated_at": "2026-06-20T13:56:18.809Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -19224,7 +19224,7 @@
       "sku": "",
       "model": "Camperon con Corderito",
       "price": 12900,
-      "display_price": 12900,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Tapado",
       "categoryName": "Tapado",
@@ -19237,7 +19237,14 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA5026%2FTAPA5026-1AW0i.jpg",
       "carpeta_id": "1EjleiRMiGjAcucTPDH2S0VbuQ-u6U9Lp",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "TAPA5026-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -43887,6 +43894,14 @@
         "precio_unitario": 50000,
         "cantidad_minima": 1
       }
+    ],
+    "TAPA5026": [
+      {
+        "variedad_id": "TAPA5026-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -46284,5 +46299,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781915283552
+  "timestamp_ms": 1781963892807
 }
