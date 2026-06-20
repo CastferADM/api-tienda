@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T17:11:19.041Z",
+  "generated_at": "2026-06-20T17:26:18.806Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -38380,12 +38380,6 @@
           "cantidad_minima": 6
         },
         {
-          "variedad_id": "CAMP9583-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 45375,
-          "cantidad_minima": 5
-        },
-        {
           "variedad_id": "CAMP9583-Combo",
           "nombre": "Combo",
           "precio_unitario": 45375,
@@ -38394,7 +38388,7 @@
         {
           "variedad_id": "CAMP9583-Menor",
           "nombre": "Menor",
-          "precio_unitario": 60500,
+          "precio_unitario": 55000,
           "cantidad_minima": 1
         }
       ],
@@ -43787,12 +43781,6 @@
         "cantidad_minima": 6
       },
       {
-        "variedad_id": "CAMP9583-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 45375,
-        "cantidad_minima": 5
-      },
-      {
         "variedad_id": "CAMP9583-Combo",
         "nombre": "Combo",
         "precio_unitario": 45375,
@@ -43801,7 +43789,7 @@
       {
         "variedad_id": "CAMP9583-Menor",
         "nombre": "Menor",
-        "precio_unitario": 60500,
+        "precio_unitario": 55000,
         "cantidad_minima": 1
       }
     ],
@@ -46299,5 +46287,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781975609266
+  "timestamp_ms": 1781976527041
 }
