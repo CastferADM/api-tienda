@@ -39628,7 +39628,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "103",
+                  "valor": "100",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -39687,7 +39687,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "103"
+                          "stock": "100"
                         }
                       ]
                     }
@@ -39704,7 +39704,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "103"
+                          "stock": "100"
                         }
                       ]
                     }
@@ -41189,7 +41189,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "2",
+                  "valor": "-1",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -41218,17 +41218,7 @@
                   "precio": 26000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "2"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -67229,5 +67219,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1782321175973
+  "timestamp_ms": 1782322077135
 }
