@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:56:19.890Z",
+  "generated_at": "2026-06-25T15:11:20.463Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -38767,6 +38767,66 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG2096",
+      "sku": "BP6309EXX",
+      "model": "Cargo Talles Especiales 50-62",
+      "price": 19000,
+      "display_price": 28500,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Gabardina",
+      "image": "",
+      "carpeta_id": "1PFtT5H629tpNu2wXncANI_xAF5WaftzD",
+      "woo_id": 40116,
+      "varieties": [
+        {
+          "variedad_id": "JOGG2096-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 28500,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "JOGG2096-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 28500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "JOGG2096-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 28500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "JOGG2096-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 38000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG2096-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG2096-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -43972,6 +44032,32 @@
         "precio_unitario": 43000,
         "cantidad_minima": 1
       }
+    ],
+    "JOGG2096": [
+      {
+        "variedad_id": "JOGG2096-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 28500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "JOGG2096-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 28500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "JOGG2096-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 28500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "JOGG2096-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 38000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -46389,5 +46475,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782399502334
+  "timestamp_ms": 1782400416277
 }
