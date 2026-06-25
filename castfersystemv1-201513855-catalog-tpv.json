@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:41:20.234Z",
+  "generated_at": "2026-06-25T14:56:19.890Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -18567,7 +18567,7 @@
       "id": "SWEA2502",
       "sku": "",
       "model": "CUELLO O TERMICO",
-      "price": 14300,
+      "price": 17000,
       "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Sueter",
@@ -38701,6 +38701,72 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP4203",
+      "sku": "2376",
+      "model": "Neoprene sofshell COLORES",
+      "price": 21500,
+      "display_price": 32250,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprene",
+      "image": "",
+      "carpeta_id": "1x4UNJF6gBbO40l6JYqdr-QiK71aZCtkT",
+      "woo_id": 40110,
+      "varieties": [
+        {
+          "variedad_id": "CAMP4203-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 32250,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP4203-Media-Docena",
+          "nombre": "Media-Docena",
+          "precio_unitario": 32250,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CAMP4203-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 32250,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "CAMP4203-Combo",
+          "nombre": "Combo",
+          "precio_unitario": 32250,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CAMP4203-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 43000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP4203-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP4203-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -43874,6 +43940,38 @@
         "precio_unitario": 25000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP4203": [
+      {
+        "variedad_id": "CAMP4203-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 32250,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP4203-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 32250,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CAMP4203-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 32250,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "CAMP4203-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 32250,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CAMP4203-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 43000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -46291,5 +46389,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782398593806
+  "timestamp_ms": 1782399502334
 }
