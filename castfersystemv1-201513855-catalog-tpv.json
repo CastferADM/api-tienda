@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T12:56:18.660Z",
+  "generated_at": "2026-06-27T13:11:21.191Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30175,7 +30175,7 @@
       "sku": "2376",
       "model": "Neoprene sofshell COLORES",
       "price": 21500,
-      "display_price": 32250,
+      "display_price": 30000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -32999,37 +32999,23 @@
     ],
     "CAMP4203": [
       {
-        "variedad_id": "CAMP4203-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 32250,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP4203-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 32250,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP4203-Docena",
         "nombre": "Docena",
-        "precio_unitario": 32250,
+        "precio_unitario": 30000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "CAMP4203-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 32250,
+        "precio_unitario": 35000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "CAMP4203-Menor",
         "nombre": "Menor",
-        "precio_unitario": 43000,
+        "precio_unitario": 45000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -39978,13 +39964,6 @@
         "visible": true
       },
       {
-        "variedad_id": "CAMP4710-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 42000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP4710-Menor",
         "nombre": "Menor",
         "precio_unitario": 55000,
@@ -42420,5 +42399,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782565077991
+  "timestamp_ms": 1782566044214
 }
