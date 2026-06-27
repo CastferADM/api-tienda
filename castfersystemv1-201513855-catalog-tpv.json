@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T12:11:19.481Z",
+  "generated_at": "2026-06-27T12:26:19.678Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30237,6 +30237,108 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "TAPA4761",
+      "sku": "B21711M",
+      "model": "Camperon LARGO",
+      "price": 32000,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "Tapado",
+      "categoryName": "Tapado",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Cire",
+      "image": "",
+      "carpeta_id": "1HQiaun84BvOklv9BTRYTjpERBn0risVh",
+      "woo_id": 40131,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "TAPA4761-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "TAPA4761-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "TAPA7532",
+      "sku": "B21712XLM",
+      "model": "Camperon LARGO",
+      "price": 32000,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "Tapado",
+      "categoryName": "Tapado",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Cire",
+      "image": "",
+      "carpeta_id": "1Oj19s9Et7roSEeLlyneX9JzEfGhd39uk",
+      "woo_id": 40136,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "TAPA7532-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "TAPA7532-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP9231",
+      "sku": "B31202M",
+      "model": "Manga desmontable con piel",
+      "price": 39000,
+      "display_price": 58500,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Combinado",
+      "material": "Cire",
+      "image": "",
+      "carpeta_id": "1rmqw8XHCaE6QwnH--Cek_Q-E-lwSsy9S",
+      "woo_id": 40141,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP9231-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP9231-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -39784,6 +39886,103 @@
         "cantidad_minima": 3,
         "visible": true
       }
+    ],
+    "TAPA4761": [
+      {
+        "variedad_id": "TAPA4761-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA4761-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA4761-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 48000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA4761-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 64000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TAPA7532": [
+      {
+        "variedad_id": "TAPA7532-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA7532-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA7532-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 48000,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA7532-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 64000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CAMP9231": [
+      {
+        "variedad_id": "CAMP9231-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 58500,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP9231-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 58500,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP9231-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 58500,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP9231-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 58500,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP9231-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 78000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -42213,5 +42412,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782562394567
+  "timestamp_ms": 1782563297162
 }
