@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T12:41:18.433Z",
+  "generated_at": "2026-06-27T12:56:18.660Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30339,6 +30339,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP4710",
+      "sku": "BJ870350M",
+      "model": "Doble Cierre",
+      "price": 28000,
+      "display_price": 40000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Fibra",
+      "image": "",
+      "carpeta_id": "1CIyWBsewZOV8iNnLZQhYbEEqZTlB8IIt",
+      "woo_id": 40147,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP4710-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP4710-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -39934,6 +39968,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP4710": [
+      {
+        "variedad_id": "CAMP4710-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 40000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP4710-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 42000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP4710-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -42363,5 +42420,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782564181514
+  "timestamp_ms": 1782565077991
 }
