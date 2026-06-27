@@ -2,11 +2,11 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://cast-fer.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
   "pagina_tienda": {
     "tienda_id": "CASTFER",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
     "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=CASTFER&lastName=BRYAN%20COLQUE&email=castfer2498%40gmail.com&cellPhone=1132264462&workPhone=1150055119&address=Bacacay%202946&org=CASTFER&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "castfer2498@gmail.com",
     "telefono": "1132264462",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "23:00:00"
     },
-    "compra_minima": "4",
+    "compra_minima": 4,
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -722,7 +722,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "50",
+                  "valor": "62",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -765,7 +765,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "50"
+                          "stock": "62"
                         }
                       ]
                     }
@@ -13002,6 +13002,23 @@
               "variedad": [
                 {
                   "moneda": "$",
+                  "precio": 18500,
+                  "variedad": "Caja",
+                  "minima": 144,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "277"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
                   "precio": 20000,
                   "variedad": "Docena",
                   "minima": 12,
@@ -13022,23 +13039,6 @@
                   "precio": 27000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "277"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 18500,
-                  "variedad": "Caja",
-                  "minima": 144,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -15018,15 +15018,8 @@
                 {
                   "moneda": "$",
                   "precio": 32250,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 32250,
-                  "variedad": "Media-Docena",
-                  "minima": 6,
+                  "variedad": "Combo",
+                  "minima": 1,
                   "sub_variedad": {}
                 },
                 {
@@ -15039,8 +15032,15 @@
                 {
                   "moneda": "$",
                   "precio": 32250,
-                  "variedad": "Combo",
-                  "minima": 1,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 32250,
+                  "variedad": "Media-Docena",
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -19918,6 +19918,23 @@
               "variedad": [
                 {
                   "moneda": "$",
+                  "precio": 42000,
+                  "variedad": "Caja",
+                  "minima": 48,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "181"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
                   "precio": 47000,
                   "variedad": "Docena",
                   "minima": 12,
@@ -19938,23 +19955,6 @@
                   "precio": 60000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "181"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 42000,
-                  "variedad": "Caja",
-                  "minima": 48,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -24247,6 +24247,23 @@
               "variedad": [
                 {
                   "moneda": "$",
+                  "precio": 38000,
+                  "variedad": "Caja",
+                  "minima": 60,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "204"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
                   "precio": 41000,
                   "variedad": "Docena",
                   "minima": 12,
@@ -24267,23 +24284,6 @@
                   "precio": 58000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "204"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 38000,
-                  "variedad": "Caja",
-                  "minima": 60,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -25229,6 +25229,23 @@
                 {
                   "moneda": "$",
                   "precio": 45375,
+                  "variedad": "Combo",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "202"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 45375,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {
@@ -25248,23 +25265,6 @@
                   "precio": 45375,
                   "variedad": "Media-Docena",
                   "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "202"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 45375,
-                  "variedad": "Combo",
-                  "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -32181,6 +32181,23 @@
                 {
                   "moneda": "$",
                   "precio": 28500,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "264"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 28500,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {
@@ -32199,23 +32216,6 @@
                   "moneda": "$",
                   "precio": 28500,
                   "variedad": "Media-Docena",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "264"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 28500,
-                  "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
                     "Surtido": {
@@ -34345,6 +34345,13 @@
                 {
                   "moneda": "$",
                   "precio": 25950,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25950,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {}
@@ -34354,13 +34361,6 @@
                   "precio": 25950,
                   "variedad": "Media-Docena",
                   "minima": 6,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 25950,
-                  "variedad": "Curva",
-                  "minima": 4,
                   "sub_variedad": {}
                 }
               ],
@@ -54577,16 +54577,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -54697,9 +54697,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 1391,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1160,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -54714,9 +54714,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1160,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 1391,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -54808,16 +54808,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -54928,9 +54928,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 1800,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1500,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -54945,9 +54945,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1500,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 1800,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55039,16 +55039,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -55130,16 +55130,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -55250,9 +55250,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 1529,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1274,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55267,9 +55267,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1274,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 1529,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55390,9 +55390,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 1745,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1454,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55407,9 +55407,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1454,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 1745,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55501,16 +55501,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -55621,9 +55621,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 1696,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1413,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55638,9 +55638,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1413,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 1696,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55762,9 +55762,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 1725,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1438,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55779,9 +55779,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1438,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 1725,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -55874,16 +55874,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2700,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 2250,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 2250,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2700,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -55965,16 +55965,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -56056,16 +56056,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -56301,16 +56301,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1333.33,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 1333.33,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -56555,9 +56555,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 8000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 6416.6,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -56572,9 +56572,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 6416.6,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 8000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -56813,9 +56813,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 8000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 6125,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -56830,9 +56830,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 6125,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 8000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -56957,9 +56957,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 7000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 5500,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -56974,9 +56974,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 5500,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 7000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57102,9 +57102,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 8000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 6500,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57119,9 +57119,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 6500,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 8000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57228,9 +57228,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 7000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 5833.34,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57245,9 +57245,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 5833.34,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 7000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57374,16 +57374,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2333.33,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1500,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 1500,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2333.33,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -57498,9 +57498,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2333.34,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1500,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57515,9 +57515,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1500,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2333.34,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57641,16 +57641,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 5000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 4166.67,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 4166.67,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 5000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -57844,9 +57844,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 6666.6,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 6391.64,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57861,9 +57861,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 6391.64,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 6666.6,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57959,9 +57959,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 5000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 4625,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -57976,9 +57976,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 4625,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 5000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -58090,9 +58090,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2333.34,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1666.67,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -58107,9 +58107,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1666.67,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2333.34,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -58590,9 +58590,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 8000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 6583.33,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -58607,9 +58607,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 6583.33,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 8000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -58844,9 +58844,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 8000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 6250,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -58861,9 +58861,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 6250,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 8000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -58992,9 +58992,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 4333.33,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 3920,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -59009,9 +59009,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 3920,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 4333.33,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -59354,16 +59354,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -59449,16 +59449,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -59540,16 +59540,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -59852,16 +59852,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -59943,16 +59943,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60034,16 +60034,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60125,16 +60125,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60216,16 +60216,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60311,16 +60311,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60402,16 +60402,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60501,16 +60501,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60600,16 +60600,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60691,16 +60691,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60786,16 +60786,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60877,16 +60877,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -60968,16 +60968,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -61067,16 +61067,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -61158,16 +61158,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -61249,16 +61249,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 15,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 18,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {}
                 }
               ],
@@ -61377,9 +61377,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2333.3,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1750,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -61394,9 +61394,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1750,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2333.3,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -61822,9 +61822,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2666.6,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 2000,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -61839,9 +61839,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 2000,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2666.6,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -62310,9 +62310,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2500,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1833.33,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -62327,9 +62327,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1833.33,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2500,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -62920,9 +62920,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2666.66,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1833.33,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -62937,9 +62937,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1833.33,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2666.66,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -63664,9 +63664,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2333.33,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1666.66,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -63681,9 +63681,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1666.66,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2333.33,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -64011,9 +64011,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2500,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 1791.66,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -64028,9 +64028,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 1791.66,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 2500,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -64246,9 +64246,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 3075,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 2250,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -64263,9 +64263,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 2250,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 3075,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -66918,9 +66918,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 4000,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 5000,
+                  "variedad": "Menor",
+                  "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -66935,9 +66935,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 5000,
-                  "variedad": "Menor",
-                  "minima": 1,
+                  "precio": 4000,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -70063,5 +70063,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1782527316552
+  "timestamp_ms": 1782535751843
 }
