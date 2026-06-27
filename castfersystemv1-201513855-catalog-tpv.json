@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T12:26:19.678Z",
+  "generated_at": "2026-06-27T12:41:18.433Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30277,7 +30277,7 @@
       "sku": "B21712XLM",
       "model": "Camperon LARGO",
       "price": 32000,
-      "display_price": 48000,
+      "display_price": 50000,
       "minor_surcharge": 0,
       "category_id": "Tapado",
       "categoryName": "Tapado",
@@ -30310,8 +30310,8 @@
       "id": "CAMP9231",
       "sku": "B31202M",
       "model": "Manga desmontable con piel",
-      "price": 39000,
-      "display_price": 58500,
+      "price": 30500,
+      "display_price": 46000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -30322,7 +30322,7 @@
       "style": "Combinado",
       "material": "Cire",
       "image": "",
-      "carpeta_id": "1rmqw8XHCaE6QwnH--Cek_Q-E-lwSsy9S",
+      "carpeta_id": "",
       "woo_id": 40141,
       "variations": [
         {
@@ -39896,23 +39896,9 @@
         "visible": true
       },
       {
-        "variedad_id": "TAPA4761-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 48000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "TAPA4761-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 48000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
         "variedad_id": "TAPA4761-Menor",
         "nombre": "Menor",
-        "precio_unitario": 64000,
+        "precio_unitario": 65000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -39921,28 +39907,14 @@
       {
         "variedad_id": "TAPA7532-Docena",
         "nombre": "Docena",
-        "precio_unitario": 48000,
+        "precio_unitario": 50000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "TAPA7532-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 48000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "TAPA7532-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 48000,
-        "cantidad_minima": 4,
         "visible": true
       },
       {
         "variedad_id": "TAPA7532-Menor",
         "nombre": "Menor",
-        "precio_unitario": 64000,
+        "precio_unitario": 70000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -39951,35 +39923,14 @@
       {
         "variedad_id": "CAMP9231-Docena",
         "nombre": "Docena",
-        "precio_unitario": 58500,
+        "precio_unitario": 46000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP9231-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 58500,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP9231-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 58500,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP9231-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 58500,
-        "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "CAMP9231-Menor",
         "nombre": "Menor",
-        "precio_unitario": 78000,
+        "precio_unitario": 60000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -42412,5 +42363,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782563297162
+  "timestamp_ms": 1782564181514
 }
