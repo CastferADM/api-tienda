@@ -24539,7 +24539,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "27-06-2026"
+                  "valor": "28-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -24552,17 +24552,17 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9231%2FCAMP9231-1v2wu.webp",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9231%2FCAMP9231-1v2wu.webp",
                   "archivo_id": "1v2wuIeKupfUpt1XBWKiqdLdBDrU7mmDm",
-                  "portada": true,
+                  "portada": false,
                   "orden": 1,
-                  "fecha_carga": "2026-06-29T01:05:47.295Z"
+                  "fecha_carga": "2026-06-29T01:12:49.170Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9231%2FCAMP9231-1Xg0f.webp",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9231%2FCAMP9231-1Xg0f.webp",
                   "archivo_id": "1Xg0fbexn5EexIJMf97MJKE9Xxc0gAL3u",
-                  "portada": false,
+                  "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-06-29T01:05:47.295Z"
+                  "fecha_carga": "2026-06-29T01:12:49.170Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9231%2FCAMP9231-158Po.webp",
@@ -24570,13 +24570,21 @@
                   "archivo_id": "158PoKYBhCb2a3Zf1Fkl4r3cK8zX7j9Z_",
                   "portada": false,
                   "orden": 3,
-                  "fecha_carga": "2026-06-29T01:05:47.295Z"
+                  "fecha_carga": "2026-06-29T01:12:49.170Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9231%2FCAMP9231-198RU.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9231%2FCAMP9231-198RU.png",
+                  "archivo_id": "198RUxAVF6WYqtq97T9e3IPc1ZUtQhV9O",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-29T01:12:49.170Z"
                 }
               ],
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 46000,
+                  "precio": 45000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {
@@ -54587,8 +54595,12 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7532%2FTAPA7532-16sIT.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA7532%2FTAPA7532-16sIT.webp",
+                  "archivo_id": "16sIT918bmuLSDfgdr4cLiMdsJVZ0hzSP",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-06-29T01:18:32.167Z"
                 }
               ],
               "variedad": [
@@ -70480,5 +70492,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1782695607888
+  "timestamp_ms": 1782696505097
 }
