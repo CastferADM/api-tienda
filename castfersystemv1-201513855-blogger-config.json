@@ -32445,8 +32445,44 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1PxS0.jpeg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1PxS0.jpeg",
+                  "archivo_id": "1PxS0LW97WQ0miGngDWeFxfhGpRMk8W-K",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-06-29T00:39:30.140Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1fY4C.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1fY4C.webp",
+                  "archivo_id": "1fY4CKw8v5IQUD446Z2ZvBBBN7WCXtDo0",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-29T00:39:30.140Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-16yBH.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-16yBH.webp",
+                  "archivo_id": "16yBHuA2MTOgkM97Wotjbpney0SLKhmC1",
+                  "portada": false,
+                  "orden": 3,
+                  "fecha_carga": "2026-06-29T00:39:30.140Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1WyGG.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1WyGG.webp",
+                  "archivo_id": "1WyGGNUYYglW4N8ZKMAYj0TV79n5DooEi",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-29T00:39:30.140Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1eONs.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1eONs.webp",
+                  "archivo_id": "1eONsO8ClXVmJONZBttZ8Rt8NpnAc1nz-",
+                  "portada": false,
+                  "orden": 5,
+                  "fecha_carga": "2026-06-29T00:39:30.140Z"
                 }
               ],
               "variedad": [
@@ -70564,5 +70600,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1782689294875
+  "timestamp_ms": 1782693794272
 }
