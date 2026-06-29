@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T16:26:21.720Z",
+  "generated_at": "2026-06-29T16:41:19.219Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -24,7 +24,7 @@
         "printSettings": {
           "copias": 1,
           "sonido": "1",
-          "marketing": "",
+          "marketing": "Condiciones: Los cambios solo se aceptan con este ticket (7 dias). No aplica Ropa Interior/Oferta",
           "minCupon": 0
         }
       }
@@ -42286,6 +42286,11 @@
   },
   "transferAccounts": [
     {
+      "id": "MercadoPago - 09",
+      "alias": "br.3295",
+      "name": "Bryan Colque Fernandez"
+    },
+    {
       "id": "MercadoPago - 02",
       "alias": "D.MIRYAN.2946",
       "name": "Julia Miryan Fernandez"
@@ -42299,11 +42304,6 @@
       "id": "MercadoPago - 08",
       "alias": "CAST.FER.29",
       "name": "Montaño Rodriguez"
-    },
-    {
-      "id": "MercadoPago - 09",
-      "alias": "br.3295",
-      "name": "Bryan Colque Fernandez"
     },
     {
       "id": "Banco Ciudad - 10",
@@ -42321,5 +42321,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782750601864
+  "timestamp_ms": 1782751406198
 }
