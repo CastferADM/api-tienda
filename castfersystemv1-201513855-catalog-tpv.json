@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T02:26:19.067Z",
+  "generated_at": "2026-06-29T02:41:23.312Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -29596,8 +29596,8 @@
       "id": "CAMP5671",
       "sku": "XK23076X",
       "model": "Neoprene termica Talles Especiales",
-      "price": 32000,
-      "display_price": 48000,
+      "price": 25900,
+      "display_price": 38000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -33239,14 +33239,14 @@
       {
         "variedad_id": "CAMP5671-Docena",
         "nombre": "Docena",
-        "precio_unitario": 48000,
+        "precio_unitario": 38000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "CAMP5671-Menor",
         "nombre": "Menor",
-        "precio_unitario": 55000,
+        "precio_unitario": 50000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -42321,5 +42321,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782700117887
+  "timestamp_ms": 1782701016493
 }
