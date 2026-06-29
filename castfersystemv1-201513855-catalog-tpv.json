@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T13:41:19.500Z",
+  "generated_at": "2026-06-29T13:56:18.872Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -14863,7 +14863,7 @@
       "sku": 8013,
       "model": "8013 Camperon c-piel",
       "price": 42000,
-      "display_price": 50000,
+      "display_price": 70000,
       "minor_surcharge": 0,
       "category_id": "Tapado",
       "categoryName": "Tapado",
@@ -39586,15 +39586,6 @@
         "visible": false
       }
     ],
-    "TAPA7255": [
-      {
-        "variedad_id": "TAPA7255-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 50000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
     "TAPA8087": [
       {
         "variedad_id": "TAPA8087-Menor",
@@ -39889,6 +39880,15 @@
         "variedad_id": "CAMP4710-Menor",
         "nombre": "Menor",
         "precio_unitario": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TAPA7255": [
+      {
+        "variedad_id": "TAPA7255-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 70000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -42321,5 +42321,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782740661847
+  "timestamp_ms": 1782741491732
 }
