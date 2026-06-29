@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T02:11:20.350Z",
+  "generated_at": "2026-06-29T02:26:19.067Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -29936,8 +29936,8 @@
       "id": "CAMP6734",
       "sku": "YZ79003",
       "model": "Gamulan",
-      "price": 31500,
-      "display_price": 42000,
+      "price": 28200,
+      "display_price": 40000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -30219,7 +30219,7 @@
       "brand": "YD",
       "style": "Liso",
       "material": "Cire",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA4761%2FTAPA4761-1LwMI.webp",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA4761%2FTAPA4761-174-_.webp",
       "carpeta_id": "1HQiaun84BvOklv9BTRYTjpERBn0risVh",
       "woo_id": 40131,
       "variations": [
@@ -33644,14 +33644,14 @@
       {
         "variedad_id": "CAMP6734-Caja",
         "nombre": "Caja",
-        "precio_unitario": 42000,
+        "precio_unitario": 40000,
         "cantidad_minima": 48,
         "visible": true
       },
       {
         "variedad_id": "CAMP6734-Docena",
         "nombre": "Docena",
-        "precio_unitario": 47000,
+        "precio_unitario": 43000,
         "cantidad_minima": 12,
         "visible": true
       },
@@ -34262,7 +34262,7 @@
       {
         "variedad_id": "CAMP9086-Menor",
         "nombre": "Menor",
-        "precio_unitario": 58000,
+        "precio_unitario": 55000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -34365,24 +34365,10 @@
     ],
     "CAMP9583": [
       {
-        "variedad_id": "CAMP9583-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 45375,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP9583-Docena",
         "nombre": "Docena",
         "precio_unitario": 45375,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP9583-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 45375,
-        "cantidad_minima": 6,
         "visible": true
       },
       {
@@ -42335,5 +42321,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782699225132
+  "timestamp_ms": 1782700117887
 }
