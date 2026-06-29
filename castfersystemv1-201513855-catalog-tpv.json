@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T00:41:18.910Z",
+  "generated_at": "2026-06-29T00:56:19.004Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -29457,40 +29457,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "JOGG2399",
-      "sku": "BP6937A",
-      "model": "Cargo Original",
-      "price": 13000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Joggers",
-      "categoryName": "Joggers",
-      "parentCategory": "INDUMENTARIA",
-      "season": "VERANO",
-      "gender": "Hombre",
-      "brand": "I-RUN",
-      "style": "Liso",
-      "material": "Gabardina",
-      "image": "",
-      "carpeta_id": "1JhzwYVGai-Iuwl9x4jvpS_rbBFj2TYKp",
-      "woo_id": 39515,
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "CASTFER",
-          "variation_id": "JOGG2399-Surtido-Surtido-CASTFER"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "JM MAYORISTA",
-          "variation_id": "JOGG2399-Surtido-Surtido-JM MAYORISTA"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "CAMP8236",
       "sku": "F13005",
       "model": "Impermeable sin piel",
@@ -35902,22 +35868,6 @@
         "precio_unitario": 30000,
         "cantidad_minima": 1,
         "visible": false
-      }
-    ],
-    "JOGG2399": [
-      {
-        "variedad_id": "JOGG2399-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 25000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "JOGG2399-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
       }
     ],
     "JOGG2427": [
@@ -42399,5 +42349,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782693812863
+  "timestamp_ms": 1782694699846
 }
