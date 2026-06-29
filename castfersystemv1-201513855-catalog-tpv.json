@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T00:56:19.004Z",
+  "generated_at": "2026-06-29T01:11:19.579Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30173,9 +30173,9 @@
     {
       "id": "JOGG2096",
       "sku": "BP6309EXX",
-      "model": "Cargo Talles Especiales 50-62",
+      "model": "Cargo Talles Especiales 52-62",
       "price": 19000,
-      "display_price": 28500,
+      "display_price": 28000,
       "minor_surcharge": 0,
       "category_id": "Joggers",
       "categoryName": "Joggers",
@@ -30185,7 +30185,7 @@
       "brand": "I-RUN",
       "style": "Liso",
       "material": "Gabardina",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1PxS0.jpeg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2096%2FJOGG2096-1ZqTc.png",
       "carpeta_id": "1PFtT5H629tpNu2wXncANI_xAF5WaftzD",
       "woo_id": 40116,
       "variations": [
@@ -30287,8 +30287,8 @@
       "brand": "YD",
       "style": "Combinado",
       "material": "Cire",
-      "image": "",
-      "carpeta_id": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9231%2FCAMP9231-1v2wu.webp",
+      "carpeta_id": "1rmqw8XHCaE6QwnH--Cek_Q-E-lwSsy9S",
       "woo_id": 40141,
       "variations": [
         {
@@ -30321,7 +30321,7 @@
       "brand": "YD",
       "style": "Liso",
       "material": "Fibra",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP4710%2FCAMP4710-17FFR.webp",
       "carpeta_id": "1CIyWBsewZOV8iNnLZQhYbEEqZTlB8IIt",
       "woo_id": 40147,
       "variations": [
@@ -35826,30 +35826,16 @@
     ],
     "JOGG2096": [
       {
-        "variedad_id": "JOGG2096-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 28500,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
         "variedad_id": "JOGG2096-Docena",
         "nombre": "Docena",
-        "precio_unitario": 28500,
+        "precio_unitario": 28000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "JOGG2096-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 28500,
-        "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "JOGG2096-Menor",
         "nombre": "Menor",
-        "precio_unitario": 38000,
+        "precio_unitario": 35000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -42349,5 +42335,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782694699846
+  "timestamp_ms": 1782695567957
 }
