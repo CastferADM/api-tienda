@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T16:41:24.462Z",
+  "generated_at": "2026-06-30T16:56:19.579Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -28982,7 +28982,7 @@
     },
     {
       "id": "CAMP7774",
-      "sku": "F13006",
+      "sku": "F13006/07/05",
       "model": "Impermeable sin piel",
       "price": 30000,
       "display_price": 35000,
@@ -30370,6 +30370,40 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "JOGG7328-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG2618",
+      "sku": "BP6309A",
+      "model": "Cargo clasic",
+      "price": 16000,
+      "display_price": 22000,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Gabardina",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2618%2FJOGG2618-1GO8J.jpg",
+      "carpeta_id": "1adGFCxOxI5oyWD7tphabr5nybFmxeWDD",
+      "woo_id": 40180,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG2618-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG2618-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -39956,6 +39990,43 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "JOGG2618": [
+      {
+        "variedad_id": "JOGG2618-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 24000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG2618-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 24000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG2618-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG2618-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG2618-Caja",
+        "nombre": "Caja",
+        "precio_unitario": 22000,
+        "cantidad_minima": 120,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -42389,5 +42460,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782837862095
+  "timestamp_ms": 1782838707219
 }
