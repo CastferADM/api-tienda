@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T16:26:30.635Z",
+  "generated_at": "2026-06-30T16:41:24.462Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30339,6 +30339,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG7328",
+      "sku": "HLM-060ML",
+      "model": "Cargo Camuflado",
+      "price": 16000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "HENGLUMAO",
+      "style": "Estampado",
+      "material": "Gabardina",
+      "image": "",
+      "carpeta_id": "1cnmG1hwep7H-XfI_o3o_B7ZdMGleNXdZ",
+      "woo_id": 40175,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG7328-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG7328-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -39892,6 +39926,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "JOGG7328": [
+      {
+        "variedad_id": "JOGG7328-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 25000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG7328-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG7328-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG7328-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -42325,5 +42389,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782836993986
+  "timestamp_ms": 1782837862095
 }
