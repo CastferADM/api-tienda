@@ -35674,8 +35674,28 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7328%2FJOGG7328-1AcMI.webp",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1AcMIX5lESx8T6G0EiPkfnFwDbiYHTnyX&sz=s600",
+                  "archivo_id": "1AcMIX5lESx8T6G0EiPkfnFwDbiYHTnyX",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-07-01T01:24:46.173Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7328%2FJOGG7328-17Emv.webp",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=17EmvmLuTwfdJjoy9fX5w5MAM86Y5LFcQ&sz=s600",
+                  "archivo_id": "17EmvmLuTwfdJjoy9fX5w5MAM86Y5LFcQ",
+                  "portada": false,
+                  "orden": 3,
+                  "fecha_carga": "2026-07-01T01:24:46.173Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7328%2FJOGG7328-1mQkk.webp",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1mQkkTK1hXWn97xQ6O7Gep5SrTQKgboYW&sz=s600",
+                  "archivo_id": "1mQkkTK1hXWn97xQ6O7Gep5SrTQKgboYW",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-07-01T01:24:46.173Z"
                 }
               ],
               "variedad": [
@@ -70799,5 +70819,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1782863071746
+  "timestamp_ms": 1782869417112
 }
