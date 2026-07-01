@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T16:27:51.136Z",
+  "generated_at": "2026-07-01T16:42:46.008Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -13537,7 +13537,7 @@
       "sku": "JBD-92",
       "model": "Deportivo con Cierre",
       "price": 6000,
-      "display_price": 9000,
+      "display_price": 11500,
       "minor_surcharge": 0,
       "category_id": "Short",
       "categoryName": "Short",
@@ -30470,8 +30470,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1495",
-    "DOLAR_BLUE_COMPRA": "1515",
+    "DOLAR_BLUE_VENTA": "1500",
+    "DOLAR_BLUE_COMPRA": "1520",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -38810,13 +38810,6 @@
     ],
     "SHOR5755": [
       {
-        "variedad_id": "SHOR5755-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 9000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
         "variedad_id": "SHOR5755-Docena",
         "nombre": "Docena",
         "precio_unitario": 11500,
@@ -42429,5 +42422,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782923382328
+  "timestamp_ms": 1782924296271
 }
