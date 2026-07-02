@@ -615,6 +615,15 @@
       "moneda": "$",
       "costo_envio": 0,
       "hora_entrega": "1899-12-30T23:00:00.000Z"
+    },
+    {
+      "codigo": "Transporte IMAZ",
+      "descripcion": "Transporte IMAZ",
+      "cuit": "",
+      "ubicacion": "Flores CABA",
+      "moneda": "$",
+      "costo_envio": 6000,
+      "hora_entrega": "1899-12-30T23:00:00.000Z"
     }
   ],
   "pagina_carrusel": [
@@ -37787,7 +37796,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "58",
+                  "valor": "52",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -37894,7 +37903,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "58"
+                          "stock": "52"
                         }
                       ]
                     }
@@ -52030,7 +52039,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "135",
+                  "valor": "134",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -52113,7 +52122,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "135"
+                          "stock": "134"
                         }
                       ]
                     }
@@ -52130,7 +52139,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "135"
+                          "stock": "134"
                         }
                       ]
                     }
@@ -52147,7 +52156,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "135"
+                          "stock": "134"
                         }
                       ]
                     }
@@ -52454,7 +52463,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "124",
+                  "valor": "123",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -52521,7 +52530,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "124"
+                          "stock": "123"
                         }
                       ]
                     }
@@ -70835,5 +70844,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783018807150
+  "timestamp_ms": 1783019696135
 }
