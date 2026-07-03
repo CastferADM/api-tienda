@@ -41566,7 +41566,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "415",
+                  "valor": "414",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -41633,7 +41633,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "415"
+                          "stock": "414"
                         }
                       ]
                     }
@@ -41650,7 +41650,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "415"
+                          "stock": "414"
                         }
                       ]
                     }
@@ -53219,8 +53219,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "10",
-                  "estado": "Alta"
+                  "valor": "9",
+                  "estado": "Media"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -53270,7 +53270,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "10"
+                          "stock": "9"
                         }
                       ]
                     }
@@ -57787,7 +57787,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "1",
+                  "valor": "-2",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -57840,34 +57840,14 @@
                   "precio": 6500,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "1"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
                   "precio": 8000,
                   "variedad": "Pack x3",
                   "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "1"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -70844,5 +70824,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783092574878
+  "timestamp_ms": 1783093459005
 }
