@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T14:27:45.629Z",
+  "generated_at": "2026-07-08T14:42:45.522Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30407,6 +30407,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CONJ8694",
+      "sku": "JFH",
+      "model": "Neoprem Termico Talle Especial",
+      "price": 30000,
+      "display_price": 52000,
+      "minor_surcharge": 0,
+      "category_id": "Conjuntoo",
+      "categoryName": "Conjuntoo",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprem",
+      "image": "",
+      "carpeta_id": "1SFFcztd2ja-H1TWFyKQ9d6XwfxRZv8qL",
+      "woo_id": 40213,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CONJ8694-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CONJ8694-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -39985,6 +40019,22 @@
         "cantidad_minima": 120,
         "visible": true
       }
+    ],
+    "CONJ8694": [
+      {
+        "variedad_id": "CONJ8694-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 52000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CONJ8694-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -42478,5 +42528,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783520999894
+  "timestamp_ms": 1783521910473
 }
