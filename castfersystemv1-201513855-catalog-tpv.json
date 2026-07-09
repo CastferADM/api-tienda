@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:42:45.674Z",
+  "generated_at": "2026-07-09T15:57:50.397Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30475,6 +30475,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CONJ6934",
+      "sku": "FFH7113A",
+      "model": "Polar convinado",
+      "price": 30000,
+      "display_price": 45000,
+      "minor_surcharge": 0,
+      "category_id": "Conjuntoo",
+      "categoryName": "Conjuntoo",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Polar Soft",
+      "image": "",
+      "carpeta_id": "1NUys5ChaieKbDzGKHi103iLFooYNnS0v",
+      "woo_id": 40222,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CONJ6934-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CONJ6934-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -40092,6 +40126,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CONJ6934": [
+      {
+        "variedad_id": "CONJ6934-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 45000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CONJ6934-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -42589,5 +42639,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783611905876
+  "timestamp_ms": 1783612831643
 }
