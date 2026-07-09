@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T14:42:48.884Z",
+  "generated_at": "2026-07-09T14:57:44.488Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30441,6 +30441,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP1176",
+      "sku": "",
+      "model": "Tokio Track",
+      "price": 32000,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Gamuza",
+      "image": "",
+      "carpeta_id": "1_3ms4VaNIW1Vju-jbHwICOFlHg6Qxn4u",
+      "woo_id": 40216,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1176-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1176-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -40035,6 +40069,43 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP1176": [
+      {
+        "variedad_id": "CAMP1176-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1176-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1176-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 48000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1176-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 48000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1176-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 64000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -42532,5 +42603,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783608319915
+  "timestamp_ms": 1783609208711
 }
