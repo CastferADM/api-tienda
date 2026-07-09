@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:12:46.912Z",
+  "generated_at": "2026-07-09T15:27:44.886Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -6190,7 +6190,7 @@
     },
     {
       "id": "CAMP8533",
-      "sku": "K1573M",
+      "sku": "K15737M",
       "model": "CARGO DE JEAN CON PIEL OVERSIZE",
       "price": 39500,
       "display_price": 55000,
@@ -40086,23 +40086,9 @@
         "visible": true
       },
       {
-        "variedad_id": "CAMP1176-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 48000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP1176-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 48000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP1176-Menor",
         "nombre": "Menor",
-        "precio_unitario": 64000,
+        "precio_unitario": 50000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -42603,5 +42589,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783610174656
+  "timestamp_ms": 1783610996389
 }
