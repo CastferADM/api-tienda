@@ -7959,9 +7959,28 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1IgadKFIBJBA6FAO3qvw36oyQRRGtzG_s&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1IgadKFIBJBA6FAO3qvw36oyQRRGtzG_s&sz=s600-rw",
+                  "archivo_id": "1IgadKFIBJBA6FAO3qvw36oyQRRGtzG_s",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-07-11T13:20:23.759Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1FfJkv9fOoYVnPdeqh-H9BGr87-sFwaEQ&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1FfJkv9fOoYVnPdeqh-H9BGr87-sFwaEQ&sz=s600-rw",
+                  "archivo_id": "1FfJkv9fOoYVnPdeqh-H9BGr87-sFwaEQ",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-07-11T13:20:23.759Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1UEm59nyLFH3Hn0uQzj2gJAoSKuVXHab4&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1UEm59nyLFH3Hn0uQzj2gJAoSKuVXHab4&sz=s600-rw",
+                  "archivo_id": "1UEm59nyLFH3Hn0uQzj2gJAoSKuVXHab4",
+                  "portada": false,
+                  "orden": 3,
+                  "fecha_carga": "2026-07-11T13:20:23.759Z"
                 }
               ],
               "variedad": [
@@ -12700,7 +12719,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "224",
+                  "valor": "223",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -12807,7 +12826,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "224"
+                          "stock": "223"
                         }
                       ]
                     }
@@ -12824,7 +12843,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "224"
+                          "stock": "223"
                         }
                       ]
                     }
@@ -42111,7 +42130,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "86",
+                  "valor": "84",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -42178,7 +42197,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "86"
+                          "stock": "84"
                         }
                       ]
                     }
@@ -42195,7 +42214,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "86"
+                          "stock": "84"
                         }
                       ]
                     }
@@ -71361,5 +71380,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783775689324
+  "timestamp_ms": 1783776564620
 }
