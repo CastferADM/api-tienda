@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T12:42:44.702Z",
+  "generated_at": "2026-07-11T12:57:45.050Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30509,6 +30509,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP7014",
+      "sku": "B10282M",
+      "model": "MOTO HARSH RACING",
+      "price": 35000,
+      "display_price": 50000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Bordado",
+      "material": "CIRE",
+      "image": "",
+      "carpeta_id": "1OF1Vw6ZJEDvzruQtuQkQd3Q-tWrP1ayS",
+      "woo_id": 40225,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP7014-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP7014-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -40142,6 +40176,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP7014": [
+      {
+        "variedad_id": "CAMP7014-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 50000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP7014-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 50000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP7014-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -42639,5 +42696,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783773872269
+  "timestamp_ms": 1783774787495
 }
