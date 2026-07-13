@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T15:27:49.786Z",
+  "generated_at": "2026-07-13T15:42:48.592Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30515,7 +30515,7 @@
       "sku": "B10282M",
       "model": "MOTO HARSH RACING",
       "price": 35000,
-      "display_price": 50000,
+      "display_price": 43000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -30606,8 +30606,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1490",
-    "DOLAR_BLUE_COMPRA": "1510",
+    "DOLAR_BLUE_VENTA": "1500",
+    "DOLAR_BLUE_COMPRA": "1520",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -40181,14 +40181,14 @@
       {
         "variedad_id": "CAMP7014-Docena",
         "nombre": "Docena",
-        "precio_unitario": 50000,
+        "precio_unitario": 43000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "CAMP7014-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 50000,
+        "precio_unitario": 43000,
         "cantidad_minima": 6,
         "visible": true
       },
@@ -42696,5 +42696,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783956642040
+  "timestamp_ms": 1783957622087
 }
