@@ -8451,7 +8451,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 48000,
+                  "precio": 36000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {
@@ -8468,7 +8468,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 48000,
+                  "precio": 36000,
                   "variedad": "Media-Docena",
                   "minima": 6,
                   "sub_variedad": {
@@ -77593,5 +77593,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783957578091
+  "timestamp_ms": 1783958358626
 }
