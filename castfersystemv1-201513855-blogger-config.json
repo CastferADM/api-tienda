@@ -6956,7 +6956,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "90",
+                  "valor": "86",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7006,7 +7006,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "90"
+                          "stock": "86"
                         }
                       ]
                     }
@@ -15717,8 +15717,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-7",
-                  "estado": "Baja"
+                  "valor": "31",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -15794,14 +15794,34 @@
                   "precio": 35000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "31"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 35000,
                   "variedad": "Media-Docena",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "31"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-02-20T08:00:00.000Z"
@@ -77594,5 +77614,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784057396938
+  "timestamp_ms": 1784058300462
 }
