@@ -9779,7 +9779,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "71",
+                  "valor": "70",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9792,40 +9792,51 @@
                   "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP1705%0A%F0%9F%94%B9%20Modelo%3A%20Bomber%20TREND%0A%F0%9F%94%B9%20Marca%3A%20GDHWD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL"
                 }
               },
-              "guia_talles_img": "",
+              "guia_talles_img": "https://drive.google.com/thumbnail?id=1o7pur3A-NRtSLJLRDdnvlsjxMFdFM2LF&sz=s1600-rw",
               "imagen": [
                 {
+                  "url": "https://drive.google.com/thumbnail?id=1o7pur3A-NRtSLJLRDdnvlsjxMFdFM2LF&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1o7pur3A-NRtSLJLRDdnvlsjxMFdFM2LF&sz=s600-rw",
+                  "archivo_id": "1o7pur3A-NRtSLJLRDdnvlsjxMFdFM2LF",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA - Guía de Talles",
+                  "rol": "GUIA_TALLES",
+                  "orden": 12,
+                  "fecha_carga": "2026-07-14T18:04:03.272Z"
+                },
+                {
                   "url": "https://drive.google.com/thumbnail?id=18pClyUU2QE-nHIxpX7-xrvtAKcsWbJNd&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18pClyUU2QE-nHIxpX7-xrvtAKcsWbJNd&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18pClyUU2QE-nHIxpX7-xrvtAKcsWbJNd&sz=s600-rw",
                   "archivo_id": "18pClyUU2QE-nHIxpX7-xrvtAKcsWbJNd",
                   "portada": true,
                   "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "PORTADA",
                   "orden": 18,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                  "fecha_carga": "2026-07-14T18:04:03.272Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1ZM_Q-bOIa4R6Z7VYtMOnv9AHV5TR_sqj&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZM_Q-bOIa4R6Z7VYtMOnv9AHV5TR_sqj&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZM_Q-bOIa4R6Z7VYtMOnv9AHV5TR_sqj&sz=s600-rw",
                   "archivo_id": "1ZM_Q-bOIa4R6Z7VYtMOnv9AHV5TR_sqj",
                   "portada": false,
                   "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 20,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                  "fecha_carga": "2026-07-14T18:04:03.272Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=11dUMtyOY5O6NMZLnAqS7PotmCfcvUVzF&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=11dUMtyOY5O6NMZLnAqS7PotmCfcvUVzF&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=11dUMtyOY5O6NMZLnAqS7PotmCfcvUVzF&sz=s600-rw",
                   "archivo_id": "11dUMtyOY5O6NMZLnAqS7PotmCfcvUVzF",
                   "portada": false,
                   "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 22,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                  "fecha_carga": "2026-07-14T18:04:03.272Z"
                 }
               ],
               "variedad": [
@@ -9840,7 +9851,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "71"
+                          "stock": "70"
                         }
                       ]
                     }
@@ -9857,7 +9868,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "71"
+                          "stock": "70"
                         }
                       ]
                     }
@@ -21304,7 +21315,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "119",
+                  "valor": "118",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -21447,7 +21458,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "119"
+                          "stock": "118"
                         }
                       ]
                     }
@@ -77603,5 +77614,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784051871608
+  "timestamp_ms": 1784052902653
 }
