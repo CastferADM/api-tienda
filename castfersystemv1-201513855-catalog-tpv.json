@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:12:45.365Z",
+  "generated_at": "2026-07-16T16:27:44.848Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35899,6 +35899,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CONJ7230",
+      "sku": "NBHK-3330A",
+      "model": "Neopren termico",
+      "price": 35500,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "Conjuntoo",
+      "categoryName": "Conjuntoo",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "KNUP",
+      "style": "Liso",
+      "material": "Neoprene elastizado",
+      "sizes": "Surtido,M,L,XL,2XL,3XL",
+      "talles": "Surtido,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,M,L,XL,2XL,3XL",
+      "ageGroup": "",
+      "grupo_edad": "",
+      "GRUPO_EDAD": "",
+      "image": "",
+      "carpeta_id": "1mj5pnucHWgGkStuZFgDv090zhR9m6OVA",
+      "woo_id": 40238,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CONJ7230-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CONJ7230-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -45585,6 +45625,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CONJ7230": [
+      {
+        "variedad_id": "CONJ7230-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CONJ7230-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -48102,5 +48158,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1784218505010
+  "timestamp_ms": 1784219372722
 }
