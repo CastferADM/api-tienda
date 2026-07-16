@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T15:58:04.429Z",
+  "generated_at": "2026-07-16T16:12:45.365Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35859,6 +35859,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG4417",
+      "sku": "BP6776A",
+      "model": "Cargo con cierre Bulldog",
+      "price": 18000,
+      "display_price": 27000,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Gabardina",
+      "sizes": "Surtido,40,42,44,46,48,50",
+      "talles": "Surtido,40,42,44,46,48,50",
+      "TALLES": "Surtido,40,42,44,46,48,50",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1CEqgAF5aYcPhJbUx4auz9LTraVtDrv7q",
+      "woo_id": 40233,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG4417-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG4417-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -45515,6 +45555,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "JOGG4417": [
+      {
+        "variedad_id": "JOGG4417-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 27000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG4417-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG4417-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG4417-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 36000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -48032,5 +48102,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1784217651186
+  "timestamp_ms": 1784218505010
 }
