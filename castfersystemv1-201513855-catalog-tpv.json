@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:42:44.990Z",
+  "generated_at": "2026-07-17T16:57:45.716Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -3295,7 +3295,7 @@
       "sku": "",
       "model": "Cruzado con CINTO",
       "price": 30000,
-      "display_price": 32500,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -3513,7 +3513,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1E81Yv7VS9CnhJDZxRsGH71vVSIoMHFyM&sz=s600",
       "carpeta_id": "1hR19ObilN2HOawPp2XomDTfiteyGvw0z",
-      "woo_id": 32762,
+      "woo_id": 40351,
       "variations": [
         {
           "color": "Surtido",
@@ -3753,7 +3753,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1PJco7RpISbSxyJQgtqnDP9TQFBqJDiBQ&sz=s600",
       "carpeta_id": "10p1W84BzC9VK0YWhPwgGAckH_EKLAsUB",
-      "woo_id": 32766,
+      "woo_id": 40348,
       "variations": [
         {
           "color": "Surtido",
@@ -3793,7 +3793,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1CJKycPhVe-_vgV2BatO3rwbXmZVEmM4y&sz=s600",
       "carpeta_id": "12E3L0VuzLxHipWbZiTWffeuHvHWCr02S",
-      "woo_id": 32735,
+      "woo_id": 40345,
       "variations": [
         {
           "color": "Surtido",
@@ -4135,7 +4135,7 @@
       "sku": "",
       "model": "Cargo OVERESIZE",
       "price": 30000,
-      "display_price": 32500,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -4153,7 +4153,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1XjoGI55jn75Eu5qonlt_MVViAth03lcJ&sz=s600",
       "carpeta_id": "1V-S6PKVjwX7bJI2ZutSKdsWO2oHd-3-3",
-      "woo_id": 32674,
+      "woo_id": 40354,
       "variations": [
         {
           "color": "Surtido",
@@ -4353,7 +4353,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1_maP9FK2tMRh_Z0m1S-ysgpxNCrKgwfn&sz=s600",
       "carpeta_id": "1kaHeO6iXyJCE7p8HpbMg7EDFCwPoo9Pz",
-      "woo_id": 32740,
+      "woo_id": 40342,
       "variations": [
         {
           "color": "Surtido",
@@ -8113,7 +8113,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1_chpvhZ2IeowhcbOiDNcxyHmn2zkd6hB&sz=s600",
       "carpeta_id": "1Qg4BJ0b8c_WNR-DHGPhn4PpteFRT0Im4",
-      "woo_id": "",
+      "woo_id": 40356,
       "variations": [
         {
           "color": "Surtido",
@@ -8953,7 +8953,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1oOs-Ew5-vPmkz0-ZyToX5oYVoOkzP_As&sz=s600",
       "carpeta_id": "1om2sBkVSByIHNpvd2pWmRGrAYxSIftBB",
-      "woo_id": "",
+      "woo_id": 40359,
       "variations": [
         {
           "color": "Surtido",
@@ -9033,7 +9033,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1H1F_yC-ze4RqELrz_6jMucyZb-oowhWK&sz=s600",
       "carpeta_id": "1nQQqLcMnSYv9L9kjC60yw5auOq6pwV7u",
-      "woo_id": 32934,
+      "woo_id": 40357,
       "variations": [
         {
           "color": "Surtido",
@@ -37867,16 +37867,9 @@
     ],
     "CAMP1590": [
       {
-        "variedad_id": "CAMP1590-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 32500,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP1590-Menor",
         "nombre": "Menor",
-        "precio_unitario": 35000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -38352,16 +38345,9 @@
     ],
     "CAMP3397": [
       {
-        "variedad_id": "CAMP3397-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 32500,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP3397-Menor",
         "nombre": "Menor",
-        "precio_unitario": 35000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -48134,5 +48120,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784306677152
+  "timestamp_ms": 1784307564870
 }
