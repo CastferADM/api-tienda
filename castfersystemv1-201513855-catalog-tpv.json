@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T15:12:45.104Z",
+  "generated_at": "2026-07-17T15:27:44.904Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -5753,7 +5753,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1si6uu0O_Iq2L9svfcXe7xnHxWJ8Ow1aC&sz=s600",
       "carpeta_id": "1Po-EURYrv7KAqVRcsR23-JYEg8hIG3BX",
-      "woo_id": 32794,
+      "woo_id": 40298,
       "variations": [
         {
           "color": "Surtido",
@@ -6673,7 +6673,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=14FWKvLqtArLpt99flC1OjUKlrDQvQLRl&sz=s600",
       "carpeta_id": "1Y5Hg6G_dupHyoowMpN3Ltwyq_EOLoax5",
-      "woo_id": "",
+      "woo_id": 40306,
       "variations": [
         {
           "color": "Surtido",
@@ -6793,7 +6793,7 @@
       "GRUPO_EDAD": "",
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP7596%2FCAMP7596-1ldqp.jpg",
       "carpeta_id": "1cwFMn3z5oGFAvgxNLEphAa0TBC8lUZ2A",
-      "woo_id": "",
+      "woo_id": 40301,
       "variations": [
         {
           "color": "Surtido",
@@ -6833,7 +6833,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=19dsPefekKf9RJy2fd7YYYWPFG8f5WrOn&sz=s600",
       "carpeta_id": "1y0Xp37fU8OaQVvOTjtugBhLCnB_AFE4C",
-      "woo_id": "",
+      "woo_id": 40305,
       "variations": [
         {
           "color": "Surtido",
@@ -7113,7 +7113,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1CCqDEAg1la4AZQNVe6mdAk6rA_hLKzPO&sz=s600",
       "carpeta_id": "1KpSyFFbRag9Vc4jc_bsrSK5qXLyFiaie",
-      "woo_id": "",
+      "woo_id": 40307,
       "variations": [
         {
           "color": "Surtido",
@@ -7673,7 +7673,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1hEwuxX1GXRX-PaogQrF8rY0xr3LZdKhM&sz=s600",
       "carpeta_id": "1ZzhKTtTHR6r-IraF6u3aTYF4CZPbMRIG",
-      "woo_id": 32705,
+      "woo_id": 40302,
       "variations": [
         {
           "color": "Surtido",
@@ -33655,7 +33655,7 @@
       "sku": "DK2303GT",
       "model": "3 en 1 Con piel desmontable",
       "price": 30500,
-      "display_price": 45000,
+      "display_price": 30500,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -38393,7 +38393,7 @@
       {
         "variedad_id": "CAMP3508-Menor",
         "nombre": "Menor",
-        "precio_unitario": 55000,
+        "precio_unitario": 50000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -38490,22 +38490,6 @@
         "variedad_id": "CAMP3886-Menor",
         "nombre": "Menor",
         "precio_unitario": 45000,
-        "cantidad_minima": 1,
-        "visible": false
-      }
-    ],
-    "CAMP3926": [
-      {
-        "variedad_id": "CAMP3926-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 45000,
-        "cantidad_minima": 12,
-        "visible": false
-      },
-      {
-        "variedad_id": "CAMP3926-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 60000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -48157,5 +48141,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784301280599
+  "timestamp_ms": 1784302229827
 }
