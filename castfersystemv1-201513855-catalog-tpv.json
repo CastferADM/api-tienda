@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T14:57:45.252Z",
+  "generated_at": "2026-07-17T15:12:45.104Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -465,12 +465,12 @@
       "brand": "KNUP",
       "style": "Liso",
       "material": "Poliester",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
+      "sizes": "Surtido,Unico",
+      "talles": "Surtido,Unico",
+      "TALLES": "Surtido,Unico",
+      "ageGroup": "Adulto , Teens",
+      "grupo_edad": "Adulto , Teens",
+      "GRUPO_EDAD": "Adulto , Teens",
       "image": "https://drive.google.com/thumbnail?id=1NMYpt04H7HzRaJuR6PoPiLwAuz6WlLs4&sz=s600",
       "carpeta_id": "1oosd_Qa-FIU_WbyH78q34-nJTe5oa32D",
       "woo_id": 35298,
@@ -4268,9 +4268,9 @@
       "sizes": "Surtido,M,L,XL,2XL",
       "talles": "Surtido,M,L,XL,2XL",
       "TALLES": "Surtido,M,L,XL,2XL",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
+      "ageGroup": "Teens , Adulto",
+      "grupo_edad": "Teens , Adulto",
+      "GRUPO_EDAD": "Teens , Adulto",
       "image": "https://drive.google.com/thumbnail?id=1B_uXsDbUnoH6S8XRQdVn8fm07-XazkZ_&sz=s600",
       "carpeta_id": "1EWHE19sKTXNFD7LDFVhv7Cuks1OY2Bqg",
       "woo_id": 32733,
@@ -5215,7 +5215,7 @@
       "sku": 7735,
       "model": "REVERSIBLE",
       "price": 27000,
-      "display_price": 55000,
+      "display_price": 50000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -5228,12 +5228,12 @@
       "sizes": "Surtido,M,L,XL,2XL,3XL",
       "talles": "Surtido,M,L,XL,2XL,3XL",
       "TALLES": "Surtido,M,L,XL,2XL,3XL",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
+      "ageGroup": "Adulto , Teens",
+      "grupo_edad": "Adulto , Teens",
+      "GRUPO_EDAD": "Adulto , Teens",
       "image": "https://drive.google.com/thumbnail?id=1LKQPYSe9jr9N195stRViCE9SD3S-XRBt&sz=s600",
       "carpeta_id": "1GnbULv2CjBAx5MleBg2YUVqcBD5zlfKE",
-      "woo_id": 32710,
+      "woo_id": 40296,
       "variations": [
         {
           "color": "Surtido",
@@ -6553,7 +6553,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1rbVvucZH9LKSfHWjh57LklmTADZYlfZu&sz=s600",
       "carpeta_id": "16YL6QBSEWzslyqOjDX-jX-lg-c71aoqt",
-      "woo_id": "",
+      "woo_id": 40295,
       "variations": [
         {
           "color": "Surtido",
@@ -7513,7 +7513,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1vgfKCzY89eIvnkG9U5OjDjCQFyLN0u4h&sz=s600",
       "carpeta_id": "198ikeRlYbbB932CKBhyiT_7-jt-NW59U",
-      "woo_id": 32618,
+      "woo_id": 40292,
       "variations": [
         {
           "color": "Surtido",
@@ -38800,7 +38800,7 @@
       {
         "variedad_id": "CAMP5587-Menor",
         "nombre": "Menor",
-        "precio_unitario": 55000,
+        "precio_unitario": 50000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -39816,16 +39816,9 @@
     ],
     "CAMP9021": [
       {
-        "variedad_id": "CAMP9021-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 25000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP9021-Menor",
         "nombre": "Menor",
-        "precio_unitario": 30000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -48164,5 +48157,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784300392375
+  "timestamp_ms": 1784301280599
 }
