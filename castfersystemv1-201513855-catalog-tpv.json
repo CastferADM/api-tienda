@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:27:46.502Z",
+  "generated_at": "2026-07-17T16:42:44.990Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -5513,7 +5513,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=11FS8cJebBGDHk6VOYLeo0WWNJ6b3uUzv&sz=s600",
       "carpeta_id": "1_L_z0U-_hWewFK97MZwoz8fRx97AEj28",
-      "woo_id": 32768,
+      "woo_id": 40339,
       "variations": [
         {
           "color": "Surtido",
@@ -5793,7 +5793,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1c-x2jre0iEX2q5UL2TfW070XutZrvvwE&sz=s600",
       "carpeta_id": "1ACc5if-BRR-_wbIhnl7Et2gGSaRC3dzb",
-      "woo_id": 32709,
+      "woo_id": 40336,
       "variations": [
         {
           "color": "Surtido",
@@ -5913,7 +5913,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1DjogXHK66mcu7y-MQJ_O_N6UtuB66-m8&sz=s600",
       "carpeta_id": "1Ox8VVUvblb5BKfdANGghSmXrObKh6iY5",
-      "woo_id": 32739,
+      "woo_id": 40333,
       "variations": [
         {
           "color": "Surtido",
@@ -6135,7 +6135,7 @@
       "sku": "",
       "model": "Puffer Bomber",
       "price": 30000,
-      "display_price": 40000,
+      "display_price": 50000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -6153,7 +6153,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1d37wtB-F7gLwvh_QhTdT6-vsi7j8iE3e&sz=s600",
       "carpeta_id": "1HjjQOnh5sdIxybXiY6eFIWIhSY2iU93K",
-      "woo_id": 32764,
+      "woo_id": 40331,
       "variations": [
         {
           "color": "Surtido",
@@ -6193,7 +6193,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1iNYZNGuoypBY-pS2B6UmdoQiCG0RR6lf&sz=s600",
       "carpeta_id": "1YcQt-Sq57jJsgQWEMQRNk8u9_wOsBrT0",
-      "woo_id": "",
+      "woo_id": 40330,
       "variations": [
         {
           "color": "Surtido",
@@ -6513,7 +6513,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1_8Y7QH5MMDyjjKF5U5M7cHQ4W2lfDTPS&sz=s600",
       "carpeta_id": "1fc71IXyIhweTVxVpA6NIrWICn29SeshF",
-      "woo_id": "",
+      "woo_id": 40329,
       "variations": [
         {
           "color": "Surtido",
@@ -39251,16 +39251,9 @@
     ],
     "CAMP6775": [
       {
-        "variedad_id": "CAMP6775-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 40000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP6775-Menor",
         "nombre": "Menor",
-        "precio_unitario": 45000,
+        "precio_unitario": 50000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -48141,5 +48134,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784305807311
+  "timestamp_ms": 1784306677152
 }
