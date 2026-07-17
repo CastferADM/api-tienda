@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T14:42:49.665Z",
+  "generated_at": "2026-07-17T14:57:45.252Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -35867,7 +35867,7 @@
       "sku": "BP6776A",
       "model": "Cargo con cierre Bulldog",
       "price": 18000,
-      "display_price": 27000,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Joggers",
       "categoryName": "Joggers",
@@ -45602,28 +45602,21 @@
       {
         "variedad_id": "JOGG4417-Docena",
         "nombre": "Docena",
-        "precio_unitario": 27000,
+        "precio_unitario": 25000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "JOGG4417-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 27000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "JOGG4417-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 27000,
+        "precio_unitario": 25000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "JOGG4417-Menor",
         "nombre": "Menor",
-        "precio_unitario": 36000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -48171,5 +48164,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784299560605
+  "timestamp_ms": 1784300392375
 }
