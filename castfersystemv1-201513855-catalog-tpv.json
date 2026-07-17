@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:12:48.879Z",
+  "generated_at": "2026-07-17T16:27:46.502Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -4473,7 +4473,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1DfNWN0mjmNs634uiuLKji8-f7p3xQ3eV&sz=s600",
       "carpeta_id": "1wgQstsYXSA0QENg7yJEI7E1qTVjEyiIZ",
-      "woo_id": 32672,
+      "woo_id": 40318,
       "variations": [
         {
           "color": "Surtido",
@@ -6713,7 +6713,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1CeQAapHTZH2g2dR9RX7kegd8vu-df8u0&sz=s600",
       "carpeta_id": "1t-2B05ZDvhoPL6lp6dstNChzVEdGrNWE",
-      "woo_id": "",
+      "woo_id": 40328,
       "variations": [
         {
           "color": "Surtido",
@@ -6993,7 +6993,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=10U6G0yNwXSp6ycfCgO5KOIPRBSjKwTWI&sz=s600",
       "carpeta_id": "130pMrtWYE_rTDLT8tabM5SkI2aI7_2-o",
-      "woo_id": 32852,
+      "woo_id": 40325,
       "variations": [
         {
           "color": "Surtido",
@@ -7153,7 +7153,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1mKlN_wZhtOSEOZHJgY8l9DBFpevrxw0P&sz=s600",
       "carpeta_id": "1RjOdaI4ia0iRuDEwwgWqq9HCytmTvQRM",
-      "woo_id": 32763,
+      "woo_id": 40322,
       "variations": [
         {
           "color": "Surtido",
@@ -7415,7 +7415,7 @@
       "sku": "",
       "model": "Doble Cierre",
       "price": 39000,
-      "display_price": 50000,
+      "display_price": 60000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -7428,12 +7428,12 @@
       "sizes": "Surtido,M",
       "talles": "Surtido,M",
       "TALLES": "Surtido,M",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
+      "ageGroup": "Adulto , Teens",
+      "grupo_edad": "Adulto , Teens",
+      "GRUPO_EDAD": "Adulto , Teens",
       "image": "https://drive.google.com/thumbnail?id=1uIJbzoDHgPWXFAm2H0fymeaEVplDmxKP&sz=s600",
       "carpeta_id": "1MEGyadpZLBteeskmq9mYRj93U4sAA_Jr",
-      "woo_id": 32734,
+      "woo_id": "32734",
       "variations": [
         {
           "color": "Surtido",
@@ -36004,8 +36004,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1505",
-    "DOLAR_BLUE_COMPRA": "1525",
+    "DOLAR_BLUE_VENTA": "1510",
+    "DOLAR_BLUE_COMPRA": "1530",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -39771,15 +39771,6 @@
         "precio_unitario": 60000,
         "cantidad_minima": 1,
         "visible": true
-      }
-    ],
-    "CAMP8915": [
-      {
-        "variedad_id": "CAMP8915-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 50000,
-        "cantidad_minima": 12,
-        "visible": false
       }
     ],
     "CAMP9006": [
@@ -45613,6 +45604,15 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP8915": [
+      {
+        "variedad_id": "CAMP8915-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -48141,5 +48141,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784304925122
+  "timestamp_ms": 1784305807311
 }
