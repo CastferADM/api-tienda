@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T05:12:45.729Z",
+  "generated_at": "2026-07-17T05:27:45.092Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -12,7 +12,7 @@
         "minorSurcharge": 0,
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
-        "allowNegativeStock": false,
+        "allowNegativeStock": true,
         "allowedPaymentMethods": [
           "Efectivo",
           "Transferencia",
@@ -41,7 +41,7 @@
         "minorSurcharge": 0,
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
-        "allowNegativeStock": false,
+        "allowNegativeStock": true,
         "allowedPaymentMethods": [
           "Efectivo",
           "Transferencia"
@@ -48167,5 +48167,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784265279963
+  "timestamp_ms": 1784266151634
 }
