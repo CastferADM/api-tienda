@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T04:42:47.885Z",
+  "generated_at": "2026-07-17T04:57:44.938Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -12,6 +12,7 @@
         "minorSurcharge": 0,
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
+        "allowNegativeStock": false,
         "allowedPaymentMethods": [
           "Efectivo",
           "Transferencia",
@@ -40,6 +41,7 @@
         "minorSurcharge": 0,
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
+        "allowNegativeStock": false,
         "allowedPaymentMethods": [
           "Efectivo",
           "Transferencia"
@@ -48158,5 +48160,12 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1784263502724
+  "appSheet": {
+    "appName": "CASTFERSYSTEMV1-201513855",
+    "appId": "e33f926f-82f1-4c92-af81-1d19abfcfedb",
+    "inventoryListView": "BD_INVENTARIO",
+    "inventoryDetailView": "BD_INVENTARIO_Detail",
+    "inventoryFormView": "BD_INVENTARIO_Form"
+  },
+  "timestamp_ms": 1784264366845
 }
