@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T17:42:46.028Z",
+  "generated_at": "2026-07-17T17:57:45.004Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -6393,7 +6393,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1gSbhKXkR0mAY0FmVenlg9LVzfx7pM8SH&sz=s600",
       "carpeta_id": "1C1b7J66jIlugNXzwWpqjbeCBvIwUwDBy",
-      "woo_id": 32616,
+      "woo_id": 40360,
       "variations": [
         {
           "color": "Surtido",
@@ -38278,12 +38278,12 @@
         "nombre": "Docena",
         "precio_unitario": 48000,
         "cantidad_minima": 12,
-        "visible": true
+        "visible": false
       },
       {
         "variedad_id": "CAMP3139-Menor",
         "nombre": "Menor",
-        "precio_unitario": 60000,
+        "precio_unitario": 50000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -48120,5 +48120,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784310272749
+  "timestamp_ms": 1784311196567
 }
