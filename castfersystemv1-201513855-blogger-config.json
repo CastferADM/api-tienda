@@ -46810,9 +46810,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0&sz=s600-rw",
+                  "archivo_id": "1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-19T04:46:45.691Z"
                 }
               ],
               "variedad": [
@@ -49238,14 +49244,47 @@
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1sCC00v9SX8CGOMwz3iVin4E7FVLTytna&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1sCC00v9SX8CGOMwz3iVin4E7FVLTytna&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1sCC00v9SX8CGOMwz3iVin4E7FVLTytna&sz=s600-rw",
                   "archivo_id": "1sCC00v9SX8CGOMwz3iVin4E7FVLTytna",
                   "portada": true,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-01T03:17:26.439Z"
+                  "fecha_carga": "2026-07-19T04:57:39.662Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1YSKjGC021jlZNPa9UG7nvDof9q8Iz-pw&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1YSKjGC021jlZNPa9UG7nvDof9q8Iz-pw&sz=s600-rw",
+                  "archivo_id": "1YSKjGC021jlZNPa9UG7nvDof9q8Iz-pw",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-19T04:57:39.662Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1nInIXYx1D_Ug0BlN_cu-zhOfmDlvey0C&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1nInIXYx1D_Ug0BlN_cu-zhOfmDlvey0C&sz=s600-rw",
+                  "archivo_id": "1nInIXYx1D_Ug0BlN_cu-zhOfmDlvey0C",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-07-19T04:57:39.662Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1UU8WKc5zGvBk7Nz0Snm-G4HZyg3y8czq&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1UU8WKc5zGvBk7Nz0Snm-G4HZyg3y8czq&sz=s600-rw",
+                  "archivo_id": "1UU8WKc5zGvBk7Nz0Snm-G4HZyg3y8czq",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-19T04:57:39.662Z"
                 }
               ],
               "variedad": [
@@ -76874,5 +76913,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784436291913
+  "timestamp_ms": 1784437236641
 }
