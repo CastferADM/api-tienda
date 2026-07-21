@@ -37834,9 +37834,26 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1cF_zdWEQ87DEMcQ465GvUN9Ank8nj9wY&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1cF_zdWEQ87DEMcQ465GvUN9Ank8nj9wY&sz=s600-rw",
+                  "archivo_id": "1cF_zdWEQ87DEMcQ465GvUN9Ank8nj9wY",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-21T05:14:50.539Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1xBhW3by3O3uGKqzJpChzTZZQKOTx6sUO&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1xBhW3by3O3uGKqzJpChzTZZQKOTx6sUO&sz=s600-rw",
+                  "archivo_id": "1xBhW3by3O3uGKqzJpChzTZZQKOTx6sUO",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-21T05:14:50.539Z"
                 }
               ],
               "variedad": [
@@ -76909,5 +76926,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784610903234
+  "timestamp_ms": 1784611809746
 }
