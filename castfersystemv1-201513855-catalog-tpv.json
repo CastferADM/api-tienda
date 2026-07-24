@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T18:42:49.565Z",
+  "generated_at": "2026-07-24T18:57:45.780Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -17535,7 +17535,7 @@
       "sku": "F10205",
       "model": "Con Capucha desmontable",
       "price": 26500,
-      "display_price": 39750,
+      "display_price": 45000,
       "minor_surcharge": 0,
       "category_id": "Tapado",
       "categoryName": "Tapado",
@@ -45157,7 +45157,7 @@
       {
         "variedad_id": "TAPA8271-Docena",
         "nombre": "Docena",
-        "precio_unitario": 39750,
+        "precio_unitario": 45000,
         "cantidad_minima": 12,
         "visible": true
       },
@@ -48136,5 +48136,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784918673612
+  "timestamp_ms": 1784919587647
 }
