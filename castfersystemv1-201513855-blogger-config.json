@@ -642,6 +642,15 @@
       "moneda": "$",
       "costo_envio": 12000,
       "hora_entrega": "1899-12-30T23:00:00.000Z"
+    },
+    {
+      "codigo": "moto envio",
+      "descripcion": "moto envio",
+      "cuit": "",
+      "ubicacion": "",
+      "moneda": "$",
+      "costo_envio": 12000,
+      "hora_entrega": "1899-12-30T23:00:00.000Z"
     }
   ],
   "pagina_carrusel": [
@@ -51299,7 +51308,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "74",
+                  "valor": "72",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -51382,7 +51391,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "74"
+                          "stock": "72"
                         }
                       ]
                     }
@@ -51399,7 +51408,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "74"
+                          "stock": "72"
                         }
                       ]
                     }
@@ -76959,5 +76968,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784901588174
+  "timestamp_ms": 1784905171177
 }
