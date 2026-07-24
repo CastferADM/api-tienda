@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T16:12:48.558Z",
+  "generated_at": "2026-07-24T16:27:45.144Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -4335,7 +4335,7 @@
       "sku": "",
       "model": "Doble Cierre TEsp",
       "price": 43000,
-      "display_price": 50000,
+      "display_price": 48000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -38404,7 +38404,7 @@
       {
         "variedad_id": "CAMP3762-Docena",
         "nombre": "Docena",
-        "precio_unitario": 50000,
+        "precio_unitario": 48000,
         "cantidad_minima": 12,
         "visible": true
       },
@@ -48136,5 +48136,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784909756231
+  "timestamp_ms": 1784910588690
 }
