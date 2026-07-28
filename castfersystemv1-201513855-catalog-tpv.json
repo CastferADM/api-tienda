@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:42:46.510Z",
+  "generated_at": "2026-07-28T18:57:48.167Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36147,7 +36147,7 @@
       "sku": "TC8340MA",
       "model": "2 EN 1 Camuflado  Secado Rapido",
       "price": 18000,
-      "display_price": 27000,
+      "display_price": 26000,
       "minor_surcharge": 0,
       "category_id": "Pantalon",
       "categoryName": "Pantalon",
@@ -36243,7 +36243,7 @@
       "ageGroup": "Adulto",
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1zZP8ASEoZB5T8aVuuQX0tRC-iP29ERA-&sz=s600-rw",
       "carpeta_id": "1K8-4KN5Td3gOC4xfWpe9Z3EXdxTESGXP",
       "woo_id": 40502,
       "variations": [
@@ -36283,7 +36283,7 @@
       "ageGroup": "Adulto",
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1zt0d86JzIe_oXQh2zJsK0bhCEPXO0BGw&sz=s600-rw",
       "carpeta_id": "1e-lFC_6NsIMTP7s6PFK2uBMDnfrF0EsS",
       "woo_id": 40503,
       "variations": [
@@ -46107,28 +46107,14 @@
       {
         "variedad_id": "PANT4837-Docena",
         "nombre": "Docena",
-        "precio_unitario": 27000,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4837-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 27000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4837-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 27000,
-        "cantidad_minima": 7,
         "visible": true
       },
       {
         "variedad_id": "PANT4837-Menor",
         "nombre": "Menor",
-        "precio_unitario": 36000,
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -46169,14 +46155,14 @@
         "nombre": "Docena",
         "precio_unitario": 0,
         "cantidad_minima": 12,
-        "visible": true
+        "visible": false
       },
       {
         "variedad_id": "CONJ4332-Menor",
         "nombre": "Menor",
         "precio_unitario": 0,
         "cantidad_minima": 1,
-        "visible": true
+        "visible": false
       }
     ],
     "CONJ7259": [
@@ -46185,21 +46171,21 @@
         "nombre": "Docena",
         "precio_unitario": 0,
         "cantidad_minima": 12,
-        "visible": true
+        "visible": false
       },
       {
         "variedad_id": "CONJ7259-Media-Docena",
         "nombre": "Media-Docena",
         "precio_unitario": 0,
         "cantidad_minima": 6,
-        "visible": true
+        "visible": false
       },
       {
         "variedad_id": "CONJ7259-Menor",
         "nombre": "Menor",
         "precio_unitario": 0,
         "cantidad_minima": 1,
-        "visible": true
+        "visible": false
       }
     ]
   },
@@ -48757,5 +48743,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785264293096
+  "timestamp_ms": 1785265251383
 }
