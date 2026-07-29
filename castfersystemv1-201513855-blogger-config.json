@@ -36885,14 +36885,25 @@
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=19zWRLzj7Bz8GdZqB-f5-mJNyJlEUuPZu&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=19zWRLzj7Bz8GdZqB-f5-mJNyJlEUuPZu&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=19zWRLzj7Bz8GdZqB-f5-mJNyJlEUuPZu&sz=s600-rw",
                   "archivo_id": "19zWRLzj7Bz8GdZqB-f5-mJNyJlEUuPZu",
                   "portada": true,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                  "fecha_carga": "2026-07-29T16:51:29.817Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=17BV1RMVdP0c4f1wMBKS-FAJN8jFlJTJs&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=17BV1RMVdP0c4f1wMBKS-FAJN8jFlJTJs&sz=s600-rw",
+                  "archivo_id": "17BV1RMVdP0c4f1wMBKS-FAJN8jFlJTJs",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-07-29T16:51:29.817Z"
                 }
               ],
               "variedad": [
@@ -47027,7 +47038,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "45",
+                  "valor": "43",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -47110,7 +47121,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "45"
+                          "stock": "43"
                         }
                       ]
                     }
@@ -47127,7 +47138,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "45"
+                          "stock": "43"
                         }
                       ]
                     }
@@ -78122,5 +78133,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1785343508137
+  "timestamp_ms": 1785344389475
 }
