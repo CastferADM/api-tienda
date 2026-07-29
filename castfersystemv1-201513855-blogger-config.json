@@ -38573,8 +38573,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-21",
-                  "estado": "Baja"
+                  "valor": "219",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -38705,14 +38705,34 @@
                   "precio": 26000,
                   "variedad": "Media-Docena",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "219"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "219"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-03-14T07:00:00.000Z"
@@ -78102,5 +78122,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1785330884244
+  "timestamp_ms": 1785331810567
 }
