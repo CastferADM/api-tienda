@@ -255896,6 +255896,58 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "7be311be",
+          "fecha": "2026-07-30 15:05",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 129000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "2fb46b27",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-07-30",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "7be311be-22479",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 3,
+              "precioUnitario": 33000,
+              "subtotal": 99000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "7be311be-22480",
+              "descripcion": "JOGG8083-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "JOGG8083-Menor",
+              "productoId": "JOGG8083",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG8083-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 129000,
+          "subtotal": 129000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -258352,5 +258404,5 @@
     "CONJ4332": "https://drive.google.com/thumbnail?id=1zZP8ASEoZB5T8aVuuQX0tRC-iP29ERA-&sz=s600-rw",
     "PANT2865": "https://drive.google.com/thumbnail?id=1CSR1U62uS0BSWathKU0GLDl0TGt9y_JY&sz=s600-rw"
   },
-  "timestamp_ms": 1785417978476
+  "timestamp_ms": 1785421544054
 }
