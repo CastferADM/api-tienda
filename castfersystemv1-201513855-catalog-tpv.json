@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T12:57:47.643Z",
+  "generated_at": "2026-07-31T13:12:47.361Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -46163,7 +46163,7 @@
       {
         "variedad_id": "PANT2865-Docena",
         "nombre": "Docena",
-        "precio_unitario": 27000,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
         "visible": true
       },
@@ -46172,13 +46172,6 @@
         "nombre": "Media-Docena",
         "precio_unitario": 26000,
         "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2865-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
         "visible": true
       },
       {
@@ -48817,5 +48810,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785502799737
+  "timestamp_ms": 1785503710533
 }
