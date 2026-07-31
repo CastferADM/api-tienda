@@ -39649,7 +39649,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "98",
+                  "valor": "97",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -39792,7 +39792,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "98"
+                          "stock": "97"
                         }
                       ]
                     }
@@ -45033,9 +45033,70 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=17_GJOrJvwmWpEOMgfpUDNAYlmqET2dj8&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=17_GJOrJvwmWpEOMgfpUDNAYlmqET2dj8&sz=s600-rw",
+                  "archivo_id": "17_GJOrJvwmWpEOMgfpUDNAYlmqET2dj8",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-31T13:50:41.309Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Q7rkuH_b7wKsJFLR-vsQ2x5blFnGkk4J&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Q7rkuH_b7wKsJFLR-vsQ2x5blFnGkk4J&sz=s600-rw",
+                  "archivo_id": "1Q7rkuH_b7wKsJFLR-vsQ2x5blFnGkk4J",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-31T13:50:41.309Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1fKqmITUJ_Q85EeQCxRqshEoBLAWtcWgk&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1fKqmITUJ_Q85EeQCxRqshEoBLAWtcWgk&sz=s600-rw",
+                  "archivo_id": "1fKqmITUJ_Q85EeQCxRqshEoBLAWtcWgk",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-07-31T13:50:41.309Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1CtVuv9GpH42K9vrAJ5FUXIA1SDtmwELz&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1CtVuv9GpH42K9vrAJ5FUXIA1SDtmwELz&sz=s600-rw",
+                  "archivo_id": "1CtVuv9GpH42K9vrAJ5FUXIA1SDtmwELz",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-31T13:50:41.309Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1YJ9oO6xKq8ZXuilNn8Ivh4kA8v2Bi7vi&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1YJ9oO6xKq8ZXuilNn8Ivh4kA8v2Bi7vi&sz=s600-rw",
+                  "archivo_id": "1YJ9oO6xKq8ZXuilNn8Ivh4kA8v2Bi7vi",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-07-31T13:50:41.309Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1NKdoChTMCHwbta4F9axAoeEt__FoAz2I&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1NKdoChTMCHwbta4F9axAoeEt__FoAz2I&sz=s600-rw",
+                  "archivo_id": "1NKdoChTMCHwbta4F9axAoeEt__FoAz2I",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-07-31T13:50:41.309Z"
                 }
               ],
               "variedad": [
@@ -78430,5 +78491,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1785504653858
+  "timestamp_ms": 1785506396197
 }
