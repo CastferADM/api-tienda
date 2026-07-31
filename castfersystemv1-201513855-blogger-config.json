@@ -40162,7 +40162,7 @@
                   "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG7328%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20Camuflado%0A%F0%9F%94%B9%20Marca%3A%20HENGLUMAO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048%2C%2050"
                 }
               },
-              "guia_talles_img": "",
+              "guia_talles_img": "https://drive.google.com/thumbnail?id=13qgbffgIJqGzOs1aJ25Xz8iZHvf3Fxjr&sz=s1600-rw",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1NwcLDddDy7pP07t7RcfbXJdshr16Yqu0&sz=s1600-rw",
@@ -40173,7 +40173,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-07-22T01:16:26.419Z"
+                  "fecha_carga": "2026-07-31T17:51:07.878Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=16WTuecel-IYWj8Z34Xvg3KNkOOpXquI0&sz=s1600-rw",
@@ -40184,7 +40184,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-22T01:16:26.419Z"
+                  "fecha_carga": "2026-07-31T17:51:07.878Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1abrKPkZo3lQOj6XZ3sl1JXIkXT6FWNcT&sz=s1600-rw",
@@ -40195,7 +40195,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-07-22T01:16:26.419Z"
+                  "fecha_carga": "2026-07-31T17:51:07.878Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=11BycF3SafHBWqgMt2aSs1o6sE5axbU0_&sz=s1600-rw",
@@ -40206,18 +40206,40 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-07-22T01:16:26.419Z"
+                  "fecha_carga": "2026-07-31T17:51:07.878Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1h9xzF22bzQ1vNp_PKiXlmK1kRUfLzucO&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1h9xzF22bzQ1vNp_PKiXlmK1kRUfLzucO&sz=s600-rw",
                   "archivo_id": "1h9xzF22bzQ1vNp_PKiXlmK1kRUfLzucO",
                   "portada": false,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 7,
-                  "fecha_carga": "2026-07-22T01:16:26.419Z"
+                  "fecha_carga": "2026-07-31T17:51:07.878Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=13qgbffgIJqGzOs1aJ25Xz8iZHvf3Fxjr&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=13qgbffgIJqGzOs1aJ25Xz8iZHvf3Fxjr&sz=s600-rw",
+                  "archivo_id": "13qgbffgIJqGzOs1aJ25Xz8iZHvf3Fxjr",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA - Guía de Talles",
+                  "rol": "GUIA_TALLES",
+                  "orden": 8,
+                  "fecha_carga": "2026-07-31T17:51:07.878Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1jVdNpC3cH8DT_Bampf-1cSL6mBF6LudP&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1jVdNpC3cH8DT_Bampf-1cSL6mBF6LudP&sz=s600-rw",
+                  "archivo_id": "1jVdNpC3cH8DT_Bampf-1cSL6mBF6LudP",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 9,
+                  "fecha_carga": "2026-07-31T17:51:07.878Z"
                 }
               ],
               "variedad": [
@@ -78620,5 +78642,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1785519921124
+  "timestamp_ms": 1785520783523
 }
