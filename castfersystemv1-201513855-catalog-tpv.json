@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T18:27:44.834Z",
+  "generated_at": "2026-07-31T18:42:46.806Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36387,7 +36387,7 @@
       "sku": "BD52681",
       "model": "Rompeviento REVERSIBLE",
       "price": 20500,
-      "display_price": 30750,
+      "display_price": 30000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -36403,7 +36403,7 @@
       "ageGroup": "Adulto",
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1E2KzZKM_5rSOt12lCt1tP9EQjA3UXcfw&sz=s600-rw",
       "carpeta_id": "1HzNjYp3s9f_wHYJK8eWMgy91Fl1mi3Ya",
       "woo_id": 40546,
       "variations": [
@@ -46351,35 +46351,21 @@
       {
         "variedad_id": "CAMP8376-Docena",
         "nombre": "Docena",
-        "precio_unitario": 30750,
+        "precio_unitario": 30000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "CAMP8376-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 30750,
+        "precio_unitario": 30000,
         "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP8376-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 30750,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP8376-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 30750,
-        "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "CAMP8376-Menor",
         "nombre": "Menor",
-        "precio_unitario": 41000,
+        "precio_unitario": 42000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -48947,5 +48933,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785522570274
+  "timestamp_ms": 1785523457780
 }
