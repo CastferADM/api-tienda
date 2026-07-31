@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T12:42:45.984Z",
+  "generated_at": "2026-07-31T12:57:47.643Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -7271,7 +7271,7 @@
       "ageGroup": "",
       "grupo_edad": "",
       "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1qzADq0KSF_9yRMHs23Tm79T9ktk8kv0U&sz=s600",
+      "image": "https://drive.google.com/thumbnail?id=1lB53Qvmt3ozdPmu9Kg9asu2RdHN8Rfrw&sz=s600",
       "carpeta_id": "1_9NWyTfwmRGJ8LMb3PL4Nzcd4LaTfM1y",
       "woo_id": 39662,
       "variations": [
@@ -36163,7 +36163,7 @@
       "ageGroup": "Adulto",
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
-      "image": "https://drive.google.com/thumbnail?id=1Yu0l11zF63JvwXxkiQtBZtPvB_cU5-3k&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=1BnqgJWHnGbLkG8KjdjXhNmRmfiLeL_c1&sz=s600-rw",
       "carpeta_id": "1M2gGmirqRfRSRdCXOHmCzJTmxbfPogvK",
       "woo_id": 40492,
       "variations": [
@@ -36187,7 +36187,7 @@
       "sku": "150118FH",
       "model": "Trekking Pro Explorer",
       "price": 18000,
-      "display_price": 27000,
+      "display_price": 26000,
       "minor_surcharge": 0,
       "category_id": "Pantalon",
       "categoryName": "Pantalon",
@@ -36298,6 +36298,46 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CONJ7259-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2419",
+      "sku": "",
+      "model": "Cargo Secado Rapido Trekking 2 en 1",
+      "price": 18000,
+      "display_price": 26000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Cire secado rapido",
+      "sizes": "Surtido,S,M,L,XL",
+      "talles": "Surtido,S,M,L,XL",
+      "TALLES": "Surtido,S,M,L,XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1JcQmd8mqTLACnnljssg6-1YSND1kkc35",
+      "woo_id": 40516,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT2419-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT2419-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -46130,7 +46170,7 @@
       {
         "variedad_id": "PANT2865-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 27000,
+        "precio_unitario": 26000,
         "cantidad_minima": 6,
         "visible": true
       },
@@ -46144,7 +46184,7 @@
       {
         "variedad_id": "PANT2865-Menor",
         "nombre": "Menor",
-        "precio_unitario": 36000,
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -46186,6 +46226,36 @@
         "precio_unitario": 0,
         "cantidad_minima": 1,
         "visible": false
+      }
+    ],
+    "PANT2419": [
+      {
+        "variedad_id": "PANT2419-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2419-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2419-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 27000,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2419-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
       }
     ]
   },
@@ -48747,5 +48817,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785501918896
+  "timestamp_ms": 1785502799737
 }
