@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T18:12:46.047Z",
+  "generated_at": "2026-07-31T18:27:44.834Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36381,6 +36381,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP8376",
+      "sku": "BD52681",
+      "model": "Rompeviento REVERSIBLE",
+      "price": 20500,
+      "display_price": 30750,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "CIRE",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL",
+      "talles": "Surtido,S,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,S,M,L,XL,2XL,3XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1HzNjYp3s9f_wHYJK8eWMgy91Fl1mi3Ya",
+      "woo_id": 40546,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP8376-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP8376-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -46306,6 +46346,43 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP8376": [
+      {
+        "variedad_id": "CAMP8376-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 30750,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP8376-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 30750,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP8376-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 30750,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP8376-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 30750,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP8376-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 41000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -48870,5 +48947,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785521667400
+  "timestamp_ms": 1785522570274
 }
