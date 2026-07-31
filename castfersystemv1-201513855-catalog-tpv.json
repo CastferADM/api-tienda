@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:12:45.591Z",
+  "generated_at": "2026-07-31T17:27:47.243Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36227,7 +36227,7 @@
       "sku": "JBMT-035",
       "model": "Conjunto deportivo",
       "price": 24266,
-      "display_price": null,
+      "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Conjuntoo",
       "categoryName": "Conjuntoo",
@@ -36267,7 +36267,7 @@
       "sku": "JBMT-038",
       "model": "Conjunto Deportivo",
       "price": 24266,
-      "display_price": null,
+      "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Conjuntoo",
       "categoryName": "Conjuntoo",
@@ -46226,14 +46226,14 @@
       {
         "variedad_id": "CONJ4332-Docena",
         "nombre": "Docena",
-        "precio_unitario": 0,
+        "precio_unitario": 35000,
         "cantidad_minima": 12,
         "visible": false
       },
       {
         "variedad_id": "CONJ4332-Menor",
         "nombre": "Menor",
-        "precio_unitario": 0,
+        "precio_unitario": 45000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -46242,21 +46242,21 @@
       {
         "variedad_id": "CONJ7259-Docena",
         "nombre": "Docena",
-        "precio_unitario": 0,
+        "precio_unitario": 35000,
         "cantidad_minima": 12,
         "visible": false
       },
       {
         "variedad_id": "CONJ7259-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 0,
+        "precio_unitario": 35000,
         "cantidad_minima": 6,
         "visible": false
       },
       {
         "variedad_id": "CONJ7259-Menor",
         "nombre": "Menor",
-        "precio_unitario": 0,
+        "precio_unitario": 45000,
         "cantidad_minima": 1,
         "visible": false
       }
@@ -46272,15 +46272,8 @@
       {
         "variedad_id": "PANT2419-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 27000,
+        "precio_unitario": 26000,
         "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2419-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 27000,
-        "cantidad_minima": 4,
         "visible": true
       },
       {
@@ -48877,5 +48870,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785518064096
+  "timestamp_ms": 1785518965283
 }
