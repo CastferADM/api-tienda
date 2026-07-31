@@ -45189,8 +45189,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "240",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -45213,7 +45213,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-07-31T15:09:06.150Z"
+                  "fecha_carga": "2026-07-31T15:14:23.453Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1YThp7SlndSGZziOIx5JoQLbXUxHUiOd5&sz=s1600-rw",
@@ -45224,7 +45224,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-31T15:09:06.150Z"
+                  "fecha_carga": "2026-07-31T15:14:23.453Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=16hWlk5WIdSJ8gyJVLIkGxm2ndgHbXWJu&sz=s1600-rw",
@@ -45235,7 +45235,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-07-31T15:09:06.150Z"
+                  "fecha_carga": "2026-07-31T15:14:23.453Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=111oe5aMIkbFtQfHvS3U0LgViQ9f6iUZg&sz=s1600-rw",
@@ -45246,7 +45246,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-07-31T15:09:06.150Z"
+                  "fecha_carga": "2026-07-31T15:14:23.453Z"
                 }
               ],
               "variedad": [
@@ -45255,28 +45255,68 @@
                   "precio": 26000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "240"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27000,
                   "variedad": "Media-Docena",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "240"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27000,
                   "variedad": "Curva",
                   "minima": 4,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "240"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "240"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-07-31T07:00:00.000Z"
@@ -78641,5 +78681,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1785510921670
+  "timestamp_ms": 1785511808419
 }
