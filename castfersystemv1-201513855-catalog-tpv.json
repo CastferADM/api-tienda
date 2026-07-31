@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T14:27:49.100Z",
+  "generated_at": "2026-07-31T14:42:45.336Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36341,6 +36341,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "BERM3109",
+      "sku": "HLM-126AD",
+      "model": "Cargo gabardina con boton",
+      "price": 13505,
+      "display_price": 20000,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "HENGLUMAO",
+      "style": "Liso",
+      "material": "Gabardina",
+      "sizes": "Surtido,40,42,43,44,46,48,50,52",
+      "talles": "Surtido,40,42,43,44,46,48,50,52",
+      "TALLES": "Surtido,40,42,43,44,46,48,50,52",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw",
+      "carpeta_id": "1JHIrxPy1qAVJmgirav24nsJESWnbRhHS",
+      "woo_id": 40521,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "BERM3109-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "BERM3109-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -46250,6 +46290,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "BERM3109": [
+      {
+        "variedad_id": "BERM3109-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 20000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM3109-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 20000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM3109-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -48810,5 +48873,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785508209725
+  "timestamp_ms": 1785509113871
 }
