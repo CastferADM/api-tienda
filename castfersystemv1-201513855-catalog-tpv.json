@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:27:45.514Z",
+  "generated_at": "2026-08-01T13:42:50.216Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36067,7 +36067,7 @@
       "sku": "GA-6037",
       "model": "2 EN 1 impermeable",
       "price": 22000,
-      "display_price": 33000,
+      "display_price": 30000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -36107,7 +36107,7 @@
       "sku": "GA-6036",
       "model": "2 EN 1 impermeable",
       "price": 22000,
-      "display_price": 33000,
+      "display_price": 30000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -46153,35 +46153,21 @@
       {
         "variedad_id": "CAMP9755-Docena",
         "nombre": "Docena",
-        "precio_unitario": 33000,
+        "precio_unitario": 30000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "CAMP9755-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 33000,
+        "precio_unitario": 30000,
         "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP9755-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 33000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP9755-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 33000,
-        "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "CAMP9755-Menor",
         "nombre": "Menor",
-        "precio_unitario": 44000,
+        "precio_unitario": 45000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -46190,35 +46176,21 @@
       {
         "variedad_id": "CAMP7813-Docena",
         "nombre": "Docena",
-        "precio_unitario": 33000,
+        "precio_unitario": 30000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "CAMP7813-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 33000,
+        "precio_unitario": 30000,
         "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP7813-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 33000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP7813-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 33000,
-        "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "CAMP7813-Menor",
         "nombre": "Menor",
-        "precio_unitario": 44000,
+        "precio_unitario": 45000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -48933,5 +48905,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785591000399
+  "timestamp_ms": 1785591859748
 }
