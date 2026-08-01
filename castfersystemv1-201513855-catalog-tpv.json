@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T12:57:45.636Z",
+  "generated_at": "2026-08-01T13:12:45.507Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -25473,7 +25473,7 @@
       "GRUPO_EDAD": "",
       "image": "",
       "carpeta_id": "1mK8fnWh37gN65FQIUL8J1jT0zqh8BahV",
-      "woo_id": "",
+      "woo_id": 40566,
       "variations": [
         {
           "color": "Surtido",
@@ -26553,7 +26553,7 @@
       "GRUPO_EDAD": "",
       "image": "https://drive.google.com/thumbnail?id=1AY9x4_vEor1Vj5mbs32TbPP68kCbTQaJ&sz=s600",
       "carpeta_id": "1d_ouXT2fSTJNZTOdIi5Doe9PyZEc40cc",
-      "woo_id": 33093,
+      "woo_id": 40562,
       "variations": [
         {
           "color": "Surtido",
@@ -36117,15 +36117,15 @@
       "brand": "URUS",
       "style": "Liso",
       "material": "CIRE",
-      "sizes": "Surtido,M,L,XL,2XL,3XL",
-      "talles": "Surtido,M,L,XL,2XL,3XL",
-      "TALLES": "Surtido,M,L,XL,2XL,3XL",
+      "sizes": "Surtido,L,XL,2XL,3XL,4XL",
+      "talles": "Surtido,L,XL,2XL,3XL,4XL",
+      "TALLES": "Surtido,L,XL,2XL,3XL,4XL",
       "ageGroup": "Adulto",
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
       "image": "",
       "carpeta_id": "",
-      "woo_id": "",
+      "woo_id": 40567,
       "variations": [
         {
           "color": "Surtido",
@@ -42566,7 +42566,7 @@
         "nombre": "Docena",
         "precio_unitario": 1833.33,
         "cantidad_minima": 12,
-        "visible": true
+        "visible": false
       },
       {
         "variedad_id": "MEDI3530-Menor",
@@ -42580,7 +42580,7 @@
         "nombre": "Pack x3",
         "precio_unitario": 2500,
         "cantidad_minima": 3,
-        "visible": true
+        "visible": false
       }
     ],
     "MEDI3678": [
@@ -42625,7 +42625,7 @@
         "nombre": "Docena",
         "precio_unitario": 1833.33,
         "cantidad_minima": 12,
-        "visible": true
+        "visible": false
       },
       {
         "variedad_id": "MEDI5131-Menor",
@@ -42639,7 +42639,7 @@
         "nombre": "Pack x3",
         "precio_unitario": 2666.66,
         "cantidad_minima": 3,
-        "visible": true
+        "visible": false
       }
     ],
     "MEDI5227": [
@@ -48933,5 +48933,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785589160157
+  "timestamp_ms": 1785590085283
 }
