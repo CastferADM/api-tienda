@@ -138033,7 +138033,7 @@
           "id": "4984121d",
           "fecha": "2026-06-26 16:51",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 1096000,
           "clienteId": "df331cd1",
           "nombreCliente": "fernando nicolas mecozzi",
@@ -172678,46 +172678,6 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
-        },
-        {
-          "id": "cbfc0abe",
-          "fecha": "2026-04-29 17:38",
-          "origen": "Pedido Local",
-          "estado": "SOLICITADO",
-          "total": 360000,
-          "clienteId": "28aa7a44",
-          "nombreCliente": "Nicolas jara",
-          "tiendaId": "CASTFER",
-          "metodoPago": "Transferencia",
-          "cajaId": "a3e03fe0",
-          "asesor": "BRYAN COLQUE",
-          "fechaCaja": "2026-04-29",
-          "bancoTransferencia": "MercadoPago",
-          "aliasTransferencia": "br.3295",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "cbfc0abe-15940",
-              "descripcion": "PANT2984-Surtido-Surtido-CASTFER",
-              "cantidad": 12,
-              "precioUnitario": 30000,
-              "subtotal": 360000,
-              "tipoPrecio": "PANT2984-Docena",
-              "productoId": "PANT2984",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "PANT2984-Surtido-Surtido-CASTFER"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 360000,
-          "subtotal": 360000,
-          "tipoVenta": "PEDIDO",
-          "compraMinima": 4,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": true
         },
         {
           "id": "ebaffca0",
@@ -240257,7 +240217,7 @@
           "id": "b81c98b0",
           "fecha": "2026-07-25 12:58",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "CANCELADO",
           "total": 50000,
           "clienteId": "c879cf83",
           "nombreCliente": "madarna alejandro",
@@ -241249,7 +241209,7 @@
           "id": "f6bed246",
           "fecha": "2026-07-25 14:43",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 225000,
           "clienteId": "6037184e",
           "nombreCliente": "nicolas baldo",
@@ -245287,7 +245247,7 @@
           "id": "f786b02d",
           "fecha": "2026-07-27 18:46",
           "origen": "Pedido Local",
-          "estado": "PAGADO",
+          "estado": "ENTREGADO",
           "total": 1212000,
           "clienteId": "CLI238",
           "nombreCliente": "Karina Resinoscky",
@@ -253595,6 +253555,48 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "e8ffaf01": [
+        {
+          "id": "fd4530f1",
+          "fecha": "2026-08-01 13:06",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 320000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "e8ffaf01",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-01",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "fd4530f1-22581",
+              "descripcion": "CAMP3218-Surtido-Surtido-CASTFER",
+              "cantidad": 16,
+              "precioUnitario": 20000,
+              "subtotal": 320000,
+              "tipoPrecio": "CAMP3218-Docena",
+              "productoId": "CAMP3218",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP3218-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 320000,
+          "subtotal": 320000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -255304,6 +255306,11 @@
       "fecha": "2026-07-31",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "e8ffaf01": {
+      "fecha": "2026-08-01",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -256059,5 +256066,5 @@
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw",
     "CAMP8376": "https://drive.google.com/thumbnail?id=1E2KzZKM_5rSOt12lCt1tP9EQjA3UXcfw&sz=s600-rw"
   },
-  "timestamp_ms": 1785547612290
+  "timestamp_ms": 1785587171843
 }
