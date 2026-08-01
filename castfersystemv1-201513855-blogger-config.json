@@ -8569,7 +8569,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "106",
+                  "valor": "101",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8674,7 +8674,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "106"
+                          "stock": "101"
                         }
                       ]
                     }
@@ -8691,7 +8691,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "106"
+                          "stock": "101"
                         }
                       ]
                     }
@@ -8708,7 +8708,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "106"
+                          "stock": "101"
                         }
                       ]
                     }
@@ -15438,8 +15438,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "17",
-                  "estado": "Alta"
+                  "valor": "5",
+                  "estado": "Media"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -15521,7 +15521,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "17"
+                          "stock": "5"
                         }
                       ]
                     }
@@ -15538,7 +15538,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "17"
+                          "stock": "5"
                         }
                       ]
                     }
@@ -46652,8 +46652,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "11",
-                  "estado": "Alta"
+                  "valor": "-1",
+                  "estado": "Baja"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -46707,17 +46707,7 @@
                   "precio": 30000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "11"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 }
               ],
               "upd": "2025-09-18T07:00:00.000Z"
@@ -47243,8 +47233,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "32",
-                  "estado": "Alta"
+                  "valor": "6",
+                  "estado": "Media"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -47326,7 +47316,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "32"
+                          "stock": "6"
                         }
                       ]
                     }
@@ -47343,7 +47333,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "32"
+                          "stock": "6"
                         }
                       ]
                     }
@@ -78808,5 +78798,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1785582107874
+  "timestamp_ms": 1785586494397
 }
