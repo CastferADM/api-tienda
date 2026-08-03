@@ -252481,6 +252481,126 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "9b200a45",
+          "fecha": "2026-08-03 15:17",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 50000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "d8c004be",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-03",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "9b200a45-22700",
+              "descripcion": "CAMP1176-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 50000,
+              "subtotal": 50000,
+              "tipoPrecio": "CAMP1176-Menor",
+              "productoId": "CAMP1176",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP1176-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 50000,
+          "subtotal": 50000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "927370a6",
+          "fecha": "2026-08-03 15:50",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 42000,
+          "clienteId": "a883c3cd",
+          "nombreCliente": "Valeria Toledo",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "d8c004be",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-03",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "costoEnvio": 6000,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "927370a6-22701",
+              "descripcion": "JOGG3637-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 18000,
+              "subtotal": 36000,
+              "tipoPrecio": "JOGG3637-Menor",
+              "productoId": "JOGG3637",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG3637-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 36000,
+          "subtotal": 36000,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true
+        },
+        {
+          "id": "e9a534d0",
+          "fecha": "2026-08-03 16:05",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 30000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "d8c004be",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-03",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "e9a534d0-22702",
+              "descripcion": "PANT3291-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "PANT3291-Menor",
+              "productoId": "PANT3291",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3291-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -254946,7 +255066,7 @@
     "PANT4318": "https://drive.google.com/thumbnail?id=1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0&sz=s600-rw",
     "CAMP6422": "https://drive.google.com/thumbnail?id=1YTU5IQmi_-o8E6mwQ_xW1Wi7XpYw1h0K&sz=s600-rw",
     "JOGG1583": "https://drive.google.com/thumbnail?id=1pPD76H1tz9GZfoy7cWYNAYSOZ2_ZQGbl&sz=s600-rw",
-    "PANT3122": "https://drive.google.com/thumbnail?id=18cnbrcCQVeoFKgQgJzz0MPNTArgm1Y8b&sz=s600-rw",
+    "PANT3122": "https://drive.google.com/thumbnail?id=1kXssL83k6vqwMYfUpjEVDpT6uuUQo6s9&sz=s600-rw",
     "PANT7942": "https://drive.google.com/thumbnail?id=1oEi1g0NycpbX-CjfofGOauWMJ_3AIPN7&sz=s600-rw",
     "CONJ7259": "https://drive.google.com/thumbnail?id=1BwnKRo35LUx4cy5sZWWvJqgwu93U2TDQ&sz=s600-rw",
     "CONJ4332": "https://drive.google.com/thumbnail?id=1UL9rRkgJSgZQAw4YQMb5qwceyAufM0MR&sz=s600-rw",
@@ -254956,5 +255076,5 @@
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw",
     "CAMP8376": "https://drive.google.com/thumbnail?id=1E2KzZKM_5rSOt12lCt1tP9EQjA3UXcfw&sz=s600-rw"
   },
-  "timestamp_ms": 1785767192090
+  "timestamp_ms": 1785770913451
 }
