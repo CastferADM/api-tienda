@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:42:45.413Z",
+  "generated_at": "2026-08-03T19:57:44.980Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -46391,27 +46391,6 @@
         "visible": true
       },
       {
-        "variedad_id": "CAMP7457-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 42000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP7457-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 42000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP7457-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 42000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
         "variedad_id": "CAMP7457-Menor",
         "nombre": "Menor",
         "precio_unitario": 50000,
@@ -48990,5 +48969,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785786267739
+  "timestamp_ms": 1785787157358
 }
