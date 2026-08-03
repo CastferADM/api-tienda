@@ -252601,6 +252601,138 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "50f5c34c",
+          "fecha": "2026-08-03 16:33",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "d8c004be",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-03",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "50f5c34c-22703",
+              "descripcion": "JOGG1583-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "JOGG1583-Menor",
+              "productoId": "JOGG1583",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG1583-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "813e012c",
+          "fecha": "2026-08-03 16:46",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 80000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "d8c004be",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-03",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "813e012c-22704",
+              "descripcion": "CAMP2546-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 45000,
+              "subtotal": 45000,
+              "tipoPrecio": "CAMP2546-Menor",
+              "productoId": "CAMP2546",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP2546-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "813e012c-22705",
+              "descripcion": "PANT4858-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 35000,
+              "subtotal": 35000,
+              "tipoPrecio": "PANT4858-Menor",
+              "productoId": "PANT4858",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4858-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 80000,
+          "subtotal": 80000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "d2dc27d4",
+          "fecha": "2026-08-03 16:54",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "d8c004be",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-03",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "d2dc27d4-22706",
+              "descripcion": "PANT3385-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT3385-Menor",
+              "productoId": "PANT3385",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3385-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -255076,5 +255208,5 @@
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw",
     "CAMP8376": "https://drive.google.com/thumbnail?id=1E2KzZKM_5rSOt12lCt1tP9EQjA3UXcfw&sz=s600-rw"
   },
-  "timestamp_ms": 1785770913451
+  "timestamp_ms": 1785774462374
 }
