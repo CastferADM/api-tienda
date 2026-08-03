@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:27:45.885Z",
+  "generated_at": "2026-08-03T19:42:45.413Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36421,6 +36421,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP7457",
+      "sku": "BP760118",
+      "model": "Cuero BLACK",
+      "price": 28000,
+      "display_price": 39000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Ecocuero",
+      "sizes": "Surtido,M,L,XL,2XL,3XL",
+      "talles": "Surtido,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,M,L,XL,2XL,3XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": 40582,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP7457-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP7457-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -46341,6 +46381,43 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP7457": [
+      {
+        "variedad_id": "CAMP7457-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 39000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP7457-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 42000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP7457-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 42000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP7457-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 42000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP7457-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 50000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -48913,5 +48990,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785785375862
+  "timestamp_ms": 1785786267739
 }
