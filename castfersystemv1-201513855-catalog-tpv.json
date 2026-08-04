@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:12:45.151Z",
+  "generated_at": "2026-08-04T13:27:45.426Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36461,6 +36461,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8093",
+      "sku": "PJ04",
+      "model": "Tactico Secado rapido",
+      "price": 15000,
+      "display_price": 22500,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "PHOBIA",
+      "style": "Liso",
+      "material": "Cire secado rapido",
+      "sizes": "Surtido,40,42,44,46,48,50",
+      "talles": "Surtido,40,42,44,46,48,50",
+      "TALLES": "Surtido,40,42,44,46,48,50",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1cw9yqsahey7g_vvru4-kqc73hNs6YipP",
+      "woo_id": 40589,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT8093-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT8093-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -46397,6 +46437,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT8093": [
+      {
+        "variedad_id": "PANT8093-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 22500,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8093-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 22500,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8093-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22500,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8093-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -48969,5 +49039,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785849261579
+  "timestamp_ms": 1785850209585
 }
