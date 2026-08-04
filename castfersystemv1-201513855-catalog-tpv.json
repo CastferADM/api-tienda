@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:27:45.426Z",
+  "generated_at": "2026-08-04T13:42:45.982Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36467,7 +36467,7 @@
       "sku": "PJ04",
       "model": "Tactico Secado rapido",
       "price": 15000,
-      "display_price": 22500,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Pantalon",
       "categoryName": "Pantalon",
@@ -46442,28 +46442,14 @@
       {
         "variedad_id": "PANT8093-Docena",
         "nombre": "Docena",
-        "precio_unitario": 22500,
+        "precio_unitario": 25000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8093-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 22500,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8093-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 22500,
-        "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT8093-Menor",
         "nombre": "Menor",
-        "precio_unitario": 30000,
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -49039,5 +49025,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785850209585
+  "timestamp_ms": 1785851107056
 }
