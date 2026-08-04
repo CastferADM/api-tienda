@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:42:48.646Z",
+  "generated_at": "2026-08-04T19:57:44.852Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36541,6 +36541,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "REME3522",
+      "sku": "963001",
+      "model": "DRY FIT Talle especial RANGLAN",
+      "price": 6000,
+      "display_price": 9000,
+      "minor_surcharge": 0,
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Microfibra DRY FIT",
+      "sizes": "Surtido,M,2XL,3XL,4XL,5XL",
+      "talles": "Surtido,M,2XL,3XL,4XL,5XL",
+      "TALLES": "Surtido,M,2XL,3XL,4XL,5XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1nw1jK3oetvdBLMw74xLgEeAL5_IaWDSp&sz=s600-rw",
+      "carpeta_id": "1nnU5M4otRcfIq6_ABsNOwXLfh99IuZZR",
+      "woo_id": 40600,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "REME3522-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "REME3522-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -46509,6 +46549,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "REME3522": [
+      {
+        "variedad_id": "REME3522-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 9000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME3522-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 9000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME3522-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 9000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME3522-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -49085,5 +49155,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785872720613
+  "timestamp_ms": 1785873580950
 }
