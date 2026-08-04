@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:12:48.289Z",
+  "generated_at": "2026-08-04T16:27:51.307Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36507,7 +36507,7 @@
       "sku": "K05702",
       "model": "BOMBER cuero",
       "price": 20200,
-      "display_price": 30300,
+      "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -46498,35 +46498,14 @@
       {
         "variedad_id": "CAMP1001-Docena",
         "nombre": "Docena",
-        "precio_unitario": 30300,
+        "precio_unitario": 35000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP1001-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 30300,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP1001-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 30300,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP1001-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 30300,
-        "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "CAMP1001-Menor",
         "nombre": "Menor",
-        "precio_unitario": 40400,
+        "precio_unitario": 45000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -49102,5 +49081,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785860074420
+  "timestamp_ms": 1785861056475
 }
