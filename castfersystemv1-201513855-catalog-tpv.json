@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:12:47.079Z",
+  "generated_at": "2026-08-04T20:27:44.823Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -46599,20 +46599,6 @@
         "visible": true
       },
       {
-        "variedad_id": "REME3522-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 9000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME3522-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 9000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
         "variedad_id": "REME3522-Menor",
         "nombre": "Menor",
         "precio_unitario": 12000,
@@ -49225,5 +49211,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785874520914
+  "timestamp_ms": 1785875405260
 }
