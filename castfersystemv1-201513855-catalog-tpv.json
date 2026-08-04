@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:57:46.863Z",
+  "generated_at": "2026-08-04T16:12:48.289Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36501,6 +36501,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP1001",
+      "sku": "K05702",
+      "model": "BOMBER cuero",
+      "price": 20200,
+      "display_price": 30300,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Ecocuero",
+      "sizes": "Surtido,M,L,XL,2XL,3XL",
+      "talles": "Surtido,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,M,L,XL,2XL,3XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1rn2RRYJN7HKstEIW4pDBmzRyXXYpldux",
+      "woo_id": 40594,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP1001-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP1001-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -46453,6 +46493,43 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP1001": [
+      {
+        "variedad_id": "CAMP1001-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 30300,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1001-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 30300,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1001-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 30300,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1001-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 30300,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1001-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 40400,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -49025,5 +49102,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785859196432
+  "timestamp_ms": 1785860074420
 }
