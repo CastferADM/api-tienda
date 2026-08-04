@@ -8067,8 +8067,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "60",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -8083,9 +8083,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1IVWqciYT-yWEqY1AwUzHe9avHkyLPVa5&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1IVWqciYT-yWEqY1AwUzHe9avHkyLPVa5&sz=s600-rw",
+                  "archivo_id": "1IVWqciYT-yWEqY1AwUzHe9avHkyLPVa5",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-04T19:24:15.520Z"
                 }
               ],
               "variedad": [
@@ -8094,14 +8100,34 @@
                   "precio": 35000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "60"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 45000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "60"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-08-04T07:00:00.000Z"
@@ -23862,7 +23888,7 @@
               "codigo": 254,
               "categoria": "Campera",
               "nombre": "CAMP7457",
-              "carpeta_id": "",
+              "carpeta_id": "1dNcoukFys_0GNyNUq7e2XoMJHGjL_9pM",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -23937,9 +23963,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1qU21Hu63WntUkGaBXURx4nOonBdZIF1I&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1qU21Hu63WntUkGaBXURx4nOonBdZIF1I&sz=s600-rw",
+                  "archivo_id": "1qU21Hu63WntUkGaBXURx4nOonBdZIF1I",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-04T19:25:08.185Z"
                 }
               ],
               "variedad": [
@@ -47955,7 +47987,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "116",
+                  "valor": "115",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -48093,7 +48125,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "116"
+                          "stock": "115"
                         }
                       ]
                     }
@@ -51869,7 +51901,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "475",
+                  "valor": "473",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -51930,7 +51962,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "475"
+                          "stock": "473"
                         }
                       ]
                     }
@@ -51947,7 +51979,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "475"
+                          "stock": "473"
                         }
                       ]
                     }
@@ -51964,7 +51996,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "475"
+                          "stock": "473"
                         }
                       ]
                     }
@@ -78828,5 +78860,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1785870984831
+  "timestamp_ms": 1785871831884
 }
