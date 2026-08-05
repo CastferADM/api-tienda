@@ -323406,6 +323406,57 @@
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "5114ef6d",
+          "fecha": "2026-08-05 17:00",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 40000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "68d74319",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-05",
+          "datosTransferenciaId": "MercadoPago - 07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "nombreCuentaTransferencia": "Yamil Colque Fernández",
+          "cbuTransferencia": 3100076494873820,
+          "colorTransferencia": "Azul acero",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "5114ef6d-22802",
+              "descripcion": "PANT8032-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 40000,
+              "subtotal": 40000,
+              "tipoPrecio": "PANT8032-Menor",
+              "productoId": "PANT8032",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT8032-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 20500,
+              "ganancia": 19500
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 40000,
+          "subtotal": 40000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -326177,5 +326228,5 @@
     "REME3234": "https://drive.google.com/thumbnail?id=16xu2yveLwRL8ccFJugSS7KP1TAEMIz60&sz=s600-rw",
     "REME6511": "https://drive.google.com/thumbnail?id=1wsgyIy9Zu2s3_EPCgK7-9eBt7aJzX1bz&sz=s600-rw"
   },
-  "timestamp_ms": 1785945668317
+  "timestamp_ms": 1785947118981
 }
