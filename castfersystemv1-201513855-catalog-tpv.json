@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:12:50.018Z",
+  "generated_at": "2026-08-05T15:27:45.532Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36627,7 +36627,7 @@
       "sku": "37-62-57-86",
       "model": "OVERSIZE",
       "price": 7500,
-      "display_price": 11250,
+      "display_price": 10000,
       "minor_surcharge": 0,
       "category_id": "Remera",
       "categoryName": "Remera",
@@ -46680,22 +46680,8 @@
       {
         "variedad_id": "REME6511-Docena",
         "nombre": "Docena",
-        "precio_unitario": 11250,
+        "precio_unitario": 10000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME6511-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 11250,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME6511-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 11250,
-        "cantidad_minima": 4,
         "visible": true
       },
       {
@@ -49285,5 +49271,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785942911738
+  "timestamp_ms": 1785943785284
 }
