@@ -251964,6 +251964,48 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "68d74319": [
+        {
+          "id": "66e9bbd0",
+          "fecha": "2026-08-05 13:55",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 82000,
+          "clienteId": "35077ac4",
+          "nombreCliente": "Emanuel José silva",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "68d74319",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-05",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "costoEnvio": 7000,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "66e9bbd0-22793",
+              "descripcion": "TAPA7532-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 75000,
+              "subtotal": 75000,
+              "tipoPrecio": "TAPA7532-Menor",
+              "productoId": "TAPA7532",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TAPA7532-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 75000,
+          "subtotal": 75000,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -253688,6 +253730,11 @@
       "fecha": "2026-08-04",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "68d74319": {
+      "fecha": "2026-08-05",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -254446,5 +254493,5 @@
     "CAMP7457": "https://drive.google.com/thumbnail?id=1qU21Hu63WntUkGaBXURx4nOonBdZIF1I&sz=s600-rw",
     "REME3522": "https://drive.google.com/thumbnail?id=1nw1jK3oetvdBLMw74xLgEeAL5_IaWDSp&sz=s600-rw"
   },
-  "timestamp_ms": 1785932706234
+  "timestamp_ms": 1785936445611
 }
