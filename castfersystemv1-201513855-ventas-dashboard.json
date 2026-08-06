@@ -323022,7 +323022,7 @@
           "id": "66e9bbd0",
           "fecha": "2026-08-05 13:55",
           "origen": "Pedido Local",
-          "estado": "PAGADO",
+          "estado": "ENTREGADO",
           "total": 93000,
           "clienteId": "35077ac4",
           "nombreCliente": "Emanuel José silva",
@@ -323073,7 +323073,7 @@
           "id": "facaaf06",
           "fecha": "2026-08-05 14:39",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 336000,
           "clienteId": "b2fb161e",
           "nombreCliente": "veronica morales",
@@ -323848,7 +323848,7 @@
           "id": "87f2979c",
           "fecha": "2026-08-05 23:59",
           "origen": "Pedido Local",
-          "estado": "PAGADO",
+          "estado": "ENTREGADO",
           "total": 540000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -326681,5 +326681,5 @@
     "REME3234": "https://drive.google.com/thumbnail?id=16xu2yveLwRL8ccFJugSS7KP1TAEMIz60&sz=s600-rw",
     "REME6511": "https://drive.google.com/thumbnail?id=1wsgyIy9Zu2s3_EPCgK7-9eBt7aJzX1bz&sz=s600-rw"
   },
-  "timestamp_ms": 1785972336431
+  "timestamp_ms": 1785975928270
 }
