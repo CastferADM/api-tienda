@@ -320369,6 +320369,57 @@
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "744ea253",
+          "fecha": "2026-08-06 20:25",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 55000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "994f1c20",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-06",
+          "datosTransferenciaId": "MercadoPago - 07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "nombreCuentaTransferencia": "Yamil Colque Fernández",
+          "cbuTransferencia": 3100076494873820,
+          "colorTransferencia": "Azul acero",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "744ea253-22837",
+              "descripcion": "CAMP4710-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 55000,
+              "subtotal": 55000,
+              "tipoPrecio": "CAMP4710-Menor",
+              "productoId": "CAMP4710",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP4710-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 28000,
+              "ganancia": 27000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 55000,
+          "subtotal": 55000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -323145,5 +323196,5 @@
     "REME3234": "https://drive.google.com/thumbnail?id=16xu2yveLwRL8ccFJugSS7KP1TAEMIz60&sz=s600-rw",
     "REME6511": "https://drive.google.com/thumbnail?id=1wsgyIy9Zu2s3_EPCgK7-9eBt7aJzX1bz&sz=s600-rw"
   },
-  "timestamp_ms": 1786044308813
+  "timestamp_ms": 1786047942439
 }
