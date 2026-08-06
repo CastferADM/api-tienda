@@ -323910,6 +323910,73 @@
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "06a6fce4",
+          "fecha": "2026-08-05 01:51",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 110000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "68d74319",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-05",
+          "datosTransferenciaId": "MercadoPago - 07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "nombreCuentaTransferencia": "Yamil Colque Fernández",
+          "cbuTransferencia": 3100076494873820,
+          "colorTransferencia": "Azul acero",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "06a6fce4-22816",
+              "descripcion": "CHAL6522-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 50000,
+              "subtotal": 50000,
+              "tipoPrecio": "CHAL6522-Menor",
+              "productoId": "CHAL6522",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CHAL6522-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Chaleco",
+              "inversion": 25300,
+              "ganancia": 24700
+            },
+            {
+              "id": "06a6fce4-22817",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 60000,
+              "subtotal": 60000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Oferta",
+              "inversion": 0,
+              "ganancia": 60000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 110000,
+          "subtotal": 110000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -326681,5 +326748,5 @@
     "REME3234": "https://drive.google.com/thumbnail?id=16xu2yveLwRL8ccFJugSS7KP1TAEMIz60&sz=s600-rw",
     "REME6511": "https://drive.google.com/thumbnail?id=1wsgyIy9Zu2s3_EPCgK7-9eBt7aJzX1bz&sz=s600-rw"
   },
-  "timestamp_ms": 1785975928270
+  "timestamp_ms": 1785986830976
 }
