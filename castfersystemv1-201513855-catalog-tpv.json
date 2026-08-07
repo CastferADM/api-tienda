@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T15:57:45.391Z",
+  "generated_at": "2026-08-07T16:12:47.453Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36667,7 +36667,7 @@
       "sku": "15021h",
       "model": "Cargo Secado Rapido Trekking 2 en 1",
       "price": 18000,
-      "display_price": 27000,
+      "display_price": 26000,
       "minor_surcharge": 0,
       "category_id": "Pantalon",
       "categoryName": "Pantalon",
@@ -46736,28 +46736,14 @@
       {
         "variedad_id": "PANT2863-Docena",
         "nombre": "Docena",
-        "precio_unitario": 27000,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2863-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 27000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2863-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 27000,
-        "cantidad_minima": 4,
         "visible": true
       },
       {
         "variedad_id": "PANT2863-Menor",
         "nombre": "Menor",
-        "precio_unitario": 36000,
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -49345,5 +49331,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786118411141
+  "timestamp_ms": 1786119329232
 }
