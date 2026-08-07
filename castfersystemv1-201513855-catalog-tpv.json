@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T15:42:45.815Z",
+  "generated_at": "2026-08-07T15:57:45.391Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36661,6 +36661,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2863",
+      "sku": "15021h",
+      "model": "Cargo Secado Rapido Trekking 2 en 1",
+      "price": 18000,
+      "display_price": 27000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "RENDZON",
+      "style": "Liso",
+      "material": "Cire secado rapido",
+      "sizes": "Surtido,S,M,L,XL",
+      "talles": "Surtido,S,M,L,XL",
+      "TALLES": "Surtido,S,M,L,XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1Nr22JxQQKFQRfZw3y93AaBxnjUvf6W_3",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT2863-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT2863-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -46691,6 +46731,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT2863": [
+      {
+        "variedad_id": "PANT2863-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 27000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2863-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2863-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 27000,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2863-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 36000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -49275,5 +49345,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786117511524
+  "timestamp_ms": 1786118411141
 }
