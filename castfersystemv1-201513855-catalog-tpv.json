@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T14:27:44.992Z",
+  "generated_at": "2026-08-08T14:42:46.360Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36741,6 +36741,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "TAPA8174",
+      "sku": "MPY-9P04A",
+      "model": "Corte inglese de cuero gastado",
+      "price": 0,
+      "display_price": null,
+      "minor_surcharge": 0,
+      "category_id": "Tapado",
+      "categoryName": "Tapado",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Ecocuero",
+      "sizes": "Surtido,M,L,XL,2XL,3XL",
+      "talles": "Surtido,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,M,L,XL,2XL,3XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1s6rlsBNKm4MMjn1ZQHDCNwR-ruN4S5bc",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "TAPA8174-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "TAPA8174-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -46803,6 +46843,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "TAPA8174": [
+      {
+        "variedad_id": "TAPA8174-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 0,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA8174-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 0,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA8174-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 0,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "TAPA8174-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 0,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -49387,5 +49457,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786199393456
+  "timestamp_ms": 1786200281808
 }
