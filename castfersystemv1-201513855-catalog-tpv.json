@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T14:57:46.531Z",
+  "generated_at": "2026-08-08T15:12:48.831Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36746,8 +36746,8 @@
       "id": "TAPA8174",
       "sku": "MPY-9P04A",
       "model": "Corte inglese de cuero gastado",
-      "price": 0,
-      "display_price": null,
+      "price": 20500,
+      "display_price": 35000,
       "minor_surcharge": 0,
       "category_id": "Tapado",
       "categoryName": "Tapado",
@@ -46848,28 +46848,14 @@
       {
         "variedad_id": "TAPA8174-Docena",
         "nombre": "Docena",
-        "precio_unitario": 0,
+        "precio_unitario": 35000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "TAPA8174-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 0,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "TAPA8174-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 0,
-        "cantidad_minima": 5,
         "visible": true
       },
       {
         "variedad_id": "TAPA8174-Menor",
         "nombre": "Menor",
-        "precio_unitario": 0,
+        "precio_unitario": 50000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -49457,5 +49443,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786201180424
+  "timestamp_ms": 1786202101405
 }
