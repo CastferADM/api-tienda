@@ -191753,110 +191753,6 @@
           "detalleAuditoriaIA": ""
         }
       ],
-      "e1eb245a": [
-        {
-          "id": "1721b36a",
-          "fecha": "2026-05-10 02:45",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 343000,
-          "clienteId": "4f9a836f",
-          "nombreCliente": "Oscar Guerci",
-          "telefonoCliente": "+54 9 2615 59-5701",
-          "tiendaId": "CASTFER",
-          "metodoPago": "Transferencia",
-          "cajaId": "e1eb245a",
-          "asesor": "BRYAN COLQUE",
-          "fechaCaja": "2026-05-10",
-          "datosTransferenciaId": "MercadoPago - 09",
-          "bancoTransferencia": "MercadoPago",
-          "aliasTransferencia": "br.3295",
-          "nombreCuentaTransferencia": "Bryan Colque Fernandez",
-          "cbuTransferencia": "3100054928135814",
-          "colorTransferencia": "Coral",
-          "costoEnvio": 5000,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "1721b36a-1727",
-              "descripcion": "PANT5330-Surtido-Surtido-CASTFER",
-              "cantidad": 13,
-              "precioUnitario": 26000,
-              "subtotal": 338000,
-              "tipoPrecio": "PANT5330-Docena",
-              "productoId": "PANT5330",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "PANT5330-Surtido-Surtido-CASTFER",
-              "categoriaPadre": "INDUMENTARIA",
-              "categoria": "Pantalon",
-              "inversion": 128100,
-              "ganancia": 53900
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 338000,
-          "subtotal": 338000,
-          "tipoVenta": "PEDIDO",
-          "compraMinima": 4,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": true,
-          "comprobanteFile": "",
-          "detalleAuditoriaIA": ""
-        },
-        {
-          "id": "34a924cd",
-          "fecha": "2026-05-10 01:07",
-          "origen": "Pedido Local",
-          "estado": "CANCELADO",
-          "total": 156000,
-          "clienteId": "fc912435",
-          "nombreCliente": "Alejandra pavesich torres",
-          "telefonoCliente": 2216388757,
-          "tiendaId": "CASTFER",
-          "metodoPago": "Transferencia",
-          "cajaId": "e1eb245a",
-          "asesor": "BRYAN COLQUE",
-          "fechaCaja": "2026-05-10",
-          "datosTransferenciaId": "MercadoPago - 09",
-          "bancoTransferencia": "MercadoPago",
-          "aliasTransferencia": "br.3295",
-          "nombreCuentaTransferencia": "Bryan Colque Fernandez",
-          "cbuTransferencia": "3100054928135814",
-          "colorTransferencia": "Coral",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "34a924cd-3994",
-              "descripcion": "PANT5424-Surtido-Surtido-CASTFER",
-              "cantidad": 6,
-              "precioUnitario": 26000,
-              "subtotal": 156000,
-              "tipoPrecio": "PANT5424-Media-Docena",
-              "productoId": "PANT5424",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "PANT5424-Surtido-Surtido-CASTFER",
-              "categoriaPadre": "INDUMENTARIA",
-              "categoria": "Pantalon",
-              "inversion": 108000,
-              "ganancia": 48000
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 156000,
-          "subtotal": 156000,
-          "tipoVenta": "PEDIDO",
-          "compraMinima": 4,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": true,
-          "comprobanteFile": "",
-          "detalleAuditoriaIA": ""
-        }
-      ],
       "43cf1f0d": [
         {
           "id": "1762ed48",
@@ -317196,11 +317092,6 @@
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
     },
-    "e1eb245a": {
-      "fecha": "2026-05-10",
-      "tienda": "CASTFER",
-      "asesor": "BRYAN COLQUE"
-    },
     "43cf1f0d": {
       "fecha": "2026-05-08",
       "tienda": "CASTFER",
@@ -318742,5 +318633,5 @@
     "REME3234": "https://drive.google.com/thumbnail?id=16xu2yveLwRL8ccFJugSS7KP1TAEMIz60&sz=s600-rw",
     "REME6511": "https://drive.google.com/thumbnail?id=1wsgyIy9Zu2s3_EPCgK7-9eBt7aJzX1bz&sz=s600-rw"
   },
-  "timestamp_ms": 1786134327953
+  "timestamp_ms": 1786174040661
 }
