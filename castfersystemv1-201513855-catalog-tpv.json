@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:57:44.825Z",
+  "generated_at": "2026-08-09T23:12:45.616Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36584,7 +36584,7 @@
     },
     {
       "id": "REME3234",
-      "sku": "962/77-78-80-90",
+      "sku": "N96277",
       "model": "Deportivo DRY-FIT",
       "price": 6000,
       "display_price": 9000,
@@ -36592,7 +36592,7 @@
       "category_id": "Remera",
       "categoryName": "Remera",
       "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
+      "season": "VERANO",
       "gender": "Hombre",
       "brand": "SSJ",
       "style": "Liso",
@@ -36818,6 +36818,126 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "JOGG4674-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME5991",
+      "sku": "N96278",
+      "model": "Deportivo DRY-FIT",
+      "price": 6000,
+      "display_price": 9000,
+      "minor_surcharge": 0,
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Micrifibra",
+      "sizes": "Surtido,M,L,XL,2XL",
+      "talles": "Surtido,M,L,XL,2XL",
+      "TALLES": "Surtido,M,L,XL,2XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1BQd_JxznFlxPmsvKdEFCj7fq9lciWXCD",
+      "woo_id": 40621,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "REME5991-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "REME5991-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME5668",
+      "sku": "N96280",
+      "model": "Deportivo DRY-FIT",
+      "price": 6000,
+      "display_price": 9000,
+      "minor_surcharge": 0,
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Micrifibra",
+      "sizes": "Surtido,M,L,XL,2XL",
+      "talles": "Surtido,M,L,XL,2XL",
+      "TALLES": "Surtido,M,L,XL,2XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1yt5fsS3E_NucZEulctdsm5FW2hDIslTa",
+      "woo_id": 40626,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "REME5668-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "REME5668-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME4079",
+      "sku": "N96290",
+      "model": "Deportivo DRY-FIT",
+      "price": 6000,
+      "display_price": 9000,
+      "minor_surcharge": 0,
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Micrifibra",
+      "sizes": "Surtido,M,L,XL,2XL",
+      "talles": "Surtido,M,L,XL,2XL",
+      "TALLES": "Surtido,M,L,XL,2XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1oQKtS2DmBL0ph7Okr-iTFHoikaE7VB86",
+      "woo_id": 40631,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "REME4079-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "REME4079-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -46915,6 +47035,96 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "REME5991": [
+      {
+        "variedad_id": "REME5991-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 9000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME5991-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 9000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME5991-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 9000,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME5991-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "REME5668": [
+      {
+        "variedad_id": "REME5668-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 9000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME5668-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 9000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME5668-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 9000,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME5668-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "REME4079": [
+      {
+        "variedad_id": "REME4079-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 9000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME4079-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 9000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME4079-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 9000,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME4079-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -49503,5 +49713,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786316406317
+  "timestamp_ms": 1786317319604
 }
