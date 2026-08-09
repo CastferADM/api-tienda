@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:12:45.616Z",
+  "generated_at": "2026-08-09T23:27:47.233Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -220,6 +220,14 @@
     "Ne&Gr": {
       "hex": "000000-D3D3D3",
       "textEdge": "FFFFFF"
+    },
+    "Indigo Light": {
+      "hex": "5B73A0",
+      "textEdge": "White"
+    },
+    "Gris Humo": {
+      "hex": "6E8691",
+      "textEdge": "Black"
     }
   },
   "categories": [
@@ -49713,5 +49721,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786317319604
+  "timestamp_ms": 1786318166134
 }
