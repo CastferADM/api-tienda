@@ -313001,6 +313001,126 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "1686b252": [
+        {
+          "id": "1d72d9e2",
+          "fecha": "2026-08-10 13:01",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 70000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "1686b252",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-10",
+          "datosTransferenciaId": "MercadoPago - 07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "nombreCuentaTransferencia": "Yamil Colque Fernández",
+          "cbuTransferencia": 3100076494873820,
+          "colorTransferencia": "Azul acero",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "1d72d9e2-23053",
+              "descripcion": "PANT8032-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 40000,
+              "subtotal": 40000,
+              "tipoPrecio": "PANT8032-Menor",
+              "productoId": "PANT8032",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT8032-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 20500,
+              "ganancia": 19500
+            },
+            {
+              "id": "1d72d9e2-23054",
+              "descripcion": "PANT2685-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "PANT2685-Menor",
+              "productoId": "PANT2685",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2685-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 17000,
+              "ganancia": 13000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 70000,
+          "subtotal": 70000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "fe004413",
+          "fecha": "2026-08-10 13:55",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 30000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "1686b252",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-10",
+          "datosTransferenciaId": "MercadoPago - 07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "nombreCuentaTransferencia": "Yamil Colque Fernández",
+          "cbuTransferencia": 3100076494873820,
+          "colorTransferencia": "Azul acero",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "fe004413-23055",
+              "descripcion": "JOGG7328-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "JOGG7328-Menor",
+              "productoId": "JOGG7328",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG7328-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Joggers",
+              "inversion": 16000,
+              "ganancia": 14000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -314954,6 +315074,11 @@
       "fecha": "2026-08-09",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "1686b252": {
+      "fecha": "2026-08-10",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -315780,7 +315905,7 @@
     "PANT2419": "https://drive.google.com/thumbnail?id=1W_d-Pix1Wd8wPrKxVLCMO7w-ji0OXRZK&sz=s600-rw",
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw",
     "CAMP8376": "https://drive.google.com/thumbnail?id=1UeonYTbc9AQofRpdFo7xIKu30SKdU_hJ&sz=s600-rw",
-    "CAMP1001": "https://drive.google.com/thumbnail?id=1IVWqciYT-yWEqY1AwUzHe9avHkyLPVa5&sz=s600-rw",
+    "CAMP1001": "https://drive.google.com/thumbnail?id=1OaMUSkeEdDeyPMIe6DUOrdisHZyhjdRX&sz=s600-rw",
     "CAMP7457": "https://drive.google.com/thumbnail?id=1qU21Hu63WntUkGaBXURx4nOonBdZIF1I&sz=s600-rw",
     "REME3522": "https://drive.google.com/thumbnail?id=1bG-Ooi54Y25LaHbHRinmoBCVpffrosN0&sz=s600-rw",
     "REME3234": "https://drive.google.com/thumbnail?id=1Bxulispf7RkcnlwBCrdX8oa30yjMhHVu&sz=s600-rw",
@@ -315793,5 +315918,5 @@
     "CAMP7813": "https://drive.google.com/thumbnail?id=1aER4HNMQWD9CBD9iWIRIaX1TGLDyXJat&sz=s600-rw",
     "PANT2863": "https://drive.google.com/thumbnail?id=1QMr1K0pEA0OK4GSYynaomXhG_gQFmt0s&sz=s600-rw"
   },
-  "timestamp_ms": 1786346774875
+  "timestamp_ms": 1786368323711
 }
