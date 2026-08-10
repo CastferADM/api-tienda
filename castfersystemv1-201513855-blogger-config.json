@@ -52821,9 +52821,37 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1ZTGyQoatOXe0p2tDX5VQUzKx6dHuq5MZ&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZTGyQoatOXe0p2tDX5VQUzKx6dHuq5MZ&sz=s600-rw",
+                  "archivo_id": "1ZTGyQoatOXe0p2tDX5VQUzKx6dHuq5MZ",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-10T15:55:28.021Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1pJ-2_h1oWEWpJLyACMOSFJ-cmuhm5TAt&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1pJ-2_h1oWEWpJLyACMOSFJ-cmuhm5TAt&sz=s600-rw",
+                  "archivo_id": "1pJ-2_h1oWEWpJLyACMOSFJ-cmuhm5TAt",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-08-10T15:55:28.021Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=12SdLIUanCZxHf32RUH2cWWgat5lXYbKY&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=12SdLIUanCZxHf32RUH2cWWgat5lXYbKY&sz=s600-rw",
+                  "archivo_id": "12SdLIUanCZxHf32RUH2cWWgat5lXYbKY",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-08-10T15:55:28.021Z"
                 }
               ],
               "variedad": [
@@ -80799,5 +80827,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1786376679629
+  "timestamp_ms": 1786377646393
 }
