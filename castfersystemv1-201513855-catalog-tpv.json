@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:57:48.450Z",
+  "generated_at": "2026-08-10T16:12:45.269Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36949,6 +36949,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT3348",
+      "sku": "DL6880BZ",
+      "model": "Cargo Táctico Trekking",
+      "price": 0,
+      "display_price": null,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Poliester",
+      "sizes": "Surtido,40,42,44,46,48,50",
+      "talles": "Surtido,40,42,44,46,48,50",
+      "TALLES": "Surtido,40,42,44,46,48,50",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1hp1p7pT9DczytLqZCD2K9ZJUXDHyv_h5&sz=s600-rw",
+      "carpeta_id": "1VguJo4nMEgVZ_Sh7ar7myYKxrRvtyPxw",
+      "woo_id": 40637,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT3348-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT3348-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -47084,6 +47124,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT3348": [
+      {
+        "variedad_id": "PANT3348-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 0,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3348-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 0,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3348-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 0,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3348-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 0,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -49672,5 +49742,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786377649349
+  "timestamp_ms": 1786378469022
 }
