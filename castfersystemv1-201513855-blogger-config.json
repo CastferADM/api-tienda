@@ -2,11 +2,11 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://cast-fer.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
   "pagina_tienda": {
     "tienda_id": "CASTFER",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
     "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=CASTFER&lastName=BRYAN%20COLQUE&email=castfer2498%40gmail.com&cellPhone=1132264462&workPhone=1150055119&address=Bacacay%202946&org=CASTFER&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "castfer2498@gmail.com",
     "telefono": "1132264462",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "23:00:00"
     },
-    "compra_minima": "4",
+    "compra_minima": 4,
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -40766,7 +40766,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "152",
+                  "valor": "151",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -40871,7 +40871,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "152"
+                          "stock": "151"
                         }
                       ]
                     }
@@ -40888,7 +40888,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "152"
+                          "stock": "151"
                         }
                       ]
                     }
@@ -40905,7 +40905,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "152"
+                          "stock": "151"
                         }
                       ]
                     }
@@ -52385,7 +52385,8 @@
                     "44",
                     "46",
                     "48",
-                    "50"
+                    "50",
+                    "52"
                   ]
                 },
                 "colores": {
@@ -52424,12 +52425,12 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-07-2026"
+                  "valor": "10-08-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7942%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20de%20Neoprem%20Termico%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048%2C%2050"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7942%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20de%20Neoprem%20Termico%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048%2C%2050%2C%2052"
                 }
               },
               "guia_talles_img": "",
@@ -52443,7 +52444,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-07-31T18:46:27.499Z"
+                  "fecha_carga": "2026-08-10T13:25:18.972Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1LmSlYh4PkHWC1EioJzzSS7LKTLxUdn4W&sz=s1600-rw",
@@ -52454,7 +52455,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-31T18:46:27.499Z"
+                  "fecha_carga": "2026-08-10T13:25:18.972Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=15CcxYtrBcqbKYSKLzRZ5PuTh5B4BT5uI&sz=s1600-rw",
@@ -52465,7 +52466,18 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-07-31T18:46:27.499Z"
+                  "fecha_carga": "2026-08-10T13:25:18.972Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1kZu1ex4fTzRzWm23Bo9eYHSKsXzBQFaG&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1kZu1ex4fTzRzWm23Bo9eYHSKsXzBQFaG&sz=s600-rw",
+                  "archivo_id": "1kZu1ex4fTzRzWm23Bo9eYHSKsXzBQFaG",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-08-10T13:25:18.972Z"
                 }
               ],
               "variedad": [
@@ -80704,5 +80716,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1786367698467
+  "timestamp_ms": 1786368680801
 }
