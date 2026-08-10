@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:57:46.756Z",
+  "generated_at": "2026-08-10T13:12:46.641Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36531,7 +36531,7 @@
       "ageGroup": "Adulto",
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
-      "image": "https://drive.google.com/thumbnail?id=1IVWqciYT-yWEqY1AwUzHe9avHkyLPVa5&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=1OaMUSkeEdDeyPMIe6DUOrdisHZyhjdRX&sz=s600-rw",
       "carpeta_id": "1rn2RRYJN7HKstEIW4pDBmzRyXXYpldux",
       "woo_id": 40594,
       "variations": [
@@ -36555,7 +36555,7 @@
       "sku": "963001",
       "model": "DRY FIT Talle especial RANGLAN",
       "price": 6500,
-      "display_price": 9000,
+      "display_price": 9500,
       "minor_surcharge": 0,
       "category_id": "Remera",
       "categoryName": "Remera",
@@ -46922,7 +46922,7 @@
       {
         "variedad_id": "REME3522-Docena",
         "nombre": "Docena",
-        "precio_unitario": 9000,
+        "precio_unitario": 9500,
         "cantidad_minima": 12,
         "visible": true
       },
@@ -46940,13 +46940,6 @@
         "nombre": "Docena",
         "precio_unitario": 9000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME3234-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 9000,
-        "cantidad_minima": 6,
         "visible": true
       },
       {
@@ -47053,20 +47046,6 @@
         "visible": true
       },
       {
-        "variedad_id": "REME5991-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 9000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME5991-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 9000,
-        "cantidad_minima": 4,
-        "visible": true
-      },
-      {
         "variedad_id": "REME5991-Menor",
         "nombre": "Menor",
         "precio_unitario": 12000,
@@ -47083,20 +47062,6 @@
         "visible": true
       },
       {
-        "variedad_id": "REME5668-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 9000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME5668-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 9000,
-        "cantidad_minima": 4,
-        "visible": true
-      },
-      {
         "variedad_id": "REME5668-Menor",
         "nombre": "Menor",
         "precio_unitario": 12000,
@@ -47110,20 +47075,6 @@
         "nombre": "Docena",
         "precio_unitario": 9000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME4079-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 9000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME4079-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 9000,
-        "cantidad_minima": 4,
         "visible": true
       },
       {
@@ -49721,5 +49672,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786366811656
+  "timestamp_ms": 1786367671915
 }
