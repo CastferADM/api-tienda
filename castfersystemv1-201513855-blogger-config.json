@@ -8067,7 +8067,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "59",
+                  "valor": "58",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8128,7 +8128,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "59"
+                          "stock": "58"
                         }
                       ]
                     }
@@ -8145,7 +8145,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "59"
+                          "stock": "58"
                         }
                       ]
                     }
@@ -37537,7 +37537,7 @@
                   "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2618%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20clasic%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048%2C%2050"
                 }
               },
-              "guia_talles_img": "",
+              "guia_talles_img": "https://drive.google.com/thumbnail?id=1NkX_fT44mJAkdw-Ax9oWCCd3koVpRzDE&sz=s1600-rw",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=19zWRLzj7Bz8GdZqB-f5-mJNyJlEUuPZu&sz=s1600-rw",
@@ -37548,18 +37548,29 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-29T16:51:29.817Z"
+                  "fecha_carga": "2026-08-10T20:04:22.226Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=17BV1RMVdP0c4f1wMBKS-FAJN8jFlJTJs&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=17BV1RMVdP0c4f1wMBKS-FAJN8jFlJTJs&sz=s600-rw",
                   "archivo_id": "17BV1RMVdP0c4f1wMBKS-FAJN8jFlJTJs",
                   "portada": false,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-07-29T16:51:29.817Z"
+                  "fecha_carga": "2026-08-10T20:04:22.226Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1NkX_fT44mJAkdw-Ax9oWCCd3koVpRzDE&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1NkX_fT44mJAkdw-Ax9oWCCd3koVpRzDE&sz=s600-rw",
+                  "archivo_id": "1NkX_fT44mJAkdw-Ax9oWCCd3koVpRzDE",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA - Guía de Talles",
+                  "rol": "GUIA_TALLES",
+                  "orden": 4,
+                  "fecha_carga": "2026-08-10T20:04:22.226Z"
                 }
               ],
               "variedad": [
@@ -81466,5 +81477,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1786391960552
+  "timestamp_ms": 1786392883573
 }
