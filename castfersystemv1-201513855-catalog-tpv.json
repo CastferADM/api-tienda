@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:42:45.277Z",
+  "generated_at": "2026-08-10T16:57:46.323Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36955,7 +36955,7 @@
       "sku": "DL6880BZ",
       "model": "Cargo Táctico Trekking",
       "price": 0,
-      "display_price": null,
+      "display_price": 26000,
       "minor_surcharge": 0,
       "category_id": "Pantalon",
       "categoryName": "Pantalon",
@@ -47129,28 +47129,21 @@
       {
         "variedad_id": "PANT3348-Docena",
         "nombre": "Docena",
-        "precio_unitario": 0,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "PANT3348-Media-Docena",
         "nombre": "Media-Docena",
-        "precio_unitario": 0,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3348-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 0,
+        "precio_unitario": 26000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT3348-Menor",
         "nombre": "Menor",
-        "precio_unitario": 0,
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -49742,5 +49735,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786380277267
+  "timestamp_ms": 1786381177407
 }
