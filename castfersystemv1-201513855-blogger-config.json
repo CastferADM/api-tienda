@@ -16316,10 +16316,10 @@
                   "url": "https://drive.google.com/thumbnail?id=1Zo7hBxc6UE91aMT3067lvj90a4FXKEX8&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Zo7hBxc6UE91aMT3067lvj90a4FXKEX8&sz=s600",
                   "archivo_id": "1Zo7hBxc6UE91aMT3067lvj90a4FXKEX8",
-                  "portada": true,
+                  "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "PORTADA",
+                  "rol": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-07-01T03:36:16.244Z"
                 },
@@ -16338,10 +16338,10 @@
                   "url": "https://drive.google.com/thumbnail?id=1iPmvGwKwFWCTbS483Z163NIBvN1yQtMD&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1iPmvGwKwFWCTbS483Z163NIBvN1yQtMD&sz=s600",
                   "archivo_id": "1iPmvGwKwFWCTbS483Z163NIBvN1yQtMD",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 3,
                   "fecha_carga": "2026-07-01T03:36:16.244Z"
                 },
@@ -25455,10 +25455,10 @@
                   "url": "https://drive.google.com/thumbnail?id=1E2KzZKM_5rSOt12lCt1tP9EQjA3UXcfw&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1E2KzZKM_5rSOt12lCt1tP9EQjA3UXcfw&sz=s600-rw",
                   "archivo_id": "1E2KzZKM_5rSOt12lCt1tP9EQjA3UXcfw",
-                  "portada": true,
+                  "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "PORTADA",
+                  "rol": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-08-07T03:45:20.259Z"
                 },
@@ -25466,10 +25466,10 @@
                   "url": "https://drive.google.com/thumbnail?id=1UeonYTbc9AQofRpdFo7xIKu30SKdU_hJ&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1UeonYTbc9AQofRpdFo7xIKu30SKdU_hJ&sz=s600-rw",
                   "archivo_id": "1UeonYTbc9AQofRpdFo7xIKu30SKdU_hJ",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "imagen",
                   "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 6,
                   "fecha_carga": "2026-08-07T03:45:20.259Z"
                 },
@@ -28965,7 +28965,7 @@
               "codigo": 302,
               "categoria": "Campera",
               "nombre": "CAMP9755",
-              "carpeta_id": "",
+              "carpeta_id": "1m-6jqkxmdxaMjodK7TExeGD8y0Yi9h3p",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -29060,9 +29060,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1RMwRZl09Har5Q3GrP1VxT-TZqTSgpziz&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1RMwRZl09Har5Q3GrP1VxT-TZqTSgpziz&sz=s600-rw",
+                  "archivo_id": "1RMwRZl09Har5Q3GrP1VxT-TZqTSgpziz",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-10T01:31:01.934Z"
                 }
               ],
               "variedad": [
@@ -39565,17 +39571,6 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 11,
-                  "fecha_carga": "2026-08-10T01:27:40.715Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=10SM-RVAuaakL8LSnv1kN4jScHHLiiu_7&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10SM-RVAuaakL8LSnv1kN4jScHHLiiu_7&sz=s600-rw",
-                  "archivo_id": "10SM-RVAuaakL8LSnv1kN4jScHHLiiu_7",
-                  "portada": false,
-                  "tipo": "image",
-                  "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
-                  "orden": 12,
                   "fecha_carga": "2026-08-10T01:27:40.715Z"
                 }
               ],
@@ -80669,5 +80664,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1786325425404
+  "timestamp_ms": 1786326282877
 }
