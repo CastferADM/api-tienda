@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T17:27:45.489Z",
+  "generated_at": "2026-08-10T17:42:46.001Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36632,15 +36632,15 @@
     },
     {
       "id": "REME6511",
-      "sku": "37-62-57-86",
-      "model": "OVERSIZE",
+      "sku": "N96086",
+      "model": "Oversize Acid Wash",
       "price": 7500,
       "display_price": 10000,
       "minor_surcharge": 0,
       "category_id": "Remera",
       "categoryName": "Remera",
       "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
+      "season": "VERANO",
       "gender": "Hombre",
       "brand": "SSJ",
       "style": "Liso",
@@ -36988,6 +36988,33 @@
           "variation_id": "PANT3348-Surtido-Surtido-JM MAYORISTA"
         }
       ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME9053",
+      "sku": "N28662",
+      "model": "Oversize Graphic Samsem 8-Ball",
+      "price": 7500,
+      "display_price": 11250,
+      "minor_surcharge": 0,
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "SSJ",
+      "style": "Liso",
+      "material": "Algodon",
+      "sizes": "Surtido,M,L,XL,2XL",
+      "talles": "Surtido,M,L,XL,2XL",
+      "TALLES": "Surtido,M,L,XL,2XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": "",
+      "variations": [],
       "fecha_creacion": ""
     }
   ],
@@ -47147,6 +47174,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "REME9053": [
+      {
+        "variedad_id": "REME9053-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 11250,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME9053-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 11250,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME9053-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 11250,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME9053-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -49735,5 +49792,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786383002982
+  "timestamp_ms": 1786383911520
 }
