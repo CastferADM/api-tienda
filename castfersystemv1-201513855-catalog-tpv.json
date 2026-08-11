@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:42:48.296Z",
+  "generated_at": "2026-08-11T16:57:45.268Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -34891,7 +34891,7 @@
       "ageGroup": "",
       "grupo_edad": "",
       "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1fwXC87qSqDcOjT6VAnJqD2DxLU7V9wvF&sz=s600",
+      "image": "https://drive.google.com/thumbnail?id=1fwXC87qSqDcOjT6VAnJqD2DxLU7V9wvF&sz=s600-rw",
       "carpeta_id": "1QXVEelV52sqWLRv6jNrvVRRZqvfyPAWf",
       "woo_id": 39607,
       "variations": [
@@ -37115,7 +37115,7 @@
       "sku": "PD6072AL",
       "model": "Cargo Tactical Belt",
       "price": 17300,
-      "display_price": 25000,
+      "display_price": 26000,
       "minor_surcharge": 0,
       "category_id": "Joggers",
       "categoryName": "Joggers",
@@ -37131,7 +37131,7 @@
       "ageGroup": "Adulto",
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
-      "image": "https://drive.google.com/thumbnail?id=16q64Vsyc76ah-k4eyctGnJWrq2qjm5K7&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
       "carpeta_id": "1fVEkScMp12UnOPawMIU-VTCVqBh_TR2T",
       "woo_id": 40653,
       "variations": [
@@ -37146,6 +37146,86 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "JOGG7630-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2955",
+      "sku": "PD6960",
+      "model": "Cargo talle especial CORTE RECTO",
+      "price": 18000,
+      "display_price": 27000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Gabardina",
+      "sizes": "Surtido,52,54,56,58,60,62",
+      "talles": "Surtido,52,54,56,58,60,62",
+      "TALLES": "Surtido,52,54,56,58,60,62",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1YtkQE8i2s33TTKYlz_Y8fcbJad21IFXe",
+      "woo_id": 40654,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT2955-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT2955-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME4744",
+      "sku": "YTM-223557",
+      "model": "Lisa basica",
+      "price": 6900,
+      "display_price": 10350,
+      "minor_surcharge": 0,
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "KNUP",
+      "style": "Liso",
+      "material": "Algodon",
+      "sizes": "Surtido,M,L,XL,2XL,3XL",
+      "talles": "Surtido,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,M,L,XL,2XL,3XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1xt_EMtVMMFRZWdepPzrufeTBTXHu5vN1",
+      "woo_id": 40659,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "REME4744-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "REME4744-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -47360,7 +47440,7 @@
       {
         "variedad_id": "JOGG7630-Docena",
         "nombre": "Docena",
-        "precio_unitario": 25000,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
         "visible": true
       },
@@ -47368,6 +47448,52 @@
         "variedad_id": "JOGG7630-Menor",
         "nombre": "Menor",
         "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT2955": [
+      {
+        "variedad_id": "PANT2955-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 27000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2955-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 35000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "REME4744": [
+      {
+        "variedad_id": "REME4744-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 10350,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME4744-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 10350,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME4744-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 10350,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME4744-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 13800,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -49967,5 +50093,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786466715479
+  "timestamp_ms": 1786467582483
 }
