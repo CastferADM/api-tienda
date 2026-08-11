@@ -35527,7 +35527,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "45",
+                  "valor": "44",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -35566,7 +35566,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "45"
+                          "stock": "44"
                         }
                       ]
                     }
@@ -35583,7 +35583,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "45"
+                          "stock": "44"
                         }
                       ]
                     }
@@ -42475,7 +42475,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "60",
+                  "valor": "59",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -42569,7 +42569,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "60"
+                          "stock": "59"
                         }
                       ]
                     }
@@ -54817,6 +54817,17 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 8,
+                  "fecha_carga": "2026-08-11T17:17:29.036Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1MXEbqKs_lBTESXNn4jE5G_z4Hq4Xs-NP&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MXEbqKs_lBTESXNn4jE5G_z4Hq4Xs-NP&sz=s600-rw",
+                  "archivo_id": "1MXEbqKs_lBTESXNn4jE5G_z4Hq4Xs-NP",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 16,
                   "fecha_carga": "2026-08-11T17:17:29.036Z"
                 }
               ],
@@ -82008,5 +82019,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1786471194014
+  "timestamp_ms": 1786472095609
 }
