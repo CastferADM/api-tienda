@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:27:45.339Z",
+  "generated_at": "2026-08-11T16:42:48.296Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -36731,7 +36731,7 @@
       "ageGroup": "Adulto",
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1Uemalpn6oemvTZY6n26gP1XKg8jPZkiZ&sz=s600-rw",
       "carpeta_id": "1xVHmqxgE2VRq0z3_XzQYQmnepew_zlq9",
       "woo_id": "",
       "variations": [
@@ -36792,7 +36792,7 @@
     },
     {
       "id": "JOGG4674",
-      "sku": "NZP035A",
+      "sku": "NZP7035A",
       "model": "CARGO NEVADO",
       "price": 17500,
       "display_price": 26000,
@@ -37114,8 +37114,8 @@
       "id": "JOGG7630",
       "sku": "PD6072AL",
       "model": "Cargo Tactical Belt",
-      "price": 0,
-      "display_price": null,
+      "price": 17300,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Joggers",
       "categoryName": "Joggers",
@@ -47360,28 +47360,14 @@
       {
         "variedad_id": "JOGG7630-Docena",
         "nombre": "Docena",
-        "precio_unitario": 0,
+        "precio_unitario": 25000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "JOGG7630-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 0,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "JOGG7630-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 0,
-        "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "JOGG7630-Menor",
         "nombre": "Menor",
-        "precio_unitario": 0,
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -49981,5 +49967,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786465797981
+  "timestamp_ms": 1786466715479
 }
