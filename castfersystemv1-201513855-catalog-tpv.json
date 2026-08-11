@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T17:42:48.538Z",
+  "generated_at": "2026-08-11T17:57:45.544Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37195,7 +37195,7 @@
       "sku": "YTM-223557",
       "model": "Lisa basica",
       "price": 6900,
-      "display_price": 10350,
+      "display_price": 11000,
       "minor_surcharge": 0,
       "category_id": "Remera",
       "categoryName": "Remera",
@@ -47472,28 +47472,14 @@
       {
         "variedad_id": "REME4744-Docena",
         "nombre": "Docena",
-        "precio_unitario": 10350,
+        "precio_unitario": 11000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME4744-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 10350,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME4744-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 10350,
-        "cantidad_minima": 5,
         "visible": true
       },
       {
         "variedad_id": "REME4744-Menor",
         "nombre": "Menor",
-        "precio_unitario": 13800,
+        "precio_unitario": 16000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -50093,5 +50079,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786470279443
+  "timestamp_ms": 1786471194438
 }
