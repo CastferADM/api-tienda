@@ -46269,6 +46269,18 @@
                       "hex": "#FF69B4-800080"
                     },
                     {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Arena",
+                      "hex": "#C2B280"
+                    },
+                    {
+                      "nombre": "Verde",
+                      "hex": "#00FF00"
+                    },
+                    {
                       "nombre": "Negro",
                       "hex": "#000000"
                     }
@@ -46276,8 +46288,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "360",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -46303,28 +46315,68 @@
                   "precio": 8250,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "360"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 8250,
                   "variedad": "Media-Docena",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "360"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 8250,
                   "variedad": "Curva",
                   "minima": 4,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "360"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 11000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "360"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-08-12T07:00:00.000Z"
@@ -53126,7 +53178,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "409",
+                  "valor": "408",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -53209,7 +53261,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "409"
+                          "stock": "408"
                         }
                       ]
                     }
@@ -53226,7 +53278,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "409"
+                          "stock": "408"
                         }
                       ]
                     }
@@ -53243,7 +53295,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "409"
+                          "stock": "408"
                         }
                       ]
                     }
@@ -82052,5 +82104,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1786561190901
+  "timestamp_ms": 1786562105471
 }
