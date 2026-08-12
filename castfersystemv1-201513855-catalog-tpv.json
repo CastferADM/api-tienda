@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:42:45.227Z",
+  "generated_at": "2026-08-12T18:57:46.299Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37229,6 +37229,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2493",
+      "sku": "9702",
+      "model": "Deportivo bota recta",
+      "price": 5500,
+      "display_price": 8250,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "GRANDE AGUILA",
+      "style": "Liso",
+      "material": "",
+      "sizes": "Surtido,L,XL,2XL,3XL",
+      "talles": "Surtido,L,XL,2XL,3XL",
+      "TALLES": "Surtido,L,XL,2XL,3XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1qmUy5E-8THdZZUzY8nhpCaEhV98jNpov",
+      "woo_id": 40666,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT2493-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT2493-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -47483,6 +47523,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT2493": [
+      {
+        "variedad_id": "PANT2493-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 8250,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2493-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 8250,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2493-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 8250,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2493-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 11000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -50087,5 +50157,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786560297090
+  "timestamp_ms": 1786561179312
 }
