@@ -819,7 +819,7 @@
           ]
         },
         {
-          "codigo": 20,
+          "codigo": 19,
           "nombre": "Mochila",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/mochila.svg",
           "producto": [
@@ -1251,417 +1251,6 @@
                 }
               ],
               "upd": "2025-09-09T07:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nombre_padre": "GENERAL",
-      "categorias": [
-        {
-          "codigo": 14,
-          "nombre": "CONJUNTOO",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjuntoo.svg",
-          "producto": [
-            {
-              "codigo": 380,
-              "categoria": "CONJUNTOO",
-              "nombre": "CONJ4023",
-              "carpeta_id": "1_3hNmyVD_uNwFFFaKcUWsoeahkT-Rexu",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Neoprene con LYCRA TERMICO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELT"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "-",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Neoprene"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#000000"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#00008A"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#808080"
-                    },
-                    {
-                      "nombre": "Beige",
-                      "hex": "#F5F5DC"
-                    },
-                    {
-                      "nombre": "Verde",
-                      "hex": "#00FF00"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "31",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "05-06-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ4023%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20con%20LYCRA%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1Hj2dS_-MR3LpKmSuz1-p9SVOFg-ZHzAw&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Hj2dS_-MR3LpKmSuz1-p9SVOFg-ZHzAw&sz=s600",
-                  "archivo_id": "1Hj2dS_-MR3LpKmSuz1-p9SVOFg-ZHzAw",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 2,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1LI1nDgMvgxrwAcg8hMM-AVD2CjYIq6aE&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1LI1nDgMvgxrwAcg8hMM-AVD2CjYIq6aE&sz=s600",
-                  "archivo_id": "1LI1nDgMvgxrwAcg8hMM-AVD2CjYIq6aE",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 4,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=19W8pkmq01vaWx-hn664fxDFgqZqOjure&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=19W8pkmq01vaWx-hn664fxDFgqZqOjure&sz=s600",
-                  "archivo_id": "19W8pkmq01vaWx-hn664fxDFgqZqOjure",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 6,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1cQXRv8b-mMQ-7sMTjcrcVwEHUZafVYUF&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1cQXRv8b-mMQ-7sMTjcrcVwEHUZafVYUF&sz=s600",
-                  "archivo_id": "1cQXRv8b-mMQ-7sMTjcrcVwEHUZafVYUF",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 8,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1AzuDrAw1UZBAwVHPRZGfsGQdnCab2FHY&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1AzuDrAw1UZBAwVHPRZGfsGQdnCab2FHY&sz=s600",
-                  "archivo_id": "1AzuDrAw1UZBAwVHPRZGfsGQdnCab2FHY",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 10,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1_zfjkAJNDrwhfI_4TaQhKD8Crl3-pEq2&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1_zfjkAJNDrwhfI_4TaQhKD8Crl3-pEq2&sz=s600",
-                  "archivo_id": "1_zfjkAJNDrwhfI_4TaQhKD8Crl3-pEq2",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 12,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1Z4crrkTiA3IMOesfpDBnUZIaFVAARuMm&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Z4crrkTiA3IMOesfpDBnUZIaFVAARuMm&sz=s600",
-                  "archivo_id": "1Z4crrkTiA3IMOesfpDBnUZIaFVAARuMm",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 14,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1bZfoU7fWkjXguqjpym4CMyhWDGhcYEVm&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1bZfoU7fWkjXguqjpym4CMyhWDGhcYEVm&sz=s600",
-                  "archivo_id": "1bZfoU7fWkjXguqjpym4CMyhWDGhcYEVm",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 16,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1C7E5WrrdW4TOrR_6z3mgYprxqYYsubfk&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1C7E5WrrdW4TOrR_6z3mgYprxqYYsubfk&sz=s600",
-                  "archivo_id": "1C7E5WrrdW4TOrR_6z3mgYprxqYYsubfk",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 18,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1y7DUvN8Cmz6xWqIGiwytFod7ul8qQcmr&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1y7DUvN8Cmz6xWqIGiwytFod7ul8qQcmr&sz=s600",
-                  "archivo_id": "1y7DUvN8Cmz6xWqIGiwytFod7ul8qQcmr",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 20,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 48000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "31"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 65000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "31"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-05-23T07:00:00.000Z"
-            },
-            {
-              "codigo": 382,
-              "categoria": "CONJUNTOO",
-              "nombre": "CONJ7151",
-              "carpeta_id": "1YGA4BmREGesBWz7l4MvEXJUcO3F1SP1u",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Neoprene con LYCRA TERMICO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELT"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "-",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Neoprene"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#000000"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#00008A"
-                    },
-                    {
-                      "nombre": "Esmeralda",
-                      "hex": "#019875"
-                    },
-                    {
-                      "nombre": "Violeta",
-                      "hex": "#4C2882"
-                    },
-                    {
-                      "nombre": "Rosa",
-                      "hex": "#FFC0CB"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "56",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-05-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ7151%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20con%20LYCRA%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1-i0Eph9OUupT2jKrCV8CtjX2y5RwYIBM&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1-i0Eph9OUupT2jKrCV8CtjX2y5RwYIBM&sz=s600",
-                  "archivo_id": "1-i0Eph9OUupT2jKrCV8CtjX2y5RwYIBM",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
-                  "orden": 16,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1N4otSYZyhhbdykdc9nt8ypuRpI84GhF2&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1N4otSYZyhhbdykdc9nt8ypuRpI84GhF2&sz=s600",
-                  "archivo_id": "1N4otSYZyhhbdykdc9nt8ypuRpI84GhF2",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "IA_Gemini",
-                  "rol": "PORTADA",
-                  "orden": 18,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1nG7524En7i-CvetnZ0Fpu2XjZN-SimHm&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1nG7524En7i-CvetnZ0Fpu2XjZN-SimHm&sz=s600",
-                  "archivo_id": "1nG7524En7i-CvetnZ0Fpu2XjZN-SimHm",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
-                  "orden": 24,
-                  "fecha_carga": "2026-07-01T03:36:16.244Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 45000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "56"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 60000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "56"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-05-23T07:00:00.000Z"
             }
           ]
         }
@@ -35454,7 +35043,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjuntoo.svg",
           "producto": [
             {
-              "codigo": 374,
+              "codigo": 378,
               "categoria": "Conjuntoo",
               "nombre": "CONJ6934",
               "carpeta_id": "1NUys5ChaieKbDzGKHi103iLFooYNnS0v",
@@ -35593,7 +35182,7 @@
               "upd": "2026-07-09T07:00:00.000Z"
             },
             {
-              "codigo": 376,
+              "codigo": 380,
               "categoria": "Conjuntoo",
               "nombre": "CONJ7230",
               "carpeta_id": "1mj5pnucHWgGkStuZFgDv090zhR9m6OVA",
@@ -35711,7 +35300,7 @@
               "upd": "2026-07-16T07:00:00.000Z"
             },
             {
-              "codigo": 378,
+              "codigo": 382,
               "categoria": "Conjuntoo",
               "nombre": "CONJ8694",
               "carpeta_id": "1SFFcztd2ja-H1TWFyKQ9d6XwfxRZv8qL",
@@ -35842,7 +35431,7 @@
           ]
         },
         {
-          "codigo": 16,
+          "codigo": 15,
           "nombre": "Joggers",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
@@ -42141,7 +41730,7 @@
           ]
         },
         {
-          "codigo": 17,
+          "codigo": 16,
           "nombre": "Jogging",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
@@ -43792,7 +43381,7 @@
           ]
         },
         {
-          "codigo": 21,
+          "codigo": 20,
           "nombre": "Musculosa",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg",
           "producto": [
@@ -44477,7 +44066,7 @@
           ]
         },
         {
-          "codigo": 22,
+          "codigo": 21,
           "nombre": "Pantalon",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
@@ -55426,7 +55015,7 @@
           ]
         },
         {
-          "codigo": 23,
+          "codigo": 22,
           "nombre": "Parka",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/parka.svg",
           "producto": [
@@ -55557,7 +55146,7 @@
           ]
         },
         {
-          "codigo": 24,
+          "codigo": 23,
           "nombre": "Remera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
@@ -60072,7 +59661,7 @@
           ]
         },
         {
-          "codigo": 25,
+          "codigo": 24,
           "nombre": "Sacoo Blazer",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sacoo_blazer.svg",
           "producto": [
@@ -60214,7 +59803,7 @@
           ]
         },
         {
-          "codigo": 26,
+          "codigo": 25,
           "nombre": "Short",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
           "producto": [
@@ -62058,7 +61647,7 @@
           ]
         },
         {
-          "codigo": 29,
+          "codigo": 28,
           "nombre": "Sueter",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
@@ -63342,7 +62931,7 @@
           ]
         },
         {
-          "codigo": 30,
+          "codigo": 29,
           "nombre": "Tapado",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tapado.svg",
           "producto": [
@@ -72175,6 +71764,405 @@
             {
               "codigo": 372,
               "categoria": "Conjunto",
+              "nombre": "CONJ4023",
+              "carpeta_id": "1_3hNmyVD_uNwFFFaKcUWsoeahkT-Rexu",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Neoprene con LYCRA TERMICO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprene"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Azul marino",
+                      "hex": "#00008A"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Beige",
+                      "hex": "#F5F5DC"
+                    },
+                    {
+                      "nombre": "Verde",
+                      "hex": "#00FF00"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "31",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "05-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1132264462,
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ4023%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20con%20LYCRA%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Hj2dS_-MR3LpKmSuz1-p9SVOFg-ZHzAw&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Hj2dS_-MR3LpKmSuz1-p9SVOFg-ZHzAw&sz=s600",
+                  "archivo_id": "1Hj2dS_-MR3LpKmSuz1-p9SVOFg-ZHzAw",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1LI1nDgMvgxrwAcg8hMM-AVD2CjYIq6aE&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1LI1nDgMvgxrwAcg8hMM-AVD2CjYIq6aE&sz=s600",
+                  "archivo_id": "1LI1nDgMvgxrwAcg8hMM-AVD2CjYIq6aE",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=19W8pkmq01vaWx-hn664fxDFgqZqOjure&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=19W8pkmq01vaWx-hn664fxDFgqZqOjure&sz=s600",
+                  "archivo_id": "19W8pkmq01vaWx-hn664fxDFgqZqOjure",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1cQXRv8b-mMQ-7sMTjcrcVwEHUZafVYUF&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1cQXRv8b-mMQ-7sMTjcrcVwEHUZafVYUF&sz=s600",
+                  "archivo_id": "1cQXRv8b-mMQ-7sMTjcrcVwEHUZafVYUF",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 8,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1AzuDrAw1UZBAwVHPRZGfsGQdnCab2FHY&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1AzuDrAw1UZBAwVHPRZGfsGQdnCab2FHY&sz=s600",
+                  "archivo_id": "1AzuDrAw1UZBAwVHPRZGfsGQdnCab2FHY",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 10,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1_zfjkAJNDrwhfI_4TaQhKD8Crl3-pEq2&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1_zfjkAJNDrwhfI_4TaQhKD8Crl3-pEq2&sz=s600",
+                  "archivo_id": "1_zfjkAJNDrwhfI_4TaQhKD8Crl3-pEq2",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 12,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Z4crrkTiA3IMOesfpDBnUZIaFVAARuMm&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Z4crrkTiA3IMOesfpDBnUZIaFVAARuMm&sz=s600",
+                  "archivo_id": "1Z4crrkTiA3IMOesfpDBnUZIaFVAARuMm",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 14,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1bZfoU7fWkjXguqjpym4CMyhWDGhcYEVm&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1bZfoU7fWkjXguqjpym4CMyhWDGhcYEVm&sz=s600",
+                  "archivo_id": "1bZfoU7fWkjXguqjpym4CMyhWDGhcYEVm",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 16,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1C7E5WrrdW4TOrR_6z3mgYprxqYYsubfk&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1C7E5WrrdW4TOrR_6z3mgYprxqYYsubfk&sz=s600",
+                  "archivo_id": "1C7E5WrrdW4TOrR_6z3mgYprxqYYsubfk",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 18,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1y7DUvN8Cmz6xWqIGiwytFod7ul8qQcmr&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1y7DUvN8Cmz6xWqIGiwytFod7ul8qQcmr&sz=s600",
+                  "archivo_id": "1y7DUvN8Cmz6xWqIGiwytFod7ul8qQcmr",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 20,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 48000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "31"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 65000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "31"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-05-23T07:00:00.000Z"
+            },
+            {
+              "codigo": 374,
+              "categoria": "Conjunto",
+              "nombre": "CONJ7151",
+              "carpeta_id": "1YGA4BmREGesBWz7l4MvEXJUcO3F1SP1u",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Neoprene con LYCRA TERMICO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprene"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Azul marino",
+                      "hex": "#00008A"
+                    },
+                    {
+                      "nombre": "Esmeralda",
+                      "hex": "#019875"
+                    },
+                    {
+                      "nombre": "Violeta",
+                      "hex": "#4C2882"
+                    },
+                    {
+                      "nombre": "Rosa",
+                      "hex": "#FFC0CB"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "56",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "28-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1132264462,
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ7151%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20con%20LYCRA%20TERMICO%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1-i0Eph9OUupT2jKrCV8CtjX2y5RwYIBM&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1-i0Eph9OUupT2jKrCV8CtjX2y5RwYIBM&sz=s600",
+                  "archivo_id": "1-i0Eph9OUupT2jKrCV8CtjX2y5RwYIBM",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 16,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1N4otSYZyhhbdykdc9nt8ypuRpI84GhF2&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1N4otSYZyhhbdykdc9nt8ypuRpI84GhF2&sz=s600",
+                  "archivo_id": "1N4otSYZyhhbdykdc9nt8ypuRpI84GhF2",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
+                  "orden": 18,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1nG7524En7i-CvetnZ0Fpu2XjZN-SimHm&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1nG7524En7i-CvetnZ0Fpu2XjZN-SimHm&sz=s600",
+                  "archivo_id": "1nG7524En7i-CvetnZ0Fpu2XjZN-SimHm",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 24,
+                  "fecha_carga": "2026-07-01T03:36:16.244Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 45000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "56"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 60000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "56"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-05-23T07:00:00.000Z"
+            },
+            {
+              "codigo": 376,
+              "categoria": "Conjunto",
               "nombre": "CONJ9269",
               "carpeta_id": "1uhQSE_XBEuGLN04Qa11E_sJZcasoFCkt",
               "descripcion": {
@@ -72268,7 +72256,7 @@
           ]
         },
         {
-          "codigo": 15,
+          "codigo": 14,
           "nombre": "Culote",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/culote.svg",
           "producto": [
@@ -72746,7 +72734,7 @@
           ]
         },
         {
-          "codigo": 18,
+          "codigo": 17,
           "nombre": "Mallas",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/mallas.svg",
           "producto": [
@@ -73032,7 +73020,7 @@
           ]
         },
         {
-          "codigo": 19,
+          "codigo": 18,
           "nombre": "Medias",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
@@ -77757,7 +77745,7 @@
           ]
         },
         {
-          "codigo": 27,
+          "codigo": 26,
           "nombre": "Slip",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slip.svg",
           "producto": [
@@ -78293,7 +78281,7 @@
           ]
         },
         {
-          "codigo": 28,
+          "codigo": 27,
           "nombre": "Soquetes",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/soquetes.svg",
           "producto": [
@@ -81158,7 +81146,7 @@
           ]
         },
         {
-          "codigo": 31,
+          "codigo": 30,
           "nombre": "Top",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
@@ -81630,7 +81618,7 @@
           ]
         },
         {
-          "codigo": 32,
+          "codigo": 31,
           "nombre": "Vedetina",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/vedetina.svg",
           "producto": [
@@ -82087,5 +82075,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1786650270989
+  "timestamp_ms": 1786651201385
 }
