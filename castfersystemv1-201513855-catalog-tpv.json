@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:27:46.016Z",
+  "generated_at": "2026-08-13T18:42:48.004Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37235,7 +37235,7 @@
       "sku": "9702",
       "model": "Deportivo bota recta",
       "price": 5500,
-      "display_price": 8250,
+      "display_price": 10000,
       "minor_surcharge": 0,
       "category_id": "Pantalon",
       "categoryName": "Pantalon",
@@ -47528,28 +47528,14 @@
       {
         "variedad_id": "PANT2493-Docena",
         "nombre": "Docena",
-        "precio_unitario": 8250,
+        "precio_unitario": 10000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2493-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 8250,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2493-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 8250,
-        "cantidad_minima": 4,
         "visible": true
       },
       {
         "variedad_id": "PANT2493-Menor",
         "nombre": "Menor",
-        "precio_unitario": 11000,
+        "precio_unitario": 15000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -50157,5 +50143,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786645774864
+  "timestamp_ms": 1786646691051
 }
