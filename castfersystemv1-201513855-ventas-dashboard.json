@@ -309286,6 +309286,73 @@
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "966ec467",
+          "fecha": "2026-08-13 15:56",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 405000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "f84951d4",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-13",
+          "datosTransferenciaId": "MercadoPago - 07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "nombreCuentaTransferencia": "Yamil Colque Fernández",
+          "cbuTransferencia": 3100076494873820,
+          "colorTransferencia": "Azul acero",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "966ec467-23221",
+              "descripcion": "CAMP1001-Surtido-Surtido-CASTFER",
+              "cantidad": 7,
+              "precioUnitario": 35000,
+              "subtotal": 245000,
+              "tipoPrecio": "CAMP1001-Docena",
+              "productoId": "CAMP1001",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP1001-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 141400,
+              "ganancia": 103600
+            },
+            {
+              "id": "966ec467-23222",
+              "descripcion": "CAMP2659-Surtido-Surtido-CASTFER",
+              "cantidad": 4,
+              "precioUnitario": 40000,
+              "subtotal": 160000,
+              "tipoPrecio": "CAMP2659-Docena",
+              "productoId": "CAMP2659",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP2659-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 100000,
+              "ganancia": 60000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 405000,
+          "subtotal": 405000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -312105,5 +312172,5 @@
     "PANT3690": "https://drive.google.com/thumbnail?id=1Uemalpn6oemvTZY6n26gP1XKg8jPZkiZ&sz=s600-rw",
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw"
   },
-  "timestamp_ms": 1786631258398
+  "timestamp_ms": 1786634740855
 }
