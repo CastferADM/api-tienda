@@ -308896,6 +308896,110 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "f84951d4": [
+        {
+          "id": "2442eca4",
+          "fecha": "2026-08-13 13:35",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 7000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "f84951d4",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-13",
+          "datosTransferenciaId": "MercadoPago - 07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "nombreCuentaTransferencia": "Yamil Colque Fernández",
+          "cbuTransferencia": 3100076494873820,
+          "colorTransferencia": "Azul acero",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "2442eca4-23212",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 7000,
+              "subtotal": 7000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Oferta",
+              "inversion": 0,
+              "ganancia": 7000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 7000,
+          "subtotal": 7000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "bd95209e",
+          "fecha": "2026-08-13 13:56",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 50000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "f84951d4",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-13",
+          "datosTransferenciaId": "MercadoPago - 07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "CASTFER.FLORES",
+          "nombreCuentaTransferencia": "Yamil Colque Fernández",
+          "cbuTransferencia": 3100076494873820,
+          "colorTransferencia": "Azul acero",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "bd95209e-23213",
+              "descripcion": "CAMP1176-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 50000,
+              "subtotal": 50000,
+              "tipoPrecio": "CAMP1176-Menor",
+              "productoId": "CAMP1176",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP1176-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 32000,
+              "ganancia": 18000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 50000,
+          "subtotal": 50000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -310864,6 +310968,11 @@
       "fecha": "2026-08-12",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "f84951d4": {
+      "fecha": "2026-08-13",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -311709,5 +311818,5 @@
     "PANT3690": "https://drive.google.com/thumbnail?id=1Uemalpn6oemvTZY6n26gP1XKg8jPZkiZ&sz=s600-rw",
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw"
   },
-  "timestamp_ms": 1786616712337
+  "timestamp_ms": 1786627594313
 }
