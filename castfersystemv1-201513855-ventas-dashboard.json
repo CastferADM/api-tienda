@@ -302707,6 +302707,73 @@
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "ea0827ab",
+          "fecha": "2026-08-17 13:07",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 88000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "d4b935fb",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-17",
+          "datosTransferenciaId": "MercadoPago - 09",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "nombreCuentaTransferencia": "Bryan Colque Fernandez",
+          "cbuTransferencia": "3100054928135814",
+          "colorTransferencia": "Coral",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "ea0827ab-23451",
+              "descripcion": "BOXE9361-Surtido-Surtido-CASTFER",
+              "cantidad": 3,
+              "precioUnitario": 8000,
+              "subtotal": 24000,
+              "tipoPrecio": "BOXE9361-Pack x3",
+              "productoId": "BOXE9361",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BOXE9361-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 13857,
+              "ganancia": 10143
+            },
+            {
+              "id": "ea0827ab-23452",
+              "descripcion": "PANT3122-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 32000,
+              "subtotal": 64000,
+              "tipoPrecio": "PANT3122-Menor",
+              "productoId": "PANT3122",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3122-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 37000,
+              "ganancia": 27000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 88000,
+          "subtotal": 88000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -305542,5 +305609,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1786969515083
+  "timestamp_ms": 1786973113194
 }
