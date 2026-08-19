@@ -295864,7 +295864,7 @@
           "fecha": "2026-08-14 19:59",
           "origen": "Pedido Local",
           "estado": "SOLICITADO",
-          "total": 1416000,
+          "total": 2676000,
           "clienteId": "1243ce4d",
           "nombreCliente": "Randisi Pablo Ignacio",
           "telefonoCliente": "3413 01-4309",
@@ -295898,11 +295898,27 @@
               "categoria": "Campera",
               "inversion": 1044000,
               "ganancia": 360000
+            },
+            {
+              "id": "4267d873-23534",
+              "descripcion": "CONJ4332-Surtido-Surtido-CASTFER",
+              "cantidad": 36,
+              "precioUnitario": 35000,
+              "subtotal": 1260000,
+              "tipoPrecio": "CONJ4332-Docena",
+              "productoId": "CONJ4332",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CONJ4332-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Conjuntoo",
+              "inversion": 873576,
+              "ganancia": 386424
             }
           ],
           "pagoEfectivo": 0,
-          "montoProductos": 1404000,
-          "subtotal": 1404000,
+          "montoProductos": 2664000,
+          "subtotal": 2664000,
           "tipoVenta": "PEDIDO",
           "compraMinima": 4,
           "pagoMixto": false,
@@ -302162,5 +302178,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1787124307685
+  "timestamp_ms": 1787146005658
 }
