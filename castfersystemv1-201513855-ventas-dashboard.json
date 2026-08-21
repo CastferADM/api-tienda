@@ -290760,6 +290760,126 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "520ffa5b": [
+        {
+          "id": "0153a546",
+          "fecha": "2026-08-21 12:29",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 85000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "520ffa5b",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-21",
+          "datosTransferenciaId": "MercadoPago - 09",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "nombreCuentaTransferencia": "Bryan Colque Fernandez",
+          "cbuTransferencia": "3100054928135814",
+          "colorTransferencia": "Coral",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "0153a546-23642",
+              "descripcion": "JOGG7328-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "JOGG7328-Menor",
+              "productoId": "JOGG7328",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG7328-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Joggers",
+              "inversion": 16000,
+              "ganancia": 14000
+            },
+            {
+              "id": "0153a546-23643",
+              "descripcion": "CAMP7947-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 55000,
+              "subtotal": 55000,
+              "tipoPrecio": "CAMP7947-Menor",
+              "productoId": "CAMP7947",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP7947-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 30500,
+              "ganancia": 24500
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 85000,
+          "subtotal": 85000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "0698ba01",
+          "fecha": "2026-08-21 13:05",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "520ffa5b",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-21",
+          "datosTransferenciaId": "MercadoPago - 09",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "nombreCuentaTransferencia": "Bryan Colque Fernandez",
+          "cbuTransferencia": "3100054928135814",
+          "colorTransferencia": "Coral",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "0698ba01-23644",
+              "descripcion": "PANT3122-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT3122-Menor",
+              "productoId": "PANT3122",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3122-Surtido-Surtido-CASTFER",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 18500,
+              "ganancia": 13500
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -292763,6 +292883,11 @@
       "fecha": "2026-08-20",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "520ffa5b": {
+      "fecha": "2026-08-21",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -293609,5 +293734,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1787300714125
+  "timestamp_ms": 1787315114703
 }
