@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:27:46.286Z",
+  "generated_at": "2026-08-26T14:42:45.144Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -21623,7 +21623,7 @@
       "sku": 1002,
       "model": "Multifilamento",
       "price": 1166.67,
-      "display_price": 1166.67,
+      "display_price": 2083.33,
       "minor_surcharge": 0,
       "category_id": "CanCan",
       "categoryName": "CanCan",
@@ -47539,6 +47539,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CANC7179": [
+      {
+        "variedad_id": "CANC7179-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 2083.33,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CANC7179-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 2500,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -50155,5 +50171,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1787754648248
+  "timestamp_ms": 1787755515213
 }
