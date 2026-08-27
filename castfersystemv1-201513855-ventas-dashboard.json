@@ -225016,6 +225016,150 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": true
+        },
+        {
+          "id": "bc4d4562",
+          "fecha": "2026-08-27 15:19",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 18000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "669203f4",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-27",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "bc4d4562-23888",
+              "descripcion": "MUSC4466-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 18000,
+              "subtotal": 18000,
+              "tipoPrecio": "MUSC4466-Menor",
+              "productoId": "MUSC4466",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "MUSC4466-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 18000,
+          "subtotal": 18000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "17245f8a",
+          "fecha": "2026-08-27 15:20",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 18000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "669203f4",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-27",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "17245f8a-23889",
+              "descripcion": "REME4798-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 18000,
+              "subtotal": 18000,
+              "tipoPrecio": "REME4798-Menor",
+              "productoId": "REME4798",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "REME4798-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 18000,
+          "subtotal": 18000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "0ea5707e",
+          "fecha": "2026-08-27 15:47",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 88000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "669203f4",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-27",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "0ea5707e-23890",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 28000,
+              "subtotal": 28000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "0ea5707e-23891",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "0ea5707e-23892",
+              "descripcion": "CHAL4112-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 35000,
+              "subtotal": 35000,
+              "tipoPrecio": "CHAL4112-Menor",
+              "productoId": "CHAL4112",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CHAL4112-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 88000,
+          "subtotal": 88000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -227605,5 +227749,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1787840710518
+  "timestamp_ms": 1787844318526
 }
