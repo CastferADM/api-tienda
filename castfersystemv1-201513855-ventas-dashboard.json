@@ -220601,6 +220601,75 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "80703f2e": [
+        {
+          "id": "c2f9c39d",
+          "fecha": "2026-08-28 12:40",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 156000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "80703f2e",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-28",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "c2f9c39d-23902",
+              "descripcion": "PANT7942-Surtido-Surtido-CASTFER",
+              "cantidad": 6,
+              "precioUnitario": 26000,
+              "subtotal": 156000,
+              "tipoPrecio": "PANT7942-Docena",
+              "productoId": "PANT7942",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT7942-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 156000,
+          "subtotal": 156000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "3a1a4252",
+          "fecha": "2026-08-28 13:05",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 45000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "80703f2e",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-28",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [],
+          "pagoEfectivo": 0,
+          "montoProductos": 45000,
+          "subtotal": 45000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -222415,6 +222484,11 @@
       "fecha": "2026-08-27",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "80703f2e": {
+      "fecha": "2026-08-28",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -223189,5 +223263,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1787901912236
+  "timestamp_ms": 1787919923296
 }
