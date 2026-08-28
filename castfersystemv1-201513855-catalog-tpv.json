@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T12:42:48.646Z",
+  "generated_at": "2026-08-28T12:57:45.227Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -50061,6 +50061,10 @@
     {
       "id": "60b6b42d",
       "name": "yanet"
+    },
+    {
+      "id": "ce5760af",
+      "name": "Vanesa"
     }
   ],
   "paymentMethods": [
@@ -50171,5 +50175,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1787921073741
+  "timestamp_ms": 1787922004338
 }
