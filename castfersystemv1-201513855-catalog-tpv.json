@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:27:44.791Z",
+  "generated_at": "2026-08-31T19:42:49.883Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -6023,7 +6023,7 @@
       "sku": 10975,
       "model": "Cuero SLEDG HAMER",
       "price": 32700,
-      "display_price": 50000,
+      "display_price": 40000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -40466,14 +40466,14 @@
       {
         "variedad_id": "CAMP6595-Combo",
         "nombre": "Combo",
-        "precio_unitario": 50000,
+        "precio_unitario": 40000,
         "cantidad_minima": 1,
         "visible": false
       },
       {
         "variedad_id": "CAMP6595-Docena",
         "nombre": "Docena",
-        "precio_unitario": 50000,
+        "precio_unitario": 45000,
         "cantidad_minima": 12,
         "visible": true
       },
@@ -50175,5 +50175,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788204580904
+  "timestamp_ms": 1788205493950
 }
