@@ -220825,6 +220825,164 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "e583d2e7": [
+        {
+          "id": "01b72077",
+          "fecha": "2026-08-31 12:50",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 116000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "e583d2e7",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-31",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "01b72077-24025",
+              "descripcion": "PANT3690-Surtido-Surtido-CASTFER",
+              "cantidad": 3,
+              "precioUnitario": 29000,
+              "subtotal": 87000,
+              "tipoPrecio": "PANT3690-Menor",
+              "productoId": "PANT3690",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3690-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "01b72077-24026",
+              "descripcion": "PANT3122-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 29000,
+              "subtotal": 29000,
+              "tipoPrecio": "PANT3122-Menor",
+              "productoId": "PANT3122",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3122-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 116000,
+          "subtotal": 116000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "386364a9",
+          "fecha": "2026-08-31 13:01",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 60000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "e583d2e7",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-31",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "386364a9-24027",
+              "descripcion": "PANT3122-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT3122-Menor",
+              "productoId": "PANT3122",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3122-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "386364a9-24028",
+              "descripcion": "SUET1224-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 28000,
+              "subtotal": 28000,
+              "tipoPrecio": "SUET1224-Menor",
+              "productoId": "SUET1224",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SUET1224-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 60000,
+          "subtotal": 60000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "d20c5bb6",
+          "fecha": "2026-08-31 13:29",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 62000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "e583d2e7",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-08-31",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "d20c5bb6-24029",
+              "descripcion": "JOGG9674-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "JOGG9674-Menor",
+              "productoId": "JOGG9674",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG9674-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "d20c5bb6-24030",
+              "descripcion": "JOGG7630-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "JOGG7630-Menor",
+              "productoId": "JOGG7630",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG7630-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 62000,
+          "subtotal": 62000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -222649,6 +222807,11 @@
       "fecha": "2026-08-29",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "e583d2e7": {
+      "fecha": "2026-08-31",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -223423,5 +223586,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1788161202762
+  "timestamp_ms": 1788182801748
 }
