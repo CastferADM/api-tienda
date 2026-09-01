@@ -220609,7 +220609,7 @@
           "id": "7873efc6",
           "fecha": "2026-09-01 15:45",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 216000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -220644,6 +220644,122 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "b4dafdae",
+          "fecha": "2026-09-01 16:21",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 15000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "25b7e828",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-01",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "b4dafdae-24108",
+              "descripcion": "PANT2493-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "PANT2493-Menor",
+              "productoId": "PANT2493",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2493-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 15000,
+          "subtotal": 15000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "cecdb924",
+          "fecha": "2026-09-01 16:58",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 580000,
+          "clienteId": "c2303cb1",
+          "nombreCliente": "Reynaldo Sebastián Flores",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "25b7e828",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-01",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "cecdb924-24109",
+              "descripcion": "REME6464-Surtido-Surtido-CASTFER",
+              "cantidad": 6,
+              "precioUnitario": 10000,
+              "subtotal": 60000,
+              "tipoPrecio": "REME6464-Docena",
+              "productoId": "REME6464",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "REME6464-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "cecdb924-24110",
+              "descripcion": "PANT2419-Surtido-Surtido-CASTFER",
+              "cantidad": 12,
+              "precioUnitario": 26000,
+              "subtotal": 312000,
+              "tipoPrecio": "PANT2419-Docena",
+              "productoId": "PANT2419",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2419-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "cecdb924-24111",
+              "descripcion": "PANT2863-Surtido-Surtido-CASTFER",
+              "cantidad": 6,
+              "precioUnitario": 26000,
+              "subtotal": 156000,
+              "tipoPrecio": "PANT2863-Docena",
+              "productoId": "PANT2863",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2863-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "cecdb924-24112",
+              "descripcion": "PANT2514-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 26000,
+              "subtotal": 52000,
+              "tipoPrecio": "PANT2514-Docena",
+              "productoId": "PANT2514",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2514-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 580000,
+          "subtotal": 580000,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true
         }
       ]
     },
@@ -223253,5 +223369,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1788276456859
+  "timestamp_ms": 1788279966859
 }
