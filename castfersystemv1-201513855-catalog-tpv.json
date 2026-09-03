@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:57:46.672Z",
+  "generated_at": "2026-09-03T19:12:45.248Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -33772,14 +33772,14 @@
         {
           "color": "Surtido",
           "size": "Surtido",
-          "store_id": "JM MAYORISTA",
-          "variation_id": "PANT6103-Surtido-Surtido-JM MAYORISTA"
+          "store_id": "CASTFER",
+          "variation_id": "PANT6103-Surtido-Surtido-CASTFER"
         },
         {
           "color": "Surtido",
           "size": "Surtido",
-          "store_id": "CASTFER",
-          "variation_id": "PANT6103-Surtido-Surtido-CASTFER"
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT6103-Surtido-Surtido-JM MAYORISTA"
         },
         {
           "color": "Surtido",
@@ -37266,6 +37266,40 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "PANT2493-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP6510",
+      "sku": "BP10581Q",
+      "model": "Overcize",
+      "price": 34000,
+      "display_price": 46000,
+      "minor_surcharge": 0,
+      "category_id": "CAMPERA",
+      "categoryName": "CAMPERA",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "HOMBRE",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Ecocuero",
+      "sizes": "Surtido,M,L,XL,2XL",
+      "talles": "Surtido,M,L,XL,2XL",
+      "TALLES": "Surtido,M,L,XL,2XL",
+      "ageGroup": "ADULTOS",
+      "grupo_edad": "ADULTOS",
+      "GRUPO_EDAD": "ADULTOS",
+      "image": "https://drive.google.com/thumbnail?id=1RvFIboBUh8s23AQM3TDodaWJGNw2bzCT&sz=s600-rw",
+      "carpeta_id": "1TVPTGM0cjUXIHh2enSkOYxuK25FgEDqa",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP6510-Surtido-Surtido-CASTFER"
         }
       ],
       "fecha_creacion": ""
@@ -47555,6 +47589,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP6510": [
+      {
+        "variedad_id": "CAMP6510-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 46000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP6510-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 46000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP6510-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -50187,5 +50244,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788461996662
+  "timestamp_ms": 1788462869447
 }
