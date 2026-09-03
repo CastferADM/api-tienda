@@ -213919,7 +213919,7 @@
           "id": "319f6ccb",
           "fecha": "2026-09-02 19:54",
           "origen": "Pedido Local",
-          "estado": "ENTREGADO",
+          "estado": "CANCELADO",
           "total": 30000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -214011,7 +214011,7 @@
           "id": "34bf1563",
           "fecha": "2026-09-02 20:33",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 85000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -223772,5 +223772,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1788380753653
+  "timestamp_ms": 1788395148115
 }
