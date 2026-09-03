@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:57:49.630Z",
+  "generated_at": "2026-09-03T18:57:46.672Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37332,8 +37332,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1520",
-    "DOLAR_BLUE_COMPRA": "1540",
+    "DOLAR_BLUE_VENTA": "1525",
+    "DOLAR_BLUE_COMPRA": "1545",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -50073,6 +50073,10 @@
     {
       "id": "46ca3704",
       "name": "BUBA"
+    },
+    {
+      "id": "469d7398",
+      "name": "Anabella"
     }
   ],
   "paymentMethods": [
@@ -50183,5 +50187,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788443983509
+  "timestamp_ms": 1788461996662
 }
