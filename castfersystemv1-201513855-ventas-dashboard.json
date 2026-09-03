@@ -218891,6 +218891,48 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": true
         }
+      ],
+      "6567aa42": [
+        {
+          "id": "7fd15fe2",
+          "fecha": "2026-09-03 14:05",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "6567aa42",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-03",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "7fd15fe2-24189",
+              "descripcion": "PANT3348-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT3348-Menor",
+              "productoId": "PANT3348",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3348-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -220730,6 +220772,11 @@
       "fecha": "2026-09-01",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "6567aa42": {
+      "fecha": "2026-09-03",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -221504,5 +221551,5 @@
     "JOGG7630": "https://drive.google.com/thumbnail?id=1pIf0L4jSdM6anlBOBB3KntXBXkW1u_bG&sz=s600-rw",
     "REME4744": "https://drive.google.com/thumbnail?id=1enMjOWnCPeMMl2012p98vv8TgZXqWy-i&sz=s600-rw"
   },
-  "timestamp_ms": 1788420331570
+  "timestamp_ms": 1788441963973
 }
