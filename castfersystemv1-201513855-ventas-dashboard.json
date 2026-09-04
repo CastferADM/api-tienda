@@ -214530,6 +214530,46 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "7aa56623",
+          "fecha": "2026-09-04 14:28",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 60000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "2b0896fc",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-04",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "7aa56623-24234",
+              "descripcion": "BERM2903-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 30000,
+              "subtotal": 60000,
+              "tipoPrecio": "BERM2903-Menor",
+              "productoId": "BERM2903",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BERM2903-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 60000,
+          "subtotal": 60000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -217155,5 +217195,5 @@
     "PANT4318": "https://drive.google.com/thumbnail?id=1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0&sz=s600-rw",
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw"
   },
-  "timestamp_ms": 1788528327633
+  "timestamp_ms": 1788531887109
 }
