@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:57:45.672Z",
+  "generated_at": "2026-09-04T14:12:44.564Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37313,7 +37313,7 @@
       "sku": "AP516817",
       "model": "Cuero classic colores",
       "price": 30800,
-      "display_price": 46200,
+      "display_price": 40000,
       "minor_surcharge": 0,
       "category_id": "Campera",
       "categoryName": "Campera",
@@ -37344,6 +37344,46 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "CAMP5019-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG2672",
+      "sku": "BP6778B",
+      "model": "Cargo con cierre Bulldog",
+      "price": 17500,
+      "display_price": 26000,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Gabardina",
+      "sizes": "Surtido,38,40,42,44",
+      "talles": "Surtido,38,40,42,44",
+      "TALLES": "Surtido,38,40,42,44",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1N-PmSwLbE5Xw0oNPZZ2CmABP4VERRV-L",
+      "woo_id": 40690,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "JOGG2672-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "JOGG2672-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -47661,35 +47701,30 @@
       {
         "variedad_id": "CAMP5019-Docena",
         "nombre": "Docena",
-        "precio_unitario": 46200,
+        "precio_unitario": 40000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP5019-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 46200,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP5019-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 46200,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP5019-Combo",
-        "nombre": "Combo",
-        "precio_unitario": 46200,
-        "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "CAMP5019-Menor",
         "nombre": "Menor",
-        "precio_unitario": 61600,
+        "precio_unitario": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "JOGG2672": [
+      {
+        "variedad_id": "JOGG2672-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG2672-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -50325,5 +50360,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788530361007
+  "timestamp_ms": 1788531254108
 }
