@@ -133496,7 +133496,7 @@
           "id": "e72886f8",
           "fecha": "2026-07-17 14:09",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "PAGADO",
           "total": 4328000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -215358,6 +215358,98 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "72124524",
+          "fecha": "2026-09-04 19:35",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "2b0896fc",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-04",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "72124524-24262",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "a6724683",
+          "fecha": "2026-09-04 19:59",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 28000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "2b0896fc",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-04",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "a6724683-24263",
+              "descripcion": "BOXE2830-Surtido-Surtido-CASTFER",
+              "cantidad": 3,
+              "precioUnitario": 7000,
+              "subtotal": 21000,
+              "tipoPrecio": "BOXE2830-Pack x3",
+              "productoId": "BOXE2830",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BOXE2830-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "a6724683-24264",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 7000,
+              "subtotal": 7000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 28000,
+          "subtotal": 28000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -217983,5 +218075,5 @@
     "PANT4318": "https://drive.google.com/thumbnail?id=1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0&sz=s600-rw",
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw"
   },
-  "timestamp_ms": 1788546329357
+  "timestamp_ms": 1788549909768
 }
