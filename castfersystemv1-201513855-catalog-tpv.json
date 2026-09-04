@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:42:46.409Z",
+  "generated_at": "2026-09-04T13:57:45.672Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -228,6 +228,10 @@
     "Gris Humo": {
       "hex": "6E8691",
       "textEdge": "Black"
+    },
+    "Choco": {
+      "hex": "3A2620",
+      "textEdge": "White"
     }
   },
   "categories": [
@@ -37303,6 +37307,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP5019",
+      "sku": "AP516817",
+      "model": "Cuero classic colores",
+      "price": 30800,
+      "display_price": 46200,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Eco Cuero",
+      "sizes": "Surtido,S,M,L,XL,2XL",
+      "talles": "Surtido,S,M,L,XL,2XL",
+      "TALLES": "Surtido,S,M,L,XL,2XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1SWZLftM8JOMRH9cjaahKlL0c6QFxh_QD",
+      "woo_id": 40684,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP5019-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP5019-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -47612,6 +47656,43 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP5019": [
+      {
+        "variedad_id": "CAMP5019-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 46200,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP5019-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 46200,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP5019-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 46200,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP5019-Combo",
+        "nombre": "Combo",
+        "precio_unitario": 46200,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP5019-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 61600,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -50244,5 +50325,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788529487851
+  "timestamp_ms": 1788530361007
 }
