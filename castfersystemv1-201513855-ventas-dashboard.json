@@ -214393,6 +214393,48 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "9910b875": [
+        {
+          "id": "2c5d422e",
+          "fecha": "2026-09-07 12:33",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 864000,
+          "clienteId": "768ba047",
+          "nombreCliente": "rosa del pilar cortez",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "9910b875",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-07",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "2c5d422e-24361",
+              "descripcion": "SACO5319-Surtido-Surtido-CASTFER",
+              "cantidad": 18,
+              "precioUnitario": 48000,
+              "subtotal": 864000,
+              "tipoPrecio": "SACO5319-Docena",
+              "productoId": "SACO5319",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SACO5319-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 864000,
+          "subtotal": 864000,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -216247,6 +216289,11 @@
       "fecha": "2026-09-05",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "9910b875": {
+      "fecha": "2026-09-07",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -217022,5 +217069,5 @@
     "PANT4318": "https://drive.google.com/thumbnail?id=1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0&sz=s600-rw",
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw"
   },
-  "timestamp_ms": 1788765900819
+  "timestamp_ms": 1788783904199
 }
