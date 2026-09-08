@@ -214768,6 +214768,110 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "eb552e42",
+          "fecha": "2026-09-08 19:10",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 60000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "97b6abe1",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "eb552e42-24432",
+              "descripcion": "CAMP4904-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 60000,
+              "subtotal": 60000,
+              "tipoPrecio": "CAMP4904-Menor",
+              "productoId": "CAMP4904",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP4904-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 60000,
+          "subtotal": 60000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "8ac27d28",
+          "fecha": "2026-09-08 19:52",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 128000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "97b6abe1",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "8ac27d28-24433",
+              "descripcion": "PANT4185-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT4185-Menor",
+              "productoId": "PANT4185",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4185-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "8ac27d28-24434",
+              "descripcion": "REME4798-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 18000,
+              "subtotal": 36000,
+              "tipoPrecio": "REME4798-Menor",
+              "productoId": "REME4798",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "REME4798-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "8ac27d28-24435",
+              "descripcion": "CAMP1830-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 60000,
+              "subtotal": 60000,
+              "tipoPrecio": "CAMP1830-Menor",
+              "productoId": "CAMP1830",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP1830-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 128000,
+          "subtotal": 128000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -217408,5 +217512,5 @@
     "PANT4318": "https://drive.google.com/thumbnail?id=1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0&sz=s600-rw",
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw"
   },
-  "timestamp_ms": 1788891891439
+  "timestamp_ms": 1788895597106
 }
