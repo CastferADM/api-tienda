@@ -214872,6 +214872,46 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "6895009d",
+          "fecha": "2026-09-08 20:19",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 64000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "97b6abe1",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "6895009d-24436",
+              "descripcion": "PANT9505-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 32000,
+              "subtotal": 64000,
+              "tipoPrecio": "PANT9505-Menor",
+              "productoId": "PANT9505",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT9505-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 64000,
+          "subtotal": 64000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -217512,5 +217552,5 @@
     "PANT4318": "https://drive.google.com/thumbnail?id=1vaZTGZL4SXU7-6c1opXMJPJ-T8fOoNo0&sz=s600-rw",
     "BERM3109": "https://drive.google.com/thumbnail?id=1-XED97TjVbuSzumog23Hk3BHeYvhPECE&sz=s600-rw"
   },
-  "timestamp_ms": 1788895597106
+  "timestamp_ms": 1788899194217
 }
