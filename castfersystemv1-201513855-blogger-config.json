@@ -1272,7 +1272,7 @@
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
-                  "valor": "Overcize"
+                  "valor": "Oversize"
                 },
                 "marca": {
                   "label": "Marca",
@@ -1327,12 +1327,12 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "03-09-2026"
+                  "valor": "08-09-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP6510%0A%F0%9F%94%B9%20Modelo%3A%20Overcize%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20HOMBRE%0A%F0%9F%94%B9%20Edad%3A%20ADULTOS%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP6510%0A%F0%9F%94%B9%20Modelo%3A%20Oversize%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20HOMBRE%0A%F0%9F%94%B9%20Edad%3A%20ADULTOS%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL"
                 }
               },
               "guia_talles_img": "",
@@ -1346,7 +1346,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-03T19:20:37.827Z"
+                  "fecha_carga": "2026-09-09T02:41:27.856Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=147u7JoBTqHgypoMcEZiNtrUyu9KDY7YO&sz=s1600-rw",
@@ -1357,7 +1357,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-09-03T19:20:37.827Z"
+                  "fecha_carga": "2026-09-09T02:41:27.856Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1rIAImVqreRn06m1dMLLGaovw2vmHyTv0&sz=s1600-rw",
@@ -1368,7 +1368,51 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-09-03T19:20:37.827Z"
+                  "fecha_carga": "2026-09-09T02:41:27.856Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1vdeSC67b3HTGL_qaI0ngq_NBBfZAd8Pr&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1vdeSC67b3HTGL_qaI0ngq_NBBfZAd8Pr&sz=s600-rw",
+                  "archivo_id": "1vdeSC67b3HTGL_qaI0ngq_NBBfZAd8Pr",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-09-09T02:41:27.856Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1D4wzCrS5FJau728jA6KvgVSWeZHd-I2r&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1D4wzCrS5FJau728jA6KvgVSWeZHd-I2r&sz=s600-rw",
+                  "archivo_id": "1D4wzCrS5FJau728jA6KvgVSWeZHd-I2r",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-09-09T02:41:27.856Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1QnUWlJP-3AMl83PW8ColXCuFTzSfqG_l&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1QnUWlJP-3AMl83PW8ColXCuFTzSfqG_l&sz=s600-rw",
+                  "archivo_id": "1QnUWlJP-3AMl83PW8ColXCuFTzSfqG_l",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-09-09T02:41:27.856Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1XCDK2_IfZkP07gS9uVVyI8mKQ3Kjk7Lu&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1XCDK2_IfZkP07gS9uVVyI8mKQ3Kjk7Lu&sz=s600-rw",
+                  "archivo_id": "1XCDK2_IfZkP07gS9uVVyI8mKQ3Kjk7Lu",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 7,
+                  "fecha_carga": "2026-09-09T02:41:27.856Z"
                 }
               ],
               "variedad": [
@@ -17794,7 +17838,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "04-09-2026"
+                  "valor": "08-09-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -17805,9 +17849,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1G6VNHyAgLWM-3PquF4Ank1xzNtCBOiB5&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1G6VNHyAgLWM-3PquF4Ank1xzNtCBOiB5&sz=s600-rw",
+                  "archivo_id": "1G6VNHyAgLWM-3PquF4Ank1xzNtCBOiB5",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-09T02:38:08.537Z"
                 }
               ],
               "variedad": [
@@ -82426,5 +82476,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1788920999304
+  "timestamp_ms": 1788921923322
 }
