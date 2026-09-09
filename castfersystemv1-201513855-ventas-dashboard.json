@@ -212717,6 +212717,140 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "5eb2f090": [
+        {
+          "id": "077fe056",
+          "fecha": "2026-09-09 12:49",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 150000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "5eb2f090",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-09",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "077fe056-24437",
+              "descripcion": "PANT3690-Surtido-Surtido-CASTFER",
+              "cantidad": 6,
+              "precioUnitario": 25000,
+              "subtotal": 150000,
+              "tipoPrecio": "PANT3690-Docena",
+              "productoId": "PANT3690",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3690-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 150000,
+          "subtotal": 150000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "f437684b",
+          "fecha": "2026-09-09 13:00",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 45000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "5eb2f090",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-09",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "f437684b-24438",
+              "descripcion": "CONJ7259-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 45000,
+              "subtotal": 45000,
+              "tipoPrecio": "CONJ7259-Menor",
+              "productoId": "CONJ7259",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CONJ7259-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 45000,
+          "subtotal": 45000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "975ae74b",
+          "fecha": "2026-09-09 12:58",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 178000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "5eb2f090",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-09",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "975ae74b-24439",
+              "descripcion": "CAMP7947-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 44000,
+              "subtotal": 88000,
+              "tipoPrecio": "CAMP7947-Docena",
+              "productoId": "CAMP7947",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP7947-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "975ae74b-24440",
+              "descripcion": "CAMP1830-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 45000,
+              "subtotal": 90000,
+              "tipoPrecio": "CAMP1830-Docena",
+              "productoId": "CAMP1830",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP1830-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 178000,
+          "subtotal": 178000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -214581,6 +214715,11 @@
       "fecha": "2026-09-08",
       "tienda": "CASTFER",
       "asesor": "BRYAN COLQUE"
+    },
+    "5eb2f090": {
+      "fecha": "2026-09-09",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE"
     }
   },
   "filterOptions": {
@@ -215358,5 +215497,5 @@
     "CAMP5019": "https://drive.google.com/thumbnail?id=1G6VNHyAgLWM-3PquF4Ank1xzNtCBOiB5&sz=s600-rw",
     "JOGG2672": "https://drive.google.com/thumbnail?id=13iqK3encHfTB3hvCnUtAwUXcObe-rre9&sz=s600-rw"
   },
-  "timestamp_ms": 1788938908441
+  "timestamp_ms": 1788956741141
 }
