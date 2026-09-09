@@ -18299,6 +18299,17 @@
               "guia_talles_img": "",
               "imagen": [
                 {
+                  "url": "https://drive.google.com/thumbnail?id=1ex04kzYN5DPZaEis-DSdBVFvV2e4DqHF&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ex04kzYN5DPZaEis-DSdBVFvV2e4DqHF&sz=s600",
+                  "archivo_id": "1ex04kzYN5DPZaEis-DSdBVFvV2e4DqHF",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-09-09T07:00:00.000Z"
+                },
+                {
                   "url": "https://drive.google.com/thumbnail?id=1ssbf8imN0AmAi2JozpRGM9dHqNm-IlYM&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1ssbf8imN0AmAi2JozpRGM9dHqNm-IlYM&sz=s600",
                   "archivo_id": "1ssbf8imN0AmAi2JozpRGM9dHqNm-IlYM",
@@ -82425,5 +82436,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1788961551427
+  "timestamp_ms": 1788962419884
 }
