@@ -213774,6 +213774,150 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "2a4d2d88",
+          "fecha": "2026-09-09 18:07",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 35000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "5eb2f090",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-09",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "2a4d2d88-24476",
+              "descripcion": "PANT7942-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 35000,
+              "subtotal": 35000,
+              "tipoPrecio": "PANT7942-Menor",
+              "productoId": "PANT7942",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT7942-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 35000,
+          "subtotal": 35000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "3c620a25",
+          "fecha": "2026-09-09 18:53",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 133000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "5eb2f090",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-09",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "3c620a25-24477",
+              "descripcion": "JOGG4674-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "JOGG4674-Menor",
+              "productoId": "JOGG4674",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG4674-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "3c620a25-24478",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 36000,
+              "subtotal": 36000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "3c620a25-24479",
+              "descripcion": "CONJ6934-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 65000,
+              "subtotal": 65000,
+              "tipoPrecio": "CONJ6934-Menor",
+              "productoId": "CONJ6934",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CONJ6934-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 133000,
+          "subtotal": 133000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "e53ac8b3",
+          "fecha": "2026-09-09 19:04",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "5eb2f090",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-09",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "e53ac8b3-24480",
+              "descripcion": "JOGG4674-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "JOGG4674-Menor",
+              "productoId": "JOGG4674",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG4674-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -216421,5 +216565,5 @@
     "CAMP5019": "https://drive.google.com/thumbnail?id=1G6VNHyAgLWM-3PquF4Ank1xzNtCBOiB5&sz=s600-rw",
     "JOGG2672": "https://drive.google.com/thumbnail?id=13iqK3encHfTB3hvCnUtAwUXcObe-rre9&sz=s600-rw"
   },
-  "timestamp_ms": 1788974864375
+  "timestamp_ms": 1788978298196
 }
