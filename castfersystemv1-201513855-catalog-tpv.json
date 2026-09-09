@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:42:48.198Z",
+  "generated_at": "2026-09-09T12:57:46.345Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -13098,46 +13098,6 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "PANT4858-Surtido-Surtido-JM MAYORISTA"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4942",
-      "sku": "",
-      "model": "SATRERO DE VESTIR 2.0",
-      "price": 17000,
-      "display_price": 25500,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon",
-      "categoryName": "Pantalon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Hombre",
-      "brand": "R-DRICK",
-      "style": "Liso",
-      "material": "Gabardina",
-      "sizes": "Surtido,40,41,42,43,44",
-      "talles": "Surtido,40,41,42,43,44",
-      "TALLES": "Surtido,40,41,42,43,44",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
-      "image": "",
-      "carpeta_id": "1kqru9YdEgieAPF9VX68fxpSXiQXP4Ukg",
-      "woo_id": 34410,
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "CASTFER",
-          "variation_id": "PANT4942-Surtido-Surtido-CASTFER"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "JM MAYORISTA",
-          "variation_id": "PANT4942-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -36196,7 +36156,7 @@
     },
     {
       "id": "PANT2865",
-      "sku": "150118FH",
+      "sku": "15018FH",
       "model": "Trekking Pro Explorer Secado rapido",
       "price": 18000,
       "display_price": 26000,
@@ -37384,6 +37344,46 @@
           "size": "Surtido",
           "store_id": "JM MAYORISTA",
           "variation_id": "JOGG2672-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5317",
+      "sku": "LUC2-LUV",
+      "model": "VESTIR Corte recto 2.0",
+      "price": 24000,
+      "display_price": 30000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "R-DRICK",
+      "style": "Liso",
+      "material": "Gabardina",
+      "sizes": "Surtido,40,41,42,43,44,46,48,50,52",
+      "talles": "Surtido,40,41,42,43,44,46,48,50,52",
+      "TALLES": "Surtido,40,41,42,43,44,46,48,50,52",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "13WP22PWIphz-3EGom_o2snfzainAwVfA",
+      "woo_id": 40728,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT5317-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT5317-Surtido-Surtido-JM MAYORISTA"
         }
       ],
       "fecha_creacion": ""
@@ -44653,29 +44653,6 @@
         "visible": false
       }
     ],
-    "PANT4942": [
-      {
-        "variedad_id": "PANT4942-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25500,
-        "cantidad_minima": 5,
-        "visible": false
-      },
-      {
-        "variedad_id": "PANT4942-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 28000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4942-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 35000,
-        "cantidad_minima": 1,
-        "visible": false
-      }
-    ],
     "PANT5032": [
       {
         "variedad_id": "PANT5032-Docena",
@@ -47728,6 +47705,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT5317": [
+      {
+        "variedad_id": "PANT5317-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 30000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5317-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 40000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -50372,5 +50365,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788957901998
+  "timestamp_ms": 1788958763281
 }
