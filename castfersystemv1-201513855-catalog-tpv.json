@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:27:52.389Z",
+  "generated_at": "2026-09-09T12:42:48.198Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -44396,14 +44396,14 @@
         "nombre": "Docena",
         "precio_unitario": 25000,
         "cantidad_minima": 12,
-        "visible": true
+        "visible": false
       },
       {
         "variedad_id": "PANT2769-Menor",
         "nombre": "Menor",
         "precio_unitario": 35000,
         "cantidad_minima": 1,
-        "visible": true
+        "visible": false
       }
     ],
     "PANT2984": [
@@ -50372,5 +50372,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788957030628
+  "timestamp_ms": 1788957901998
 }
