@@ -651,6 +651,24 @@
       "moneda": "$",
       "costo_envio": 12000,
       "hora_entrega": "1899-12-30T23:00:00.000Z"
+    },
+    {
+      "codigo": "EXPRESO DE CUYO S.A",
+      "descripcion": "EXPRESO DE CUYO S.A",
+      "cuit": "",
+      "ubicacion": "",
+      "moneda": "$",
+      "costo_envio": 6000,
+      "hora_entrega": "1899-12-30T23:00:00.000Z"
+    },
+    {
+      "codigo": "expreso lujan de cuyo A",
+      "descripcion": "expreso lujan de cuyo A",
+      "cuit": "",
+      "ubicacion": "",
+      "moneda": "$",
+      "costo_envio": 6000,
+      "hora_entrega": "1899-12-30T23:00:00.000Z"
     }
   ],
   "pagina_carrusel": [
@@ -82416,5 +82434,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1788968687964
+  "timestamp_ms": 1788969593097
 }
