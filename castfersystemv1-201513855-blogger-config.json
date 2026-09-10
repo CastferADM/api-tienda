@@ -33956,7 +33956,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "17",
+                  "valor": "16",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -34039,7 +34039,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "17"
+                          "stock": "16"
                         }
                       ]
                     }
@@ -67909,7 +67909,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 8000,
+                  "precio": 8666.66,
                   "variedad": "Pack x3",
                   "minima": 3,
                   "sub_variedad": {
@@ -82445,5 +82445,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789062306057
+  "timestamp_ms": 1789063209353
 }
