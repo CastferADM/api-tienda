@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:57:45.001Z",
+  "generated_at": "2026-09-10T18:12:45.275Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -38575,7 +38575,7 @@
       {
         "variedad_id": "BOXE2093-Pack x3",
         "nombre": "Pack x3",
-        "precio_unitario": 7000,
+        "precio_unitario": 7666.67,
         "cantidad_minima": 3,
         "visible": true
       }
@@ -38591,7 +38591,7 @@
       {
         "variedad_id": "BOXE2499-Pack x3",
         "nombre": "Pack x3",
-        "precio_unitario": 8000,
+        "precio_unitario": 8666.67,
         "cantidad_minima": 3,
         "visible": true
       }
@@ -50369,5 +50369,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789063173938
+  "timestamp_ms": 1789064070597
 }
