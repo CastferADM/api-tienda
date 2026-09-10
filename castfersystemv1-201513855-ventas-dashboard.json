@@ -212616,6 +212616,126 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "5212da43",
+          "fecha": "2026-09-10 19:18",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "dafc8902",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-10",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "5212da43-24536",
+              "descripcion": "PANT2514-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT2514-Menor",
+              "productoId": "PANT2514",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2514-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "730906b9",
+          "fecha": "2026-09-10 19:42",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "dafc8902",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-10",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "730906b9-24537",
+              "descripcion": "JOGG7630-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "JOGG7630-Menor",
+              "productoId": "JOGG7630",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG7630-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "89f27c62",
+          "fecha": "2026-09-10 19:57",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 630000,
+          "clienteId": "d5529624",
+          "nombreCliente": "Noelia beterbide",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "dafc8902",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-10",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 6000,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "89f27c62-24538",
+              "descripcion": "JOGG7630-Surtido-Surtido-CASTFER",
+              "cantidad": 24,
+              "precioUnitario": 26000,
+              "subtotal": 624000,
+              "tipoPrecio": "JOGG7630-Docena",
+              "productoId": "JOGG7630",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG7630-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 624000,
+          "subtotal": 624000,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true
         }
       ],
       "3063959f": [
@@ -215339,5 +215459,5 @@
     "CAMP5019": "https://drive.google.com/thumbnail?id=1G6VNHyAgLWM-3PquF4Ank1xzNtCBOiB5&sz=s600-rw",
     "JOGG2672": "https://drive.google.com/thumbnail?id=13iqK3encHfTB3hvCnUtAwUXcObe-rre9&sz=s600-rw"
   },
-  "timestamp_ms": 1789064736738
+  "timestamp_ms": 1789068353409
 }
