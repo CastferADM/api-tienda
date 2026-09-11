@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:27:45.765Z",
+  "generated_at": "2026-09-11T17:42:45.690Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37387,6 +37387,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2128",
+      "sku": "15021H",
+      "model": "Cargo Secado Rapido Trekking 2 en 1",
+      "price": 18000,
+      "display_price": 26000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "RENDZON",
+      "style": "Liso",
+      "material": "Cire secado rapido",
+      "sizes": "Surtido,S,M,L,XL,38,40,42,44,46",
+      "talles": "Surtido,S,M,L,XL,38,40,42,44,46",
+      "TALLES": "Surtido,S,M,L,XL,38,40,42,44,46",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1JKF95bR_kLXJfnSWfYiRlUYHUMoRT3Z0",
+      "woo_id": 40777,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT2128-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT2128-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -47721,6 +47761,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT2128": [
+      {
+        "variedad_id": "PANT2128-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2128-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -50373,5 +50429,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789147770821
+  "timestamp_ms": 1789148673515
 }
