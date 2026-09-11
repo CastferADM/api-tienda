@@ -47545,10 +47545,43 @@
                   "archivo_id": "1Wtt05D_HXytyqNWAtishhsjjKZkzSTf2",
                   "portada": true,
                   "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
+                  "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-08-18T07:00:00.000Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1afSLEzWfm06iAK8YkH4DcoHwmtQ4tvRP&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1afSLEzWfm06iAK8YkH4DcoHwmtQ4tvRP&sz=s600-rw",
+                  "archivo_id": "1afSLEzWfm06iAK8YkH4DcoHwmtQ4tvRP",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-09-11T00:18:11.163Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1tW5e58GbBOe85R0WSthUCRKyW9kQFt8T&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1tW5e58GbBOe85R0WSthUCRKyW9kQFt8T&sz=s600-rw",
+                  "archivo_id": "1tW5e58GbBOe85R0WSthUCRKyW9kQFt8T",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-09-11T00:18:11.163Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1UyFxCJv8R20HvhJFgUEvHzCrEpu2kxB6&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1UyFxCJv8R20HvhJFgUEvHzCrEpu2kxB6&sz=s600-rw",
+                  "archivo_id": "1UyFxCJv8R20HvhJFgUEvHzCrEpu2kxB6",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-09-11T00:18:11.163Z"
                 }
               ],
               "variedad": [
@@ -82427,5 +82460,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789085697499
+  "timestamp_ms": 1789086571611
 }
