@@ -206381,7 +206381,7 @@
           "id": "8fd9504d",
           "fecha": "2026-09-10 20:52",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 24000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -206478,6 +206478,88 @@
           "pagoEfectivo": 0,
           "montoProductos": 468000,
           "subtotal": 468000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
+      ],
+      "23d7e1e2": [
+        {
+          "id": "8e1022fc",
+          "fecha": "2026-09-11 12:32",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 150000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "23d7e1e2",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-11",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "8e1022fc-24542",
+              "descripcion": "CAMP1705-Surtido-Surtido-CASTFER",
+              "cantidad": 6,
+              "precioUnitario": 25000,
+              "subtotal": 150000,
+              "tipoPrecio": "CAMP1705-Docena",
+              "productoId": "CAMP1705",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP1705-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 150000,
+          "subtotal": 150000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "8e9cda6e",
+          "fecha": "2026-09-11 13:05",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 25000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "23d7e1e2",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-11",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "8e9cda6e-24543",
+              "descripcion": "CAMP3218-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "CAMP3218-Menor",
+              "productoId": "CAMP3218",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP3218-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 25000,
+          "subtotal": 25000,
           "tipoVenta": "DIRECTA",
           "compraMinima": 4,
           "pagoMixto": false,
@@ -209314,6 +209396,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "23d7e1e2": {
+      "cajaId": "23d7e1e2",
+      "fecha": "2026-09-11",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -211502,6 +211593,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "23d7e1e2",
+        "fecha": "2026-09-11",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -212236,5 +212336,5 @@
     "CAMP5019": "https://drive.google.com/thumbnail?id=1G6VNHyAgLWM-3PquF4Ank1xzNtCBOiB5&sz=s600-rw",
     "JOGG2672": "https://drive.google.com/thumbnail?id=13iqK3encHfTB3hvCnUtAwUXcObe-rre9&sz=s600-rw"
   },
-  "timestamp_ms": 1789111550640
+  "timestamp_ms": 1789129513382
 }
