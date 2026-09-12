@@ -46639,7 +46639,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "346",
+                  "valor": "344",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -46777,7 +46777,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "346"
+                          "stock": "344"
                         }
                       ]
                     }
@@ -59607,7 +59607,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "116",
+                  "valor": "114",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -59668,7 +59668,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "116"
+                          "stock": "114"
                         }
                       ]
                     }
@@ -82938,5 +82938,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789220692985
+  "timestamp_ms": 1789221621421
 }
