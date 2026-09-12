@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:12:46.628Z",
+  "generated_at": "2026-09-12T13:27:45.663Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37427,6 +37427,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT9923",
+      "sku": "JP3070AZ",
+      "model": "Cargo recto Nevado",
+      "price": 17500,
+      "display_price": 26000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Nevado",
+      "material": "Gabardina",
+      "sizes": "Surtido,40,42,44,46,48,50",
+      "talles": "Surtido,40,42,44,46,48,50",
+      "TALLES": "Surtido,40,42,44,46,48,50",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1HenQXDd62LCo6doGHUR8z3RUUZsphdgz&sz=s600-rw",
+      "carpeta_id": "1-4YfQvdugyy76KfC9w1-imRCgoU8YWFi",
+      "woo_id": 40787,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "PANT9923-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "PANT9923-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -47777,6 +47817,36 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT9923": [
+      {
+        "variedad_id": "PANT9923-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9923-Media-Docena",
+        "nombre": "Media-Docena",
+        "precio_unitario": 26000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9923-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 26250,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9923-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -50429,5 +50499,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789218901736
+  "timestamp_ms": 1789219787275
 }
