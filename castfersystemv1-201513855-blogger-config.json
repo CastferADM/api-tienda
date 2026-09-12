@@ -1359,10 +1359,10 @@
                   "url": "https://drive.google.com/thumbnail?id=1RvFIboBUh8s23AQM3TDodaWJGNw2bzCT&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1RvFIboBUh8s23AQM3TDodaWJGNw2bzCT&sz=s600-rw",
                   "archivo_id": "1RvFIboBUh8s23AQM3TDodaWJGNw2bzCT",
-                  "portada": true,
+                  "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "PORTADA",
+                  "rol": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-09-10T23:44:25.775Z"
                 },
@@ -1370,10 +1370,10 @@
                   "url": "https://drive.google.com/thumbnail?id=147u7JoBTqHgypoMcEZiNtrUyu9KDY7YO&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=147u7JoBTqHgypoMcEZiNtrUyu9KDY7YO&sz=s600-rw",
                   "archivo_id": "147u7JoBTqHgypoMcEZiNtrUyu9KDY7YO",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "imagen",
                   "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-09-10T23:44:25.775Z"
                 },
@@ -53031,7 +53031,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "32",
+                  "valor": "31",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -53103,7 +53103,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "32"
+                          "stock": "31"
                         }
                       ]
                     }
@@ -53120,7 +53120,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "32"
+                          "stock": "31"
                         }
                       ]
                     }
@@ -82923,5 +82923,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789227020683
+  "timestamp_ms": 1789227890458
 }
