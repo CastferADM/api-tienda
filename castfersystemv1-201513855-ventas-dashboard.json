@@ -201543,7 +201543,7 @@
           "id": "d6b89839",
           "fecha": "2026-09-07 16:20",
           "origen": "Pedido Local",
-          "estado": "PAGADO",
+          "estado": "ENTREGADO",
           "total": 780000,
           "clienteId": "CLI288",
           "nombreCliente": "Gustavo Luis Echegaray",
@@ -204435,7 +204435,7 @@
           "id": "3ac159d9",
           "fecha": "2026-09-09 19:26",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 650000,
           "clienteId": "744fbf70",
           "nombreCliente": "Troncoso Romina",
@@ -205769,7 +205769,7 @@
           "id": "c2c0b6cc",
           "fecha": "2026-09-10 17:26",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 720000,
           "clienteId": "CLI190",
           "nombreCliente": "Federico Alejandro Zacarias",
@@ -205929,7 +205929,7 @@
           "id": "b0bfdbad",
           "fecha": "2026-09-10 18:13",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 390000,
           "clienteId": "874a74af",
           "nombreCliente": "Silvia alejandra gaitan",
@@ -206261,7 +206261,7 @@
           "id": "89f27c62",
           "fecha": "2026-09-10 19:57",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 630000,
           "clienteId": "d5529624",
           "nombreCliente": "Noelia beterbide",
@@ -207109,7 +207109,7 @@
           "id": "ed468873",
           "fecha": "2026-09-11 15:37",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 156000,
           "clienteId": "469d7398",
           "nombreCliente": "Anabella",
@@ -208511,6 +208511,108 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 4,
           "pagoMixto": true,
+          "desactivarRecargoTransferencia": false
+        }
+      ],
+      "200e38bf": [
+        {
+          "id": "7fe1063b",
+          "fecha": "2026-09-12 12:45",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 126000.01,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "200e38bf",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-12",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "7fe1063b-24613",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 20000,
+              "subtotal": 20000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "7fe1063b-24614",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 5000,
+              "subtotal": 10000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "7fe1063b-24615",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 8000,
+              "subtotal": 16000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "7fe1063b-24616",
+              "descripcion": "JOGG2672-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "JOGG2672-Menor",
+              "productoId": "JOGG2672",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG2672-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "7fe1063b-24617",
+              "descripcion": "CAMI3003-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "CAMI3003-Menor",
+              "productoId": "CAMI3003",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMI3003-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "7fe1063b-24618",
+              "descripcion": "BOXE2093-Surtido-Surtido-CASTFER",
+              "cantidad": 3,
+              "precioUnitario": 7666.67,
+              "subtotal": 23000.01,
+              "tipoPrecio": "BOXE2093-Pack x3",
+              "productoId": "BOXE2093",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BOXE2093-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 126000.01,
+          "subtotal": 126000.01,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
       ]
@@ -211353,6 +211455,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "200e38bf": {
+      "cajaId": "200e38bf",
+      "fecha": "2026-09-12",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -213550,6 +213661,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "200e38bf",
+        "fecha": "2026-09-12",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -214285,5 +214405,5 @@
     "JOGG2672": "https://drive.google.com/thumbnail?id=13iqK3encHfTB3hvCnUtAwUXcObe-rre9&sz=s600-rw",
     "PANT2128": "https://drive.google.com/thumbnail?id=1eahOAA5oNelg6bIsJvp3hbL_tp3L7LZD&sz=s600-rw"
   },
-  "timestamp_ms": 1789198043333
+  "timestamp_ms": 1789215921714
 }
