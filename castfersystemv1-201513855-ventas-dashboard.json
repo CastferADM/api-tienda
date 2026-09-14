@@ -2553,7 +2553,7 @@
           "id": "573b78d3",
           "fecha": "2026-09-14 18:06",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 66000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -2584,6 +2584,46 @@
           "pagoEfectivo": 0,
           "montoProductos": 66000,
           "subtotal": 66000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "183f00ad",
+          "fecha": "2026-09-14 18:29",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 105000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "90666281",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-14",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "183f00ad-24731",
+              "descripcion": "JOGG8912-Surtido-Surtido-CASTFER",
+              "cantidad": 3,
+              "precioUnitario": 35000,
+              "subtotal": 105000,
+              "tipoPrecio": "JOGG8912-Menor",
+              "productoId": "JOGG8912",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG8912-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 105000,
+          "subtotal": 105000,
           "tipoVenta": "DIRECTA",
           "compraMinima": 4,
           "pagoMixto": false,
@@ -210646,5 +210686,5 @@
     "PANT2128": "https://drive.google.com/thumbnail?id=1eahOAA5oNelg6bIsJvp3hbL_tp3L7LZD&sz=s600-rw",
     "PANT9923": "https://drive.google.com/thumbnail?id=1ah37alD8egXVgcEQeNA1Ef0YAvY2IsuZ&sz=s600-rw"
   },
-  "timestamp_ms": 1789406700278
+  "timestamp_ms": 1789410301503
 }
