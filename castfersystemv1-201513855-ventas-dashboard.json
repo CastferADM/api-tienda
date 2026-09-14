@@ -1748,6 +1748,72 @@
           "desactivarRecargoTransferencia": false
         }
       ],
+      "90666281": [
+        {
+          "id": "f6e488d2",
+          "fecha": "2026-09-14 13:03",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 119000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "90666281",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-14",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "f6e488d2-24703",
+              "descripcion": "PANT4771-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 30000,
+              "subtotal": 60000,
+              "tipoPrecio": "PANT4771-Menor",
+              "productoId": "PANT4771",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4771-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "f6e488d2-24704",
+              "descripcion": "PANT2128-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT2128-Menor",
+              "productoId": "PANT2128",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2128-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "f6e488d2-24705",
+              "descripcion": "CAMP3218-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 27000,
+              "subtotal": 27000,
+              "tipoPrecio": "CAMP3218-Menor",
+              "productoId": "CAMP3218",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP3218-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 119000,
+          "subtotal": 119000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
+      ],
       "93714328": [
         {
           "id": "1cb0be36",
@@ -204730,6 +204796,15 @@
       "horaFinalizada": "Sun D",
       "estado": "CERRADA"
     },
+    "90666281": {
+      "cajaId": "90666281",
+      "fecha": "2026-09-14",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
+    },
     "93714328": {
       "cajaId": "93714328",
       "fecha": "2025-12-13",
@@ -206926,6 +207001,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "CERRADA"
+      },
+      {
+        "cajaId": "90666281",
+        "fecha": "2026-09-14",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       },
       {
         "cajaId": "93714328",
@@ -209786,5 +209870,5 @@
     "PANT2128": "https://drive.google.com/thumbnail?id=1eahOAA5oNelg6bIsJvp3hbL_tp3L7LZD&sz=s600-rw",
     "PANT9923": "https://drive.google.com/thumbnail?id=1ah37alD8egXVgcEQeNA1Ef0YAvY2IsuZ&sz=s600-rw"
   },
-  "timestamp_ms": 1789370763417
+  "timestamp_ms": 1789388770094
 }
