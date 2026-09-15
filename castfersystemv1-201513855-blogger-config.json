@@ -27984,7 +27984,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-15T13:58:16.676Z"
+                  "fecha_carga": "2026-09-15T18:54:50.420Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1UJ8MZodCT-HN4p7h3iLC5K-Q3qiRWq5t&sz=s1600-rw",
@@ -27995,7 +27995,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-09-15T13:58:16.676Z"
+                  "fecha_carga": "2026-09-15T18:54:50.420Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1W50ekxf2zXLcOzzWP8ZrdVP0RfYOMpsJ&sz=s1600-rw",
@@ -28006,7 +28006,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-09-15T13:58:16.676Z"
+                  "fecha_carga": "2026-09-15T18:54:50.420Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1taG5uqLRYOtQsY85GVbAzNNNzegmkCHj&sz=s1600-rw",
@@ -28017,7 +28017,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-09-15T13:58:16.676Z"
+                  "fecha_carga": "2026-09-15T18:54:50.420Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1RaTNVG2iqfT9D8PD79Lq2P1yE1b10Pah&sz=s1600-rw",
@@ -28028,7 +28028,18 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 5,
-                  "fecha_carga": "2026-09-15T13:58:16.676Z"
+                  "fecha_carga": "2026-09-15T18:54:50.420Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=10Lncnzt18aGHHvUKhNVrKIUF89dooG8K&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10Lncnzt18aGHHvUKhNVrKIUF89dooG8K&sz=s600-rw",
+                  "archivo_id": "10Lncnzt18aGHHvUKhNVrKIUF89dooG8K",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-09-15T18:54:50.420Z"
                 }
               ],
               "variedad": [
@@ -83115,5 +83126,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789496982056
+  "timestamp_ms": 1789498795445
 }
