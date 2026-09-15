@@ -27960,8 +27960,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "144",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -27976,25 +27976,84 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1gezWhXUJb-sqgygRsvHNeOe84dJqtgj_&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1gezWhXUJb-sqgygRsvHNeOe84dJqtgj_&sz=s600-rw",
+                  "archivo_id": "1gezWhXUJb-sqgygRsvHNeOe84dJqtgj_",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-15T13:54:02.264Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1UJ8MZodCT-HN4p7h3iLC5K-Q3qiRWq5t&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1UJ8MZodCT-HN4p7h3iLC5K-Q3qiRWq5t&sz=s600-rw",
+                  "archivo_id": "1UJ8MZodCT-HN4p7h3iLC5K-Q3qiRWq5t",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-09-15T13:54:02.264Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1W50ekxf2zXLcOzzWP8ZrdVP0RfYOMpsJ&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1W50ekxf2zXLcOzzWP8ZrdVP0RfYOMpsJ&sz=s600-rw",
+                  "archivo_id": "1W50ekxf2zXLcOzzWP8ZrdVP0RfYOMpsJ",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-09-15T13:54:02.264Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1taG5uqLRYOtQsY85GVbAzNNNzegmkCHj&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1taG5uqLRYOtQsY85GVbAzNNNzegmkCHj&sz=s600-rw",
+                  "archivo_id": "1taG5uqLRYOtQsY85GVbAzNNNzegmkCHj",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-09-15T13:54:02.264Z"
                 }
               ],
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 48000,
+                  "precio": 49000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 65000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-09-15T07:00:00.000Z"
@@ -83034,5 +83093,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789479979463
+  "timestamp_ms": 1789480761537
 }
