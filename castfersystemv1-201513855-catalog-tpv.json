@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:27:46.192Z",
+  "generated_at": "2026-09-15T13:42:54.089Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -37467,6 +37467,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP9338",
+      "sku": "NA10502Q",
+      "model": "EXTREME OVERSIZE",
+      "price": 35500,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Ecocuero",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL",
+      "talles": "Surtido,S,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,S,M,L,XL,2XL,3XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "17v7Qcu1ct7yUDGKgkUquH8uOgal4wEgp",
+      "woo_id": 40793,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMP9338-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMP9338-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -47847,6 +47887,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP9338": [
+      {
+        "variedad_id": "CAMP9338-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 48000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP9338-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -50503,5 +50559,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789479013105
+  "timestamp_ms": 1789480033031
 }
