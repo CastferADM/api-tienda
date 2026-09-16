@@ -200794,6 +200794,46 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "0aef8dc9",
+          "fecha": "2026-09-16 14:10",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 30000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "b25121d2",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-16",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "0aef8dc9-24793",
+              "descripcion": "JOGG7328-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "JOGG7328-Menor",
+              "productoId": "JOGG7328",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG7328-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -206623,5 +206663,5 @@
     "PANT9923": "https://drive.google.com/thumbnail?id=1ah37alD8egXVgcEQeNA1Ef0YAvY2IsuZ&sz=s600-rw",
     "CAMP9338": "https://drive.google.com/thumbnail?id=1gezWhXUJb-sqgygRsvHNeOe84dJqtgj_&sz=s600-rw"
   },
-  "timestamp_ms": 1789565156208
+  "timestamp_ms": 1789568710612
 }
