@@ -197635,6 +197635,112 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "76ab57f1": [
+        {
+          "id": "bc69ab18",
+          "fecha": "2026-09-17 12:36",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 136000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "76ab57f1",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-17",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "bc69ab18-24836",
+              "descripcion": "SHOR8180-Surtido-Surtido-CASTFER",
+              "cantidad": 5,
+              "precioUnitario": 20000,
+              "subtotal": 100000,
+              "tipoPrecio": "SHOR8180-Docena",
+              "productoId": "SHOR8180",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR8180-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "bc69ab18-24837",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 18000,
+              "subtotal": 18000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "bc69ab18-24838",
+              "descripcion": "SHOR4900-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 18000,
+              "subtotal": 18000,
+              "tipoPrecio": "SHOR4900-Docena",
+              "productoId": "SHOR4900",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR4900-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 136000,
+          "subtotal": 136000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "e0b4d6f1",
+          "fecha": "2026-09-17 12:52",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 64000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "76ab57f1",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-17",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "e0b4d6f1-24839",
+              "descripcion": "PANT4837-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 32000,
+              "subtotal": 64000,
+              "tipoPrecio": "PANT4837-Menor",
+              "productoId": "PANT4837",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4837-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 64000,
+          "subtotal": 64000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -200502,6 +200608,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "76ab57f1": {
+      "cajaId": "76ab57f1",
+      "fecha": "2026-09-17",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -202726,6 +202841,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "76ab57f1",
+        "fecha": "2026-09-17",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -203463,5 +203587,5 @@
     "PANT9923": "https://drive.google.com/thumbnail?id=1ah37alD8egXVgcEQeNA1Ef0YAvY2IsuZ&sz=s600-rw",
     "CAMP9338": "https://drive.google.com/thumbnail?id=1gezWhXUJb-sqgygRsvHNeOe84dJqtgj_&sz=s600-rw"
   },
-  "timestamp_ms": 1789629914825
+  "timestamp_ms": 1789647911363
 }
