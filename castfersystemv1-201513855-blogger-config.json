@@ -31642,7 +31642,7 @@
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=18drQSBIJgrGVv2xvPC9pUO5KJSBIN636&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18drQSBIJgrGVv2xvPC9pUO5KJSBIN636&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18drQSBIJgrGVv2xvPC9pUO5KJSBIN636&sz=s600-rw",
                   "archivo_id": "18drQSBIJgrGVv2xvPC9pUO5KJSBIN636",
                   "portada": false,
                   "tipo": "imagen",
@@ -31653,7 +31653,7 @@
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1jft2KVEvTpAIQ_Uj-9boS9JJPB_StGa2&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1jft2KVEvTpAIQ_Uj-9boS9JJPB_StGa2&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1jft2KVEvTpAIQ_Uj-9boS9JJPB_StGa2&sz=s600-rw",
                   "archivo_id": "1jft2KVEvTpAIQ_Uj-9boS9JJPB_StGa2",
                   "portada": false,
                   "tipo": "imagen",
@@ -31663,8 +31663,30 @@
                   "fecha_carga": "2026-07-01T03:12:33.059Z"
                 },
                 {
+                  "url": "https://drive.google.com/thumbnail?id=1r0NMfp2By9-PRPGnIrYJnAJ9k7y2Esk4&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1r0NMfp2By9-PRPGnIrYJnAJ9k7y2Esk4&sz=s600-rw",
+                  "archivo_id": "1r0NMfp2By9-PRPGnIrYJnAJ9k7y2Esk4",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 9,
+                  "fecha_carga": "2026-09-17T20:06:58.647Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1M5v-f31qItIpS_XeMUL4r7l8ei7VBtMc&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1M5v-f31qItIpS_XeMUL4r7l8ei7VBtMc&sz=s600-rw",
+                  "archivo_id": "1M5v-f31qItIpS_XeMUL4r7l8ei7VBtMc",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 10,
+                  "fecha_carga": "2026-09-17T20:06:58.647Z"
+                },
+                {
                   "url": "https://drive.google.com/thumbnail?id=10hJeZzZYuhl4w7eVKAXWUVAYlFqGAQHG&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10hJeZzZYuhl4w7eVKAXWUVAYlFqGAQHG&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10hJeZzZYuhl4w7eVKAXWUVAYlFqGAQHG&sz=s600-rw",
                   "archivo_id": "10hJeZzZYuhl4w7eVKAXWUVAYlFqGAQHG",
                   "portada": false,
                   "tipo": "imagen",
@@ -31675,7 +31697,7 @@
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=11rCcKRj9DIpPjCc9aFC9mDS2PH954CI0&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=11rCcKRj9DIpPjCc9aFC9mDS2PH954CI0&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=11rCcKRj9DIpPjCc9aFC9mDS2PH954CI0&sz=s600-rw",
                   "archivo_id": "11rCcKRj9DIpPjCc9aFC9mDS2PH954CI0",
                   "portada": true,
                   "tipo": "imagen",
@@ -31686,7 +31708,7 @@
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1kSZyPjh3TFQ3HrOxpdsd3GoZy-dqSKgR&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1kSZyPjh3TFQ3HrOxpdsd3GoZy-dqSKgR&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1kSZyPjh3TFQ3HrOxpdsd3GoZy-dqSKgR&sz=s600-rw",
                   "archivo_id": "1kSZyPjh3TFQ3HrOxpdsd3GoZy-dqSKgR",
                   "portada": false,
                   "tipo": "imagen",
@@ -83212,5 +83234,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789675191245
+  "timestamp_ms": 1789676080752
 }
