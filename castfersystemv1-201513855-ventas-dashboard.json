@@ -189618,6 +189618,58 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "1dcbdcb0",
+          "fecha": "2026-09-18 19:54",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 64000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "1dc6ed76",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-18",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "1dcbdcb0-24923",
+              "descripcion": "PANT3690-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT3690-Menor",
+              "productoId": "PANT3690",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3690-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "1dcbdcb0-24924",
+              "descripcion": "PANT3122-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT3122-Menor",
+              "productoId": "PANT3122",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3122-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 64000,
+          "subtotal": 64000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -195486,5 +195538,5 @@
     "CAMP9338": "https://drive.google.com/thumbnail?id=1gezWhXUJb-sqgygRsvHNeOe84dJqtgj_&sz=s600-rw",
     "PANT2493": "https://drive.google.com/thumbnail?id=1r7fj9FCNlY_g0JsCvpvSC94Y9CU3QoVP&sz=s600-rw"
   },
-  "timestamp_ms": 1789758152187
+  "timestamp_ms": 1789759523776
 }
