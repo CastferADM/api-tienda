@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:12:45.590Z",
+  "generated_at": "2026-09-19T13:27:45.699Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -40337,7 +40337,7 @@
       "sku": "SGM-J72035",
       "model": "Pique",
       "price": 13200,
-      "display_price": 19800,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Chomba",
       "categoryName": "Chomba",
@@ -50791,28 +50791,14 @@
       {
         "variedad_id": "CHOM9170-Docena",
         "nombre": "Docena",
-        "precio_unitario": 19800,
+        "precio_unitario": 19000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "variedad_id": "CHOM9170-Media-Docena",
-        "nombre": "Media-Docena",
-        "precio_unitario": 19800,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "CHOM9170-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 19800,
-        "cantidad_minima": 4,
         "visible": true
       },
       {
         "variedad_id": "CHOM9170-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26400,
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -53476,5 +53462,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789823659191
+  "timestamp_ms": 1789824597335
 }
