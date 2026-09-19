@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:27:47.876Z",
+  "generated_at": "2026-09-19T14:42:46.039Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -40380,7 +40380,7 @@
       "sku": "R-7",
       "model": "PADEL",
       "price": 9100,
-      "display_price": 13650,
+      "display_price": 13000,
       "minor_surcharge": 0,
       "category_id": "Chomba",
       "categoryName": "Chomba",
@@ -50850,14 +50850,14 @@
       {
         "variedad_id": "CHOM5986-Docena",
         "nombre": "Docena",
-        "precio_unitario": 13650,
+        "precio_unitario": 13000,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "CHOM5986-Menor",
         "nombre": "Menor",
-        "precio_unitario": 18200,
+        "precio_unitario": 20000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -53521,5 +53521,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789828210600
+  "timestamp_ms": 1789829076699
 }
