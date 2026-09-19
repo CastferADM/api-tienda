@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:27:45.945Z",
+  "generated_at": "2026-09-19T16:42:45.195Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -40417,6 +40417,49 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "BERM2247",
+      "sku": "DK53572",
+      "model": "Secado rapido TALLE ESPECIAL",
+      "price": 14000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Cire secado rapido",
+      "sizes": "Surtido,40,42,44,46,48,50",
+      "talles": "Surtido,40,42,44,46,48,50",
+      "TALLES": "Surtido,40,42,44,46,48,50",
+      "colors": "Surtido,Negro,Verde Militar,Gris,Beige,Gris claro",
+      "colores": "Surtido,Negro,Verde Militar,Gris,Beige,Gris claro",
+      "COLORES": "Surtido,Negro,Verde Militar,Gris,Beige,Gris claro",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1fD-MRx6OaUZrUDi8o2n5N3_-ze8uvZ-x",
+      "woo_id": 40824,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "BERM2247-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "BERM2247-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -50861,6 +50904,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "BERM2247": [
+      {
+        "variedad_id": "BERM2247-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 21000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM2247-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -53521,5 +53580,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789835414352
+  "timestamp_ms": 1789836309108
 }
