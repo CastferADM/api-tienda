@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:42:48.475Z",
+  "generated_at": "2026-09-19T12:57:48.406Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -40288,6 +40288,49 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMI4652",
+      "sku": "TL3740",
+      "model": "Secado rapido Manga larga",
+      "price": 18800,
+      "display_price": 27000,
+      "minor_surcharge": 0,
+      "category_id": "Camisa",
+      "categoryName": "Camisa",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Cire secado rapido",
+      "sizes": "Surtido,S,M,L,XL,XXL",
+      "talles": "Surtido,S,M,L,XL,XXL",
+      "TALLES": "Surtido,S,M,L,XL,XXL",
+      "colors": "Surtido,Negro,Azul,Verde,Beige,Arena,Verde Militar",
+      "colores": "Surtido,Negro,Azul,Verde,Beige,Arena,Verde Militar",
+      "COLORES": "Surtido,Negro,Azul,Verde,Beige,Arena,Verde Militar",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1ELq3OyD9F9jiUN2qMIELDgjeUCrGRehL",
+      "woo_id": 40811,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CAMI4652-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CAMI4652-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -50684,6 +50727,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMI4652": [
+      {
+        "variedad_id": "CAMI4652-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 27000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMI4652-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 34000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -53344,5 +53403,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789821874502
+  "timestamp_ms": 1789822818205
 }
