@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:42:47.312Z",
+  "generated_at": "2026-09-19T13:57:45.622Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -40374,6 +40374,49 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CHOM5986",
+      "sku": "R-7",
+      "model": "PADEL",
+      "price": 9100,
+      "display_price": 13650,
+      "minor_surcharge": 0,
+      "category_id": "Chomba",
+      "categoryName": "Chomba",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "TMILL",
+      "style": "Liso",
+      "material": "",
+      "sizes": "Surtido,M,L,XL,2XL,3XL",
+      "talles": "Surtido,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,M,L,XL,2XL,3XL",
+      "colors": "Surtido,Negro,Gris,Aguamarina medio,Beige,Aguamarina",
+      "colores": "Surtido,Negro,Gris,Aguamarina medio,Beige,Aguamarina",
+      "COLORES": "Surtido,Negro,Gris,Aguamarina medio,Beige,Aguamarina",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1SKo1tygfqVX1YrhSsG3jr1Cm-RFtGB4H",
+      "woo_id": 40821,
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "CASTFER",
+          "variation_id": "CHOM5986-Surtido-Surtido-CASTFER"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "JM MAYORISTA",
+          "variation_id": "CHOM5986-Surtido-Surtido-JM MAYORISTA"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -50802,6 +50845,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CHOM5986": [
+      {
+        "variedad_id": "CHOM5986-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 13650,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CHOM5986-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 18200,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -53462,5 +53521,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789825484883
+  "timestamp_ms": 1789826378643
 }
