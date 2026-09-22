@@ -1500,6 +1500,86 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "8399273c",
+          "fecha": "2026-09-22 15:30",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 4000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "50272294",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-22",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "8399273c-25086",
+              "descripcion": "PANT2865-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 32000,
+              "subtotal": 64000,
+              "tipoPrecio": "PANT2865-Menor",
+              "productoId": "PANT2865",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2865-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 60000,
+          "montoProductos": 64000,
+          "subtotal": 4000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": true,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "aeb654e3",
+          "fecha": "2026-09-22 15:48",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 56000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "50272294",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-22",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "aeb654e3-25087",
+              "descripcion": "SUET1224-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 28000,
+              "subtotal": 56000,
+              "tipoPrecio": "SUET1224-Menor",
+              "productoId": "SUET1224",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SUET1224-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 56000,
+          "subtotal": 56000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ],
       "52251240": [
@@ -193827,5 +193907,5 @@
     "PANT2493": "https://drive.google.com/thumbnail?id=1r7fj9FCNlY_g0JsCvpvSC94Y9CU3QoVP&sz=s600-rw",
     "PANT5317": "https://drive.google.com/thumbnail?id=1ZtFhczDoGicHLZqHTAwHEUX2d5FPqbOn&sz=s600-rw"
   },
-  "timestamp_ms": 1790087136460
+  "timestamp_ms": 1790090751236
 }
