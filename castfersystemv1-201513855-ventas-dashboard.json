@@ -186910,6 +186910,86 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "d7f2a7d5",
+          "fecha": "2026-09-23 17:36",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 25000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "8b7e09f9",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "d7f2a7d5-25138",
+              "descripcion": "BERM3109-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "BERM3109-Menor",
+              "productoId": "BERM3109",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BERM3109-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 25000,
+          "subtotal": 25000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "8b3280b5",
+          "fecha": "2026-09-23 18:01",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 186000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "8b7e09f9",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "8b3280b5-25139",
+              "descripcion": "SACO5319-Surtido-Surtido-CASTFER",
+              "cantidad": 3,
+              "precioUnitario": 62000,
+              "subtotal": 186000,
+              "tipoPrecio": "SACO5319-Docena",
+              "productoId": "SACO5319",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SACO5319-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 186000,
+          "subtotal": 186000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ],
       "a9af3c17": [
@@ -192901,7 +192981,7 @@
     "BERM2247": "https://drive.google.com/thumbnail?id=10YjkMVg0MLG-k7a51PELaa4X92x-4koB&sz=s600-rw",
     "CHOM5986": "https://drive.google.com/thumbnail?id=1kQw99elbgqC_BrLhXDxZKSYxk1VqfsWm&sz=s600-rw",
     "CHOM9170": "https://drive.google.com/thumbnail?id=17M3tsbYdvpo1QPnLvj_5p-KqAWvRm6YD&sz=s600-rw",
-    "CAMI4652": "https://drive.google.com/thumbnail?id=1jlLMJV3qimwK0_JKFEJWKCiTC0RwJCT3&sz=s600-rw"
+    "CAMI4652": "https://drive.google.com/thumbnail?id=1DOT3MrXjwr1WISGwshyg0Sv3S8vSkAst&sz=s600-rw"
   },
-  "timestamp_ms": 1790180684736
+  "timestamp_ms": 1790184299773
 }
