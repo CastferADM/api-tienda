@@ -2,11 +2,11 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://cast-fer.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
   "pagina_tienda": {
     "tienda_id": "CASTFER",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
     "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=CASTFER&lastName=BRYAN%20COLQUE&email=castfer2498%40gmail.com&cellPhone=1132264462&workPhone=1150055119&address=Bacacay%202946&org=CASTFER&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "castfer2498@gmail.com",
     "telefono": "1132264462",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "23:00:00"
     },
-    "compra_minima": "4",
+    "compra_minima": 4,
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -51913,114 +51913,48 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1ZtFhczDoGicHLZqHTAwHEUX2d5FPqbOn&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZtFhczDoGicHLZqHTAwHEUX2d5FPqbOn&sz=s600-rw",
-                  "archivo_id": "1ZtFhczDoGicHLZqHTAwHEUX2d5FPqbOn",
+                  "url": "https://drive.google.com/thumbnail?id=16Bj1XkDV9CBIkhyHj8vMmJIKRKH0hbiP&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=16Bj1XkDV9CBIkhyHj8vMmJIKRKH0hbiP&sz=s600-rw",
+                  "archivo_id": "16Bj1XkDV9CBIkhyHj8vMmJIKRKH0hbiP",
                   "portada": true,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
+                  "rol": "GALERIA",
+                  "orden": 14,
+                  "fecha_carga": "2026-09-23T12:18:58.975Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1wZRgjG6O5BRE8rSlA7sNd-Uypm_QIMhx&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1wZRgjG6O5BRE8rSlA7sNd-Uypm_QIMhx&sz=s600-rw",
-                  "archivo_id": "1wZRgjG6O5BRE8rSlA7sNd-Uypm_QIMhx",
+                  "url": "https://drive.google.com/thumbnail?id=1ZWATFpqH2FlQsWDbi-SKmEw-6jGzuK_2&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZWATFpqH2FlQsWDbi-SKmEw-6jGzuK_2&sz=s600-rw",
+                  "archivo_id": "1ZWATFpqH2FlQsWDbi-SKmEw-6jGzuK_2",
                   "portada": false,
                   "tipo": "imagen",
-                  "fuente": "Sistema Web",
+                  "fuente": "IA_Gemini",
                   "rol": "GALERIA",
-                  "orden": 2,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
+                  "orden": 18,
+                  "fecha_carga": "2026-09-23T12:18:58.975Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=19PXHtkjh40Niaqoi08mA341T_mzU5tD7&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=19PXHtkjh40Niaqoi08mA341T_mzU5tD7&sz=s600-rw",
-                  "archivo_id": "19PXHtkjh40Niaqoi08mA341T_mzU5tD7",
+                  "url": "https://drive.google.com/thumbnail?id=1x0UyYqHx0Peu7Q5w6hAq9IFstadtjWuO&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1x0UyYqHx0Peu7Q5w6hAq9IFstadtjWuO&sz=s600-rw",
+                  "archivo_id": "1x0UyYqHx0Peu7Q5w6hAq9IFstadtjWuO",
                   "portada": false,
                   "tipo": "imagen",
-                  "fuente": "Sistema Web",
+                  "fuente": "IA_Gemini",
                   "rol": "GALERIA",
-                  "orden": 3,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
+                  "orden": 23,
+                  "fecha_carga": "2026-09-23T12:18:58.975Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1c-cnbXad6k-xXKlh_wMVco7JKS4x110Q&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1c-cnbXad6k-xXKlh_wMVco7JKS4x110Q&sz=s600-rw",
-                  "archivo_id": "1c-cnbXad6k-xXKlh_wMVco7JKS4x110Q",
+                  "url": "https://drive.google.com/thumbnail?id=1HRuEirHZ8NTYJy_0g3O0EYtxv1xs6ASk&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1HRuEirHZ8NTYJy_0g3O0EYtxv1xs6ASk&sz=s600-rw",
+                  "archivo_id": "1HRuEirHZ8NTYJy_0g3O0EYtxv1xs6ASk",
                   "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
                   "rol": "GALERIA",
-                  "orden": 4,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1kSdONeLqpnK34x2fLFTwgBLFgUXwoIUt&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1kSdONeLqpnK34x2fLFTwgBLFgUXwoIUt&sz=s600-rw",
-                  "archivo_id": "1kSdONeLqpnK34x2fLFTwgBLFgUXwoIUt",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 5,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1G43OrggOI12VHigQ4Zoniv2ai8yOOFmk&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1G43OrggOI12VHigQ4Zoniv2ai8yOOFmk&sz=s600-rw",
-                  "archivo_id": "1G43OrggOI12VHigQ4Zoniv2ai8yOOFmk",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 6,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1GtqC99kzBbat0m447eiTEzFfAj9hVXXD&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1GtqC99kzBbat0m447eiTEzFfAj9hVXXD&sz=s600-rw",
-                  "archivo_id": "1GtqC99kzBbat0m447eiTEzFfAj9hVXXD",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 7,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1nAf1lHrFJcUNzmXkxFbq41HiXqihyBJz&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1nAf1lHrFJcUNzmXkxFbq41HiXqihyBJz&sz=s600-rw",
-                  "archivo_id": "1nAf1lHrFJcUNzmXkxFbq41HiXqihyBJz",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 8,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1rGpr-qg-bp5ipLU_j1YRi1QuzXUSUyiC&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1rGpr-qg-bp5ipLU_j1YRi1QuzXUSUyiC&sz=s600-rw",
-                  "archivo_id": "1rGpr-qg-bp5ipLU_j1YRi1QuzXUSUyiC",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 9,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=16hTi75Axtr013ODvux89zexQjlYiEKWf&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=16hTi75Axtr013ODvux89zexQjlYiEKWf&sz=s600-rw",
-                  "archivo_id": "16hTi75Axtr013ODvux89zexQjlYiEKWf",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 10,
-                  "fecha_carga": "2026-09-23T12:10:55.432Z"
+                  "orden": 25,
+                  "fecha_carga": "2026-09-23T12:18:58.975Z"
                 }
               ],
               "variedad": [
@@ -84216,5 +84150,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790165661836
+  "timestamp_ms": 1790166615481
 }
