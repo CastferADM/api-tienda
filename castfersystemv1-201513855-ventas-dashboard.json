@@ -187210,6 +187210,46 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "c212e80d",
+          "fecha": "2026-09-23 20:41",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 18000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "8b7e09f9",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "c212e80d-25149",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 18000,
+              "subtotal": 18000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 18000,
+          "subtotal": 18000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ],
       "a9af3c17": [
@@ -193203,5 +193243,5 @@
     "CHOM9170": "https://drive.google.com/thumbnail?id=1L7Vy43hAIOm2nPaOCAKyG_uoSaQLnAA8&sz=s600-rw",
     "CAMI4652": "https://drive.google.com/thumbnail?id=1DOT3MrXjwr1WISGwshyg0Sv3S8vSkAst&sz=s600-rw"
   },
-  "timestamp_ms": 1790191516594
+  "timestamp_ms": 1790195102888
 }
