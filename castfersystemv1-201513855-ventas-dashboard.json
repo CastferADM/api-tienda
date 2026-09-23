@@ -186333,6 +186333,100 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "8b7e09f9": [
+        {
+          "id": "68c81507",
+          "fecha": "2026-09-23 12:44",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 57000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "8b7e09f9",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "68c81507-25115",
+              "descripcion": "REME3522-Surtido-Surtido-CASTFER",
+              "cantidad": 6,
+              "precioUnitario": 9500,
+              "subtotal": 57000,
+              "tipoPrecio": "REME3522-Docena",
+              "productoId": "REME3522",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "REME3522-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 57000,
+          "subtotal": 57000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "410e6eb9",
+          "fecha": "2026-09-23 12:46",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 83000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "8b7e09f9",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "410e6eb9-25116",
+              "descripcion": "CAMP5646-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 45000,
+              "subtotal": 45000,
+              "tipoPrecio": "CAMP5646-Docena",
+              "productoId": "CAMP5646",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP5646-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "410e6eb9-25117",
+              "descripcion": "CAMP2491-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 38000,
+              "subtotal": 38000,
+              "tipoPrecio": "CAMP2491-Docena",
+              "productoId": "CAMP2491",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP2491-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 83000,
+          "subtotal": 83000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -189227,6 +189321,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "8b7e09f9": {
+      "cajaId": "8b7e09f9",
+      "fecha": "2026-09-23",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -191478,6 +191581,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "8b7e09f9",
+        "fecha": "2026-09-23",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -192223,5 +192335,5 @@
     "CHOM9170": "https://drive.google.com/thumbnail?id=17M3tsbYdvpo1QPnLvj_5p-KqAWvRm6YD&sz=s600-rw",
     "CAMI4652": "https://drive.google.com/thumbnail?id=1jlLMJV3qimwK0_JKFEJWKCiTC0RwJCT3&sz=s600-rw"
   },
-  "timestamp_ms": 1790148323461
+  "timestamp_ms": 1790166317222
 }
