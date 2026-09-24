@@ -184569,6 +184569,140 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "326ee156": [
+        {
+          "id": "0b2896e0",
+          "fecha": "2026-09-24 13:30",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "326ee156",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-24",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "0b2896e0-25150",
+              "descripcion": "JOGG4505-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "JOGG4505-Menor",
+              "productoId": "JOGG4505",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG4505-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "2749b368",
+          "fecha": "2026-09-24 13:31",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 30000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "326ee156",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-24",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "2749b368-25151",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "618bf4c8",
+          "fecha": "2026-09-24 13:58",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 6000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "326ee156",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-24",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "618bf4c8-25152",
+              "descripcion": "MEDI1509-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 3000,
+              "subtotal": 3000,
+              "tipoPrecio": "N/A",
+              "productoId": "MEDI1509",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "MEDI1509-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "618bf4c8-25153",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 3000,
+              "subtotal": 3000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 6000,
+          "subtotal": 6000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -187481,6 +187615,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "326ee156": {
+      "cajaId": "326ee156",
+      "fecha": "2026-09-24",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -189750,6 +189893,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "326ee156",
+        "fecha": "2026-09-24",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -190490,10 +190642,10 @@
     "CAMP9338": "https://drive.google.com/thumbnail?id=1gezWhXUJb-sqgygRsvHNeOe84dJqtgj_&sz=s600-rw",
     "PANT2493": "https://drive.google.com/thumbnail?id=1r7fj9FCNlY_g0JsCvpvSC94Y9CU3QoVP&sz=s600-rw",
     "PANT5317": "https://drive.google.com/thumbnail?id=1x0UyYqHx0Peu7Q5w6hAq9IFstadtjWuO&sz=s600-rw",
-    "BERM2247": "https://drive.google.com/thumbnail?id=10YjkMVg0MLG-k7a51PELaa4X92x-4koB&sz=s600-rw",
+    "BERM2247": "https://drive.google.com/thumbnail?id=1jJRuUL2CyLZJ6r7H4YcTUwCsg-V4cFkm&sz=s600-rw",
     "CHOM5986": "https://drive.google.com/thumbnail?id=1Uds0nbyPelVgutIEYI7G_AKS8PITFTiU&sz=s600-rw",
     "CHOM9170": "https://drive.google.com/thumbnail?id=1L7Vy43hAIOm2nPaOCAKyG_uoSaQLnAA8&sz=s600-rw",
     "CAMI4652": "https://drive.google.com/thumbnail?id=1DOT3MrXjwr1WISGwshyg0Sv3S8vSkAst&sz=s600-rw"
   },
-  "timestamp_ms": 1790252720429
+  "timestamp_ms": 1790256448376
 }
