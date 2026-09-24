@@ -2472,7 +2472,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "19-09-2026"
+                  "valor": "24-09-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -2486,66 +2486,22 @@
                   "url": "https://drive.google.com/thumbnail?id=10YjkMVg0MLG-k7a51PELaa4X92x-4koB&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=10YjkMVg0MLG-k7a51PELaa4X92x-4koB&sz=s600-rw",
                   "archivo_id": "10YjkMVg0MLG-k7a51PELaa4X92x-4koB",
-                  "portada": true,
+                  "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "PORTADA",
+                  "rol": "GALERIA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-24T13:00:59.107Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1ULxSYSdAAPhGv9DAkYrs8-20Y5sTIaCk&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ULxSYSdAAPhGv9DAkYrs8-20Y5sTIaCk&sz=s600-rw",
-                  "archivo_id": "1ULxSYSdAAPhGv9DAkYrs8-20Y5sTIaCk",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 2,
-                  "fecha_carga": "2026-09-24T13:00:59.107Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=11IbKrzEDsVp6l47Deke6TbJ8bbT0Vm-K&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=11IbKrzEDsVp6l47Deke6TbJ8bbT0Vm-K&sz=s600-rw",
-                  "archivo_id": "11IbKrzEDsVp6l47Deke6TbJ8bbT0Vm-K",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 3,
-                  "fecha_carga": "2026-09-24T13:00:59.107Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=11i42gkYVaqXG2rO1r0xI_gsyHwOP-HYr&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=11i42gkYVaqXG2rO1r0xI_gsyHwOP-HYr&sz=s600-rw",
-                  "archivo_id": "11i42gkYVaqXG2rO1r0xI_gsyHwOP-HYr",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 4,
                   "fecha_carga": "2026-09-24T13:00:59.107Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1jJRuUL2CyLZJ6r7H4YcTUwCsg-V4cFkm&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1jJRuUL2CyLZJ6r7H4YcTUwCsg-V4cFkm&sz=s600-rw",
                   "archivo_id": "1jJRuUL2CyLZJ6r7H4YcTUwCsg-V4cFkm",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 5,
-                  "fecha_carga": "2026-09-24T13:00:59.107Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1_UsMhegH0Lchbg17TVfguhq2RajZZzXM&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1_UsMhegH0Lchbg17TVfguhq2RajZZzXM&sz=s600-rw",
-                  "archivo_id": "1_UsMhegH0Lchbg17TVfguhq2RajZZzXM",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
-                  "orden": 6,
                   "fecha_carga": "2026-09-24T13:00:59.107Z"
                 },
                 {
@@ -84095,5 +84051,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790255726305
+  "timestamp_ms": 1790256581451
 }
