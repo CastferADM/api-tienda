@@ -4210,9 +4210,37 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1-VN_NxPQfDobnk6k4hVtG2jaCDOL17Jm&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1-VN_NxPQfDobnk6k4hVtG2jaCDOL17Jm&sz=s600-rw",
+                  "archivo_id": "1-VN_NxPQfDobnk6k4hVtG2jaCDOL17Jm",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-24T15:41:24.126Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1U_XQYUReAsKW9-CldtaRcB06Rg33Drt4&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1U_XQYUReAsKW9-CldtaRcB06Rg33Drt4&sz=s600-rw",
+                  "archivo_id": "1U_XQYUReAsKW9-CldtaRcB06Rg33Drt4",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-09-24T15:41:24.126Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1p2T4hz-SuO_eTOAeffFuse_3Nik294es&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1p2T4hz-SuO_eTOAeffFuse_3Nik294es&sz=s600-rw",
+                  "archivo_id": "1p2T4hz-SuO_eTOAeffFuse_3Nik294es",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-09-24T15:41:24.126Z"
                 }
               ],
               "variedad": [
@@ -50214,7 +50242,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "146",
+                  "valor": "145",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -50264,7 +50292,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "146"
+                          "stock": "145"
                         }
                       ]
                     }
@@ -50281,7 +50309,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "146"
+                          "stock": "145"
                         }
                       ]
                     }
@@ -84154,5 +84182,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790263790096
+  "timestamp_ms": 1790264656386
 }
