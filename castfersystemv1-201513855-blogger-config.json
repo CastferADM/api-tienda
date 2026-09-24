@@ -4218,7 +4218,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-24T15:49:06.231Z"
+                  "fecha_carga": "2026-09-24T15:59:36.833Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1U_XQYUReAsKW9-CldtaRcB06Rg33Drt4&sz=s1600-rw",
@@ -4229,7 +4229,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-09-24T15:49:06.231Z"
+                  "fecha_carga": "2026-09-24T15:59:36.833Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1p2T4hz-SuO_eTOAeffFuse_3Nik294es&sz=s1600-rw",
@@ -4240,18 +4240,29 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-09-24T15:49:06.231Z"
+                  "fecha_carga": "2026-09-24T15:59:36.833Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=12b_XVivmtUAlNablNO1pmH-1JGP6llEK&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=12b_XVivmtUAlNablNO1pmH-1JGP6llEK&sz=s600-rw",
                   "archivo_id": "12b_XVivmtUAlNablNO1pmH-1JGP6llEK",
                   "portada": false,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-09-24T15:49:06.231Z"
+                  "fecha_carga": "2026-09-24T15:59:36.833Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1uuBFliEamdIhTzmE9SIdPvYnv7z-PQd3&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1uuBFliEamdIhTzmE9SIdPvYnv7z-PQd3&sz=s600-rw",
+                  "archivo_id": "1uuBFliEamdIhTzmE9SIdPvYnv7z-PQd3",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-09-24T15:59:36.833Z"
                 }
               ],
               "variedad": [
@@ -62964,7 +62975,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "119",
+                  "valor": "107",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -63036,7 +63047,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "119"
+                          "stock": "107"
                         }
                       ]
                     }
@@ -84193,5 +84204,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790265639891
+  "timestamp_ms": 1790266515760
 }
