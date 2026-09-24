@@ -2491,7 +2491,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-22T16:46:59.168Z"
+                  "fecha_carga": "2026-09-24T12:53:49.382Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1ULxSYSdAAPhGv9DAkYrs8-20Y5sTIaCk&sz=s1600-rw",
@@ -2502,7 +2502,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-09-22T16:46:59.168Z"
+                  "fecha_carga": "2026-09-24T12:53:49.382Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=11IbKrzEDsVp6l47Deke6TbJ8bbT0Vm-K&sz=s1600-rw",
@@ -2513,7 +2513,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-09-22T16:46:59.168Z"
+                  "fecha_carga": "2026-09-24T12:53:49.382Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=11i42gkYVaqXG2rO1r0xI_gsyHwOP-HYr&sz=s1600-rw",
@@ -2524,7 +2524,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-09-22T16:46:59.168Z"
+                  "fecha_carga": "2026-09-24T12:53:49.382Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1jJRuUL2CyLZJ6r7H4YcTUwCsg-V4cFkm&sz=s1600-rw",
@@ -2535,7 +2535,18 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 5,
-                  "fecha_carga": "2026-09-22T16:46:59.168Z"
+                  "fecha_carga": "2026-09-24T12:53:49.382Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1_UsMhegH0Lchbg17TVfguhq2RajZZzXM&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1_UsMhegH0Lchbg17TVfguhq2RajZZzXM&sz=s600-rw",
+                  "archivo_id": "1_UsMhegH0Lchbg17TVfguhq2RajZZzXM",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-09-24T12:53:49.382Z"
                 }
               ],
               "variedad": [
@@ -40248,7 +40259,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "311",
+                  "valor": "310",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -40386,7 +40397,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "311"
+                          "stock": "310"
                         }
                       ]
                     }
@@ -40403,7 +40414,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "311"
+                          "stock": "310"
                         }
                       ]
                     }
@@ -84073,5 +84084,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790253917974
+  "timestamp_ms": 1790254822711
 }
