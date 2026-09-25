@@ -76035,8 +76035,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-36",
-                  "estado": "Baja"
+                  "valor": "240",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -76101,7 +76101,17 @@
                   "precio": 2083.3,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "240"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -84160,5 +84170,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790354684447
+  "timestamp_ms": 1790357375110
 }
