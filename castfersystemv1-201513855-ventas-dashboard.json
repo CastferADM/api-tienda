@@ -180166,6 +180166,126 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "fbed4fa2",
+          "fecha": "2026-09-28 19:16",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 45000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "3f8b6bf8",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-28",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "fbed4fa2-25365",
+              "descripcion": "CAMP6076-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 45000,
+              "subtotal": 45000,
+              "tipoPrecio": "CAMP6076-Menor",
+              "productoId": "CAMP6076",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP6076-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 45000,
+          "subtotal": 45000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "0839d5f2",
+          "fecha": "2026-09-28 19:18",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 24000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "3f8b6bf8",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-28",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "0839d5f2-25366",
+              "descripcion": "REME3234-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 12000,
+              "subtotal": 24000,
+              "tipoPrecio": "REME3234-Menor",
+              "productoId": "REME3234",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "REME3234-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 24000,
+          "subtotal": 24000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "7cce9792",
+          "fecha": "2026-09-28 19:58",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "3f8b6bf8",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-28",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "7cce9792-25367",
+              "descripcion": "JOGG7630-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "JOGG7630-Menor",
+              "productoId": "JOGG7630",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG7630-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -186148,5 +186268,5 @@
     "CAMI4652": "https://drive.google.com/thumbnail?id=1DOT3MrXjwr1WISGwshyg0Sv3S8vSkAst&sz=s600-rw",
     "BERM5868": "https://drive.google.com/thumbnail?id=1uuBFliEamdIhTzmE9SIdPvYnv7z-PQd3&sz=s600-rw"
   },
-  "timestamp_ms": 1790619907272
+  "timestamp_ms": 1790623511733
 }
