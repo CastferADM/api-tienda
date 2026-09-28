@@ -56764,7 +56764,7 @@
                   "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9923%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20recto%20Nevado%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048%2C%2050"
                 }
               },
-              "guia_talles_img": "",
+              "guia_talles_img": "https://drive.google.com/thumbnail?id=1MflvQItV8IK8D1T033tA1RVzK2tfgcwP&sz=s1600-rw",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1ah37alD8egXVgcEQeNA1Ef0YAvY2IsuZ&sz=s1600-rw",
@@ -56775,7 +56775,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-12T14:14:16.979Z"
+                  "fecha_carga": "2026-09-28T16:56:46.383Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1th-ZzuBfk2Dimmr98k4IlHwBXahWDg4C&sz=s1600-rw",
@@ -56786,7 +56786,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-09-12T14:14:16.979Z"
+                  "fecha_carga": "2026-09-28T16:56:46.383Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1IkBJd191GUzAB3ZihAu0swMnDgySKNGR&sz=s1600-rw",
@@ -56797,7 +56797,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-09-12T14:14:16.979Z"
+                  "fecha_carga": "2026-09-28T16:56:46.383Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1hrT6u72rLR51lOT-XBnvEB8smUtrWLUi&sz=s1600-rw",
@@ -56808,7 +56808,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-09-12T14:14:16.979Z"
+                  "fecha_carga": "2026-09-28T16:56:46.383Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1HenQXDd62LCo6doGHUR8z3RUUZsphdgz&sz=s1600-rw",
@@ -56819,7 +56819,18 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 5,
-                  "fecha_carga": "2026-09-12T14:14:16.979Z"
+                  "fecha_carga": "2026-09-28T16:56:46.383Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1MflvQItV8IK8D1T033tA1RVzK2tfgcwP&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MflvQItV8IK8D1T033tA1RVzK2tfgcwP&sz=s600-rw",
+                  "archivo_id": "1MflvQItV8IK8D1T033tA1RVzK2tfgcwP",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA - Guía de Talles",
+                  "rol": "GUIA_TALLES",
+                  "orden": 16,
+                  "fecha_carga": "2026-09-28T16:56:46.383Z"
                 }
               ],
               "variedad": [
@@ -84182,5 +84193,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790613889210
+  "timestamp_ms": 1790614829538
 }
