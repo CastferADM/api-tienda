@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T18:12:52.269Z",
-  "timestamp_ms": 1790705701163,
+  "generated_at": "2026-09-29T18:27:53.580Z",
+  "timestamp_ms": 1790706615123,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -88101,8 +88101,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 20,
-          "STOCK_ACTUAL": 20
+          "stock": 19,
+          "STOCK_ACTUAL": 19
         },
         {
           "variation_id": "CAMP2546-Surtido-Surtido-JM MAYORISTA",
@@ -88645,8 +88645,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 261,
-          "STOCK_ACTUAL": 261
+          "stock": 260,
+          "STOCK_ACTUAL": 260
         },
         {
           "variation_id": "PANT9505-Surtido-Surtido-JM MAYORISTA",
@@ -95699,8 +95699,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 100,
-          "STOCK_ACTUAL": 100
+          "stock": 94,
+          "STOCK_ACTUAL": 94
         },
         {
           "variation_id": "REME9053-Surtido-Surtido-JM MAYORISTA",
@@ -96690,8 +96690,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 37,
-          "STOCK_ACTUAL": 37
+          "stock": 28,
+          "STOCK_ACTUAL": 28
         },
         {
           "variation_id": "CAMP5019-Surtido-Surtido-JM MAYORISTA",
@@ -124288,6 +124288,47 @@
       "departamento": "",
       "observacion": "s/n",
       "direccion": "Almafuerte  y Alberti, carmen de areco, Buenos Aires"
+    },
+    {
+      "CLIENTE_ID": "6f2f6239",
+      "CLASIFICACION": "SIMPLE",
+      "NOMBRE_COMPLETO": "Sol solo Comercial",
+      "CELULAR": "+54 9 11 5342-6404",
+      "CORREO_ELECTRONICO": "clientegeneral@gmail.com",
+      "CUIT_DNI": "",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "",
+      "AGENCIA_ENVIO": "",
+      "CODIGO_POSTAL": "",
+      "PROVINCIA": "",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "6f2f6239",
+      "name": "Sol solo Comercial",
+      "phone": "+54 9 11 5342-6404",
+      "celular": "+54 9 11 5342-6404",
+      "email": "clientegeneral@gmail.com",
+      "correo": "clientegeneral@gmail.com",
+      "cuit_dni": "",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "SIMPLE",
+      "tipo_envio": "",
+      "agencia_envio": "",
+      "codigo_postal": "",
+      "provincia": "",
+      "municipio": "",
+      "localidad": "",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": ""
     }
   ],
   "customers": [
@@ -150530,6 +150571,47 @@
       "departamento": "",
       "observacion": "s/n",
       "direccion": "Almafuerte  y Alberti, carmen de areco, Buenos Aires"
+    },
+    {
+      "CLIENTE_ID": "6f2f6239",
+      "CLASIFICACION": "SIMPLE",
+      "NOMBRE_COMPLETO": "Sol solo Comercial",
+      "CELULAR": "+54 9 11 5342-6404",
+      "CORREO_ELECTRONICO": "clientegeneral@gmail.com",
+      "CUIT_DNI": "",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "",
+      "AGENCIA_ENVIO": "",
+      "CODIGO_POSTAL": "",
+      "PROVINCIA": "",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "6f2f6239",
+      "name": "Sol solo Comercial",
+      "phone": "+54 9 11 5342-6404",
+      "celular": "+54 9 11 5342-6404",
+      "email": "clientegeneral@gmail.com",
+      "correo": "clientegeneral@gmail.com",
+      "cuit_dni": "",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "SIMPLE",
+      "tipo_envio": "",
+      "agencia_envio": "",
+      "codigo_postal": "",
+      "provincia": "",
+      "municipio": "",
+      "localidad": "",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": ""
     }
   ],
   "paymentMethods": [
