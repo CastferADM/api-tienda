@@ -18858,8 +18858,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-1",
-                  "estado": "Baja"
+                  "valor": "8",
+                  "estado": "Media"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -18935,7 +18935,17 @@
                   "precio": 45000,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "8"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-04-07T07:00:00.000Z"
@@ -42001,7 +42011,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "84",
+                  "valor": "83",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -42106,7 +42116,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "84"
+                          "stock": "83"
                         }
                       ]
                     }
@@ -42123,7 +42133,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "84"
+                          "stock": "83"
                         }
                       ]
                     }
@@ -42140,7 +42150,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "84"
+                          "stock": "83"
                         }
                       ]
                     }
@@ -60366,34 +60376,111 @@
                   "url": "https://drive.google.com/thumbnail?id=1sREwWZ0T3b_fwAYnEXEjzPBfTEN15ebX&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1sREwWZ0T3b_fwAYnEXEjzPBfTEN15ebX&sz=s600-rw",
                   "archivo_id": "1sREwWZ0T3b_fwAYnEXEjzPBfTEN15ebX",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "imagen",
                   "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-08-10T18:09:39.211Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=10QfHzaGNHOXuTkHZtHdr4_vpkz4K4zq3&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10QfHzaGNHOXuTkHZtHdr4_vpkz4K4zq3&sz=s600-rw",
+                  "archivo_id": "10QfHzaGNHOXuTkHZtHdr4_vpkz4K4zq3",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-09-29T17:52:57.029Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=19pDX04OwXwbU3PTP4nrx4TYZmNF9bUHe&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=19pDX04OwXwbU3PTP4nrx4TYZmNF9bUHe&sz=s600-rw",
+                  "archivo_id": "19pDX04OwXwbU3PTP4nrx4TYZmNF9bUHe",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-09-29T17:52:57.029Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1VL7Ow6SNqqWkD_eR4BfhWvH-pLHlzwJW&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1VL7Ow6SNqqWkD_eR4BfhWvH-pLHlzwJW&sz=s600-rw",
+                  "archivo_id": "1VL7Ow6SNqqWkD_eR4BfhWvH-pLHlzwJW",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-09-29T17:52:57.029Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1uSmNM2Vid1hSaUGqA8cB-WEDhJ6tvvV_&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1uSmNM2Vid1hSaUGqA8cB-WEDhJ6tvvV_&sz=s600-rw",
+                  "archivo_id": "1uSmNM2Vid1hSaUGqA8cB-WEDhJ6tvvV_",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-09-29T17:52:57.029Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1RBm8KIgapHTTD29dxOv5nIaEIq5a3Yw5&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1RBm8KIgapHTTD29dxOv5nIaEIq5a3Yw5&sz=s600-rw",
+                  "archivo_id": "1RBm8KIgapHTTD29dxOv5nIaEIq5a3Yw5",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 7,
+                  "fecha_carga": "2026-09-29T17:52:57.029Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1YNQCk5pS6ddt6771XdeKDKZ1VnfHCJ85&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1YNQCk5pS6ddt6771XdeKDKZ1VnfHCJ85&sz=s600-rw",
+                  "archivo_id": "1YNQCk5pS6ddt6771XdeKDKZ1VnfHCJ85",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 8,
+                  "fecha_carga": "2026-09-29T17:52:57.029Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1ERSJ3ErAq_P4EiRlCFxch22A4Kfacg6c&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ERSJ3ErAq_P4EiRlCFxch22A4Kfacg6c&sz=s600-rw",
+                  "archivo_id": "1ERSJ3ErAq_P4EiRlCFxch22A4Kfacg6c",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 9,
+                  "fecha_carga": "2026-09-29T17:52:57.029Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1H-QmxkZ2e438Busxv4KD_QbiRCeUXPUN&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1H-QmxkZ2e438Busxv4KD_QbiRCeUXPUN&sz=s600-rw",
+                  "archivo_id": "1H-QmxkZ2e438Busxv4KD_QbiRCeUXPUN",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 10,
+                  "fecha_carga": "2026-09-29T17:52:57.029Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1xr8yO-YiBAZOcE9S7GZMRknylPa7UH9x&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1xr8yO-YiBAZOcE9S7GZMRknylPa7UH9x&sz=s600-rw",
                   "archivo_id": "1xr8yO-YiBAZOcE9S7GZMRknylPa7UH9x",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 2,
-                  "fecha_carga": "2026-08-10T18:09:39.211Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1Qm1gVmA4AOWURWmT9GpjW-twrLH85Rz6&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Qm1gVmA4AOWURWmT9GpjW-twrLH85Rz6&sz=s600-rw",
-                  "archivo_id": "1Qm1gVmA4AOWURWmT9GpjW-twrLH85Rz6",
                   "portada": false,
                   "tipo": "imagen",
-                  "fuente": "IA_Gemini",
+                  "fuente": "Sistema Web",
                   "rol": "GALERIA",
-                  "orden": 10,
-                  "fecha_carga": "2026-09-28T16:05:15.624Z"
+                  "orden": 11,
+                  "fecha_carga": "2026-08-10T18:09:39.211Z"
                 }
               ],
               "variedad": [
@@ -61343,7 +61430,7 @@
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
-                  "orden": 3,
+                  "orden": 2,
                   "fecha_carga": "2026-09-29T16:22:46.863Z"
                 },
                 {
@@ -61354,13 +61441,24 @@
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-09-29T16:22:46.863Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1AHzNgg1210cs9ftkFFLPRmsDGp8ZUEx5&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1AHzNgg1210cs9ftkFFLPRmsDGp8ZUEx5&sz=s600-rw",
+                  "archivo_id": "1AHzNgg1210cs9ftkFFLPRmsDGp8ZUEx5",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-09-29T16:22:46.863Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1Yen3hkW8CIxNN7m02LAe8w-6AveFDi1j&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Yen3hkW8CIxNN7m02LAe8w-6AveFDi1j&sz=s600-rw",
-                  "archivo_id": "1Yen3hkW8CIxNN7m02LAe8w-6AveFDi1j",
+                  "url": "https://drive.google.com/thumbnail?id=1m6vTfAkG0PlyFFoYHSyuQW9lvkA-LB2w&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1m6vTfAkG0PlyFFoYHSyuQW9lvkA-LB2w&sz=s600-rw",
+                  "archivo_id": "1m6vTfAkG0PlyFFoYHSyuQW9lvkA-LB2w",
                   "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
@@ -61369,9 +61467,9 @@
                   "fecha_carga": "2026-09-29T16:22:46.863Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1AHzNgg1210cs9ftkFFLPRmsDGp8ZUEx5&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1AHzNgg1210cs9ftkFFLPRmsDGp8ZUEx5&sz=s600-rw",
-                  "archivo_id": "1AHzNgg1210cs9ftkFFLPRmsDGp8ZUEx5",
+                  "url": "https://drive.google.com/thumbnail?id=1Yen3hkW8CIxNN7m02LAe8w-6AveFDi1j&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Yen3hkW8CIxNN7m02LAe8w-6AveFDi1j&sz=s600-rw",
+                  "archivo_id": "1Yen3hkW8CIxNN7m02LAe8w-6AveFDi1j",
                   "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
@@ -61391,9 +61489,9 @@
                   "fecha_carga": "2026-09-29T16:22:46.863Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1m6vTfAkG0PlyFFoYHSyuQW9lvkA-LB2w&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1m6vTfAkG0PlyFFoYHSyuQW9lvkA-LB2w&sz=s600-rw",
-                  "archivo_id": "1m6vTfAkG0PlyFFoYHSyuQW9lvkA-LB2w",
+                  "url": "https://drive.google.com/thumbnail?id=1MkHlcZS5PUnJI7RoPcYdEm-bsReS01RP&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MkHlcZS5PUnJI7RoPcYdEm-bsReS01RP&sz=s600-rw",
+                  "archivo_id": "1MkHlcZS5PUnJI7RoPcYdEm-bsReS01RP",
                   "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
@@ -61402,25 +61500,14 @@
                   "fecha_carga": "2026-09-29T16:22:46.863Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1NODdwoLh9yUGOzLE-7tAwCatXBjRj1RB&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1NODdwoLh9yUGOzLE-7tAwCatXBjRj1RB&sz=s600-rw",
-                  "archivo_id": "1NODdwoLh9yUGOzLE-7tAwCatXBjRj1RB",
+                  "url": "https://drive.google.com/thumbnail?id=1xeBe0ceIPNH9zZbwNliPH73V1PgUPAVi&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1xeBe0ceIPNH9zZbwNliPH73V1PgUPAVi&sz=s600-rw",
+                  "archivo_id": "1xeBe0ceIPNH9zZbwNliPH73V1PgUPAVi",
                   "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 9,
-                  "fecha_carga": "2026-09-29T16:22:46.863Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1MkHlcZS5PUnJI7RoPcYdEm-bsReS01RP&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MkHlcZS5PUnJI7RoPcYdEm-bsReS01RP&sz=s600-rw",
-                  "archivo_id": "1MkHlcZS5PUnJI7RoPcYdEm-bsReS01RP",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 10,
                   "fecha_carga": "2026-09-29T16:22:46.863Z"
                 }
               ],
@@ -84324,5 +84411,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790703899333
+  "timestamp_ms": 1790704879842
 }
