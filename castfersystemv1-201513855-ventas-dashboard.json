@@ -235485,6 +235485,63 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": true
         }
+      ],
+      "78bc6d60": [
+        {
+          "id": "18dda2fc",
+          "fecha": "2026-09-29 13:06",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 64000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "78bc6d60",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-29",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "18dda2fc-25372",
+              "descripcion": "JOGG4505-Surtido-Surtido-CASTFER",
+              "cantidad": 2,
+              "precioUnitario": 32000,
+              "subtotal": 64000,
+              "tipoPrecio": "JOGG4505-Menor",
+              "productoId": "JOGG4505",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG4505-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 64000,
+          "subtotal": 64000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -238522,6 +238579,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "78bc6d60": {
+      "cajaId": "78bc6d60",
+      "fecha": "2026-09-29",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -240819,6 +240885,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "78bc6d60",
+        "fecha": "2026-09-29",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -241420,7 +241495,7 @@
     "PANT4771": "https://drive.google.com/thumbnail?id=1JKQamz1956-iZMGBWakqoTI6h1J77tqR&sz=s600",
     "PANT4858": "https://drive.google.com/thumbnail?id=1naZMWGeKnqmSrPHvJOKJWjFEEjY7DCi4&sz=s600",
     "PANT5032": "https://drive.google.com/thumbnail?id=1BC-ZGWsQtDkBZ8ulRw27HTxN6dJWD6cZ&sz=s600",
-    "CAMP3977": "https://drive.google.com/thumbnail?id=1UiOKYon2hucRidpDNsix3vINfM2f_djA&sz=s600",
+    "CAMP3977": "https://drive.google.com/thumbnail?id=1UiOKYon2hucRidpDNsix3vINfM2f_djA&sz=s600-rw",
     "PANT2514": "https://drive.google.com/thumbnail?id=1CntwIf7eJBzXwL1b1kwK2-VWUVIOazJT&sz=s600",
     "TAPA9835": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTAPA9835%2FTAPA9835-1vcWj.jpg",
     "TAPA2022": "https://drive.google.com/thumbnail?id=1uZcwv0R9tTJmCGmlLHUMfPSBFHIIaNbK&sz=s600",
@@ -241565,5 +241640,5 @@
     "CAMI4652": "https://drive.google.com/thumbnail?id=1DOT3MrXjwr1WISGwshyg0Sv3S8vSkAst&sz=s600-rw",
     "BERM5868": "https://drive.google.com/thumbnail?id=1uuBFliEamdIhTzmE9SIdPvYnv7z-PQd3&sz=s600-rw"
   },
-  "timestamp_ms": 1790684758460
+  "timestamp_ms": 1790688307182
 }
