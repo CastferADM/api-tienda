@@ -235417,6 +235417,73 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "5a890240",
+          "fecha": "2026-09-28 19:33",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 42599.16,
+          "clienteId": "CLI144",
+          "nombreCliente": "Berruti Ana Gabriela",
+          "clienteInfo": {
+            "id": "CLI144",
+            "nombre": "Berruti Ana Gabriela",
+            "celular": "+54 9 2494 57-2347",
+            "email": "Fliamarchetti@yahoo.com.ar",
+            "cuit": 27202960702,
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "Sucursal",
+            "agenciaEnvio": "TRANSPORTE FULL TRANS",
+            "localidad": "tandil",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "+54 9 2494 57-2347",
+          "emailCliente": "Fliamarchetti@yahoo.com.ar",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "3f8b6bf8",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-28",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 6000,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "5a890240-25370",
+              "descripcion": "MEDI7439-Surtido-Surtido-CASTFER",
+              "cantidad": 12,
+              "precioUnitario": 1383.33,
+              "subtotal": 16599.96,
+              "tipoPrecio": "MEDI7439-Docena",
+              "productoId": "MEDI7439",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "MEDI7439-Surtido-Surtido-CASTFER"
+            },
+            {
+              "id": "5a890240-25371",
+              "descripcion": "MEDI5246-Surtido-Surtido-CASTFER",
+              "cantidad": 12,
+              "precioUnitario": 1666.6,
+              "subtotal": 19999.2,
+              "tipoPrecio": "MEDI5246-Docena",
+              "productoId": "MEDI5246",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "MEDI5246-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 36599.16,
+          "subtotal": 36599.16,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true
         }
       ]
     },
@@ -241498,5 +241565,5 @@
     "CAMI4652": "https://drive.google.com/thumbnail?id=1DOT3MrXjwr1WISGwshyg0Sv3S8vSkAst&sz=s600-rw",
     "BERM5868": "https://drive.google.com/thumbnail?id=1uuBFliEamdIhTzmE9SIdPvYnv7z-PQd3&sz=s600-rw"
   },
-  "timestamp_ms": 1790666723023
+  "timestamp_ms": 1790684758460
 }
