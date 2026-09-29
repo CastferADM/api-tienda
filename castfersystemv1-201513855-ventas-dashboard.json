@@ -235895,6 +235895,116 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "ca1b28d7",
+          "fecha": "2026-09-29 16:33",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 546000,
+          "clienteId": "3ae9c8aa",
+          "nombreCliente": "Silvina Brizuela",
+          "clienteInfo": {
+            "id": "3ae9c8aa",
+            "nombre": "Silvina Brizuela",
+            "celular": "3541643000",
+            "email": "Brizuela3000@gmail.com",
+            "cuit": 17769315,
+            "condicionFiscal": "",
+            "tipoEnvio": "SUCURSAL",
+            "agenciaEnvio": "EXPRESO ALEX",
+            "localidad": "Villa Carlos paz",
+            "provincia": "Córdoba",
+            "direccion": ""
+          },
+          "celularCliente": "3541643000",
+          "emailCliente": "Brizuela3000@gmail.com",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "78bc6d60",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-29",
+          "bancoTransferencia": "Banco Provincia",
+          "aliasTransferencia": "BOLSA.FOCO.PAMPA",
+          "costoEnvio": 6000,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "ca1b28d7-25381",
+              "descripcion": "CAMP5646-Surtido-Surtido-CASTFER",
+              "cantidad": 12,
+              "precioUnitario": 45000,
+              "subtotal": 540000,
+              "tipoPrecio": "CAMP5646-Docena",
+              "productoId": "CAMP5646",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP5646-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 540000,
+          "subtotal": 540000,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true
+        },
+        {
+          "id": "9125356f",
+          "fecha": "2026-09-29 16:34",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 150000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "78bc6d60",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-29",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "9125356f-25382",
+              "descripcion": "PANT3690-Surtido-Surtido-CASTFER",
+              "cantidad": 6,
+              "precioUnitario": 25000,
+              "subtotal": 150000,
+              "tipoPrecio": "PANT3690-Docena",
+              "productoId": "PANT3690",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3690-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 150000,
+          "subtotal": 150000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -241994,5 +242104,5 @@
     "CAMI4652": "https://drive.google.com/thumbnail?id=1DOT3MrXjwr1WISGwshyg0Sv3S8vSkAst&sz=s600-rw",
     "BERM5868": "https://drive.google.com/thumbnail?id=1uuBFliEamdIhTzmE9SIdPvYnv7z-PQd3&sz=s600-rw"
   },
-  "timestamp_ms": 1790695510923
+  "timestamp_ms": 1790699109595
 }
