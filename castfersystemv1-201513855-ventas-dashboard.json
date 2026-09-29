@@ -235840,6 +235840,61 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "f7a75abf",
+          "fecha": "2026-09-29 15:56",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 30000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "78bc6d60",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-09-29",
+          "bancoTransferencia": "Banco Provincia",
+          "aliasTransferencia": "BOLSA.FOCO.PAMPA",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "f7a75abf-25380",
+              "descripcion": "JOGG7328-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "JOGG7328-Menor",
+              "productoId": "JOGG7328",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "JOGG7328-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -241939,5 +241994,5 @@
     "CAMI4652": "https://drive.google.com/thumbnail?id=1DOT3MrXjwr1WISGwshyg0Sv3S8vSkAst&sz=s600-rw",
     "BERM5868": "https://drive.google.com/thumbnail?id=1uuBFliEamdIhTzmE9SIdPvYnv7z-PQd3&sz=s600-rw"
   },
-  "timestamp_ms": 1790691907426
+  "timestamp_ms": 1790695510923
 }
