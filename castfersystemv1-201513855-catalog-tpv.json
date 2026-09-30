@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T14:28:01.947Z",
-  "timestamp_ms": 1790778591287,
+  "generated_at": "2026-09-30T14:42:54.927Z",
+  "timestamp_ms": 1790779510561,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -98046,6 +98046,156 @@
       "lastUpdate": "2026-09-24T07:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-09-24T07:00:00.000Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "SOQU6543",
+      "sku": "SOQU6543",
+      "SKU": "SOQU6543",
+      "secondarySku": "",
+      "model": "Antideslizante con lengueta",
+      "name": "Antideslizante con lengueta",
+      "nombre": "Antideslizante con lengueta",
+      "price": 12800,
+      "minor_surcharge": 0,
+      "category": "Soquetes",
+      "category_id": "Soquetes",
+      "categoryName": "Soquetes",
+      "parentCategory": "ROPA INTERIOR",
+      "brand": "QILING",
+      "gender": "Hombre",
+      "season": "SIN-TEMPORADA",
+      "style": "Liso",
+      "material": "Poliester",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "sizes": "Surtido,T Unico 40-45",
+      "talles": "Surtido,T Unico 40-45",
+      "TALLES": "Surtido,T Unico 40-45",
+      "colors": "Surtido,Negro,Blanco",
+      "colores": "Surtido,Negro,Blanco",
+      "COLORES": "Surtido,Negro,Blanco",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "SOQU6543-Surtido-Surtido-CASTFER",
+          "INVENTARIO_ID": "SOQU6543-Surtido-Surtido-CASTFER",
+          "store_id": "CASTFER",
+          "TIENDA_ID": "CASTFER",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 0,
+          "STOCK_ACTUAL": 0
+        },
+        {
+          "variation_id": "SOQU6543-Surtido-Surtido-JM MAYORISTA",
+          "INVENTARIO_ID": "SOQU6543-Surtido-Surtido-JM MAYORISTA",
+          "store_id": "JM MAYORISTA",
+          "TIENDA_ID": "JM MAYORISTA",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 0,
+          "STOCK_ACTUAL": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "SOQU6543-Menor",
+          "variedad_id": "SOQU6543-Menor",
+          "variety_id": "SOQU6543-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 25600,
+          "precio_unitario": 25600,
+          "precio_final": 25600,
+          "final_price": 25600,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "SOQU6543-Docena",
+          "variedad_id": "SOQU6543-Docena",
+          "variety_id": "SOQU6543-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "variety_name": "Docena",
+          "precio": 19200,
+          "precio_unitario": 19200,
+          "precio_final": 19200,
+          "final_price": 19200,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "SOQU6543-Pack x3",
+          "variedad_id": "SOQU6543-Pack x3",
+          "variety_id": "SOQU6543-Pack x3",
+          "nombre": "Pack x3",
+          "variedad": "Pack x3",
+          "variety_name": "Pack x3",
+          "precio": 23040,
+          "precio_unitario": 23040,
+          "precio_final": 23040,
+          "final_price": 23040,
+          "cantidad_minima": 3,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "SOQU6543-Menor",
+          "variedad_id": "SOQU6543-Menor",
+          "variety_id": "SOQU6543-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 25600,
+          "precio_unitario": 25600,
+          "precio_final": 25600,
+          "final_price": 25600,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "SOQU6543-Docena",
+          "variedad_id": "SOQU6543-Docena",
+          "variety_id": "SOQU6543-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "variety_name": "Docena",
+          "precio": 19200,
+          "precio_unitario": 19200,
+          "precio_final": 19200,
+          "final_price": 19200,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "SOQU6543-Pack x3",
+          "variedad_id": "SOQU6543-Pack x3",
+          "variety_id": "SOQU6543-Pack x3",
+          "nombre": "Pack x3",
+          "variedad": "Pack x3",
+          "variety_name": "Pack x3",
+          "precio": 23040,
+          "precio_unitario": 23040,
+          "precio_final": 23040,
+          "final_price": 23040,
+          "cantidad_minima": 3,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-09-30T07:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-09-30T07:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -170441,6 +170591,50 @@
         "precio_final": 15000,
         "final_price": 15000,
         "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "SOQU6543": [
+      {
+        "id": "SOQU6543-Menor",
+        "variedad_id": "SOQU6543-Menor",
+        "variety_id": "SOQU6543-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 25600,
+        "precio_unitario": 25600,
+        "precio_final": 25600,
+        "final_price": 25600,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "SOQU6543-Docena",
+        "variedad_id": "SOQU6543-Docena",
+        "variety_id": "SOQU6543-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 19200,
+        "precio_unitario": 19200,
+        "precio_final": 19200,
+        "final_price": 19200,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "SOQU6543-Pack x3",
+        "variedad_id": "SOQU6543-Pack x3",
+        "variety_id": "SOQU6543-Pack x3",
+        "nombre": "Pack x3",
+        "variedad": "Pack x3",
+        "variety_name": "Pack x3",
+        "precio": 23040,
+        "precio_unitario": 23040,
+        "precio_final": 23040,
+        "final_price": 23040,
+        "cantidad_minima": 3,
         "visible": true
       }
     ]
