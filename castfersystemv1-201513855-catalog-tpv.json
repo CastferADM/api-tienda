@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T16:28:01.190Z",
-  "timestamp_ms": 1790785880033,
+  "generated_at": "2026-09-30T16:42:58.437Z",
+  "timestamp_ms": 1790786683704,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -7989,8 +7989,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 190,
-          "STOCK_ACTUAL": 190
+          "stock": 189,
+          "STOCK_ACTUAL": 189
         },
         {
           "variation_id": "CAMI5885-Surtido-Surtido-JM MAYORISTA",
@@ -91103,8 +91103,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 83,
-          "STOCK_ACTUAL": 83
+          "stock": 81,
+          "STOCK_ACTUAL": 81
         },
         {
           "variation_id": "JOGG7328-Surtido-Surtido-JM MAYORISTA",
@@ -96187,8 +96187,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 89,
-          "STOCK_ACTUAL": 89
+          "stock": 87,
+          "STOCK_ACTUAL": 87
         },
         {
           "variation_id": "PANT2955-Surtido-Surtido-JM MAYORISTA",
@@ -124479,6 +124479,47 @@
       "departamento": "",
       "observacion": "",
       "direccion": ""
+    },
+    {
+      "CLIENTE_ID": "ac6982b1",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "Erika Scheifler",
+      "CELULAR": "+54 9 11 5349-0614",
+      "CORREO_ELECTRONICO": "Erinovoa2121@gmail.com",
+      "CUIT_DNI": "29906147",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "DOMICILIO",
+      "AGENCIA_ENVIO": "moto envio",
+      "CODIGO_POSTAL": "1437",
+      "PROVINCIA": "Ciudad Autónoma de Buenos Aires (CABA)",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "Villa Soldaty",
+      "CALLE": "Tabare",
+      "NUMERO": 3231,
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "ac6982b1",
+      "name": "Erika Scheifler",
+      "phone": "+54 9 11 5349-0614",
+      "celular": "+54 9 11 5349-0614",
+      "email": "Erinovoa2121@gmail.com",
+      "correo": "Erinovoa2121@gmail.com",
+      "cuit_dni": "29906147",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "DOMICILIO",
+      "agencia_envio": "moto envio",
+      "codigo_postal": "1437",
+      "provincia": "Ciudad Autónoma de Buenos Aires (CABA)",
+      "municipio": "",
+      "localidad": "Villa Soldaty",
+      "calle": "Tabare",
+      "numero": "3231",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "Tabare, 3231, Villa Soldaty, Ciudad Autónoma de Buenos Aires (CABA)"
     }
   ],
   "customers": [
@@ -150762,6 +150803,47 @@
       "departamento": "",
       "observacion": "",
       "direccion": ""
+    },
+    {
+      "CLIENTE_ID": "ac6982b1",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "Erika Scheifler",
+      "CELULAR": "+54 9 11 5349-0614",
+      "CORREO_ELECTRONICO": "Erinovoa2121@gmail.com",
+      "CUIT_DNI": "29906147",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "DOMICILIO",
+      "AGENCIA_ENVIO": "moto envio",
+      "CODIGO_POSTAL": "1437",
+      "PROVINCIA": "Ciudad Autónoma de Buenos Aires (CABA)",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "Villa Soldaty",
+      "CALLE": "Tabare",
+      "NUMERO": 3231,
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "ac6982b1",
+      "name": "Erika Scheifler",
+      "phone": "+54 9 11 5349-0614",
+      "celular": "+54 9 11 5349-0614",
+      "email": "Erinovoa2121@gmail.com",
+      "correo": "Erinovoa2121@gmail.com",
+      "cuit_dni": "29906147",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "DOMICILIO",
+      "agencia_envio": "moto envio",
+      "codigo_postal": "1437",
+      "provincia": "Ciudad Autónoma de Buenos Aires (CABA)",
+      "municipio": "",
+      "localidad": "Villa Soldaty",
+      "calle": "Tabare",
+      "numero": "3231",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "Tabare, 3231, Villa Soldaty, Ciudad Autónoma de Buenos Aires (CABA)"
     }
   ],
   "paymentMethods": [
