@@ -40846,6 +40846,17 @@
                   "rol": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-08-10T01:56:33.121Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1T8WzpTm3ii6K07-7w4wC_uocw-RutErj&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1T8WzpTm3ii6K07-7w4wC_uocw-RutErj&sz=s600-rw",
+                  "archivo_id": "1T8WzpTm3ii6K07-7w4wC_uocw-RutErj",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 20,
+                  "fecha_carga": "2026-10-02T03:54:40.268Z"
                 }
               ],
               "variedad": [
@@ -84540,5 +84551,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1790912714662
+  "timestamp_ms": 1790913622108
 }
