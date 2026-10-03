@@ -25021,7 +25021,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "126",
+                  "valor": "124",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -25071,7 +25071,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "126"
+                          "stock": "124"
                         }
                       ]
                     }
@@ -25088,7 +25088,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "126"
+                          "stock": "124"
                         }
                       ]
                     }
@@ -47282,7 +47282,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-11T18:14:04.561Z"
+                  "fecha_carga": "2026-10-03T12:40:56.925Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1h2uziXIMIvv1aekcdM5A6PWLtpvCvgnM&sz=s1600-rw",
@@ -47293,7 +47293,40 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-09-11T18:14:04.561Z"
+                  "fecha_carga": "2026-10-03T12:40:56.925Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1piRZ3q4m_9j1qwIQFt1Ifyeq-MimyEjR&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1piRZ3q4m_9j1qwIQFt1Ifyeq-MimyEjR&sz=s600-rw",
+                  "archivo_id": "1piRZ3q4m_9j1qwIQFt1Ifyeq-MimyEjR",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-10-03T12:40:56.925Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1OaaSo-kyY5kpE7klfysCeRbJYh8CfhGD&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1OaaSo-kyY5kpE7klfysCeRbJYh8CfhGD&sz=s600-rw",
+                  "archivo_id": "1OaaSo-kyY5kpE7klfysCeRbJYh8CfhGD",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-10-03T12:40:56.925Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1bxM4LjtR1BlXQWAAS1PMtQva42A71DcT&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1bxM4LjtR1BlXQWAAS1PMtQva42A71DcT&sz=s600-rw",
+                  "archivo_id": "1bxM4LjtR1BlXQWAAS1PMtQva42A71DcT",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-10-03T12:40:56.925Z"
                 }
               ],
               "variedad": [
@@ -48495,7 +48528,7 @@
                 },
                 "marca": {
                   "label": "Marca",
-                  "valor": "RENDZON"
+                  "valor": "RENOZON"
                 },
                 "genero": {
                   "label": "Género",
@@ -48562,12 +48595,12 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "07-08-2026"
+                  "valor": "03-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1132264462,
-                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2863%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20Secado%20Rapido%20Trekking%202%20en%201%0A%F0%9F%94%B9%20Marca%3A%20RENDZON%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL"
+                  "url": "https://wa.me/5491132264462?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2863%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20Secado%20Rapido%20Trekking%202%20en%201%0A%F0%9F%94%B9%20Marca%3A%20RENOZON%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL"
                 }
               },
               "guia_talles_img": "",
@@ -84487,5 +84520,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1791030598694
+  "timestamp_ms": 1791031464999
 }
