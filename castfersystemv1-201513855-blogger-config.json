@@ -61503,17 +61503,6 @@
                   "fecha_carga": "2026-10-03T15:08:43.631Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1Lj3g9u7xUJrRsZiNdQ2NPtCZMin9znlT&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Lj3g9u7xUJrRsZiNdQ2NPtCZMin9znlT&sz=s600-rw",
-                  "archivo_id": "1Lj3g9u7xUJrRsZiNdQ2NPtCZMin9znlT",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 9,
-                  "fecha_carga": "2026-08-10T07:00:00.000Z"
-                },
-                {
                   "url": "https://drive.google.com/thumbnail?id=11SMgds7a4vxbXCAOvAkioxP0FA5w1uEx&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=11SMgds7a4vxbXCAOvAkioxP0FA5w1uEx&sz=s600-rw",
                   "archivo_id": "11SMgds7a4vxbXCAOvAkioxP0FA5w1uEx",
@@ -61522,6 +61511,17 @@
                   "fuente": "IA - Guía de Talles",
                   "rol": "GUIA_TALLES",
                   "orden": 10,
+                  "fecha_carga": "2026-10-03T15:08:43.631Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=13TTWh1h3LBkgZ9rQdmOnTy-P9EYr7R8z&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=13TTWh1h3LBkgZ9rQdmOnTy-P9EYr7R8z&sz=s600-rw",
+                  "archivo_id": "13TTWh1h3LBkgZ9rQdmOnTy-P9EYr7R8z",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 11,
                   "fecha_carga": "2026-10-03T15:08:43.631Z"
                 }
               ],
@@ -84510,5 +84510,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1791155749753
+  "timestamp_ms": 1791161980436
 }
