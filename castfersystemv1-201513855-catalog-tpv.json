@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T01:12:53.988Z",
-  "timestamp_ms": 1791162857316,
+  "generated_at": "2026-10-05T01:29:28.060Z",
+  "timestamp_ms": 1791163792302,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -16831,8 +16831,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -3,
-          "STOCK_ACTUAL": -3
+          "stock": 0,
+          "STOCK_ACTUAL": 0
         },
         {
           "variation_id": "CAMP6595-Surtido-Surtido-JM MAYORISTA",
@@ -98196,6 +98196,184 @@
       "lastUpdate": "2026-09-30T07:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-09-30T07:00:00.000Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4903",
+      "sku": "TC8322A",
+      "SKU": "TC8322A",
+      "secondarySku": "TC8322A",
+      "model": "2 en 1 Desmontable  Secado rapido",
+      "name": "2 en 1 Desmontable  Secado rapido",
+      "nombre": "2 en 1 Desmontable  Secado rapido",
+      "price": 18500,
+      "minor_surcharge": 0,
+      "category": "Pantalon",
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "ELT",
+      "gender": "Hombre",
+      "season": "SIN-TEMPORADA",
+      "style": "Liso",
+      "material": "Cire secado rapido",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "sizes": "Surtido,40,42,44,46,48,50,52",
+      "talles": "Surtido,40,42,44,46,48,50,52",
+      "TALLES": "Surtido,40,42,44,46,48,50,52",
+      "colors": "Surtido,Negro,Azul marino,Amarillo mostaza,Gris,Bison,Verde Militar,Verde,Beige",
+      "colores": "Surtido,Negro,Azul marino,Amarillo mostaza,Gris,Bison,Verde Militar,Verde,Beige",
+      "COLORES": "Surtido,Negro,Azul marino,Amarillo mostaza,Gris,Bison,Verde Militar,Verde,Beige",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "PANT4903-Surtido-Surtido-CASTFER",
+          "INVENTARIO_ID": "PANT4903-Surtido-Surtido-CASTFER",
+          "store_id": "CASTFER",
+          "TIENDA_ID": "CASTFER",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 0,
+          "STOCK_ACTUAL": 0
+        },
+        {
+          "variation_id": "PANT4903-Surtido-Surtido-JM MAYORISTA",
+          "INVENTARIO_ID": "PANT4903-Surtido-Surtido-JM MAYORISTA",
+          "store_id": "JM MAYORISTA",
+          "TIENDA_ID": "JM MAYORISTA",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 0,
+          "STOCK_ACTUAL": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "PANT4903-Menor",
+          "variedad_id": "PANT4903-Menor",
+          "variety_id": "PANT4903-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 37000,
+          "precio_unitario": 37000,
+          "precio_final": 37000,
+          "final_price": 37000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "PANT4903-Docena",
+          "variedad_id": "PANT4903-Docena",
+          "variety_id": "PANT4903-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "variety_name": "Docena",
+          "precio": 27750,
+          "precio_unitario": 27750,
+          "precio_final": 27750,
+          "final_price": 27750,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "PANT4903-Curva",
+          "variedad_id": "PANT4903-Curva",
+          "variety_id": "PANT4903-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 27750,
+          "precio_unitario": 27750,
+          "precio_final": 27750,
+          "final_price": 27750,
+          "cantidad_minima": 7,
+          "visible": true
+        },
+        {
+          "id": "PANT4903-Media-Docena",
+          "variedad_id": "PANT4903-Media-Docena",
+          "variety_id": "PANT4903-Media-Docena",
+          "nombre": "Media-Docena",
+          "variedad": "Media-Docena",
+          "variety_name": "Media-Docena",
+          "precio": 27750,
+          "precio_unitario": 27750,
+          "precio_final": 27750,
+          "final_price": 27750,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "PANT4903-Menor",
+          "variedad_id": "PANT4903-Menor",
+          "variety_id": "PANT4903-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 37000,
+          "precio_unitario": 37000,
+          "precio_final": 37000,
+          "final_price": 37000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "PANT4903-Docena",
+          "variedad_id": "PANT4903-Docena",
+          "variety_id": "PANT4903-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "variety_name": "Docena",
+          "precio": 27750,
+          "precio_unitario": 27750,
+          "precio_final": 27750,
+          "final_price": 27750,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "PANT4903-Curva",
+          "variedad_id": "PANT4903-Curva",
+          "variety_id": "PANT4903-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 27750,
+          "precio_unitario": 27750,
+          "precio_final": 27750,
+          "final_price": 27750,
+          "cantidad_minima": 7,
+          "visible": true
+        },
+        {
+          "id": "PANT4903-Media-Docena",
+          "variedad_id": "PANT4903-Media-Docena",
+          "variety_id": "PANT4903-Media-Docena",
+          "nombre": "Media-Docena",
+          "variedad": "Media-Docena",
+          "variety_name": "Media-Docena",
+          "precio": 27750,
+          "precio_unitario": 27750,
+          "precio_final": 27750,
+          "final_price": 27750,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-04T07:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-04T07:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -170881,6 +171059,64 @@
         "precio_final": 2333.33,
         "final_price": 2333.33,
         "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
+    "PANT4903": [
+      {
+        "id": "PANT4903-Menor",
+        "variedad_id": "PANT4903-Menor",
+        "variety_id": "PANT4903-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 37000,
+        "precio_unitario": 37000,
+        "precio_final": 37000,
+        "final_price": 37000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT4903-Docena",
+        "variedad_id": "PANT4903-Docena",
+        "variety_id": "PANT4903-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 27750,
+        "precio_unitario": 27750,
+        "precio_final": 27750,
+        "final_price": 27750,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "PANT4903-Curva",
+        "variedad_id": "PANT4903-Curva",
+        "variety_id": "PANT4903-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 27750,
+        "precio_unitario": 27750,
+        "precio_final": 27750,
+        "final_price": 27750,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "id": "PANT4903-Media-Docena",
+        "variedad_id": "PANT4903-Media-Docena",
+        "variety_id": "PANT4903-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 27750,
+        "precio_unitario": 27750,
+        "precio_final": 27750,
+        "final_price": 27750,
+        "cantidad_minima": 6,
         "visible": true
       }
     ]
