@@ -2654,6 +2654,50 @@
           "desactivarRecargoTransferencia": false
         }
       ],
+      "78443377": [
+        {
+          "id": "c84841e0",
+          "fecha": "2026-10-06 13:46",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 50000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "78443377",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-10-06",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [],
+          "pagoEfectivo": 0,
+          "montoProductos": 50000,
+          "subtotal": 50000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
+      ],
       "90666281": [
         {
           "id": "f6e488d2",
@@ -218121,6 +218165,15 @@
       "horaFinalizada": "Sun D",
       "estado": "CERRADA"
     },
+    "78443377": {
+      "cajaId": "78443377",
+      "fecha": "2026-10-06",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
+    },
     "90666281": {
       "cajaId": "90666281",
       "fecha": "2026-09-14",
@@ -220462,6 +220515,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "CERRADA"
+      },
+      {
+        "cajaId": "78443377",
+        "fecha": "2026-10-06",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       },
       {
         "cajaId": "90666281",
@@ -223484,5 +223546,5 @@
     "CHOM4640": "https://drive.google.com/thumbnail?id=1OH5pYxh_tE2z1eSMTHsUA70K83-sqzPl&sz=s600-rw",
     "CONJ4807": "https://drive.google.com/thumbnail?id=1SYnM4ehycSpu5w3KvG0gncjWKY2IYwl-&sz=s600-rw"
   },
-  "timestamp_ms": 1791285961098
+  "timestamp_ms": 1791293108753
 }
