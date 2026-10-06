@@ -3214,7 +3214,7 @@
           "id": "c047e21b",
           "fecha": "2026-10-06 15:04",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 64000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -189614,7 +189614,7 @@
           "id": "2e365cf3",
           "fecha": "2026-09-18 17:53",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "PAGADO",
           "total": 416000,
           "clienteId": "28aa7a44",
           "nombreCliente": "matias Nicolas jara",
@@ -216557,7 +216557,7 @@
           "fecha": "2026-10-05 16:32",
           "origen": "Pedido Local",
           "estado": "ENTREGADO",
-          "total": 36000,
+          "total": 41000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
           "clienteInfo": {
@@ -216588,15 +216588,15 @@
           "detalles": [
             {
               "id": "eb2d17c0-25630",
-              "descripcion": "CHOM5986-Surtido-Surtido-CASTFER",
+              "descripcion": "CHOM9170-Surtido-Surtido-CASTFER",
               "cantidad": 1,
-              "precioUnitario": 20000,
-              "subtotal": 20000,
-              "tipoPrecio": "CHOM5986-Menor",
-              "productoId": "CHOM5986",
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "CHOM9170-Menor",
+              "productoId": "CHOM9170",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CHOM5986-Surtido-Surtido-CASTFER"
+              "variedadId": "CHOM9170-Surtido-Surtido-CASTFER"
             },
             {
               "id": "eb2d17c0-25631",
@@ -216612,8 +216612,8 @@
             }
           ],
           "pagoEfectivo": 0,
-          "montoProductos": 36000,
-          "subtotal": 36000,
+          "montoProductos": 41000,
+          "subtotal": 41000,
           "tipoVenta": "DIRECTA",
           "compraMinima": 4,
           "pagoMixto": false,
@@ -224114,5 +224114,5 @@
     "CHOM4640": "https://drive.google.com/thumbnail?id=1OH5pYxh_tE2z1eSMTHsUA70K83-sqzPl&sz=s600-rw",
     "CONJ4807": "https://drive.google.com/thumbnail?id=1SYnM4ehycSpu5w3KvG0gncjWKY2IYwl-&sz=s600-rw"
   },
-  "timestamp_ms": 1791296706626
+  "timestamp_ms": 1791300299181
 }
