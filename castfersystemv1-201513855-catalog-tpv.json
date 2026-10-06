@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T17:57:53.485Z",
-  "timestamp_ms": 1791309592871,
+  "generated_at": "2026-10-06T18:13:01.945Z",
+  "timestamp_ms": 1791310502259,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -42871,8 +42871,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 41,
-          "STOCK_ACTUAL": 41
+          "stock": 40,
+          "STOCK_ACTUAL": 40
         },
         {
           "variation_id": "SHOR4900-Surtido-Surtido-JM MAYORISTA",
@@ -47389,8 +47389,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 261,
-          "STOCK_ACTUAL": 261
+          "stock": 256,
+          "STOCK_ACTUAL": 256
         },
         {
           "variation_id": "PANT2514-Surtido-Surtido-JM MAYORISTA",
@@ -96309,8 +96309,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 189,
-          "STOCK_ACTUAL": 189
+          "stock": 188,
+          "STOCK_ACTUAL": 188
         },
         {
           "variation_id": "REME4744-Surtido-Surtido-JM MAYORISTA",
@@ -126570,6 +126570,47 @@
       "departamento": "1",
       "observacion": "gimnasio",
       "direccion": "Avenida Almafuerte, 331, Piso 1, Dpto 1, parque patricios, Buenos Aires"
+    },
+    {
+      "CLIENTE_ID": "0895bae4",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "Rodrigo Zarate",
+      "CELULAR": "+54 9 2646 22-4124",
+      "CORREO_ELECTRONICO": "Zarate4124@gmail.com",
+      "CUIT_DNI": "",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "SUCURSAL",
+      "AGENCIA_ENVIO": "VIA CARGO",
+      "CODIGO_POSTAL": "5400",
+      "PROVINCIA": "San Juan",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "Capital",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "0895bae4",
+      "name": "Rodrigo Zarate",
+      "phone": "+54 9 2646 22-4124",
+      "celular": "+54 9 2646 22-4124",
+      "email": "Zarate4124@gmail.com",
+      "correo": "Zarate4124@gmail.com",
+      "cuit_dni": "",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "SUCURSAL",
+      "agencia_envio": "VIA CARGO",
+      "codigo_postal": "5400",
+      "provincia": "San Juan",
+      "municipio": "",
+      "localidad": "Capital",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "Capital, San Juan"
     }
   ],
   "customers": [
@@ -152976,6 +153017,47 @@
       "departamento": "1",
       "observacion": "gimnasio",
       "direccion": "Avenida Almafuerte, 331, Piso 1, Dpto 1, parque patricios, Buenos Aires"
+    },
+    {
+      "CLIENTE_ID": "0895bae4",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "Rodrigo Zarate",
+      "CELULAR": "+54 9 2646 22-4124",
+      "CORREO_ELECTRONICO": "Zarate4124@gmail.com",
+      "CUIT_DNI": "",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "SUCURSAL",
+      "AGENCIA_ENVIO": "VIA CARGO",
+      "CODIGO_POSTAL": "5400",
+      "PROVINCIA": "San Juan",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "Capital",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "0895bae4",
+      "name": "Rodrigo Zarate",
+      "phone": "+54 9 2646 22-4124",
+      "celular": "+54 9 2646 22-4124",
+      "email": "Zarate4124@gmail.com",
+      "correo": "Zarate4124@gmail.com",
+      "cuit_dni": "",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "SUCURSAL",
+      "agencia_envio": "VIA CARGO",
+      "codigo_postal": "5400",
+      "provincia": "San Juan",
+      "municipio": "",
+      "localidad": "Capital",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "Capital, San Juan"
     }
   ],
   "paymentMethods": [
