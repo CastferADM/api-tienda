@@ -2839,9 +2839,37 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=116x6Rk70C0trkoUR54oG4LRWEF99pE9l&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=116x6Rk70C0trkoUR54oG4LRWEF99pE9l&sz=s600-rw",
+                  "archivo_id": "116x6Rk70C0trkoUR54oG4LRWEF99pE9l",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-10-08T14:06:38.114Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1XNok8w11ZmQnleE2o047blYtw53T1bO-&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1XNok8w11ZmQnleE2o047blYtw53T1bO-&sz=s600-rw",
+                  "archivo_id": "1XNok8w11ZmQnleE2o047blYtw53T1bO-",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-10-08T14:06:38.114Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1mN026x5gk8NI7-hapt7ASZsQgU46rjTk&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1mN026x5gk8NI7-hapt7ASZsQgU46rjTk&sz=s600-rw",
+                  "archivo_id": "1mN026x5gk8NI7-hapt7ASZsQgU46rjTk",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-10-08T14:06:38.114Z"
                 }
               ],
               "variedad": [
@@ -86716,5 +86744,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1791466188031
+  "timestamp_ms": 1791468881253
 }
