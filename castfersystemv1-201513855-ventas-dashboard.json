@@ -212218,7 +212218,7 @@
           "id": "788ef994",
           "fecha": "2026-10-05 18:32",
           "origen": "Pedido Local",
-          "estado": "PAGADO",
+          "estado": "ENTREGADO",
           "total": 558000,
           "clienteId": "c2303cb1",
           "nombreCliente": "Reynaldo Sebastián Flores",
@@ -214095,6 +214095,63 @@
           "subtotal": 64000,
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
+      ],
+      "b2b86d2a": [
+        {
+          "id": "c8f211eb",
+          "fecha": "2026-10-08 12:46",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 156000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "b2b86d2a",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-10-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "c8f211eb-25785",
+              "descripcion": "PANT2514-Surtido-Surtido-CASTFER",
+              "cantidad": 6,
+              "precioUnitario": 26000,
+              "subtotal": 156000,
+              "tipoPrecio": "PANT2514-Docena",
+              "productoId": "PANT2514",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2514-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 156000,
+          "subtotal": 156000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
@@ -217198,6 +217255,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "b2b86d2a": {
+      "cajaId": "b2b86d2a",
+      "fecha": "2026-10-08",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -219558,6 +219624,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "b2b86d2a",
+        "fecha": "2026-10-08",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -220312,5 +220387,5 @@
     "CHOM4640": "https://drive.google.com/thumbnail?id=1AEMPUOSlDyh7TRORJEGn4lJY7nVgaVZK&sz=s600-rw",
     "CONJ4807": "https://drive.google.com/thumbnail?id=1-WO4kheTLuu0uKeFjwWFuRMi8lMO4nRM&sz=s600-rw"
   },
-  "timestamp_ms": 1791444297679
+  "timestamp_ms": 1791462369682
 }
