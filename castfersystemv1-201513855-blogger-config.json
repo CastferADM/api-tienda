@@ -2847,7 +2847,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-10-08T14:06:38.114Z"
+                  "fecha_carga": "2026-10-09T11:44:24.592Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1XNok8w11ZmQnleE2o047blYtw53T1bO-&sz=s1600-rw",
@@ -2858,7 +2858,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-10-08T14:06:38.114Z"
+                  "fecha_carga": "2026-10-09T11:44:24.592Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1mN026x5gk8NI7-hapt7ASZsQgU46rjTk&sz=s1600-rw",
@@ -2869,7 +2869,18 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-10-08T14:06:38.114Z"
+                  "fecha_carga": "2026-10-09T11:44:24.592Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1NWY2dhkEJ70HgLuijfeWZon7a655zHb3&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1NWY2dhkEJ70HgLuijfeWZon7a655zHb3&sz=s600-rw",
+                  "archivo_id": "1NWY2dhkEJ70HgLuijfeWZon7a655zHb3",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-10-09T11:44:24.592Z"
                 }
               ],
               "variedad": [
@@ -86744,5 +86755,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1791543593711
+  "timestamp_ms": 1791547185122
 }
