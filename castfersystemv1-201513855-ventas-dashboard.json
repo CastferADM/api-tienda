@@ -209939,6 +209939,61 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "cf69e047",
+          "fecha": "2026-10-09 13:31",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 17000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "af30850e",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-10-09",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "cf69e047-25858",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 17000,
+              "subtotal": 17000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 17000,
+          "subtotal": 17000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -216191,5 +216246,5 @@
     "CONJ4807": "https://drive.google.com/thumbnail?id=1-WO4kheTLuu0uKeFjwWFuRMi8lMO4nRM&sz=s600-rw",
     "BERM2335": "https://drive.google.com/thumbnail?id=116x6Rk70C0trkoUR54oG4LRWEF99pE9l&sz=s600-rw"
   },
-  "timestamp_ms": 1791548693424
+  "timestamp_ms": 1791552316014
 }
