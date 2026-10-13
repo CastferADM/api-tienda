@@ -678,6 +678,15 @@
       "moneda": "$",
       "costo_envio": 6000,
       "hora_entrega": "1899-12-30T23:00:00.000Z"
+    },
+    {
+      "codigo": "vientos del norte",
+      "descripcion": "vientos del norte",
+      "cuit": "",
+      "ubicacion": "",
+      "moneda": "$",
+      "costo_envio": 0,
+      "hora_entrega": "1899-12-30T23:00:00.000Z"
     }
   ],
   "pagina_carrusel": [
@@ -86985,5 +86994,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1791900028989
+  "timestamp_ms": 1791902699316
 }
