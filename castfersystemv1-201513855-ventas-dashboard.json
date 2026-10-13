@@ -211679,6 +211679,61 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "8c083c28",
+          "fecha": "2026-10-13 20:39",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "c717db5e",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-10-13",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "8c083c28-26105",
+              "descripcion": "PANT4837-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "PANT4837-Menor",
+              "productoId": "PANT4837",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4837-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ],
       "17c935b6": [
@@ -218098,5 +218153,5 @@
     "BERM1360": "https://drive.google.com/thumbnail?id=1IB2URwbNwOeS_xIPpRmq8YvOB6jobkLL&sz=s600-rw",
     "BERM9350": "https://drive.google.com/thumbnail?id=1Umd5VsU2WsCNHum_h5DaMiRVyJWX_KKb&sz=s600-rw"
   },
-  "timestamp_ms": 1791919503766
+  "timestamp_ms": 1791923100621
 }
