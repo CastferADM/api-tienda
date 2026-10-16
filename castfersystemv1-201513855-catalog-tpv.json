@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-10-16T17:12:53.230Z",
-  "timestamp_ms": 1792170872552,
+  "generated_at": "2026-10-16T17:27:53.358Z",
+  "timestamp_ms": 1792171802443,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
+      "businessName": "CASTFER",
       "address": "Bacacay 2946",
       "phone": 1132264462,
       "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
@@ -14,15 +15,17 @@
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "allowedPaymentMethods": [
-          "Efectivo",
-          "Transferencia",
-          "Tarjeta Debito",
-          "Tarjeta Credito",
-          "Factura IVA",
-          "Presupuesto"
-        ],
+        "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.31",
+        "puntoVentaAfip": 0,
+        "facturacionHabilitada": false,
+        "afipUserToken": "",
+        "afipApiKey": "",
+        "afipApiToken": "",
+        "condicionIva": "",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO"
+        ],
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -33,6 +36,7 @@
     },
     "JM MAYORISTA": {
       "name": "JM MAYORISTA",
+      "businessName": "JM MAYORISTA",
       "address": "Gral. Venancio Flores 2545, C1406GHC Cdad. Autónoma de Buenos Aires, Argentina",
       "phone": 1123576640,
       "policies": "Proveedor de ropa importada",
@@ -43,11 +47,17 @@
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "allowedPaymentMethods": [
-          "Efectivo",
-          "Transferencia"
-        ],
+        "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.31",
+        "puntoVentaAfip": 0,
+        "facturacionHabilitada": false,
+        "afipUserToken": "",
+        "afipApiKey": "",
+        "afipApiToken": "",
+        "condicionIva": "",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO"
+        ],
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -88917,8 +88927,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 57,
-          "STOCK_ACTUAL": 57
+          "stock": 56,
+          "STOCK_ACTUAL": 56
         },
         {
           "variation_id": "CAMP3218-Surtido-Surtido-JM MAYORISTA",
@@ -98238,8 +98248,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 553,
-          "STOCK_ACTUAL": 553
+          "stock": 551,
+          "STOCK_ACTUAL": 551
         },
         {
           "variation_id": "PANT4903-Surtido-Surtido-JM MAYORISTA",
@@ -153551,6 +153561,7 @@
     "impuestos": 0,
     "tipoVenta": "MINORISTA"
   },
+  "invoiceTypes": [],
   "allVarieties": {
     "BERM1278": [
       {
