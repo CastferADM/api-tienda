@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T15:13:00.390Z",
-  "timestamp_ms": 1792163767112,
+  "generated_at": "2026-10-16T15:27:53.218Z",
+  "timestamp_ms": 1792164596087,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -8233,8 +8233,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -28,
-          "STOCK_ACTUAL": -28
+          "stock": 0,
+          "STOCK_ACTUAL": 0
         },
         {
           "variation_id": "CAMI6359-Surtido-Surtido-JM MAYORISTA",
@@ -8277,7 +8277,7 @@
           "precio_final": 26000,
           "final_price": 26000,
           "cantidad_minima": 12,
-          "visible": true
+          "visible": false
         }
       ],
       "varieties": [
@@ -8307,7 +8307,7 @@
           "precio_final": 26000,
           "final_price": 26000,
           "cantidad_minima": 12,
-          "visible": true
+          "visible": false
         }
       ],
       "lastUpdate": "2026-09-23T07:00:00.000Z",
@@ -28009,8 +28009,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 446,
-          "STOCK_ACTUAL": 446
+          "stock": 445,
+          "STOCK_ACTUAL": 445
         },
         {
           "variation_id": "JOGG2883-Surtido-Surtido-JM MAYORISTA",
@@ -32733,8 +32733,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 8505,
-          "STOCK_ACTUAL": 8505
+          "stock": 8504,
+          "STOCK_ACTUAL": 8504
         },
         {
           "variation_id": "OFER4741-Surtido-Surtido-JM MAYORISTA",
@@ -53103,8 +53103,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 100,
-          "STOCK_ACTUAL": 100
+          "stock": 97,
+          "STOCK_ACTUAL": 97
         },
         {
           "variation_id": "BOXE2093-Surtido-Surtido-JM MAYORISTA",
@@ -156613,7 +156613,7 @@
         "precio_final": 26000,
         "final_price": 26000,
         "cantidad_minima": 12,
-        "visible": true
+        "visible": false
       }
     ],
     "CAMI7068": [
