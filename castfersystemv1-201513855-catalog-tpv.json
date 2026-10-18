@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-10-18T05:12:54.263Z",
-  "timestamp_ms": 1792300478380,
+  "generated_at": "2026-10-18T05:27:49.908Z",
+  "timestamp_ms": 1792301391592,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
-      "businessName": "CASTFER",
       "address": "Bacacay 2946",
       "phone": 1132264462,
       "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
@@ -15,17 +14,15 @@
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "ticketFormat": "Formato Texto Plano",
-        "printerIp": "192.168.0.31",
-        "puntoVentaAfip": 0,
-        "facturacionHabilitada": false,
-        "afipUserToken": "",
-        "afipApiKey": "",
-        "afipApiToken": "",
-        "condicionIva": "",
-        "tiposComprobantePermitidos": [
-          "PRESUPUESTO"
+        "allowedPaymentMethods": [
+          "Efectivo",
+          "Transferencia",
+          "Tarjeta Debito",
+          "Tarjeta Credito",
+          "Factura IVA",
+          "Presupuesto"
         ],
+        "printerIp": "192.168.0.31",
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -36,7 +33,6 @@
     },
     "JM MAYORISTA": {
       "name": "JM MAYORISTA",
-      "businessName": "JM MAYORISTA",
       "address": "Gral. Venancio Flores 2545, C1406GHC Cdad. Autónoma de Buenos Aires, Argentina",
       "phone": 1123576640,
       "policies": "Proveedor de ropa importada",
@@ -47,17 +43,11 @@
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "ticketFormat": "Formato Texto Plano",
-        "printerIp": "192.168.0.31",
-        "puntoVentaAfip": 0,
-        "facturacionHabilitada": false,
-        "afipUserToken": "",
-        "afipApiKey": "",
-        "afipApiToken": "",
-        "condicionIva": "",
-        "tiposComprobantePermitidos": [
-          "PRESUPUESTO"
+        "allowedPaymentMethods": [
+          "Efectivo",
+          "Transferencia"
         ],
+        "printerIp": "192.168.0.31",
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -153579,7 +153569,6 @@
     "impuestos": 0,
     "tipoVenta": "MINORISTA"
   },
-  "invoiceTypes": [],
   "allVarieties": {
     "BERM1278": [
       {
