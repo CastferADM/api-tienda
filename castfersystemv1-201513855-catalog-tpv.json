@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-10-19T23:43:04.608Z",
-  "timestamp_ms": 1792453487621,
+  "generated_at": "2026-10-19T23:57:54.495Z",
+  "timestamp_ms": 1792454388965,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
+      "businessName": "CASTFER",
       "address": "Bacacay 2946",
       "phone": 1166746787,
       "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
@@ -14,15 +15,17 @@
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "allowedPaymentMethods": [
-          "Efectivo",
-          "Transferencia",
-          "Tarjeta Debito",
-          "Tarjeta Credito",
-          "Factura IVA",
-          "Presupuesto"
-        ],
+        "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.31",
+        "puntoVentaAfip": 0,
+        "facturacionHabilitada": false,
+        "afipUserToken": "",
+        "afipApiKey": "",
+        "afipApiToken": "",
+        "condicionIva": "",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO"
+        ],
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -33,6 +36,7 @@
     },
     "JM MAYORISTA": {
       "name": "JM MAYORISTA",
+      "businessName": "JM MAYORISTA",
       "address": "Gral. Venancio Flores 2545, C1406GHC Cdad. Autónoma de Buenos Aires, Argentina",
       "phone": 1123576640,
       "policies": "Proveedor de ropa importada",
@@ -43,11 +47,17 @@
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "allowedPaymentMethods": [
-          "Efectivo",
-          "Transferencia"
-        ],
+        "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.31",
+        "puntoVentaAfip": 0,
+        "facturacionHabilitada": false,
+        "afipUserToken": "",
+        "afipApiKey": "",
+        "afipApiToken": "",
+        "condicionIva": "",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO"
+        ],
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -153569,6 +153579,7 @@
     "impuestos": 0,
     "tipoVenta": "MINORISTA"
   },
+  "invoiceTypes": [],
   "allVarieties": {
     "BERM1278": [
       {
