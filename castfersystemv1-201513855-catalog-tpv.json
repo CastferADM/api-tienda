@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T00:27:56.577Z",
-  "timestamp_ms": 1792456186049,
+  "generated_at": "2026-10-20T00:42:53.427Z",
+  "timestamp_ms": 1792457076379,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -17,14 +17,17 @@
         "allowNegativeStock": true,
         "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.31",
-        "puntoVentaAfip": 0,
-        "facturacionHabilitada": false,
-        "afipUserToken": "",
-        "afipApiKey": "",
-        "afipApiToken": "",
+        "puntoVentaAfip": 9,
+        "facturacionHabilitada": true,
+        "afipUserToken": "898742db12c916f4bf3f930d04b6bcd198d882b141f51910806ffd7ca174f11d",
+        "afipApiKey": "73986",
+        "afipApiToken": "716d00646f1abd4285b9f12a57871640",
         "condicionIva": "",
         "tiposComprobantePermitidos": [
-          "PRESUPUESTO"
+          "PRESUPUESTO",
+          "FACTURA_C",
+          "FACTURA_B",
+          "FACTURA_A"
         ],
         "printSettings": {
           "copias": 1,
