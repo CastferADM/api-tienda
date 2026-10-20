@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T23:57:54.495Z",
-  "timestamp_ms": 1792454388965,
+  "generated_at": "2026-10-20T00:12:58.781Z",
+  "timestamp_ms": 1792455303339,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -153354,18 +153354,6 @@
       "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
     },
     {
-      "MOVIMIENTO_ID": "Factura IVA",
-      "PORCENTAJE": 0.21,
-      "TERMINOS_CONDICIONES": "",
-      "ICONO": "fdc331ba",
-      "id": "Factura IVA",
-      "name": "Factura IVA",
-      "percent": 0.21,
-      "code": "Factura IVA",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg",
-      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
-    },
-    {
       "MOVIMIENTO_ID": "Presupuesto",
       "PORCENTAJE": 0,
       "TERMINOS_CONDICIONES": "",
@@ -153395,10 +153383,6 @@
       "porcentaje": 0.15,
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
     },
-    "Factura IVA": {
-      "porcentaje": 0.21,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
-    },
     "Presupuesto": {
       "porcentaje": 0,
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
@@ -153420,10 +153404,6 @@
     "Tarjeta Credito": {
       "porcentaje": 0.15,
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
-    },
-    "Factura IVA": {
-      "porcentaje": 0.21,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
     },
     "Presupuesto": {
       "porcentaje": 0,
@@ -153568,7 +153548,8 @@
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
     "APLICAR_MARCA_DE_AGUA": false,
-    "CARRUSELES": ""
+    "CARRUSELES": "",
+    "HORA_DISPARADOR_BARTENDER": ""
   },
   "priceConfig": {
     "tipoRegistroPrecio": "PRECIO VARIABLE",
@@ -153579,7 +153560,44 @@
     "impuestos": 0,
     "tipoVenta": "MINORISTA"
   },
-  "invoiceTypes": [],
+  "invoiceTypes": [
+    {
+      "COMPROBANTE_ID": "COMP_A",
+      "NOMBRE": "Factura A",
+      "CODIGO_AFIP": 1,
+      "LETRA": "A",
+      "DISCRIMINA_IVA": true,
+      "REQUIERE_RECEPTOR": true,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_B",
+      "NOMBRE": "Factura B",
+      "CODIGO_AFIP": 6,
+      "LETRA": "B",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_C",
+      "NOMBRE": "Factura C",
+      "CODIGO_AFIP": 11,
+      "LETRA": "C",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_PRESUPUESTO",
+      "NOMBRE": "Presupuesto / No Fiscal",
+      "CODIGO_AFIP": 0,
+      "LETRA": "X",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    }
+  ],
   "allVarieties": {
     "BERM1278": [
       {
