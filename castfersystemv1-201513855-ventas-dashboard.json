@@ -239059,6 +239059,72 @@
           "netoGravado": 0,
           "montoIva": 0
         }
+      ],
+      "ab52556b": [
+        {
+          "id": "f303ada2",
+          "fecha": "2026-10-20 12:39",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 45000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "ab52556b",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-10-20",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "f303ada2-26445",
+              "descripcion": "CAMP1639-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 45000,
+              "subtotal": 45000,
+              "tipoPrecio": "CAMP1639-Menor",
+              "productoId": "CAMP1639",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP1639-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 45000,
+          "subtotal": 45000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -242312,6 +242378,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "ab52556b": {
+      "cajaId": "ab52556b",
+      "fecha": "2026-10-20",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "stores": {
@@ -244831,6 +244906,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "ab52556b",
+        "fecha": "2026-10-20",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -245589,5 +245673,5 @@
     "BERM9350": "https://drive.google.com/thumbnail?id=1fRqsHCVkmx3o7AF_jQlgjrj1RXi-0P2M&sz=s600-rw",
     "CHOM6662": "https://drive.google.com/thumbnail?id=1uMapTsORtKyZx2mWkz81u9IHJH7ihUOL&sz=s600-rw"
   },
-  "timestamp_ms": 1792481165931
+  "timestamp_ms": 1792499094135
 }
