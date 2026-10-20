@@ -227894,13 +227894,13 @@
           "compraMinima": 4,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false,
-          "tipoComprobante": "PRESUPUESTO",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": "",
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
+          "tipoComprobante": "FACTURA_C",
+          "estadoFacturacion": "FACTURADO",
+          "puntoVenta": 9,
+          "numeroComprobante": "00009-00000001",
+          "cae": 86428529858413,
+          "caeVencimiento": "2026-10-29T07:00:00.000Z",
+          "facturaPdfUrl": "https://www.tusfacturas.app/app/descarga/pdf/9e6bd0e687f07029022d8cd5b7456a50/ey2bfoKzLunhQAYeJurLdP13054770y/73986-20940730423-0-11-00009-00000001.pdf",
           "netoGravado": 0,
           "montoIva": 0
         },
@@ -248681,5 +248681,5 @@
     "BERM9350": "https://drive.google.com/thumbnail?id=1fRqsHCVkmx3o7AF_jQlgjrj1RXi-0P2M&sz=s600-rw",
     "CHOM6662": "https://drive.google.com/thumbnail?id=1uMapTsORtKyZx2mWkz81u9IHJH7ihUOL&sz=s600-rw"
   },
-  "timestamp_ms": 1792459583094
+  "timestamp_ms": 1792463104378
 }
