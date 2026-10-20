@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-10-20T00:57:56.016Z",
-  "timestamp_ms": 1792457979543,
+  "generated_at": "2026-10-20T01:12:58.851Z",
+  "timestamp_ms": 1792458902547,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
       "businessName": "CASTFER",
       "address": "Bacacay 2946",
+      "cuit": "20940730423",
+      "iibb": "",
+      "condicionIva": "MONOTRIBUTO",
       "phone": 1166746787,
       "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
       "logoUrl": "BD_TIENDAS_Images/CASTFER.LOGOTIPO.023342.png",
@@ -22,12 +25,10 @@
         "afipUserToken": "898742db12c916f4bf3f930d04b6bcd198d882b141f51910806ffd7ca174f11d",
         "afipApiKey": "73986",
         "afipApiToken": "716d00646f1abd4285b9f12a57871640",
-        "condicionIva": "",
+        "condicionIva": "MONOTRIBUTO",
         "tiposComprobantePermitidos": [
           "PRESUPUESTO",
-          "FACTURA_C",
-          "FACTURA_B",
-          "FACTURA_A"
+          "FACTURA_C"
         ],
         "printSettings": {
           "copias": 1,
@@ -41,6 +42,9 @@
       "name": "JM MAYORISTA",
       "businessName": "JM MAYORISTA",
       "address": "Gral. Venancio Flores 2545, C1406GHC Cdad. Autónoma de Buenos Aires, Argentina",
+      "cuit": "20940730423",
+      "iibb": "",
+      "condicionIva": "MONOTRIBUTO",
       "phone": 1123576640,
       "policies": "Proveedor de ropa importada",
       "logoUrl": "BD_TIENDAS_Images/JM MAYORISTA.LOGOTIPO.173749.png",
@@ -57,7 +61,7 @@
         "afipUserToken": "",
         "afipApiKey": "",
         "afipApiToken": "",
-        "condicionIva": "",
+        "condicionIva": "MONOTRIBUTO",
         "tiposComprobantePermitidos": [
           "PRESUPUESTO"
         ],
@@ -153530,7 +153534,7 @@
   "generalConfig": {
     "GENERAL_ID": "CASTFER",
     "RESPONSABLE": "Bryan Colque Fernandez",
-    "CUIT": "",
+    "CUIT": 20940730423,
     "TELEFONO": 1132264462,
     "CELULAR": 1123890659,
     "CORREO_ELECTRONICO": "castfer2498@gmail.com",
