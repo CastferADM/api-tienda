@@ -245406,6 +245406,79 @@
       "estado": "ABIERTA"
     }
   },
+  "stores": {
+    "CASTFER": {
+      "name": "CASTFER",
+      "businessName": "CASTFER",
+      "address": "Bacacay 2946",
+      "cuit": "20940730423",
+      "iibb": "",
+      "condicionIva": "MONOTRIBUTO",
+      "phone": 1166746787,
+      "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
+      "logoUrl": "BD_TIENDAS_Images/CASTFER.LOGOTIPO.023342.png",
+      "qrData": "REDES DE CONTACTO",
+      "config": {
+        "minorSurcharge": 0,
+        "minimumPurchase": 4,
+        "saleMode": "MANUAL",
+        "allowNegativeStock": true,
+        "ticketFormat": "Formato Texto Plano",
+        "printerIp": "192.168.0.31",
+        "puntoVentaAfip": 9,
+        "facturacionHabilitada": true,
+        "afipUserToken": "898742db12c916f4bf3f930d04b6bcd198d882b141f51910806ffd7ca174f11d",
+        "afipApiKey": "73986",
+        "afipApiToken": "716d00646f1abd4285b9f12a57871640",
+        "condicionIva": "MONOTRIBUTO",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO",
+          "FACTURA_C"
+        ],
+        "printSettings": {
+          "copias": 1,
+          "sonido": "1",
+          "marketing": "Condiciones: Los cambios solo se aceptan con este ticket (7 dias). No aplica Ropa Interior/Oferta",
+          "minCupon": 0
+        }
+      }
+    },
+    "JM MAYORISTA": {
+      "name": "JM MAYORISTA",
+      "businessName": "JM MAYORISTA",
+      "address": "Gral. Venancio Flores 2545, C1406GHC Cdad. Autónoma de Buenos Aires, Argentina",
+      "cuit": "20940730423",
+      "iibb": "",
+      "condicionIva": "MONOTRIBUTO",
+      "phone": 1123576640,
+      "policies": "Proveedor de ropa importada",
+      "logoUrl": "BD_TIENDAS_Images/JM MAYORISTA.LOGOTIPO.173749.png",
+      "qrData": "WHATSAPP",
+      "config": {
+        "minorSurcharge": 0,
+        "minimumPurchase": 4,
+        "saleMode": "MANUAL",
+        "allowNegativeStock": true,
+        "ticketFormat": "Formato Texto Plano",
+        "printerIp": "192.168.0.31",
+        "puntoVentaAfip": 0,
+        "facturacionHabilitada": false,
+        "afipUserToken": "",
+        "afipApiKey": "",
+        "afipApiToken": "",
+        "condicionIva": "MONOTRIBUTO",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO"
+        ],
+        "printSettings": {
+          "copias": 1,
+          "sonido": "1",
+          "marketing": "",
+          "minCupon": 0
+        }
+      }
+    }
+  },
   "filterOptions": {
     "origenes": [
       "CASTFER",
@@ -248608,5 +248681,5 @@
     "BERM9350": "https://drive.google.com/thumbnail?id=1fRqsHCVkmx3o7AF_jQlgjrj1RXi-0P2M&sz=s600-rw",
     "CHOM6662": "https://drive.google.com/thumbnail?id=1uMapTsORtKyZx2mWkz81u9IHJH7ihUOL&sz=s600-rw"
   },
-  "timestamp_ms": 1792455891914
+  "timestamp_ms": 1792459583094
 }
