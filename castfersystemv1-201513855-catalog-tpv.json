@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T12:27:52.712Z",
-  "timestamp_ms": 1792672196457,
+  "generated_at": "2026-10-22T12:43:14.848Z",
+  "timestamp_ms": 1792673156431,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -26958,8 +26958,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 37,
-          "STOCK_ACTUAL": 37
+          "stock": 36,
+          "STOCK_ACTUAL": 36
         },
         {
           "variation_id": "JOGG1318-Surtido-Surtido-JM MAYORISTA",
@@ -39423,8 +39423,8 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-06-13T07:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-06-13T07:00:00.000Z",
+      "lastUpdate": "2026-10-22T07:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-22T07:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -39881,8 +39881,8 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-06-13T07:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-06-13T07:00:00.000Z",
+      "lastUpdate": "2026-10-22T07:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-22T07:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -94770,8 +94770,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 124,
-          "STOCK_ACTUAL": 124
+          "stock": 123,
+          "STOCK_ACTUAL": 123
         },
         {
           "variation_id": "PANT3690-Surtido-Surtido-JM MAYORISTA",
@@ -126820,6 +126820,47 @@
       "departamento": "",
       "observacion": "PASO obligado mall",
       "direccion": "Calle 32 y 2, Santa teresita, Buenos Aires"
+    },
+    {
+      "CLIENTE_ID": "3d0d927d",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "gustavo ariel svriz escobar",
+      "CELULAR": "+54 9 2644 80-2334",
+      "CORREO_ELECTRONICO": "gustavoarielsvriz@gmail.com",
+      "CUIT_DNI": "27042331",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "SUCURSAL",
+      "AGENCIA_ENVIO": "VIA CARGO",
+      "CODIGO_POSTAL": "5400",
+      "PROVINCIA": "San Juan",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "rivadavia",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "3d0d927d",
+      "name": "gustavo ariel svriz escobar",
+      "phone": "+54 9 2644 80-2334",
+      "celular": "+54 9 2644 80-2334",
+      "email": "gustavoarielsvriz@gmail.com",
+      "correo": "gustavoarielsvriz@gmail.com",
+      "cuit_dni": "27042331",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "SUCURSAL",
+      "agencia_envio": "VIA CARGO",
+      "codigo_postal": "5400",
+      "provincia": "San Juan",
+      "municipio": "",
+      "localidad": "rivadavia",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "rivadavia, San Juan"
     }
   ],
   "customers": [
@@ -153513,6 +153554,47 @@
       "departamento": "",
       "observacion": "PASO obligado mall",
       "direccion": "Calle 32 y 2, Santa teresita, Buenos Aires"
+    },
+    {
+      "CLIENTE_ID": "3d0d927d",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "gustavo ariel svriz escobar",
+      "CELULAR": "+54 9 2644 80-2334",
+      "CORREO_ELECTRONICO": "gustavoarielsvriz@gmail.com",
+      "CUIT_DNI": "27042331",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "SUCURSAL",
+      "AGENCIA_ENVIO": "VIA CARGO",
+      "CODIGO_POSTAL": "5400",
+      "PROVINCIA": "San Juan",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "rivadavia",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "3d0d927d",
+      "name": "gustavo ariel svriz escobar",
+      "phone": "+54 9 2644 80-2334",
+      "celular": "+54 9 2644 80-2334",
+      "email": "gustavoarielsvriz@gmail.com",
+      "correo": "gustavoarielsvriz@gmail.com",
+      "cuit_dni": "27042331",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "SUCURSAL",
+      "agencia_envio": "VIA CARGO",
+      "codigo_postal": "5400",
+      "provincia": "San Juan",
+      "municipio": "",
+      "localidad": "rivadavia",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "rivadavia, San Juan"
     }
   ],
   "paymentMethods": [
