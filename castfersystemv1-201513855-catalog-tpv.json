@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T00:13:07.861Z",
-  "timestamp_ms": 1792714551084,
+  "generated_at": "2026-10-23T00:27:56.831Z",
+  "timestamp_ms": 1792715408067,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -153645,18 +153645,6 @@
       "code": "Tarjeta Credito",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg",
       "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
-    },
-    {
-      "MOVIMIENTO_ID": "Presupuesto",
-      "PORCENTAJE": 0,
-      "TERMINOS_CONDICIONES": "",
-      "ICONO": "5c4fde81",
-      "id": "Presupuesto",
-      "name": "Presupuesto",
-      "percent": 0,
-      "code": "Presupuesto",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg",
-      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
     }
   ],
   "paymentIcons": {
@@ -153675,10 +153663,6 @@
     "Tarjeta Credito": {
       "porcentaje": 0.15,
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
-    },
-    "Presupuesto": {
-      "porcentaje": 0,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
     }
   },
   "metodosPagoIcons": {
@@ -153697,10 +153681,6 @@
     "Tarjeta Credito": {
       "porcentaje": 0.15,
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
-    },
-    "Presupuesto": {
-      "porcentaje": 0,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
     }
   },
   "transferAccounts": [
