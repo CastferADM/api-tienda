@@ -2,12 +2,12 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://cast-fer.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
   "pagina_tienda": {
     "tienda_id": "CASTFER",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=CASTFER&lastName=BRYAN%20COLQUE&email=castfer2498%40gmail.com&cellPhone=1166746787&workPhone=1150055119&address=Bacacay%202946&org=CASTFER&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=CASTFER&lastName=BRYAN%20COLQUE&email=castfer2498%40gmail.com&cellPhone=1132264462&workPhone=1150055119&address=Bacacay%202946&org=CASTFER&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "castfer2498@gmail.com",
     "telefono": "1166746787",
     "direccion": "Bacacay 2946",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "23:00:00"
     },
-    "compra_minima": "4",
+    "compra_minima": 4,
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -22997,8 +22997,19 @@
               "guia_talles_img": "",
               "imagen": [
                 {
+                  "url": "https://drive.google.com/thumbnail?id=16tVCLrs71G2APo85l-SX7WykGQzeYfuB&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=16tVCLrs71G2APo85l-SX7WykGQzeYfuB&sz=s600-rw",
+                  "archivo_id": "16tVCLrs71G2APo85l-SX7WykGQzeYfuB",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 44,
+                  "fecha_carga": "2026-07-01T03:12:33.059Z"
+                },
+                {
                   "url": "https://drive.google.com/thumbnail?id=10DmDdxuvfzu8pDEzTgFQC4G_XE9XJhG4&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10DmDdxuvfzu8pDEzTgFQC4G_XE9XJhG4&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10DmDdxuvfzu8pDEzTgFQC4G_XE9XJhG4&sz=s600-rw",
                   "archivo_id": "10DmDdxuvfzu8pDEzTgFQC4G_XE9XJhG4",
                   "portada": false,
                   "tipo": "imagen",
@@ -23009,7 +23020,7 @@
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1pUorViiDsOwyZCkQfY6ACDbvCGaKmy3g&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1pUorViiDsOwyZCkQfY6ACDbvCGaKmy3g&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1pUorViiDsOwyZCkQfY6ACDbvCGaKmy3g&sz=s600-rw",
                   "archivo_id": "1pUorViiDsOwyZCkQfY6ACDbvCGaKmy3g",
                   "portada": false,
                   "tipo": "imagen",
@@ -23020,7 +23031,7 @@
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1sYLuX-k76mbRt-vg0zrugNdIKj6tMrVl&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1sYLuX-k76mbRt-vg0zrugNdIKj6tMrVl&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1sYLuX-k76mbRt-vg0zrugNdIKj6tMrVl&sz=s600-rw",
                   "archivo_id": "1sYLuX-k76mbRt-vg0zrugNdIKj6tMrVl",
                   "portada": false,
                   "tipo": "imagen",
@@ -23031,7 +23042,7 @@
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1ZtvDtQzmYi8YVwmvvDpxG2FPfNuf5AXw&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZtvDtQzmYi8YVwmvvDpxG2FPfNuf5AXw&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZtvDtQzmYi8YVwmvvDpxG2FPfNuf5AXw&sz=s600-rw",
                   "archivo_id": "1ZtvDtQzmYi8YVwmvvDpxG2FPfNuf5AXw",
                   "portada": false,
                   "tipo": "imagen",
@@ -23041,8 +23052,41 @@
                   "fecha_carga": "2026-07-01T03:12:33.059Z"
                 },
                 {
+                  "url": "https://drive.google.com/thumbnail?id=1SNYcWlJsTzt85kBNZjyZIrijTMwTLmHz&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1SNYcWlJsTzt85kBNZjyZIrijTMwTLmHz&sz=s600-rw",
+                  "archivo_id": "1SNYcWlJsTzt85kBNZjyZIrijTMwTLmHz",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 26,
+                  "fecha_carga": "2026-10-24T13:10:40.856Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1GGMetekW8ZJfn_kni4qZhOc36fiJHXY0&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1GGMetekW8ZJfn_kni4qZhOc36fiJHXY0&sz=s600-rw",
+                  "archivo_id": "1GGMetekW8ZJfn_kni4qZhOc36fiJHXY0",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 27,
+                  "fecha_carga": "2026-10-24T13:10:40.856Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1wU3Br09zCBRHKfNxSuqGvFzKSf1585ic&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1wU3Br09zCBRHKfNxSuqGvFzKSf1585ic&sz=s600-rw",
+                  "archivo_id": "1wU3Br09zCBRHKfNxSuqGvFzKSf1585ic",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 28,
+                  "fecha_carga": "2026-10-24T13:10:40.856Z"
+                },
+                {
                   "url": "https://drive.google.com/thumbnail?id=10QJ4iq0QVxTCyO8Nj5DbC8JE415dxdcU&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10QJ4iq0QVxTCyO8Nj5DbC8JE415dxdcU&sz=s600",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10QJ4iq0QVxTCyO8Nj5DbC8JE415dxdcU&sz=s600-rw",
                   "archivo_id": "10QJ4iq0QVxTCyO8Nj5DbC8JE415dxdcU",
                   "portada": false,
                   "tipo": "imagen",
@@ -23052,59 +23096,15 @@
                   "fecha_carga": "2026-07-01T03:12:33.059Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=18oZYkFBNcfGYJQCsZsuOQnC2tYgoJvr2&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18oZYkFBNcfGYJQCsZsuOQnC2tYgoJvr2&sz=s600",
-                  "archivo_id": "18oZYkFBNcfGYJQCsZsuOQnC2tYgoJvr2",
+                  "url": "https://drive.google.com/thumbnail?id=13xnPPwjghdXAwsTlyEFT10xkswHybFvq&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=13xnPPwjghdXAwsTlyEFT10xkswHybFvq&sz=s600-rw",
+                  "archivo_id": "13xnPPwjghdXAwsTlyEFT10xkswHybFvq",
                   "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
-                  "orden": 32,
-                  "fecha_carga": "2026-07-01T03:12:33.059Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=11kJrqt1D_W1-aoNU2oXalyw4BaKM_QaA&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=11kJrqt1D_W1-aoNU2oXalyw4BaKM_QaA&sz=s600",
-                  "archivo_id": "11kJrqt1D_W1-aoNU2oXalyw4BaKM_QaA",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 40,
-                  "fecha_carga": "2026-07-01T03:12:33.059Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1213qq-9BLQijeWP2qYd5w2htQXg0aVWm&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1213qq-9BLQijeWP2qYd5w2htQXg0aVWm&sz=s600",
-                  "archivo_id": "1213qq-9BLQijeWP2qYd5w2htQXg0aVWm",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 42,
-                  "fecha_carga": "2026-07-01T03:12:33.059Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=16tVCLrs71G2APo85l-SX7WykGQzeYfuB&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=16tVCLrs71G2APo85l-SX7WykGQzeYfuB&sz=s600",
-                  "archivo_id": "16tVCLrs71G2APo85l-SX7WykGQzeYfuB",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 44,
-                  "fecha_carga": "2026-07-01T03:12:33.059Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1M_z-XjHeyxZbmNUnUTr7-4wz39tfZf1c&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1M_z-XjHeyxZbmNUnUTr7-4wz39tfZf1c&sz=s600",
-                  "archivo_id": "1M_z-XjHeyxZbmNUnUTr7-4wz39tfZf1c",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 50,
-                  "fecha_carga": "2026-07-01T03:12:33.059Z"
+                  "orden": 29,
+                  "fecha_carga": "2026-10-24T13:10:40.856Z"
                 }
               ],
               "variedad": [
@@ -51479,7 +51479,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "128",
+                  "valor": "127",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -51573,7 +51573,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "128"
+                          "stock": "127"
                         }
                       ]
                     }
@@ -87284,5 +87284,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1792845897097
+  "timestamp_ms": 1792847659900
 }
