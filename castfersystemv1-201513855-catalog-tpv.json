@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T07:42:56.862Z",
-  "timestamp_ms": 1792914340458,
+  "generated_at": "2026-10-25T07:57:51.714Z",
+  "timestamp_ms": 1792915179201,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -19,7 +19,7 @@
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
         "ticketFormat": "Formato Texto Plano",
-        "printerIp": "192.168.1.35",
+        "printerIp": "192.168.1.34",
         "puntoVentaAfip": 9,
         "facturacionHabilitada": true,
         "afipUserToken": "898742db12c916f4bf3f930d04b6bcd198d882b141f51910806ffd7ca174f11d",
@@ -32750,8 +32750,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 8427,
-          "STOCK_ACTUAL": 8427
+          "stock": 8426,
+          "STOCK_ACTUAL": 8426
         },
         {
           "variation_id": "OFER4741-Surtido-Surtido-JM MAYORISTA",
