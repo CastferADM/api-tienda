@@ -8832,7 +8832,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "168",
+                  "valor": "167",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8882,7 +8882,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "168"
+                          "stock": "167"
                         }
                       ]
                     }
@@ -15964,6 +15964,17 @@
                   "rol": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-10-26T18:24:07.579Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1KSPIu_YzAS87pAwQTmXu5mC77luqvGNF&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1KSPIu_YzAS87pAwQTmXu5mC77luqvGNF&sz=s600-rw",
+                  "archivo_id": "1KSPIu_YzAS87pAwQTmXu5mC77luqvGNF",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 11,
+                  "fecha_carga": "2026-10-27T07:00:00.000Z"
                 }
               ],
               "variedad": [
@@ -87762,5 +87773,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1793123113252
+  "timestamp_ms": 1793124019054
 }
