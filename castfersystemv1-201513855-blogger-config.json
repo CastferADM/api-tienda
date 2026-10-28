@@ -5246,7 +5246,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "7",
+                  "valor": "5",
                   "estado": "Media"
                 },
                 "ultima_actualizacion": {
@@ -5296,7 +5296,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "7"
+                          "stock": "5"
                         }
                       ]
                     }
@@ -45736,7 +45736,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "23",
+                  "valor": "22",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -45874,7 +45874,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "23"
+                          "stock": "22"
                         }
                       ]
                     }
@@ -75241,8 +75241,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "11",
-                  "estado": "Alta"
+                  "valor": "8",
+                  "estado": "Media"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -75291,7 +75291,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "11"
+                          "stock": "8"
                         }
                       ]
                     }
@@ -75308,7 +75308,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "11"
+                          "stock": "8"
                         }
                       ]
                     }
@@ -87795,5 +87795,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1793192390562
+  "timestamp_ms": 1793193270543
 }
