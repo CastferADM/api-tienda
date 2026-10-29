@@ -233565,6 +233565,57 @@
           "facturaPdfUrl": "",
           "netoGravado": 0,
           "montoIva": 0
+        },
+        {
+          "id": "513d7656",
+          "fecha": "2026-10-29 21:16",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 40000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "604ce0ef",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-10-29",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [],
+          "pagoEfectivo": 0,
+          "montoProductos": 40000,
+          "subtotal": 40000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ]
     },
@@ -240238,5 +240289,5 @@
     "VEDE9771": "https://drive.google.com/thumbnail?id=1sgRo-tWHkC2MKPJDypOEePuJnEsNS1J6&sz=s600",
     "CAMP3297": "https://drive.google.com/thumbnail?id=1Q-rwbEXgxRrD32A-mNp1SpaqbcYOx2Kt&sz=s600-rw"
   },
-  "timestamp_ms": 1793305525776
+  "timestamp_ms": 1793309109109
 }
