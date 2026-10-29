@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T19:57:53.772Z",
-  "timestamp_ms": 1793217568972,
+  "generated_at": "2026-10-29T11:57:54.337Z",
+  "timestamp_ms": 1793275209742,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -29106,8 +29106,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 116,
-          "STOCK_ACTUAL": 116
+          "stock": 115,
+          "STOCK_ACTUAL": 115
         },
         {
           "variation_id": "JOGG4505-Surtido-Surtido-JM MAYORISTA",
@@ -36028,8 +36028,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 14,
-          "STOCK_ACTUAL": 14
+          "stock": 0,
+          "STOCK_ACTUAL": 0
         },
         {
           "variation_id": "PANT5536-Surtido-Surtido-JM MAYORISTA",
@@ -36072,7 +36072,7 @@
           "precio_final": 25000,
           "final_price": 25000,
           "cantidad_minima": 12,
-          "visible": true
+          "visible": false
         }
       ],
       "varieties": [
@@ -36102,7 +36102,7 @@
           "precio_final": 25000,
           "final_price": 25000,
           "cantidad_minima": 12,
-          "visible": true
+          "visible": false
         }
       ],
       "lastUpdate": "2026-09-21T07:00:00.000Z",
@@ -168115,7 +168115,7 @@
         "precio_final": 25000,
         "final_price": 25000,
         "cantidad_minima": 12,
-        "visible": true
+        "visible": false
       }
     ],
     "PANT5738": [
