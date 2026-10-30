@@ -35345,7 +35345,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-10-30T03:54:38.703Z"
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1HEktA9YYcDs0pYGnbhMNe917oX5_W9XN&sz=s1600-rw",
@@ -35356,7 +35356,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-10-30T03:54:38.703Z"
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1VLauStmT5Ok2nR71l49ujPMvuy96qeGc&sz=s1600-rw",
@@ -35367,7 +35367,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-10-30T03:54:38.703Z"
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1QSaU0SJCTlZsJMYpubS2B3jGk2wQiqT9&sz=s1600-rw",
@@ -35378,7 +35378,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-10-30T03:54:38.703Z"
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1WbvY_hGcCBDkTPqyq1FaiR7pJFPu7Edg&sz=s1600-rw",
@@ -35389,7 +35389,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 5,
-                  "fecha_carga": "2026-10-30T03:54:38.703Z"
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1cMMIBbfbS0VbX0vRCDYCGtmGMC3jFou2&sz=s1600-rw",
@@ -35400,7 +35400,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 6,
-                  "fecha_carga": "2026-10-30T03:54:38.703Z"
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1ACzvVX93FSNIX6dPW5qlg7_vWgN00CYl&sz=s1600-rw",
@@ -35411,18 +35411,29 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 7,
-                  "fecha_carga": "2026-10-30T03:54:38.703Z"
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1DxIgmRk8JVgKbc26vq3B5mPhA2sMiPL0&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1DxIgmRk8JVgKbc26vq3B5mPhA2sMiPL0&sz=s600-rw",
                   "archivo_id": "1DxIgmRk8JVgKbc26vq3B5mPhA2sMiPL0",
                   "portada": false,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 8,
-                  "fecha_carga": "2026-10-30T03:54:38.703Z"
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1kuWkJa7GX0r1flE_J61XS5GNi78vVQ8i&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1kuWkJa7GX0r1flE_J61XS5GNi78vVQ8i&sz=s600-rw",
+                  "archivo_id": "1kuWkJa7GX0r1flE_J61XS5GNi78vVQ8i",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 9,
+                  "fecha_carga": "2026-10-30T04:26:12.501Z"
                 }
               ],
               "variedad": [
@@ -85766,5 +85777,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1793332805087
+  "timestamp_ms": 1793334616148
 }
