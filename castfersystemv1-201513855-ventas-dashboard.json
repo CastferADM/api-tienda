@@ -228383,7 +228383,7 @@
           "id": "513d7656",
           "fecha": "2026-10-29 21:16",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 40000,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -228412,7 +228412,20 @@
           "costoEnvio": 0,
           "recargoTransferencia": 0,
           "recargoMenor": 0,
-          "detalles": [],
+          "detalles": [
+            {
+              "id": "513d7656-26911",
+              "descripcion": "PANT5317-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 40000,
+              "subtotal": 40000,
+              "tipoPrecio": "PANT5317-Menor",
+              "productoId": "PANT5317",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT5317-Surtido-Surtido-CASTFER"
+            }
+          ],
           "pagoEfectivo": 0,
           "montoProductos": 40000,
           "subtotal": 40000,
@@ -235102,5 +235115,5 @@
     "VEDE9771": "https://drive.google.com/thumbnail?id=1sgRo-tWHkC2MKPJDypOEePuJnEsNS1J6&sz=s600",
     "CAMP3297": "https://drive.google.com/thumbnail?id=1Q-rwbEXgxRrD32A-mNp1SpaqbcYOx2Kt&sz=s600-rw"
   },
-  "timestamp_ms": 1793345123232
+  "timestamp_ms": 1793363121819
 }
