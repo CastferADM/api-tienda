@@ -2,12 +2,12 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://cast-fer.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
   "pagina_tienda": {
     "tienda_id": "CASTFER",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=CASTFER&lastName=BRYAN%20COLQUE&email=castfer2498%40gmail.com&cellPhone=1132264462&workPhone=1150055119&address=Bacacay%202946&org=CASTFER&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FCASTFER.LOGOTIPO.023342.png",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=CASTFER&lastName=BRYAN%20COLQUE&email=castfer2498%40gmail.com&cellPhone=1166746787&workPhone=1150055119&address=Bacacay%202946&org=CASTFER&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.castfer.com.ar%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DCASTFERSYSTEMV1-201513855%26tableName%3DBD_TIENDAS%26fileName%3DBD_TIENDAS_Images%252FCASTFER.LOGOTIPO.023342.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "castfer2498@gmail.com",
     "telefono": "1166746787",
     "direccion": "Bacacay 2946",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "23:00:00"
     },
-    "compra_minima": 4,
+    "compra_minima": "4",
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -3177,7 +3177,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "14",
+                  "valor": "13",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3249,7 +3249,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "14"
+                          "stock": "13"
                         }
                       ]
                     }
@@ -3266,7 +3266,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "14"
+                          "stock": "13"
                         }
                       ]
                     }
@@ -3488,7 +3488,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "482",
+                  "valor": "477",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3593,7 +3593,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "482"
+                          "stock": "477"
                         }
                       ]
                     }
@@ -3610,7 +3610,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "482"
+                          "stock": "477"
                         }
                       ]
                     }
@@ -3627,7 +3627,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "482"
+                          "stock": "477"
                         }
                       ]
                     }
@@ -6943,7 +6943,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "41",
+                  "valor": "35",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7004,7 +7004,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "41"
+                          "stock": "35"
                         }
                       ]
                     }
@@ -15276,7 +15276,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "53",
+                  "valor": "51",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -15359,7 +15359,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "53"
+                          "stock": "51"
                         }
                       ]
                     }
@@ -15376,7 +15376,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "53"
+                          "stock": "51"
                         }
                       ]
                     }
@@ -15393,7 +15393,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "53"
+                          "stock": "51"
                         }
                       ]
                     }
@@ -23321,7 +23321,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "98",
+                  "valor": "92",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -23459,7 +23459,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "98"
+                          "stock": "92"
                         }
                       ]
                     }
@@ -36161,7 +36161,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "139",
+                  "valor": "138",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -36266,7 +36266,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "139"
+                          "stock": "138"
                         }
                       ]
                     }
@@ -36283,7 +36283,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "139"
+                          "stock": "138"
                         }
                       ]
                     }
@@ -36737,7 +36737,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "43",
+                  "valor": "41",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -36875,7 +36875,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "43"
+                          "stock": "41"
                         }
                       ]
                     }
@@ -49376,7 +49376,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "72",
+                  "valor": "71",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -49481,7 +49481,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "72"
+                          "stock": "71"
                         }
                       ]
                     }
@@ -49498,7 +49498,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "72"
+                          "stock": "71"
                         }
                       ]
                     }
@@ -49515,7 +49515,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "72"
+                          "stock": "71"
                         }
                       ]
                     }
@@ -50618,7 +50618,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "35",
+                  "valor": "34",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -50723,7 +50723,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "35"
+                          "stock": "34"
                         }
                       ]
                     }
@@ -50740,7 +50740,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "35"
+                          "stock": "34"
                         }
                       ]
                     }
@@ -50757,7 +50757,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "35"
+                          "stock": "34"
                         }
                       ]
                     }
@@ -51211,7 +51211,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "53",
+                  "valor": "51",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -51294,7 +51294,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "53"
+                          "stock": "51"
                         }
                       ]
                     }
@@ -51311,7 +51311,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "53"
+                          "stock": "51"
                         }
                       ]
                     }
@@ -53555,7 +53555,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "549",
+                  "valor": "548",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -53605,7 +53605,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "549"
+                          "stock": "548"
                         }
                       ]
                     }
@@ -53622,7 +53622,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "549"
+                          "stock": "548"
                         }
                       ]
                     }
@@ -56124,7 +56124,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "564",
+                  "valor": "562",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -56262,7 +56262,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "564"
+                          "stock": "562"
                         }
                       ]
                     }
@@ -56279,7 +56279,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "564"
+                          "stock": "562"
                         }
                       ]
                     }
@@ -57272,7 +57272,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "238",
+                  "valor": "237",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -57388,7 +57388,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "238"
+                          "stock": "237"
                         }
                       ]
                     }
@@ -57405,7 +57405,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "238"
+                          "stock": "237"
                         }
                       ]
                     }
@@ -59333,7 +59333,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "339",
+                  "valor": "333",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -59471,7 +59471,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "339"
+                          "stock": "333"
                         }
                       ]
                     }
@@ -64225,7 +64225,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "66",
+                  "valor": "64",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -64297,7 +64297,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "66"
+                          "stock": "64"
                         }
                       ]
                     }
@@ -64873,7 +64873,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 766,
+              "codigo": 769,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "10kkt5ARSiBOrYYb9iL_Y_Y4wt2m6WR30",
@@ -65056,7 +65056,7 @@
               "upd": "2026-05-08T07:00:00.000Z"
             },
             {
-              "codigo": 768,
+              "codigo": 771,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "1I-VcwxDsN8oeMAmih09C1hf9H41bLYr1",
@@ -65248,7 +65248,7 @@
               "upd": "2026-06-14T07:00:00.000Z"
             },
             {
-              "codigo": 771,
+              "codigo": 774,
               "categoria": "Sueter",
               "nombre": "SWEA1421",
               "carpeta_id": "1-nNa91N8ZUtCc9hkkAU_zvvCB0_qGNL2",
@@ -65343,7 +65343,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 772,
+              "codigo": 775,
               "categoria": "Sueter",
               "nombre": "SWEA2372",
               "carpeta_id": "1a869rgHp2qBCS_rR9jkO6Bw-1WZ73nZW",
@@ -65480,7 +65480,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 773,
+              "codigo": 776,
               "categoria": "Sueter",
               "nombre": "SWEA2502",
               "carpeta_id": "1HwfJ1rQIBwmnN2acZhCr2WapLuYWD7dX",
@@ -65646,7 +65646,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 774,
+              "codigo": 777,
               "categoria": "Sueter",
               "nombre": "SWEA4513",
               "carpeta_id": "1gszEH3upwr5BxFGTbegzMFD5Yd--XGpx",
@@ -65758,7 +65758,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 775,
+              "codigo": 778,
               "categoria": "Sueter",
               "nombre": "SWEA7199",
               "carpeta_id": "1FKB0syP6NXvIB3bFixBmjVm6o-Zkd8TF",
@@ -65856,7 +65856,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 776,
+              "codigo": 779,
               "categoria": "Sueter",
               "nombre": "SWEA7239",
               "carpeta_id": "14yBFXGOucaUILBJaFP_bn_yZhbpP_E0Q",
@@ -65984,7 +65984,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 777,
+              "codigo": 780,
               "categoria": "Sueter",
               "nombre": "SWEA7784",
               "carpeta_id": "1JyBo5vGLqMyMNFfdPDX3A-2gmJxKp2AG",
@@ -66127,7 +66127,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tapado.svg",
           "producto": [
             {
-              "codigo": 778,
+              "codigo": 781,
               "categoria": "Tapado",
               "nombre": "TAPA2022",
               "carpeta_id": "1h87Lrh1neWIT7C3fNm_PBi_ZIGMGYx8y",
@@ -66269,7 +66269,7 @@
               "upd": "2026-03-03T08:00:00.000Z"
             },
             {
-              "codigo": 780,
+              "codigo": 783,
               "categoria": "Tapado",
               "nombre": "TAPA2273",
               "carpeta_id": "1DPLyfxSu_FJLckQQizHWYinsEpPG_YTz",
@@ -66414,7 +66414,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 781,
+              "codigo": 784,
               "categoria": "Tapado",
               "nombre": "TAPA2669",
               "carpeta_id": "1xMoOdNtV5o58lL1iNJo8mfXL82lscM1h",
@@ -66539,7 +66539,7 @@
               "upd": "2026-03-04T08:00:00.000Z"
             },
             {
-              "codigo": 783,
+              "codigo": 786,
               "categoria": "Tapado",
               "nombre": "TAPA2971",
               "carpeta_id": "17hrz935N3g7hlD20F0qxqYNtKzpI1KVv",
@@ -66691,7 +66691,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 784,
+              "codigo": 787,
               "categoria": "Tapado",
               "nombre": "TAPA3058",
               "carpeta_id": "1TpEK2_fePT_MnuFsI2L1gl0OaetVFUzs",
@@ -66812,7 +66812,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 785,
+              "codigo": 788,
               "categoria": "Tapado",
               "nombre": "TAPA3445",
               "carpeta_id": "1_1vC1QFek0xLIURK6iNSwj2oPr2SUX5H",
@@ -67040,7 +67040,7 @@
               "upd": "2025-08-23T07:00:00.000Z"
             },
             {
-              "codigo": 786,
+              "codigo": 789,
               "categoria": "Tapado",
               "nombre": "TAPA4761",
               "carpeta_id": "1HQiaun84BvOklv9BTRYTjpERBn0risVh",
@@ -67190,7 +67190,7 @@
               "upd": "2026-06-27T07:00:00.000Z"
             },
             {
-              "codigo": 788,
+              "codigo": 791,
               "categoria": "Tapado",
               "nombre": "TAPA5026",
               "carpeta_id": "1EjleiRMiGjAcucTPDH2S0VbuQ-u6U9Lp",
@@ -67331,7 +67331,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 789,
+              "codigo": 792,
               "categoria": "Tapado",
               "nombre": "TAPA5175",
               "carpeta_id": "1GauQCR7OnoDeBIAUvUWVbeYkCnCrtTJt",
@@ -67508,7 +67508,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 791,
+              "codigo": 794,
               "categoria": "Tapado",
               "nombre": "TAPA5212",
               "carpeta_id": "1saUwXKOImtwyw39BnVL_HYZ65NUTWFnS",
@@ -67649,7 +67649,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 792,
+              "codigo": 795,
               "categoria": "Tapado",
               "nombre": "TAPA5832",
               "carpeta_id": "1JZ6TSNATL8BkxmqFUq6hqRK9Z1KFZ89m",
@@ -67802,7 +67802,7 @@
               "upd": "2025-08-18T07:00:00.000Z"
             },
             {
-              "codigo": 793,
+              "codigo": 796,
               "categoria": "Tapado",
               "nombre": "TAPA6837",
               "carpeta_id": "1bKoLGmPaOOUTp83jyp-_F6BJ6-KUoOhN",
@@ -67931,7 +67931,7 @@
               "upd": "2025-08-26T07:00:00.000Z"
             },
             {
-              "codigo": 794,
+              "codigo": 797,
               "categoria": "Tapado",
               "nombre": "TAPA7255",
               "carpeta_id": "129UDNFoW0ZcPryVvhx8Tw1oloLaK2FN_",
@@ -68038,7 +68038,7 @@
               "upd": "2026-06-29T07:00:00.000Z"
             },
             {
-              "codigo": 795,
+              "codigo": 798,
               "categoria": "Tapado",
               "nombre": "TAPA7532",
               "carpeta_id": "1Oj19s9Et7roSEeLlyneX9JzEfGhd39uk",
@@ -68209,7 +68209,7 @@
               "upd": "2026-06-27T07:00:00.000Z"
             },
             {
-              "codigo": 797,
+              "codigo": 800,
               "categoria": "Tapado",
               "nombre": "TAPA8171",
               "carpeta_id": "1Gt2PQJUAGLyE2lJIulN3pA4u0thAlfL_",
@@ -68360,7 +68360,7 @@
               "upd": "2025-08-26T07:00:00.000Z"
             },
             {
-              "codigo": 798,
+              "codigo": 801,
               "categoria": "Tapado",
               "nombre": "TAPA8174",
               "carpeta_id": "1s6rlsBNKm4MMjn1ZQHDCNwR-ruN4S5bc",
@@ -68510,7 +68510,7 @@
               "upd": "2026-08-08T07:00:00.000Z"
             },
             {
-              "codigo": 800,
+              "codigo": 803,
               "categoria": "Tapado",
               "nombre": "TAPA8271",
               "carpeta_id": "1n6qS4GisIUGpDTB4e_qFTHWZj1A3NPwk",
@@ -72000,8 +72000,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "36",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -72066,14 +72066,34 @@
                   "precio": 4166.67,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "36"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 5000,
                   "variedad": "Pack x3",
                   "minima": 3,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "36"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2025-08-05T07:00:00.000Z"
@@ -75204,7 +75224,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "27",
+                  "valor": "25",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -75342,7 +75362,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "27"
+                          "stock": "25"
                         }
                       ]
                     }
@@ -75359,7 +75379,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "27"
+                          "stock": "25"
                         }
                       ]
                     }
@@ -82794,6 +82814,149 @@
             {
               "codigo": 743,
               "categoria": "Soquetes",
+              "nombre": "SOQU4227",
+              "carpeta_id": "1Q2aGpsfaZY_cCzUzMVGz6K6LFboLeDlA",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Classic X 3 liso"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELEMENTO"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Adulto",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodon"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "T Unico 40-45"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Blanco",
+                      "hex": "#FFFFFF"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "216",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "04-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1166746787,
+                  "url": "https://wa.me/5491166746787?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SOQU4227%0A%F0%9F%94%B9%20Modelo%3A%20Classic%20X%203%20liso%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20T%20Unico%2040-45"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 1750,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "216"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 2333.34,
+                  "variedad": "Pack x3",
+                  "minima": 3,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "216"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 3000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "216"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-11-04T08:00:00.000Z"
+            },
+            {
+              "codigo": 746,
+              "categoria": "Soquetes",
               "nombre": "SOQU4334",
               "carpeta_id": "1u0eIl38xIUSIAzs5AO59GUAQgRviCPbV",
               "descripcion": {
@@ -82892,7 +83055,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 744,
+              "codigo": 747,
               "categoria": "Soquetes",
               "nombre": "SOQU4736",
               "carpeta_id": "1Rn4qhB7wKe-4zDLFazRVYp43U5O0mvix",
@@ -83007,7 +83170,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 746,
+              "codigo": 749,
               "categoria": "Soquetes",
               "nombre": "SOQU4890",
               "carpeta_id": "1vqVkUD8u-0AOOsA10nhsBPNMfc_S3xVZ",
@@ -83148,7 +83311,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 747,
+              "codigo": 750,
               "categoria": "Soquetes",
               "nombre": "SOQU5933",
               "carpeta_id": "1dZFcj8GTWTCtCLha4g-a_ZBxIeH0EjHf",
@@ -83279,7 +83442,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 749,
+              "codigo": 752,
               "categoria": "Soquetes",
               "nombre": "SOQU6543",
               "carpeta_id": "1IcSwQlBDk5ka46-Um50UWCFOtx-GLUTq",
@@ -83418,7 +83581,7 @@
               "upd": "2026-09-30T07:00:00.000Z"
             },
             {
-              "codigo": 752,
+              "codigo": 755,
               "categoria": "Soquetes",
               "nombre": "SOQU6844",
               "carpeta_id": "1YX1soAgwzyYouHYCp5r8rLkNUEa_GaWj",
@@ -83513,7 +83676,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 754,
+              "codigo": 757,
               "categoria": "Soquetes",
               "nombre": "SOQU6875",
               "carpeta_id": "1SKwqQviNx092vyoIIpe-rzKldH_cSBF4",
@@ -83644,7 +83807,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 756,
+              "codigo": 759,
               "categoria": "Soquetes",
               "nombre": "SOQU6985",
               "carpeta_id": "1-zabU4_ypEVzlbSJCPQ4rJQeXc-d01Sx",
@@ -83800,7 +83963,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 757,
+              "codigo": 760,
               "categoria": "Soquetes",
               "nombre": "SOQU7018",
               "carpeta_id": "1pfsgK7l1QbntsO5J-YsVDL4VqntWNMjZ",
@@ -83936,7 +84099,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 758,
+              "codigo": 761,
               "categoria": "Soquetes",
               "nombre": "SOQU7019",
               "carpeta_id": "1X0yzYLdPwL4mlDgIRoXqqBOEbv-dqWux",
@@ -84077,7 +84240,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 759,
+              "codigo": 762,
               "categoria": "Soquetes",
               "nombre": "SOQU7897",
               "carpeta_id": "1gaCw3uqUAK4iR7ASX02gw1gdyoizkdWJ",
@@ -84174,7 +84337,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 760,
+              "codigo": 763,
               "categoria": "Soquetes",
               "nombre": "SOQU8534",
               "carpeta_id": "1mG1RD97lQTQMwUieVbiP39DzBioB7MNs",
@@ -84302,7 +84465,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 761,
+              "codigo": 764,
               "categoria": "Soquetes",
               "nombre": "SOQU8547",
               "carpeta_id": "1svuK-8UP5twfmp86vHbx2aEGK9qUj466",
@@ -84433,7 +84596,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 763,
+              "codigo": 766,
               "categoria": "Soquetes",
               "nombre": "SOQU8706",
               "carpeta_id": "17n3jKy6uHUzsC00-D5k3Adn9MjFvLB7X",
@@ -84564,7 +84727,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 765,
+              "codigo": 768,
               "categoria": "Soquetes",
               "nombre": "SOQU9376",
               "carpeta_id": "1kmLc8MNcrQ7C4ZWplKpAxnZMkuq9kPf-",
@@ -84659,7 +84822,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
-              "codigo": 801,
+              "codigo": 804,
               "categoria": "Top",
               "nombre": "TOP2036",
               "carpeta_id": "1mAHBvrNpN15VH4M-BXYI51ubylJUQs1P",
@@ -84752,7 +84915,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 803,
+              "codigo": 806,
               "categoria": "Top",
               "nombre": "TOP3532",
               "carpeta_id": "17XyffOqod383JBC3MRDzP5f9TkcuWKq4",
@@ -84845,7 +85008,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 805,
+              "codigo": 808,
               "categoria": "Top",
               "nombre": "TOP4556",
               "carpeta_id": "1VZaGFajDPvhrwsiYIx4cs4UdQRLe2RGT",
@@ -84938,7 +85101,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 807,
+              "codigo": 810,
               "categoria": "Top",
               "nombre": "TOP8032",
               "carpeta_id": "1VA7tBaQOlZXMdnUVoNQ0dQMkCwZoewzF",
@@ -85031,7 +85194,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 809,
+              "codigo": 812,
               "categoria": "Top",
               "nombre": "TOP9427",
               "carpeta_id": "14cFi7Yt9ln_4MxYBv0hifpQmyc0Mmgpk",
@@ -85131,7 +85294,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/vedetina.svg",
           "producto": [
             {
-              "codigo": 811,
+              "codigo": 814,
               "categoria": "Vedetina",
               "nombre": "VEDE1235",
               "carpeta_id": "1uv3ZeK9_f47RbfSQu5Ry5ZODcXcEcnNh",
@@ -85224,7 +85387,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 813,
+              "codigo": 816,
               "categoria": "Vedetina",
               "nombre": "VEDE1475",
               "carpeta_id": "188RyuECyFf-DwYynwv1GnGotvl542eH2",
@@ -85317,7 +85480,7 @@
               "upd": "2025-10-26T07:00:00.000Z"
             },
             {
-              "codigo": 815,
+              "codigo": 818,
               "categoria": "Vedetina",
               "nombre": "VEDE2000",
               "carpeta_id": "149xyRmveUuNdpeP1DZyA3YW_sqM9ocST",
@@ -85452,7 +85615,7 @@
               "upd": "2025-08-05T07:00:00.000Z"
             },
             {
-              "codigo": 816,
+              "codigo": 819,
               "categoria": "Vedetina",
               "nombre": "VEDE9652",
               "carpeta_id": "1kkch7ej_0IpZyM5lvVCVrp-lM1JW_e2p",
@@ -85583,5 +85746,5 @@
     "banco": "MercadoPago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1793806187235
+  "timestamp_ms": 1793820598641
 }
