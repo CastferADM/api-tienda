@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T04:42:59.907Z",
-  "timestamp_ms": 1794113087689,
+  "generated_at": "2026-11-08T21:13:01.655Z",
+  "timestamp_ms": 1794172616911,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -13,6 +13,18 @@
       "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
       "logoUrl": "BD_TIENDAS_Images/CASTFER.LOGOTIPO.023342.png",
       "qrData": "REDES DE CONTACTO",
+      "qrKey": "REDES DE CONTACTO",
+      "qrOptions": {
+        "BLOGGER": "https://cast-fer.blogspot.com",
+        "CATALOGO": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link",
+        "SITIO_WEB": "https://www.castfer.com.ar",
+        "INSTAGRAM": "https://Instagram.com/cf.castfer",
+        "FACEBOOK": "https://facebook.com/100038029245417",
+        "TIKTOK": "https://tiktok.com/cf.castfer",
+        "MAPS": "https://maps.google.com/?q=ChIJqRVNNA7JvJURQxU7WrDOz4o",
+        "FORMULARIO_CLIENTE": "https://script.google.com/macros/s/AKfycbySMq7IZrZMhXE2wZAH-4YCLV8S-VpwjiTcKMAa1jonor7Zyjd2IdJo1EHZMs9WJahSKg/exec?view=client_form",
+        "FORMULARIO_COMPROBANTE": "https://docs.google.com/forms/d/1KKSTE9-6Vl4AXLz-WSX3qCGnN1raKeUhI7WQW8Iq0fE/edit?usp=drivesdk"
+      },
       "config": {
         "minorSurcharge": 0,
         "minimumPurchase": 4,
@@ -40,7 +52,7 @@
     },
     "JM MAYORISTA": {
       "name": "JM MAYORISTA",
-      "businessName": "JM MAYORISTA",
+      "businessName": "CASTFER",
       "address": "Gral. Venancio Flores 2545, C1406GHC Cdad. Autónoma de Buenos Aires, Argentina",
       "cuit": "20940730423",
       "iibb": "",
@@ -49,6 +61,18 @@
       "policies": "Proveedor de ropa importada",
       "logoUrl": "BD_TIENDAS_Images/JM MAYORISTA.LOGOTIPO.173749.png",
       "qrData": "WHATSAPP",
+      "qrKey": "WHATSAPP",
+      "qrOptions": {
+        "BLOGGER": "https://cast-fer.blogspot.com",
+        "CATALOGO": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link",
+        "SITIO_WEB": "https://www.castfer.com.ar",
+        "INSTAGRAM": "https://Instagram.com/cf.castfer",
+        "FACEBOOK": "https://facebook.com/100038029245417",
+        "TIKTOK": "https://tiktok.com/cf.castfer",
+        "MAPS": "",
+        "FORMULARIO_CLIENTE": "https://script.google.com/macros/s/AKfycbySMq7IZrZMhXE2wZAH-4YCLV8S-VpwjiTcKMAa1jonor7Zyjd2IdJo1EHZMs9WJahSKg/exec?view=client_form",
+        "FORMULARIO_COMPROBANTE": "https://docs.google.com/forms/d/1KKSTE9-6Vl4AXLz-WSX3qCGnN1raKeUhI7WQW8Iq0fE/edit?usp=drivesdk"
+      },
       "config": {
         "minorSurcharge": 0,
         "minimumPurchase": 4,
