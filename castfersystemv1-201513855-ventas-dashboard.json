@@ -232246,6 +232246,72 @@
           "netoGravado": 0,
           "montoIva": 0
         }
+      ],
+      "9cf81e98": [
+        {
+          "id": "aac21dde",
+          "fecha": "2026-11-11 13:18",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 40000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Transferencia",
+          "cajaId": "9cf81e98",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-11-11",
+          "bancoTransferencia": "MercadoPago",
+          "aliasTransferencia": "br.3295",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "aac21dde-27566",
+              "descripcion": "PANT5317-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 40000,
+              "subtotal": 40000,
+              "tipoPrecio": "PANT5317-Menor",
+              "productoId": "PANT5317",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT5317-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 40000,
+          "subtotal": 40000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        }
       ]
     },
     "JM MAYORISTA": {
@@ -235607,6 +235673,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sun D",
       "estado": "ABIERTA"
+    },
+    "9cf81e98": {
+      "cajaId": "9cf81e98",
+      "fecha": "2026-11-11",
+      "tienda": "CASTFER",
+      "asesor": "BRYAN COLQUE",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sun D",
+      "estado": "ABIERTA"
     }
   },
   "stores": {
@@ -238254,6 +238329,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sun D",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "9cf81e98",
+        "fecha": "2026-11-11",
+        "tienda": "CASTFER",
+        "asesor": "BRYAN COLQUE",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sun D",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -239014,5 +239098,5 @@
     "VEDE9771": "https://drive.google.com/thumbnail?id=1sgRo-tWHkC2MKPJDypOEePuJnEsNS1J6&sz=s600",
     "CAMP3297": "https://drive.google.com/thumbnail?id=1Q-rwbEXgxRrD32A-mNp1SpaqbcYOx2Kt&sz=s600-rw"
   },
-  "timestamp_ms": 1794385614716
+  "timestamp_ms": 1794403522208
 }
