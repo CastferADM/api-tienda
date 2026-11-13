@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T19:12:54.185Z",
-  "timestamp_ms": 1794597320166,
+  "generated_at": "2026-11-13T23:13:09.903Z",
+  "timestamp_ms": 1794611752182,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -32881,8 +32881,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": 30000,
+          "STOCK_ACTUAL": 30000
         }
       ],
       "prices": [
@@ -34366,8 +34366,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 42,
-          "STOCK_ACTUAL": 42
+          "stock": 41,
+          "STOCK_ACTUAL": 41
         },
         {
           "variation_id": "PANT2685-Surtido-Surtido-JM MAYORISTA",
@@ -99339,8 +99339,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 107,
-          "STOCK_ACTUAL": 107
+          "stock": 106,
+          "STOCK_ACTUAL": 106
         },
         {
           "variation_id": "CONJ4807-Surtido-Surtido-JM MAYORISTA",
@@ -155278,6 +155278,36 @@
         "visible": true
       }
     ],
+    "BERM1360": [
+      {
+        "id": "BERM1360-Menor",
+        "variedad_id": "BERM1360-Menor",
+        "variety_id": "BERM1360-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM1360-Docena",
+        "variedad_id": "BERM1360-Docena",
+        "variety_id": "BERM1360-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 22000,
+        "precio_unitario": 22000,
+        "precio_final": 22000,
+        "final_price": 22000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "BERM1416": [
       {
         "id": "BERM1416-Menor",
@@ -155500,6 +155530,66 @@
         "visible": true
       }
     ],
+    "BERM2247": [
+      {
+        "id": "BERM2247-Menor",
+        "variedad_id": "BERM2247-Menor",
+        "variety_id": "BERM2247-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 28000,
+        "precio_unitario": 28000,
+        "precio_final": 28000,
+        "final_price": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM2247-Docena",
+        "variedad_id": "BERM2247-Docena",
+        "variety_id": "BERM2247-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 21000,
+        "precio_unitario": 21000,
+        "precio_final": 21000,
+        "final_price": 21000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "BERM2335": [
+      {
+        "id": "BERM2335-Menor",
+        "variedad_id": "BERM2335-Menor",
+        "variety_id": "BERM2335-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 27000,
+        "precio_unitario": 27000,
+        "precio_final": 27000,
+        "final_price": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM2335-Docena",
+        "variedad_id": "BERM2335-Docena",
+        "variety_id": "BERM2335-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "BERM2506": [
       {
         "id": "BERM2506-Menor",
@@ -155648,6 +155738,50 @@
         "visible": false
       }
     ],
+    "BERM3109": [
+      {
+        "id": "BERM3109-Menor",
+        "variedad_id": "BERM3109-Menor",
+        "variety_id": "BERM3109-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM3109-Docena",
+        "variedad_id": "BERM3109-Docena",
+        "variety_id": "BERM3109-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "BERM3109-Media-Docena",
+        "variedad_id": "BERM3109-Media-Docena",
+        "variety_id": "BERM3109-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "BERM3702": [
       {
         "id": "BERM3702-Menor",
@@ -155780,6 +155914,36 @@
         "final_price": 20000,
         "cantidad_minima": 12,
         "visible": false
+      }
+    ],
+    "BERM5149": [
+      {
+        "id": "BERM5149-Menor",
+        "variedad_id": "BERM5149-Menor",
+        "variety_id": "BERM5149-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM5149-Docena",
+        "variedad_id": "BERM5149-Docena",
+        "variety_id": "BERM5149-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 12,
+        "visible": true
       }
     ],
     "BERM5184": [
@@ -155928,6 +156092,36 @@
         "precio_unitario": 21000,
         "precio_final": 21000,
         "final_price": 21000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "BERM5868": [
+      {
+        "id": "BERM5868-Menor",
+        "variedad_id": "BERM5868-Menor",
+        "variety_id": "BERM5868-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 23000,
+        "precio_unitario": 23000,
+        "precio_final": 23000,
+        "final_price": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM5868-Docena",
+        "variedad_id": "BERM5868-Docena",
+        "variety_id": "BERM5868-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -156478,6 +156672,36 @@
         "final_price": 19500,
         "cantidad_minima": 6,
         "visible": false
+      }
+    ],
+    "BERM9350": [
+      {
+        "id": "BERM9350-Menor",
+        "variedad_id": "BERM9350-Menor",
+        "variety_id": "BERM9350-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM9350-Docena",
+        "variedad_id": "BERM9350-Docena",
+        "variety_id": "BERM9350-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 22000,
+        "precio_unitario": 22000,
+        "precio_final": 22000,
+        "final_price": 22000,
+        "cantidad_minima": 12,
+        "visible": true
       }
     ],
     "BERM9381": [
@@ -158274,6 +158498,36 @@
         "visible": true
       }
     ],
+    "CAMI4652": [
+      {
+        "id": "CAMI4652-Menor",
+        "variedad_id": "CAMI4652-Menor",
+        "variety_id": "CAMI4652-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 34000,
+        "precio_unitario": 34000,
+        "precio_final": 34000,
+        "final_price": 34000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMI4652-Docena",
+        "variedad_id": "CAMI4652-Docena",
+        "variety_id": "CAMI4652-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 27000,
+        "precio_unitario": 27000,
+        "precio_final": 27000,
+        "final_price": 27000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "CAMI5296": [
       {
         "id": "CAMI5296-Menor",
@@ -158406,6 +158660,36 @@
         "precio_unitario": 18000,
         "precio_final": 18000,
         "final_price": 18000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CAMP1001": [
+      {
+        "id": "CAMP1001-Menor",
+        "variedad_id": "CAMP1001-Menor",
+        "variety_id": "CAMP1001-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 45000,
+        "precio_unitario": 45000,
+        "precio_final": 45000,
+        "final_price": 45000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP1001-Docena",
+        "variedad_id": "CAMP1001-Docena",
+        "variety_id": "CAMP1001-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 35000,
+        "precio_unitario": 35000,
+        "precio_final": 35000,
+        "final_price": 35000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -158616,6 +158900,94 @@
         "final_price": 48000,
         "cantidad_minima": 12,
         "visible": false
+      }
+    ],
+    "CAMP1160": [
+      {
+        "id": "CAMP1160-Menor",
+        "variedad_id": "CAMP1160-Menor",
+        "variety_id": "CAMP1160-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 55000,
+        "precio_unitario": 55000,
+        "precio_final": 55000,
+        "final_price": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP1160-Docena",
+        "variedad_id": "CAMP1160-Docena",
+        "variety_id": "CAMP1160-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 40000,
+        "precio_unitario": 40000,
+        "precio_final": 40000,
+        "final_price": 40000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMP1160-Media-Docena",
+        "variedad_id": "CAMP1160-Media-Docena",
+        "variety_id": "CAMP1160-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 40000,
+        "precio_unitario": 40000,
+        "precio_final": 40000,
+        "final_price": 40000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "CAMP1176": [
+      {
+        "id": "CAMP1176-Menor",
+        "variedad_id": "CAMP1176-Menor",
+        "variety_id": "CAMP1176-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 50000,
+        "precio_unitario": 50000,
+        "precio_final": 50000,
+        "final_price": 50000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP1176-Docena",
+        "variedad_id": "CAMP1176-Docena",
+        "variety_id": "CAMP1176-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 36000,
+        "precio_unitario": 36000,
+        "precio_final": 36000,
+        "final_price": 36000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMP1176-Media-Docena",
+        "variedad_id": "CAMP1176-Media-Docena",
+        "variety_id": "CAMP1176-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 36000,
+        "precio_unitario": 36000,
+        "precio_final": 36000,
+        "final_price": 36000,
+        "cantidad_minima": 6,
+        "visible": true
       }
     ],
     "CAMP1314": [
@@ -159636,6 +160008,50 @@
         "visible": true
       }
     ],
+    "CAMP3297": [
+      {
+        "id": "CAMP3297-Menor",
+        "variedad_id": "CAMP3297-Menor",
+        "variety_id": "CAMP3297-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 55000,
+        "precio_unitario": 55000,
+        "precio_final": 55000,
+        "final_price": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP3297-Docena",
+        "variedad_id": "CAMP3297-Docena",
+        "variety_id": "CAMP3297-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 40000,
+        "precio_unitario": 40000,
+        "precio_final": 40000,
+        "final_price": 40000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMP3297-Media-Docena",
+        "variedad_id": "CAMP3297-Media-Docena",
+        "variety_id": "CAMP3297-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 40000,
+        "precio_unitario": 40000,
+        "precio_final": 40000,
+        "final_price": 40000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "CAMP3397": [
       {
         "id": "CAMP3397-Menor",
@@ -160190,6 +160606,36 @@
         "visible": true
       }
     ],
+    "CAMP4710": [
+      {
+        "id": "CAMP4710-Menor",
+        "variedad_id": "CAMP4710-Menor",
+        "variety_id": "CAMP4710-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 55000,
+        "precio_unitario": 55000,
+        "precio_final": 55000,
+        "final_price": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP4710-Docena",
+        "variedad_id": "CAMP4710-Docena",
+        "variety_id": "CAMP4710-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 40000,
+        "precio_unitario": 40000,
+        "precio_final": 40000,
+        "final_price": 40000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "CAMP4728": [
       {
         "id": "CAMP4728-Menor",
@@ -160336,6 +160782,36 @@
         "precio_unitario": 28000,
         "precio_final": 28000,
         "final_price": 28000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CAMP5019": [
+      {
+        "id": "CAMP5019-Menor",
+        "variedad_id": "CAMP5019-Menor",
+        "variety_id": "CAMP5019-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 55000,
+        "precio_unitario": 55000,
+        "precio_final": 55000,
+        "final_price": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP5019-Docena",
+        "variedad_id": "CAMP5019-Docena",
+        "variety_id": "CAMP5019-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 40000,
+        "precio_unitario": 40000,
+        "precio_final": 40000,
+        "final_price": 40000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -161060,6 +161536,50 @@
         "visible": true
       }
     ],
+    "CAMP6510": [
+      {
+        "id": "CAMP6510-Menor",
+        "variedad_id": "CAMP6510-Menor",
+        "variety_id": "CAMP6510-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 65000,
+        "precio_unitario": 65000,
+        "precio_final": 65000,
+        "final_price": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP6510-Docena",
+        "variedad_id": "CAMP6510-Docena",
+        "variety_id": "CAMP6510-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 46000,
+        "precio_unitario": 46000,
+        "precio_final": 46000,
+        "final_price": 46000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMP6510-Media-Docena",
+        "variedad_id": "CAMP6510-Media-Docena",
+        "variety_id": "CAMP6510-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 46000,
+        "precio_unitario": 46000,
+        "precio_final": 46000,
+        "final_price": 46000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "CAMP6559": [
       {
         "id": "CAMP6559-Menor",
@@ -161536,6 +162056,50 @@
         "visible": false
       }
     ],
+    "CAMP7014": [
+      {
+        "id": "CAMP7014-Menor",
+        "variedad_id": "CAMP7014-Menor",
+        "variety_id": "CAMP7014-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 60000,
+        "precio_unitario": 60000,
+        "precio_final": 60000,
+        "final_price": 60000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP7014-Docena",
+        "variedad_id": "CAMP7014-Docena",
+        "variety_id": "CAMP7014-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 43000,
+        "precio_unitario": 43000,
+        "precio_final": 43000,
+        "final_price": 43000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMP7014-Media-Docena",
+        "variedad_id": "CAMP7014-Media-Docena",
+        "variety_id": "CAMP7014-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 43000,
+        "precio_unitario": 43000,
+        "precio_final": 43000,
+        "final_price": 43000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "CAMP7026": [
       {
         "id": "CAMP7026-Menor",
@@ -161716,6 +162280,36 @@
         "visible": true
       }
     ],
+    "CAMP7457": [
+      {
+        "id": "CAMP7457-Menor",
+        "variedad_id": "CAMP7457-Menor",
+        "variety_id": "CAMP7457-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 55000,
+        "precio_unitario": 55000,
+        "precio_final": 55000,
+        "final_price": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP7457-Docena",
+        "variedad_id": "CAMP7457-Docena",
+        "variety_id": "CAMP7457-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 39000,
+        "precio_unitario": 39000,
+        "precio_final": 39000,
+        "final_price": 39000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "CAMP7490": [
       {
         "id": "CAMP7490-Menor",
@@ -161786,6 +162380,50 @@
         "precio_unitario": 40000,
         "precio_final": 40000,
         "final_price": 40000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "CAMP7813": [
+      {
+        "id": "CAMP7813-Menor",
+        "variedad_id": "CAMP7813-Menor",
+        "variety_id": "CAMP7813-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 45000,
+        "precio_unitario": 45000,
+        "precio_final": 45000,
+        "final_price": 45000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP7813-Docena",
+        "variedad_id": "CAMP7813-Docena",
+        "variety_id": "CAMP7813-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMP7813-Media-Docena",
+        "variedad_id": "CAMP7813-Media-Docena",
+        "variety_id": "CAMP7813-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
         "cantidad_minima": 6,
         "visible": true
       }
@@ -162044,6 +162682,50 @@
         "visible": false
       }
     ],
+    "CAMP8376": [
+      {
+        "id": "CAMP8376-Menor",
+        "variedad_id": "CAMP8376-Menor",
+        "variety_id": "CAMP8376-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 42000,
+        "precio_unitario": 42000,
+        "precio_final": 42000,
+        "final_price": 42000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP8376-Docena",
+        "variedad_id": "CAMP8376-Docena",
+        "variety_id": "CAMP8376-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMP8376-Media-Docena",
+        "variedad_id": "CAMP8376-Media-Docena",
+        "variety_id": "CAMP8376-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "CAMP8377": [
       {
         "id": "CAMP8377-Menor",
@@ -162284,6 +162966,22 @@
         "visible": true
       }
     ],
+    "CAMP8915": [
+      {
+        "id": "CAMP8915-Menor",
+        "variedad_id": "CAMP8915-Menor",
+        "variety_id": "CAMP8915-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 60000,
+        "precio_unitario": 60000,
+        "precio_final": 60000,
+        "final_price": 60000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "CAMP9006": [
       {
         "id": "CAMP9006-Menor",
@@ -162404,6 +163102,36 @@
         "visible": true
       }
     ],
+    "CAMP9231": [
+      {
+        "id": "CAMP9231-Menor",
+        "variedad_id": "CAMP9231-Menor",
+        "variety_id": "CAMP9231-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 60000,
+        "precio_unitario": 60000,
+        "precio_final": 60000,
+        "final_price": 60000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP9231-Docena",
+        "variedad_id": "CAMP9231-Docena",
+        "variety_id": "CAMP9231-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 45000,
+        "precio_unitario": 45000,
+        "precio_final": 45000,
+        "final_price": 45000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "CAMP9259": [
       {
         "id": "CAMP9259-Menor",
@@ -162477,6 +163205,36 @@
         "precio_final": 60000,
         "final_price": 60000,
         "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CAMP9338": [
+      {
+        "id": "CAMP9338-Menor",
+        "variedad_id": "CAMP9338-Menor",
+        "variety_id": "CAMP9338-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 65000,
+        "precio_unitario": 65000,
+        "precio_final": 65000,
+        "final_price": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP9338-Docena",
+        "variedad_id": "CAMP9338-Docena",
+        "variety_id": "CAMP9338-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 49000,
+        "precio_unitario": 49000,
+        "precio_final": 49000,
+        "final_price": 49000,
+        "cantidad_minima": 12,
         "visible": true
       }
     ],
@@ -162704,6 +163462,50 @@
         "visible": true
       }
     ],
+    "CAMP9755": [
+      {
+        "id": "CAMP9755-Menor",
+        "variedad_id": "CAMP9755-Menor",
+        "variety_id": "CAMP9755-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 45000,
+        "precio_unitario": 45000,
+        "precio_final": 45000,
+        "final_price": 45000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP9755-Docena",
+        "variedad_id": "CAMP9755-Docena",
+        "variety_id": "CAMP9755-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMP9755-Media-Docena",
+        "variedad_id": "CAMP9755-Media-Docena",
+        "variety_id": "CAMP9755-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "CAMP9930": [
       {
         "id": "CAMP9930-Menor",
@@ -162760,6 +163562,36 @@
         "precio_unitario": 38000,
         "precio_final": 38000,
         "final_price": 38000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CANC7179": [
+      {
+        "id": "CANC7179-Menor",
+        "variedad_id": "CANC7179-Menor",
+        "variety_id": "CANC7179-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 2500,
+        "precio_unitario": 2500,
+        "precio_final": 2500,
+        "final_price": 2500,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CANC7179-Docena",
+        "variedad_id": "CANC7179-Docena",
+        "variety_id": "CANC7179-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 2083.33,
+        "precio_unitario": 2083.33,
+        "precio_final": 2083.33,
+        "final_price": 2083.33,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -163544,6 +164376,96 @@
         "visible": true
       }
     ],
+    "CHOM1766": [
+      {
+        "id": "CHOM1766-Menor",
+        "variedad_id": "CHOM1766-Menor",
+        "variety_id": "CHOM1766-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM1766-Docena",
+        "variedad_id": "CHOM1766-Docena",
+        "variety_id": "CHOM1766-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 14500,
+        "precio_unitario": 14500,
+        "precio_final": 14500,
+        "final_price": 14500,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CHOM2059": [
+      {
+        "id": "CHOM2059-Menor",
+        "variedad_id": "CHOM2059-Menor",
+        "variety_id": "CHOM2059-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 16000,
+        "precio_unitario": 16000,
+        "precio_final": 16000,
+        "final_price": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM2059-Docena",
+        "variedad_id": "CHOM2059-Docena",
+        "variety_id": "CHOM2059-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 12000,
+        "precio_unitario": 12000,
+        "precio_final": 12000,
+        "final_price": 12000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CHOM2504": [
+      {
+        "id": "CHOM2504-Menor",
+        "variedad_id": "CHOM2504-Menor",
+        "variety_id": "CHOM2504-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 16000,
+        "precio_unitario": 16000,
+        "precio_final": 16000,
+        "final_price": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM2504-Docena",
+        "variedad_id": "CHOM2504-Docena",
+        "variety_id": "CHOM2504-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 12000,
+        "precio_unitario": 12000,
+        "precio_final": 12000,
+        "final_price": 12000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "CHOM2715": [
       {
         "id": "CHOM2715-Menor",
@@ -163585,6 +164507,36 @@
         "precio_final": 14550,
         "final_price": 14550,
         "cantidad_minima": 4,
+        "visible": true
+      }
+    ],
+    "CHOM2790": [
+      {
+        "id": "CHOM2790-Menor",
+        "variedad_id": "CHOM2790-Menor",
+        "variety_id": "CHOM2790-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 16000,
+        "precio_unitario": 16000,
+        "precio_final": 16000,
+        "final_price": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM2790-Docena",
+        "variedad_id": "CHOM2790-Docena",
+        "variety_id": "CHOM2790-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 11000,
+        "precio_unitario": 11000,
+        "precio_final": 11000,
+        "final_price": 11000,
+        "cantidad_minima": 12,
         "visible": true
       }
     ],
@@ -163648,6 +164600,36 @@
         "visible": true
       }
     ],
+    "CHOM4640": [
+      {
+        "id": "CHOM4640-Menor",
+        "variedad_id": "CHOM4640-Menor",
+        "variety_id": "CHOM4640-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 18000,
+        "precio_unitario": 18000,
+        "precio_final": 18000,
+        "final_price": 18000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM4640-Docena",
+        "variedad_id": "CHOM4640-Docena",
+        "variety_id": "CHOM4640-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 13000,
+        "precio_unitario": 13000,
+        "precio_final": 13000,
+        "final_price": 13000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "CHOM5070": [
       {
         "id": "CHOM5070-Menor",
@@ -163674,6 +164656,36 @@
         "precio_unitario": 17000,
         "precio_final": 17000,
         "final_price": 17000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CHOM5183": [
+      {
+        "id": "CHOM5183-Menor",
+        "variedad_id": "CHOM5183-Menor",
+        "variety_id": "CHOM5183-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 16000,
+        "precio_unitario": 16000,
+        "precio_final": 16000,
+        "final_price": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM5183-Docena",
+        "variedad_id": "CHOM5183-Docena",
+        "variety_id": "CHOM5183-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 12000,
+        "precio_unitario": 12000,
+        "precio_final": 12000,
+        "final_price": 12000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -163738,6 +164750,36 @@
         "visible": true
       }
     ],
+    "CHOM5986": [
+      {
+        "id": "CHOM5986-Menor",
+        "variedad_id": "CHOM5986-Menor",
+        "variety_id": "CHOM5986-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM5986-Docena",
+        "variedad_id": "CHOM5986-Docena",
+        "variety_id": "CHOM5986-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 13000,
+        "precio_unitario": 13000,
+        "precio_final": 13000,
+        "final_price": 13000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "CHOM6398": [
       {
         "id": "CHOM6398-Menor",
@@ -163794,6 +164836,36 @@
         "precio_unitario": 19500,
         "precio_final": 19500,
         "final_price": 19500,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CHOM6662": [
+      {
+        "id": "CHOM6662-Menor",
+        "variedad_id": "CHOM6662-Menor",
+        "variety_id": "CHOM6662-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM6662-Docena",
+        "variedad_id": "CHOM6662-Docena",
+        "variety_id": "CHOM6662-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 13000,
+        "precio_unitario": 13000,
+        "precio_final": 13000,
+        "final_price": 13000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -163914,6 +164986,36 @@
         "precio_unitario": 14000,
         "precio_final": 14000,
         "final_price": 14000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CHOM9170": [
+      {
+        "id": "CHOM9170-Menor",
+        "variedad_id": "CHOM9170-Menor",
+        "variety_id": "CHOM9170-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CHOM9170-Docena",
+        "variedad_id": "CHOM9170-Docena",
+        "variety_id": "CHOM9170-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 19000,
+        "precio_unitario": 19000,
+        "precio_final": 19000,
+        "final_price": 19000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -164494,6 +165596,96 @@
         "visible": true
       }
     ],
+    "CONJ4332": [
+      {
+        "id": "CONJ4332-Menor",
+        "variedad_id": "CONJ4332-Menor",
+        "variety_id": "CONJ4332-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 45000,
+        "precio_unitario": 45000,
+        "precio_final": 45000,
+        "final_price": 45000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "CONJ4332-Docena",
+        "variedad_id": "CONJ4332-Docena",
+        "variety_id": "CONJ4332-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 35000,
+        "precio_unitario": 35000,
+        "precio_final": 35000,
+        "final_price": 35000,
+        "cantidad_minima": 12,
+        "visible": false
+      }
+    ],
+    "CONJ4807": [
+      {
+        "id": "CONJ4807-Menor",
+        "variedad_id": "CONJ4807-Menor",
+        "variety_id": "CONJ4807-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CONJ4807-Docena",
+        "variedad_id": "CONJ4807-Docena",
+        "variety_id": "CONJ4807-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 23000,
+        "precio_unitario": 23000,
+        "precio_final": 23000,
+        "final_price": 23000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CONJ6934": [
+      {
+        "id": "CONJ6934-Menor",
+        "variedad_id": "CONJ6934-Menor",
+        "variety_id": "CONJ6934-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 65000,
+        "precio_unitario": 65000,
+        "precio_final": 65000,
+        "final_price": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CONJ6934-Docena",
+        "variedad_id": "CONJ6934-Docena",
+        "variety_id": "CONJ6934-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 48000,
+        "precio_unitario": 48000,
+        "precio_final": 48000,
+        "final_price": 48000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "CONJ7151": [
       {
         "id": "CONJ7151-Menor",
@@ -164520,6 +165712,110 @@
         "precio_unitario": 45000,
         "precio_final": 45000,
         "final_price": 45000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CONJ7230": [
+      {
+        "id": "CONJ7230-Menor",
+        "variedad_id": "CONJ7230-Menor",
+        "variety_id": "CONJ7230-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 65000,
+        "precio_unitario": 65000,
+        "precio_final": 65000,
+        "final_price": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CONJ7230-Docena",
+        "variedad_id": "CONJ7230-Docena",
+        "variety_id": "CONJ7230-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 48000,
+        "precio_unitario": 48000,
+        "precio_final": 48000,
+        "final_price": 48000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CONJ7259": [
+      {
+        "id": "CONJ7259-Menor",
+        "variedad_id": "CONJ7259-Menor",
+        "variety_id": "CONJ7259-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 45000,
+        "precio_unitario": 45000,
+        "precio_final": 45000,
+        "final_price": 45000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "CONJ7259-Docena",
+        "variedad_id": "CONJ7259-Docena",
+        "variety_id": "CONJ7259-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 35000,
+        "precio_unitario": 35000,
+        "precio_final": 35000,
+        "final_price": 35000,
+        "cantidad_minima": 12,
+        "visible": false
+      },
+      {
+        "id": "CONJ7259-Media-Docena",
+        "variedad_id": "CONJ7259-Media-Docena",
+        "variety_id": "CONJ7259-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 35000,
+        "precio_unitario": 35000,
+        "precio_final": 35000,
+        "final_price": 35000,
+        "cantidad_minima": 6,
+        "visible": false
+      }
+    ],
+    "CONJ8694": [
+      {
+        "id": "CONJ8694-Menor",
+        "variedad_id": "CONJ8694-Menor",
+        "variety_id": "CONJ8694-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 65000,
+        "precio_unitario": 65000,
+        "precio_final": 65000,
+        "final_price": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CONJ8694-Docena",
+        "variedad_id": "CONJ8694-Docena",
+        "variety_id": "CONJ8694-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 52000,
+        "precio_unitario": 52000,
+        "precio_final": 52000,
+        "final_price": 52000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -165208,6 +166504,36 @@
         "visible": true
       }
     ],
+    "JOGG1583": [
+      {
+        "id": "JOGG1583-Menor",
+        "variedad_id": "JOGG1583-Menor",
+        "variety_id": "JOGG1583-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG1583-Docena",
+        "variedad_id": "JOGG1583-Docena",
+        "variety_id": "JOGG1583-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "JOGG1618": [
       {
         "id": "JOGG1618-Menor",
@@ -165432,6 +166758,64 @@
         "visible": true
       }
     ],
+    "JOGG2618": [
+      {
+        "id": "JOGG2618-Menor",
+        "variedad_id": "JOGG2618-Menor",
+        "variety_id": "JOGG2618-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG2618-Docena",
+        "variedad_id": "JOGG2618-Docena",
+        "variety_id": "JOGG2618-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "JOGG2618-Caja",
+        "variedad_id": "JOGG2618-Caja",
+        "variety_id": "JOGG2618-Caja",
+        "nombre": "Caja",
+        "variedad": "Caja",
+        "variety_name": "Caja",
+        "precio": 22000,
+        "precio_unitario": 22000,
+        "precio_final": 22000,
+        "final_price": 22000,
+        "cantidad_minima": 120,
+        "visible": true
+      },
+      {
+        "id": "JOGG2618-Media-Docena",
+        "variedad_id": "JOGG2618-Media-Docena",
+        "variety_id": "JOGG2618-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "JOGG2630": [
       {
         "id": "JOGG2630-Menor",
@@ -165473,6 +166857,36 @@
         "precio_final": 25000,
         "final_price": 25000,
         "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "JOGG2672": [
+      {
+        "id": "JOGG2672-Menor",
+        "variedad_id": "JOGG2672-Menor",
+        "variety_id": "JOGG2672-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG2672-Docena",
+        "variedad_id": "JOGG2672-Docena",
+        "variety_id": "JOGG2672-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
         "visible": true
       }
     ],
@@ -165788,6 +167202,50 @@
         "visible": true
       }
     ],
+    "JOGG4417": [
+      {
+        "id": "JOGG4417-Menor",
+        "variedad_id": "JOGG4417-Menor",
+        "variety_id": "JOGG4417-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG4417-Docena",
+        "variedad_id": "JOGG4417-Docena",
+        "variety_id": "JOGG4417-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "JOGG4417-Media-Docena",
+        "variedad_id": "JOGG4417-Media-Docena",
+        "variety_id": "JOGG4417-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "JOGG4505": [
       {
         "id": "JOGG4505-Menor",
@@ -165904,6 +167362,36 @@
         "final_price": 10000,
         "cantidad_minima": 1,
         "visible": false
+      }
+    ],
+    "JOGG4674": [
+      {
+        "id": "JOGG4674-Menor",
+        "variedad_id": "JOGG4674-Menor",
+        "variety_id": "JOGG4674-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG4674-Docena",
+        "variedad_id": "JOGG4674-Docena",
+        "variety_id": "JOGG4674-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
       }
     ],
     "JOGG5692": [
@@ -166082,6 +167570,80 @@
         "precio_unitario": 25000,
         "precio_final": 25000,
         "final_price": 25000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "JOGG7328": [
+      {
+        "id": "JOGG7328-Menor",
+        "variedad_id": "JOGG7328-Menor",
+        "variety_id": "JOGG7328-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG7328-Docena",
+        "variedad_id": "JOGG7328-Docena",
+        "variety_id": "JOGG7328-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "JOGG7328-Media-Docena",
+        "variedad_id": "JOGG7328-Media-Docena",
+        "variety_id": "JOGG7328-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "JOGG7630": [
+      {
+        "id": "JOGG7630-Menor",
+        "variedad_id": "JOGG7630-Menor",
+        "variety_id": "JOGG7630-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG7630-Docena",
+        "variedad_id": "JOGG7630-Docena",
+        "variety_id": "JOGG7630-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -167540,6 +169102,66 @@
         "visible": true
       }
     ],
+    "MOCH9732": [
+      {
+        "id": "MOCH9732-Menor",
+        "variedad_id": "MOCH9732-Menor",
+        "variety_id": "MOCH9732-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "MOCH9732-Docena",
+        "variedad_id": "MOCH9732-Docena",
+        "variety_id": "MOCH9732-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 22500,
+        "precio_unitario": 22500,
+        "precio_final": 22500,
+        "final_price": 22500,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "MOCH9833": [
+      {
+        "id": "MOCH9833-Menor",
+        "variedad_id": "MOCH9833-Menor",
+        "variety_id": "MOCH9833-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 42400,
+        "precio_unitario": 42400,
+        "precio_final": 42400,
+        "final_price": 42400,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "MOCH9833-Docena",
+        "variedad_id": "MOCH9833-Docena",
+        "variety_id": "MOCH9833-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 31800,
+        "precio_unitario": 31800,
+        "precio_final": 31800,
+        "final_price": 31800,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "MUSC1197": [
       {
         "id": "MUSC1197-Menor",
@@ -168156,6 +169778,110 @@
         "visible": true
       }
     ],
+    "PANT2128": [
+      {
+        "id": "PANT2128-Menor",
+        "variedad_id": "PANT2128-Menor",
+        "variety_id": "PANT2128-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT2128-Docena",
+        "variedad_id": "PANT2128-Docena",
+        "variety_id": "PANT2128-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "PANT2419": [
+      {
+        "id": "PANT2419-Menor",
+        "variedad_id": "PANT2419-Menor",
+        "variety_id": "PANT2419-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT2419-Docena",
+        "variedad_id": "PANT2419-Docena",
+        "variety_id": "PANT2419-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "PANT2419-Media-Docena",
+        "variedad_id": "PANT2419-Media-Docena",
+        "variety_id": "PANT2419-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "PANT2493": [
+      {
+        "id": "PANT2493-Menor",
+        "variedad_id": "PANT2493-Menor",
+        "variety_id": "PANT2493-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT2493-Docena",
+        "variedad_id": "PANT2493-Docena",
+        "variety_id": "PANT2493-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 10000,
+        "precio_unitario": 10000,
+        "precio_final": 10000,
+        "final_price": 10000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "PANT2514": [
       {
         "id": "PANT2514-Menor",
@@ -168306,6 +170032,110 @@
         "visible": false
       }
     ],
+    "PANT2863": [
+      {
+        "id": "PANT2863-Menor",
+        "variedad_id": "PANT2863-Menor",
+        "variety_id": "PANT2863-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT2863-Docena",
+        "variedad_id": "PANT2863-Docena",
+        "variety_id": "PANT2863-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "PANT2865": [
+      {
+        "id": "PANT2865-Menor",
+        "variedad_id": "PANT2865-Menor",
+        "variety_id": "PANT2865-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT2865-Docena",
+        "variedad_id": "PANT2865-Docena",
+        "variety_id": "PANT2865-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "PANT2865-Media-Docena",
+        "variedad_id": "PANT2865-Media-Docena",
+        "variety_id": "PANT2865-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "PANT2955": [
+      {
+        "id": "PANT2955-Menor",
+        "variedad_id": "PANT2955-Menor",
+        "variety_id": "PANT2955-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 35000,
+        "precio_unitario": 35000,
+        "precio_final": 35000,
+        "final_price": 35000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT2955-Docena",
+        "variedad_id": "PANT2955-Docena",
+        "variety_id": "PANT2955-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 27000,
+        "precio_unitario": 27000,
+        "precio_final": 27000,
+        "final_price": 27000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "PANT2984": [
       {
         "id": "PANT2984-Menor",
@@ -168332,6 +170162,36 @@
         "precio_unitario": 30000,
         "precio_final": 30000,
         "final_price": 30000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "PANT3122": [
+      {
+        "id": "PANT3122-Menor",
+        "variedad_id": "PANT3122-Menor",
+        "variety_id": "PANT3122-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT3122-Docena",
+        "variedad_id": "PANT3122-Docena",
+        "variety_id": "PANT3122-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -168426,6 +170286,50 @@
         "visible": false
       }
     ],
+    "PANT3348": [
+      {
+        "id": "PANT3348-Menor",
+        "variedad_id": "PANT3348-Menor",
+        "variety_id": "PANT3348-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT3348-Docena",
+        "variedad_id": "PANT3348-Docena",
+        "variety_id": "PANT3348-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "PANT3348-Media-Docena",
+        "variedad_id": "PANT3348-Media-Docena",
+        "variety_id": "PANT3348-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "PANT3385": [
       {
         "id": "PANT3385-Menor",
@@ -168484,6 +170388,36 @@
         "final_price": 25000,
         "cantidad_minima": 1,
         "visible": false
+      }
+    ],
+    "PANT3690": [
+      {
+        "id": "PANT3690-Menor",
+        "variedad_id": "PANT3690-Menor",
+        "variety_id": "PANT3690-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT3690-Docena",
+        "variedad_id": "PANT3690-Docena",
+        "variety_id": "PANT3690-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 12,
+        "visible": true
       }
     ],
     "PANT3853": [
@@ -168740,6 +170674,36 @@
         "visible": true
       }
     ],
+    "PANT4837": [
+      {
+        "id": "PANT4837-Menor",
+        "variedad_id": "PANT4837-Menor",
+        "variety_id": "PANT4837-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT4837-Docena",
+        "variedad_id": "PANT4837-Docena",
+        "variety_id": "PANT4837-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "PANT4858": [
       {
         "id": "PANT4858-Menor",
@@ -168770,6 +170734,36 @@
         "visible": true
       }
     ],
+    "PANT4903": [
+      {
+        "id": "PANT4903-Menor",
+        "variedad_id": "PANT4903-Menor",
+        "variety_id": "PANT4903-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT4903-Docena",
+        "variedad_id": "PANT4903-Docena",
+        "variety_id": "PANT4903-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "PANT5032": [
       {
         "id": "PANT5032-Menor",
@@ -168796,6 +170790,36 @@
         "precio_unitario": 26000,
         "precio_final": 26000,
         "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "PANT5317": [
+      {
+        "id": "PANT5317-Menor",
+        "variedad_id": "PANT5317-Menor",
+        "variety_id": "PANT5317-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 40000,
+        "precio_unitario": 40000,
+        "precio_final": 40000,
+        "final_price": 40000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT5317-Docena",
+        "variedad_id": "PANT5317-Docena",
+        "variety_id": "PANT5317-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 30000,
+        "precio_unitario": 30000,
+        "precio_final": 30000,
+        "final_price": 30000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -169322,6 +171346,50 @@
         "visible": true
       }
     ],
+    "PANT7942": [
+      {
+        "id": "PANT7942-Menor",
+        "variedad_id": "PANT7942-Menor",
+        "variety_id": "PANT7942-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 35000,
+        "precio_unitario": 35000,
+        "precio_final": 35000,
+        "final_price": 35000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT7942-Docena",
+        "variedad_id": "PANT7942-Docena",
+        "variety_id": "PANT7942-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "PANT7942-Media-Docena",
+        "variedad_id": "PANT7942-Media-Docena",
+        "variety_id": "PANT7942-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "PANT8032": [
       {
         "id": "PANT8032-Menor",
@@ -169352,6 +171420,36 @@
         "visible": true
       }
     ],
+    "PANT8093": [
+      {
+        "id": "PANT8093-Menor",
+        "variedad_id": "PANT8093-Menor",
+        "variety_id": "PANT8093-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT8093-Docena",
+        "variedad_id": "PANT8093-Docena",
+        "variety_id": "PANT8093-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "PANT8201": [
       {
         "id": "PANT8201-Menor",
@@ -169366,6 +171464,36 @@
         "final_price": 25000,
         "cantidad_minima": 1,
         "visible": false
+      }
+    ],
+    "PANT8320": [
+      {
+        "id": "PANT8320-Menor",
+        "variedad_id": "PANT8320-Menor",
+        "variety_id": "PANT8320-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 34000,
+        "precio_unitario": 34000,
+        "precio_final": 34000,
+        "final_price": 34000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT8320-Docena",
+        "variedad_id": "PANT8320-Docena",
+        "variety_id": "PANT8320-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 27000,
+        "precio_unitario": 27000,
+        "precio_final": 27000,
+        "final_price": 27000,
+        "cantidad_minima": 12,
+        "visible": true
       }
     ],
     "PANT8330": [
@@ -169862,6 +171990,64 @@
         "visible": true
       }
     ],
+    "PANT9923": [
+      {
+        "id": "PANT9923-Menor",
+        "variedad_id": "PANT9923-Menor",
+        "variety_id": "PANT9923-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PANT9923-Docena",
+        "variedad_id": "PANT9923-Docena",
+        "variety_id": "PANT9923-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "PANT9923-Curva",
+        "variedad_id": "PANT9923-Curva",
+        "variety_id": "PANT9923-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 26250,
+        "precio_unitario": 26250,
+        "precio_final": 26250,
+        "final_price": 26250,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "id": "PANT9923-Media-Docena",
+        "variedad_id": "PANT9923-Media-Docena",
+        "variety_id": "PANT9923-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "variety_name": "Media-Docena",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "precio_final": 26000,
+        "final_price": 26000,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
     "PARK7162": [
       {
         "id": "PARK7162-Menor",
@@ -170086,6 +172272,80 @@
         "visible": false
       }
     ],
+    "REME3234": [
+      {
+        "id": "REME3234-Menor",
+        "variedad_id": "REME3234-Menor",
+        "variety_id": "REME3234-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 12000,
+        "precio_unitario": 12000,
+        "precio_final": 12000,
+        "final_price": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME3234-Docena",
+        "variedad_id": "REME3234-Docena",
+        "variety_id": "REME3234-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 9000,
+        "precio_unitario": 9000,
+        "precio_final": 9000,
+        "final_price": 9000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME3234-Curva",
+        "variedad_id": "REME3234-Curva",
+        "variety_id": "REME3234-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 9000,
+        "precio_unitario": 9000,
+        "precio_final": 9000,
+        "final_price": 9000,
+        "cantidad_minima": 4,
+        "visible": true
+      }
+    ],
+    "REME3522": [
+      {
+        "id": "REME3522-Menor",
+        "variedad_id": "REME3522-Menor",
+        "variety_id": "REME3522-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 14000,
+        "precio_unitario": 14000,
+        "precio_final": 14000,
+        "final_price": 14000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME3522-Docena",
+        "variedad_id": "REME3522-Docena",
+        "variety_id": "REME3522-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 9500,
+        "precio_unitario": 9500,
+        "precio_final": 9500,
+        "final_price": 9500,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "REME3620": [
       {
         "id": "REME3620-Menor",
@@ -170142,6 +172402,66 @@
         "precio_unitario": 13000,
         "precio_final": 13000,
         "final_price": 13000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "REME4079": [
+      {
+        "id": "REME4079-Menor",
+        "variedad_id": "REME4079-Menor",
+        "variety_id": "REME4079-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 12000,
+        "precio_unitario": 12000,
+        "precio_final": 12000,
+        "final_price": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME4079-Docena",
+        "variedad_id": "REME4079-Docena",
+        "variety_id": "REME4079-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 9000,
+        "precio_unitario": 9000,
+        "precio_final": 9000,
+        "final_price": 9000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "REME4744": [
+      {
+        "id": "REME4744-Menor",
+        "variedad_id": "REME4744-Menor",
+        "variety_id": "REME4744-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 16000,
+        "precio_unitario": 16000,
+        "precio_final": 16000,
+        "final_price": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME4744-Docena",
+        "variedad_id": "REME4744-Docena",
+        "variety_id": "REME4744-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 11000,
+        "precio_unitario": 11000,
+        "precio_final": 11000,
+        "final_price": 11000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -170310,6 +172630,66 @@
         "visible": true
       }
     ],
+    "REME5668": [
+      {
+        "id": "REME5668-Menor",
+        "variedad_id": "REME5668-Menor",
+        "variety_id": "REME5668-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 12000,
+        "precio_unitario": 12000,
+        "precio_final": 12000,
+        "final_price": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME5668-Docena",
+        "variedad_id": "REME5668-Docena",
+        "variety_id": "REME5668-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 9000,
+        "precio_unitario": 9000,
+        "precio_final": 9000,
+        "final_price": 9000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "REME5991": [
+      {
+        "id": "REME5991-Menor",
+        "variedad_id": "REME5991-Menor",
+        "variety_id": "REME5991-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 12000,
+        "precio_unitario": 12000,
+        "precio_final": 12000,
+        "final_price": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME5991-Docena",
+        "variedad_id": "REME5991-Docena",
+        "variety_id": "REME5991-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 9000,
+        "precio_unitario": 9000,
+        "precio_final": 9000,
+        "final_price": 9000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "REME6020": [
       {
         "id": "REME6020-Menor",
@@ -170329,6 +172709,66 @@
         "id": "REME6020-Docena",
         "variedad_id": "REME6020-Docena",
         "variety_id": "REME6020-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 10000,
+        "precio_unitario": 10000,
+        "precio_final": 10000,
+        "final_price": 10000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "REME6464": [
+      {
+        "id": "REME6464-Menor",
+        "variedad_id": "REME6464-Menor",
+        "variety_id": "REME6464-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME6464-Docena",
+        "variedad_id": "REME6464-Docena",
+        "variety_id": "REME6464-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 10000,
+        "precio_unitario": 10000,
+        "precio_final": 10000,
+        "final_price": 10000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "REME6511": [
+      {
+        "id": "REME6511-Menor",
+        "variedad_id": "REME6511-Menor",
+        "variety_id": "REME6511-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME6511-Docena",
+        "variedad_id": "REME6511-Docena",
+        "variety_id": "REME6511-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
         "variety_name": "Docena",
@@ -170456,6 +172896,66 @@
         "precio_unitario": 16000,
         "precio_final": 16000,
         "final_price": 16000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "REME8926": [
+      {
+        "id": "REME8926-Menor",
+        "variedad_id": "REME8926-Menor",
+        "variety_id": "REME8926-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME8926-Docena",
+        "variedad_id": "REME8926-Docena",
+        "variety_id": "REME8926-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 10000,
+        "precio_unitario": 10000,
+        "precio_final": 10000,
+        "final_price": 10000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "REME9053": [
+      {
+        "id": "REME9053-Menor",
+        "variedad_id": "REME9053-Menor",
+        "variety_id": "REME9053-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME9053-Docena",
+        "variedad_id": "REME9053-Docena",
+        "variety_id": "REME9053-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 10000,
+        "precio_unitario": 10000,
+        "precio_final": 10000,
+        "final_price": 10000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -171302,6 +173802,50 @@
         "visible": true
       }
     ],
+    "SOQU4227": [
+      {
+        "id": "SOQU4227-Menor",
+        "variedad_id": "SOQU4227-Menor",
+        "variety_id": "SOQU4227-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 3000,
+        "precio_unitario": 3000,
+        "precio_final": 3000,
+        "final_price": 3000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "SOQU4227-Docena",
+        "variedad_id": "SOQU4227-Docena",
+        "variety_id": "SOQU4227-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 1750,
+        "precio_unitario": 1750,
+        "precio_final": 1750,
+        "final_price": 1750,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "SOQU4227-Pack x3",
+        "variedad_id": "SOQU4227-Pack x3",
+        "variety_id": "SOQU4227-Pack x3",
+        "nombre": "Pack x3",
+        "variedad": "Pack x3",
+        "variety_name": "Pack x3",
+        "precio": 2333.34,
+        "precio_unitario": 2333.34,
+        "precio_final": 2333.34,
+        "final_price": 2333.34,
+        "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
     "SOQU4334": [
       {
         "id": "SOQU4334-Docena",
@@ -171390,6 +173934,50 @@
         "precio_unitario": 2166.66,
         "precio_final": 2166.66,
         "final_price": 2166.66,
+        "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
+    "SOQU6543": [
+      {
+        "id": "SOQU6543-Menor",
+        "variedad_id": "SOQU6543-Menor",
+        "variety_id": "SOQU6543-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 3000,
+        "precio_unitario": 3000,
+        "precio_final": 3000,
+        "final_price": 3000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "SOQU6543-Docena",
+        "variedad_id": "SOQU6543-Docena",
+        "variety_id": "SOQU6543-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 1500,
+        "precio_unitario": 1500,
+        "precio_final": 1500,
+        "final_price": 1500,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "SOQU6543-Pack x3",
+        "variedad_id": "SOQU6543-Pack x3",
+        "variety_id": "SOQU6543-Pack x3",
+        "nombre": "Pack x3",
+        "variedad": "Pack x3",
+        "variety_name": "Pack x3",
+        "precio": 2333.33,
+        "precio_unitario": 2333.33,
+        "precio_final": 2333.33,
+        "final_price": 2333.33,
         "cantidad_minima": 3,
         "visible": true
       }
@@ -172150,6 +174738,36 @@
         "visible": true
       }
     ],
+    "TAPA4761": [
+      {
+        "id": "TAPA4761-Menor",
+        "variedad_id": "TAPA4761-Menor",
+        "variety_id": "TAPA4761-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 65000,
+        "precio_unitario": 65000,
+        "precio_final": 65000,
+        "final_price": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "TAPA4761-Docena",
+        "variedad_id": "TAPA4761-Docena",
+        "variety_id": "TAPA4761-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 48000,
+        "precio_unitario": 48000,
+        "precio_final": 48000,
+        "final_price": 48000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "TAPA5026": [
       {
         "id": "TAPA5026-Menor",
@@ -172320,6 +174938,52 @@
         "visible": false
       }
     ],
+    "TAPA7255": [
+      {
+        "id": "TAPA7255-Menor",
+        "variedad_id": "TAPA7255-Menor",
+        "variety_id": "TAPA7255-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 70000,
+        "precio_unitario": 70000,
+        "precio_final": 70000,
+        "final_price": 70000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TAPA7532": [
+      {
+        "id": "TAPA7532-Menor",
+        "variedad_id": "TAPA7532-Menor",
+        "variety_id": "TAPA7532-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 75000,
+        "precio_unitario": 75000,
+        "precio_final": 75000,
+        "final_price": 75000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "TAPA7532-Docena",
+        "variedad_id": "TAPA7532-Docena",
+        "variety_id": "TAPA7532-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 50000,
+        "precio_unitario": 50000,
+        "precio_final": 50000,
+        "final_price": 50000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
     "TAPA8087": [
       {
         "id": "TAPA8087-Menor",
@@ -172362,6 +175026,36 @@
         "precio_unitario": 45000,
         "precio_final": 45000,
         "final_price": 45000,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "TAPA8174": [
+      {
+        "id": "TAPA8174-Menor",
+        "variedad_id": "TAPA8174-Menor",
+        "variety_id": "TAPA8174-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 50000,
+        "precio_unitario": 50000,
+        "precio_final": 50000,
+        "final_price": 50000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "TAPA8174-Docena",
+        "variedad_id": "TAPA8174-Docena",
+        "variety_id": "TAPA8174-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 35000,
+        "precio_unitario": 35000,
+        "precio_final": 35000,
+        "final_price": 35000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -172761,2700 +175455,6 @@
         "precio_final": 18,
         "final_price": 18,
         "cantidad_minima": 3,
-        "visible": true
-      }
-    ],
-    "TAPA4761": [
-      {
-        "id": "TAPA4761-Menor",
-        "variedad_id": "TAPA4761-Menor",
-        "variety_id": "TAPA4761-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 65000,
-        "precio_unitario": 65000,
-        "precio_final": 65000,
-        "final_price": 65000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "TAPA4761-Docena",
-        "variedad_id": "TAPA4761-Docena",
-        "variety_id": "TAPA4761-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 48000,
-        "precio_unitario": 48000,
-        "precio_final": 48000,
-        "final_price": 48000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "TAPA7532": [
-      {
-        "id": "TAPA7532-Menor",
-        "variedad_id": "TAPA7532-Menor",
-        "variety_id": "TAPA7532-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 75000,
-        "precio_unitario": 75000,
-        "precio_final": 75000,
-        "final_price": 75000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "TAPA7532-Docena",
-        "variedad_id": "TAPA7532-Docena",
-        "variety_id": "TAPA7532-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 50000,
-        "precio_unitario": 50000,
-        "precio_final": 50000,
-        "final_price": 50000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMP9231": [
-      {
-        "id": "CAMP9231-Menor",
-        "variedad_id": "CAMP9231-Menor",
-        "variety_id": "CAMP9231-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 60000,
-        "precio_unitario": 60000,
-        "precio_final": 60000,
-        "final_price": 60000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP9231-Docena",
-        "variedad_id": "CAMP9231-Docena",
-        "variety_id": "CAMP9231-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 45000,
-        "precio_unitario": 45000,
-        "precio_final": 45000,
-        "final_price": 45000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMP4710": [
-      {
-        "id": "CAMP4710-Menor",
-        "variedad_id": "CAMP4710-Menor",
-        "variety_id": "CAMP4710-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 55000,
-        "precio_unitario": 55000,
-        "precio_final": 55000,
-        "final_price": 55000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP4710-Docena",
-        "variedad_id": "CAMP4710-Docena",
-        "variety_id": "CAMP4710-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 40000,
-        "precio_unitario": 40000,
-        "precio_final": 40000,
-        "final_price": 40000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "TAPA7255": [
-      {
-        "id": "TAPA7255-Menor",
-        "variedad_id": "TAPA7255-Menor",
-        "variety_id": "TAPA7255-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 70000,
-        "precio_unitario": 70000,
-        "precio_final": 70000,
-        "final_price": 70000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "JOGG7328": [
-      {
-        "id": "JOGG7328-Menor",
-        "variedad_id": "JOGG7328-Menor",
-        "variety_id": "JOGG7328-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "JOGG7328-Docena",
-        "variedad_id": "JOGG7328-Docena",
-        "variety_id": "JOGG7328-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "JOGG7328-Media-Docena",
-        "variedad_id": "JOGG7328-Media-Docena",
-        "variety_id": "JOGG7328-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "JOGG2618": [
-      {
-        "id": "JOGG2618-Menor",
-        "variedad_id": "JOGG2618-Menor",
-        "variety_id": "JOGG2618-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "JOGG2618-Docena",
-        "variedad_id": "JOGG2618-Docena",
-        "variety_id": "JOGG2618-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "JOGG2618-Caja",
-        "variedad_id": "JOGG2618-Caja",
-        "variety_id": "JOGG2618-Caja",
-        "nombre": "Caja",
-        "variedad": "Caja",
-        "variety_name": "Caja",
-        "precio": 22000,
-        "precio_unitario": 22000,
-        "precio_final": 22000,
-        "final_price": 22000,
-        "cantidad_minima": 120,
-        "visible": true
-      },
-      {
-        "id": "JOGG2618-Media-Docena",
-        "variedad_id": "JOGG2618-Media-Docena",
-        "variety_id": "JOGG2618-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CONJ8694": [
-      {
-        "id": "CONJ8694-Menor",
-        "variedad_id": "CONJ8694-Menor",
-        "variety_id": "CONJ8694-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 65000,
-        "precio_unitario": 65000,
-        "precio_final": 65000,
-        "final_price": 65000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CONJ8694-Docena",
-        "variedad_id": "CONJ8694-Docena",
-        "variety_id": "CONJ8694-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 52000,
-        "precio_unitario": 52000,
-        "precio_final": 52000,
-        "final_price": 52000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMP1176": [
-      {
-        "id": "CAMP1176-Menor",
-        "variedad_id": "CAMP1176-Menor",
-        "variety_id": "CAMP1176-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 50000,
-        "precio_unitario": 50000,
-        "precio_final": 50000,
-        "final_price": 50000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP1176-Docena",
-        "variedad_id": "CAMP1176-Docena",
-        "variety_id": "CAMP1176-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 36000,
-        "precio_unitario": 36000,
-        "precio_final": 36000,
-        "final_price": 36000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMP1176-Media-Docena",
-        "variedad_id": "CAMP1176-Media-Docena",
-        "variety_id": "CAMP1176-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 36000,
-        "precio_unitario": 36000,
-        "precio_final": 36000,
-        "final_price": 36000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CONJ6934": [
-      {
-        "id": "CONJ6934-Menor",
-        "variedad_id": "CONJ6934-Menor",
-        "variety_id": "CONJ6934-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 65000,
-        "precio_unitario": 65000,
-        "precio_final": 65000,
-        "final_price": 65000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CONJ6934-Docena",
-        "variedad_id": "CONJ6934-Docena",
-        "variety_id": "CONJ6934-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 48000,
-        "precio_unitario": 48000,
-        "precio_final": 48000,
-        "final_price": 48000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMP7014": [
-      {
-        "id": "CAMP7014-Menor",
-        "variedad_id": "CAMP7014-Menor",
-        "variety_id": "CAMP7014-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 60000,
-        "precio_unitario": 60000,
-        "precio_final": 60000,
-        "final_price": 60000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP7014-Docena",
-        "variedad_id": "CAMP7014-Docena",
-        "variety_id": "CAMP7014-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 43000,
-        "precio_unitario": 43000,
-        "precio_final": 43000,
-        "final_price": 43000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMP7014-Media-Docena",
-        "variedad_id": "CAMP7014-Media-Docena",
-        "variety_id": "CAMP7014-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 43000,
-        "precio_unitario": 43000,
-        "precio_final": 43000,
-        "final_price": 43000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "JOGG4417": [
-      {
-        "id": "JOGG4417-Menor",
-        "variedad_id": "JOGG4417-Menor",
-        "variety_id": "JOGG4417-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "JOGG4417-Docena",
-        "variedad_id": "JOGG4417-Docena",
-        "variety_id": "JOGG4417-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "JOGG4417-Media-Docena",
-        "variedad_id": "JOGG4417-Media-Docena",
-        "variety_id": "JOGG4417-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CONJ7230": [
-      {
-        "id": "CONJ7230-Menor",
-        "variedad_id": "CONJ7230-Menor",
-        "variety_id": "CONJ7230-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 65000,
-        "precio_unitario": 65000,
-        "precio_final": 65000,
-        "final_price": 65000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CONJ7230-Docena",
-        "variedad_id": "CONJ7230-Docena",
-        "variety_id": "CONJ7230-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 48000,
-        "precio_unitario": 48000,
-        "precio_final": 48000,
-        "final_price": 48000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMP8915": [
-      {
-        "id": "CAMP8915-Menor",
-        "variedad_id": "CAMP8915-Menor",
-        "variety_id": "CAMP8915-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 60000,
-        "precio_unitario": 60000,
-        "precio_final": 60000,
-        "final_price": 60000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "JOGG1583": [
-      {
-        "id": "JOGG1583-Menor",
-        "variedad_id": "JOGG1583-Menor",
-        "variety_id": "JOGG1583-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "JOGG1583-Docena",
-        "variedad_id": "JOGG1583-Docena",
-        "variety_id": "JOGG1583-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT3122": [
-      {
-        "id": "PANT3122-Menor",
-        "variedad_id": "PANT3122-Menor",
-        "variety_id": "PANT3122-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT3122-Docena",
-        "variedad_id": "PANT3122-Docena",
-        "variety_id": "PANT3122-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT7942": [
-      {
-        "id": "PANT7942-Menor",
-        "variedad_id": "PANT7942-Menor",
-        "variety_id": "PANT7942-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 35000,
-        "precio_unitario": 35000,
-        "precio_final": 35000,
-        "final_price": 35000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT7942-Docena",
-        "variedad_id": "PANT7942-Docena",
-        "variety_id": "PANT7942-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT7942-Media-Docena",
-        "variedad_id": "PANT7942-Media-Docena",
-        "variety_id": "PANT7942-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CAMP9755": [
-      {
-        "id": "CAMP9755-Menor",
-        "variedad_id": "CAMP9755-Menor",
-        "variety_id": "CAMP9755-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 45000,
-        "precio_unitario": 45000,
-        "precio_final": 45000,
-        "final_price": 45000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP9755-Docena",
-        "variedad_id": "CAMP9755-Docena",
-        "variety_id": "CAMP9755-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMP9755-Media-Docena",
-        "variedad_id": "CAMP9755-Media-Docena",
-        "variety_id": "CAMP9755-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CAMP7813": [
-      {
-        "id": "CAMP7813-Menor",
-        "variedad_id": "CAMP7813-Menor",
-        "variety_id": "CAMP7813-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 45000,
-        "precio_unitario": 45000,
-        "precio_final": 45000,
-        "final_price": 45000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP7813-Docena",
-        "variedad_id": "CAMP7813-Docena",
-        "variety_id": "CAMP7813-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMP7813-Media-Docena",
-        "variedad_id": "CAMP7813-Media-Docena",
-        "variety_id": "CAMP7813-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "PANT4837": [
-      {
-        "id": "PANT4837-Menor",
-        "variedad_id": "PANT4837-Menor",
-        "variety_id": "PANT4837-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT4837-Docena",
-        "variedad_id": "PANT4837-Docena",
-        "variety_id": "PANT4837-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT2865": [
-      {
-        "id": "PANT2865-Menor",
-        "variedad_id": "PANT2865-Menor",
-        "variety_id": "PANT2865-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT2865-Docena",
-        "variedad_id": "PANT2865-Docena",
-        "variety_id": "PANT2865-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT2865-Media-Docena",
-        "variedad_id": "PANT2865-Media-Docena",
-        "variety_id": "PANT2865-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CONJ4332": [
-      {
-        "id": "CONJ4332-Menor",
-        "variedad_id": "CONJ4332-Menor",
-        "variety_id": "CONJ4332-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 45000,
-        "precio_unitario": 45000,
-        "precio_final": 45000,
-        "final_price": 45000,
-        "cantidad_minima": 1,
-        "visible": false
-      },
-      {
-        "id": "CONJ4332-Docena",
-        "variedad_id": "CONJ4332-Docena",
-        "variety_id": "CONJ4332-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 35000,
-        "precio_unitario": 35000,
-        "precio_final": 35000,
-        "final_price": 35000,
-        "cantidad_minima": 12,
-        "visible": false
-      }
-    ],
-    "CONJ7259": [
-      {
-        "id": "CONJ7259-Menor",
-        "variedad_id": "CONJ7259-Menor",
-        "variety_id": "CONJ7259-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 45000,
-        "precio_unitario": 45000,
-        "precio_final": 45000,
-        "final_price": 45000,
-        "cantidad_minima": 1,
-        "visible": false
-      },
-      {
-        "id": "CONJ7259-Docena",
-        "variedad_id": "CONJ7259-Docena",
-        "variety_id": "CONJ7259-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 35000,
-        "precio_unitario": 35000,
-        "precio_final": 35000,
-        "final_price": 35000,
-        "cantidad_minima": 12,
-        "visible": false
-      },
-      {
-        "id": "CONJ7259-Media-Docena",
-        "variedad_id": "CONJ7259-Media-Docena",
-        "variety_id": "CONJ7259-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 35000,
-        "precio_unitario": 35000,
-        "precio_final": 35000,
-        "final_price": 35000,
-        "cantidad_minima": 6,
-        "visible": false
-      }
-    ],
-    "PANT2419": [
-      {
-        "id": "PANT2419-Menor",
-        "variedad_id": "PANT2419-Menor",
-        "variety_id": "PANT2419-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT2419-Docena",
-        "variedad_id": "PANT2419-Docena",
-        "variety_id": "PANT2419-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT2419-Media-Docena",
-        "variedad_id": "PANT2419-Media-Docena",
-        "variety_id": "PANT2419-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "BERM3109": [
-      {
-        "id": "BERM3109-Menor",
-        "variedad_id": "BERM3109-Menor",
-        "variety_id": "BERM3109-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "BERM3109-Docena",
-        "variedad_id": "BERM3109-Docena",
-        "variety_id": "BERM3109-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 20000,
-        "precio_unitario": 20000,
-        "precio_final": 20000,
-        "final_price": 20000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "BERM3109-Media-Docena",
-        "variedad_id": "BERM3109-Media-Docena",
-        "variety_id": "BERM3109-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 20000,
-        "precio_unitario": 20000,
-        "precio_final": 20000,
-        "final_price": 20000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CAMP8376": [
-      {
-        "id": "CAMP8376-Menor",
-        "variedad_id": "CAMP8376-Menor",
-        "variety_id": "CAMP8376-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 42000,
-        "precio_unitario": 42000,
-        "precio_final": 42000,
-        "final_price": 42000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP8376-Docena",
-        "variedad_id": "CAMP8376-Docena",
-        "variety_id": "CAMP8376-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMP8376-Media-Docena",
-        "variedad_id": "CAMP8376-Media-Docena",
-        "variety_id": "CAMP8376-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CAMP7457": [
-      {
-        "id": "CAMP7457-Menor",
-        "variedad_id": "CAMP7457-Menor",
-        "variety_id": "CAMP7457-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 55000,
-        "precio_unitario": 55000,
-        "precio_final": 55000,
-        "final_price": 55000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP7457-Docena",
-        "variedad_id": "CAMP7457-Docena",
-        "variety_id": "CAMP7457-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 39000,
-        "precio_unitario": 39000,
-        "precio_final": 39000,
-        "final_price": 39000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT8093": [
-      {
-        "id": "PANT8093-Menor",
-        "variedad_id": "PANT8093-Menor",
-        "variety_id": "PANT8093-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT8093-Docena",
-        "variedad_id": "PANT8093-Docena",
-        "variety_id": "PANT8093-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMP1001": [
-      {
-        "id": "CAMP1001-Menor",
-        "variedad_id": "CAMP1001-Menor",
-        "variety_id": "CAMP1001-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 45000,
-        "precio_unitario": 45000,
-        "precio_final": 45000,
-        "final_price": 45000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP1001-Docena",
-        "variedad_id": "CAMP1001-Docena",
-        "variety_id": "CAMP1001-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 35000,
-        "precio_unitario": 35000,
-        "precio_final": 35000,
-        "final_price": 35000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "REME3522": [
-      {
-        "id": "REME3522-Menor",
-        "variedad_id": "REME3522-Menor",
-        "variety_id": "REME3522-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 14000,
-        "precio_unitario": 14000,
-        "precio_final": 14000,
-        "final_price": 14000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME3522-Docena",
-        "variedad_id": "REME3522-Docena",
-        "variety_id": "REME3522-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 9500,
-        "precio_unitario": 9500,
-        "precio_final": 9500,
-        "final_price": 9500,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "REME3234": [
-      {
-        "id": "REME3234-Menor",
-        "variedad_id": "REME3234-Menor",
-        "variety_id": "REME3234-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 12000,
-        "precio_unitario": 12000,
-        "precio_final": 12000,
-        "final_price": 12000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME3234-Docena",
-        "variedad_id": "REME3234-Docena",
-        "variety_id": "REME3234-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 9000,
-        "precio_unitario": 9000,
-        "precio_final": 9000,
-        "final_price": 9000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "REME3234-Curva",
-        "variedad_id": "REME3234-Curva",
-        "variety_id": "REME3234-Curva",
-        "nombre": "Curva",
-        "variedad": "Curva",
-        "variety_name": "Curva",
-        "precio": 9000,
-        "precio_unitario": 9000,
-        "precio_final": 9000,
-        "final_price": 9000,
-        "cantidad_minima": 4,
-        "visible": true
-      }
-    ],
-    "REME6511": [
-      {
-        "id": "REME6511-Menor",
-        "variedad_id": "REME6511-Menor",
-        "variety_id": "REME6511-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 15000,
-        "precio_unitario": 15000,
-        "precio_final": 15000,
-        "final_price": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME6511-Docena",
-        "variedad_id": "REME6511-Docena",
-        "variety_id": "REME6511-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 10000,
-        "precio_unitario": 10000,
-        "precio_final": 10000,
-        "final_price": 10000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT2863": [
-      {
-        "id": "PANT2863-Menor",
-        "variedad_id": "PANT2863-Menor",
-        "variety_id": "PANT2863-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT2863-Docena",
-        "variedad_id": "PANT2863-Docena",
-        "variety_id": "PANT2863-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT3690": [
-      {
-        "id": "PANT3690-Menor",
-        "variedad_id": "PANT3690-Menor",
-        "variety_id": "PANT3690-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT3690-Docena",
-        "variedad_id": "PANT3690-Docena",
-        "variety_id": "PANT3690-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "TAPA8174": [
-      {
-        "id": "TAPA8174-Menor",
-        "variedad_id": "TAPA8174-Menor",
-        "variety_id": "TAPA8174-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 50000,
-        "precio_unitario": 50000,
-        "precio_final": 50000,
-        "final_price": 50000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "TAPA8174-Docena",
-        "variedad_id": "TAPA8174-Docena",
-        "variety_id": "TAPA8174-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 35000,
-        "precio_unitario": 35000,
-        "precio_final": 35000,
-        "final_price": 35000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "JOGG4674": [
-      {
-        "id": "JOGG4674-Menor",
-        "variedad_id": "JOGG4674-Menor",
-        "variety_id": "JOGG4674-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "JOGG4674-Docena",
-        "variedad_id": "JOGG4674-Docena",
-        "variety_id": "JOGG4674-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "REME5991": [
-      {
-        "id": "REME5991-Menor",
-        "variedad_id": "REME5991-Menor",
-        "variety_id": "REME5991-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 12000,
-        "precio_unitario": 12000,
-        "precio_final": 12000,
-        "final_price": 12000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME5991-Docena",
-        "variedad_id": "REME5991-Docena",
-        "variety_id": "REME5991-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 9000,
-        "precio_unitario": 9000,
-        "precio_final": 9000,
-        "final_price": 9000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "REME5668": [
-      {
-        "id": "REME5668-Menor",
-        "variedad_id": "REME5668-Menor",
-        "variety_id": "REME5668-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 12000,
-        "precio_unitario": 12000,
-        "precio_final": 12000,
-        "final_price": 12000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME5668-Docena",
-        "variedad_id": "REME5668-Docena",
-        "variety_id": "REME5668-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 9000,
-        "precio_unitario": 9000,
-        "precio_final": 9000,
-        "final_price": 9000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "REME4079": [
-      {
-        "id": "REME4079-Menor",
-        "variedad_id": "REME4079-Menor",
-        "variety_id": "REME4079-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 12000,
-        "precio_unitario": 12000,
-        "precio_final": 12000,
-        "final_price": 12000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME4079-Docena",
-        "variedad_id": "REME4079-Docena",
-        "variety_id": "REME4079-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 9000,
-        "precio_unitario": 9000,
-        "precio_final": 9000,
-        "final_price": 9000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT3348": [
-      {
-        "id": "PANT3348-Menor",
-        "variedad_id": "PANT3348-Menor",
-        "variety_id": "PANT3348-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT3348-Docena",
-        "variedad_id": "PANT3348-Docena",
-        "variety_id": "PANT3348-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT3348-Media-Docena",
-        "variedad_id": "PANT3348-Media-Docena",
-        "variety_id": "PANT3348-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "REME9053": [
-      {
-        "id": "REME9053-Menor",
-        "variedad_id": "REME9053-Menor",
-        "variety_id": "REME9053-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 15000,
-        "precio_unitario": 15000,
-        "precio_final": 15000,
-        "final_price": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME9053-Docena",
-        "variedad_id": "REME9053-Docena",
-        "variety_id": "REME9053-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 10000,
-        "precio_unitario": 10000,
-        "precio_final": 10000,
-        "final_price": 10000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "REME6464": [
-      {
-        "id": "REME6464-Menor",
-        "variedad_id": "REME6464-Menor",
-        "variety_id": "REME6464-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 15000,
-        "precio_unitario": 15000,
-        "precio_final": 15000,
-        "final_price": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME6464-Docena",
-        "variedad_id": "REME6464-Docena",
-        "variety_id": "REME6464-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 10000,
-        "precio_unitario": 10000,
-        "precio_final": 10000,
-        "final_price": 10000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "REME8926": [
-      {
-        "id": "REME8926-Menor",
-        "variedad_id": "REME8926-Menor",
-        "variety_id": "REME8926-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 15000,
-        "precio_unitario": 15000,
-        "precio_final": 15000,
-        "final_price": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME8926-Docena",
-        "variedad_id": "REME8926-Docena",
-        "variety_id": "REME8926-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 10000,
-        "precio_unitario": 10000,
-        "precio_final": 10000,
-        "final_price": 10000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "JOGG7630": [
-      {
-        "id": "JOGG7630-Menor",
-        "variedad_id": "JOGG7630-Menor",
-        "variety_id": "JOGG7630-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "JOGG7630-Docena",
-        "variedad_id": "JOGG7630-Docena",
-        "variety_id": "JOGG7630-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT2955": [
-      {
-        "id": "PANT2955-Menor",
-        "variedad_id": "PANT2955-Menor",
-        "variety_id": "PANT2955-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 35000,
-        "precio_unitario": 35000,
-        "precio_final": 35000,
-        "final_price": 35000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT2955-Docena",
-        "variedad_id": "PANT2955-Docena",
-        "variety_id": "PANT2955-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 27000,
-        "precio_unitario": 27000,
-        "precio_final": 27000,
-        "final_price": 27000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "REME4744": [
-      {
-        "id": "REME4744-Menor",
-        "variedad_id": "REME4744-Menor",
-        "variety_id": "REME4744-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 16000,
-        "precio_unitario": 16000,
-        "precio_final": 16000,
-        "final_price": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "REME4744-Docena",
-        "variedad_id": "REME4744-Docena",
-        "variety_id": "REME4744-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 11000,
-        "precio_unitario": 11000,
-        "precio_final": 11000,
-        "final_price": 11000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT2493": [
-      {
-        "id": "PANT2493-Menor",
-        "variedad_id": "PANT2493-Menor",
-        "variety_id": "PANT2493-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 15000,
-        "precio_unitario": 15000,
-        "precio_final": 15000,
-        "final_price": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT2493-Docena",
-        "variedad_id": "PANT2493-Docena",
-        "variety_id": "PANT2493-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 10000,
-        "precio_unitario": 10000,
-        "precio_final": 10000,
-        "final_price": 10000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CANC7179": [
-      {
-        "id": "CANC7179-Menor",
-        "variedad_id": "CANC7179-Menor",
-        "variety_id": "CANC7179-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 2500,
-        "precio_unitario": 2500,
-        "precio_final": 2500,
-        "final_price": 2500,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CANC7179-Docena",
-        "variedad_id": "CANC7179-Docena",
-        "variety_id": "CANC7179-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 2083.33,
-        "precio_unitario": 2083.33,
-        "precio_final": 2083.33,
-        "final_price": 2083.33,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMP6510": [
-      {
-        "id": "CAMP6510-Menor",
-        "variedad_id": "CAMP6510-Menor",
-        "variety_id": "CAMP6510-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 65000,
-        "precio_unitario": 65000,
-        "precio_final": 65000,
-        "final_price": 65000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP6510-Docena",
-        "variedad_id": "CAMP6510-Docena",
-        "variety_id": "CAMP6510-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 46000,
-        "precio_unitario": 46000,
-        "precio_final": 46000,
-        "final_price": 46000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMP6510-Media-Docena",
-        "variedad_id": "CAMP6510-Media-Docena",
-        "variety_id": "CAMP6510-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 46000,
-        "precio_unitario": 46000,
-        "precio_final": 46000,
-        "final_price": 46000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CAMP5019": [
-      {
-        "id": "CAMP5019-Menor",
-        "variedad_id": "CAMP5019-Menor",
-        "variety_id": "CAMP5019-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 55000,
-        "precio_unitario": 55000,
-        "precio_final": 55000,
-        "final_price": 55000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP5019-Docena",
-        "variedad_id": "CAMP5019-Docena",
-        "variety_id": "CAMP5019-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 40000,
-        "precio_unitario": 40000,
-        "precio_final": 40000,
-        "final_price": 40000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "JOGG2672": [
-      {
-        "id": "JOGG2672-Menor",
-        "variedad_id": "JOGG2672-Menor",
-        "variety_id": "JOGG2672-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "JOGG2672-Docena",
-        "variedad_id": "JOGG2672-Docena",
-        "variety_id": "JOGG2672-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT5317": [
-      {
-        "id": "PANT5317-Menor",
-        "variedad_id": "PANT5317-Menor",
-        "variety_id": "PANT5317-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 40000,
-        "precio_unitario": 40000,
-        "precio_final": 40000,
-        "final_price": 40000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT5317-Docena",
-        "variedad_id": "PANT5317-Docena",
-        "variety_id": "PANT5317-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT2128": [
-      {
-        "id": "PANT2128-Menor",
-        "variedad_id": "PANT2128-Menor",
-        "variety_id": "PANT2128-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT2128-Docena",
-        "variedad_id": "PANT2128-Docena",
-        "variety_id": "PANT2128-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT9923": [
-      {
-        "id": "PANT9923-Menor",
-        "variedad_id": "PANT9923-Menor",
-        "variety_id": "PANT9923-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT9923-Docena",
-        "variedad_id": "PANT9923-Docena",
-        "variety_id": "PANT9923-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT9923-Curva",
-        "variedad_id": "PANT9923-Curva",
-        "variety_id": "PANT9923-Curva",
-        "nombre": "Curva",
-        "variedad": "Curva",
-        "variety_name": "Curva",
-        "precio": 26250,
-        "precio_unitario": 26250,
-        "precio_final": 26250,
-        "final_price": 26250,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "id": "PANT9923-Media-Docena",
-        "variedad_id": "PANT9923-Media-Docena",
-        "variety_id": "PANT9923-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "CAMP9338": [
-      {
-        "id": "CAMP9338-Menor",
-        "variedad_id": "CAMP9338-Menor",
-        "variety_id": "CAMP9338-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 65000,
-        "precio_unitario": 65000,
-        "precio_final": 65000,
-        "final_price": 65000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP9338-Docena",
-        "variedad_id": "CAMP9338-Docena",
-        "variety_id": "CAMP9338-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 49000,
-        "precio_unitario": 49000,
-        "precio_final": 49000,
-        "final_price": 49000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMI4652": [
-      {
-        "id": "CAMI4652-Menor",
-        "variedad_id": "CAMI4652-Menor",
-        "variety_id": "CAMI4652-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 34000,
-        "precio_unitario": 34000,
-        "precio_final": 34000,
-        "final_price": 34000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMI4652-Docena",
-        "variedad_id": "CAMI4652-Docena",
-        "variety_id": "CAMI4652-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 27000,
-        "precio_unitario": 27000,
-        "precio_final": 27000,
-        "final_price": 27000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM9170": [
-      {
-        "id": "CHOM9170-Menor",
-        "variedad_id": "CHOM9170-Menor",
-        "variety_id": "CHOM9170-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 25000,
-        "precio_unitario": 25000,
-        "precio_final": 25000,
-        "final_price": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM9170-Docena",
-        "variedad_id": "CHOM9170-Docena",
-        "variety_id": "CHOM9170-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 19000,
-        "precio_unitario": 19000,
-        "precio_final": 19000,
-        "final_price": 19000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM5986": [
-      {
-        "id": "CHOM5986-Menor",
-        "variedad_id": "CHOM5986-Menor",
-        "variety_id": "CHOM5986-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 20000,
-        "precio_unitario": 20000,
-        "precio_final": 20000,
-        "final_price": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM5986-Docena",
-        "variedad_id": "CHOM5986-Docena",
-        "variety_id": "CHOM5986-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 13000,
-        "precio_unitario": 13000,
-        "precio_final": 13000,
-        "final_price": 13000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "BERM2247": [
-      {
-        "id": "BERM2247-Menor",
-        "variedad_id": "BERM2247-Menor",
-        "variety_id": "BERM2247-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 28000,
-        "precio_unitario": 28000,
-        "precio_final": 28000,
-        "final_price": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "BERM2247-Docena",
-        "variedad_id": "BERM2247-Docena",
-        "variety_id": "BERM2247-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 21000,
-        "precio_unitario": 21000,
-        "precio_final": 21000,
-        "final_price": 21000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "BERM5868": [
-      {
-        "id": "BERM5868-Menor",
-        "variedad_id": "BERM5868-Menor",
-        "variety_id": "BERM5868-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 23000,
-        "precio_unitario": 23000,
-        "precio_final": 23000,
-        "final_price": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "BERM5868-Docena",
-        "variedad_id": "BERM5868-Docena",
-        "variety_id": "BERM5868-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 15000,
-        "precio_unitario": 15000,
-        "precio_final": 15000,
-        "final_price": 15000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "SOQU6543": [
-      {
-        "id": "SOQU6543-Menor",
-        "variedad_id": "SOQU6543-Menor",
-        "variety_id": "SOQU6543-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 3000,
-        "precio_unitario": 3000,
-        "precio_final": 3000,
-        "final_price": 3000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "SOQU6543-Docena",
-        "variedad_id": "SOQU6543-Docena",
-        "variety_id": "SOQU6543-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 1500,
-        "precio_unitario": 1500,
-        "precio_final": 1500,
-        "final_price": 1500,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "SOQU6543-Pack x3",
-        "variedad_id": "SOQU6543-Pack x3",
-        "variety_id": "SOQU6543-Pack x3",
-        "nombre": "Pack x3",
-        "variedad": "Pack x3",
-        "variety_name": "Pack x3",
-        "precio": 2333.33,
-        "precio_unitario": 2333.33,
-        "precio_final": 2333.33,
-        "final_price": 2333.33,
-        "cantidad_minima": 3,
-        "visible": true
-      }
-    ],
-    "PANT4903": [
-      {
-        "id": "PANT4903-Menor",
-        "variedad_id": "PANT4903-Menor",
-        "variety_id": "PANT4903-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT4903-Docena",
-        "variedad_id": "PANT4903-Docena",
-        "variety_id": "PANT4903-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "MOCH9833": [
-      {
-        "id": "MOCH9833-Menor",
-        "variedad_id": "MOCH9833-Menor",
-        "variety_id": "MOCH9833-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 42400,
-        "precio_unitario": 42400,
-        "precio_final": 42400,
-        "final_price": 42400,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "MOCH9833-Docena",
-        "variedad_id": "MOCH9833-Docena",
-        "variety_id": "MOCH9833-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 31800,
-        "precio_unitario": 31800,
-        "precio_final": 31800,
-        "final_price": 31800,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "MOCH9732": [
-      {
-        "id": "MOCH9732-Menor",
-        "variedad_id": "MOCH9732-Menor",
-        "variety_id": "MOCH9732-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "MOCH9732-Docena",
-        "variedad_id": "MOCH9732-Docena",
-        "variety_id": "MOCH9732-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 22500,
-        "precio_unitario": 22500,
-        "precio_final": 22500,
-        "final_price": 22500,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM2504": [
-      {
-        "id": "CHOM2504-Menor",
-        "variedad_id": "CHOM2504-Menor",
-        "variety_id": "CHOM2504-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 16000,
-        "precio_unitario": 16000,
-        "precio_final": 16000,
-        "final_price": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM2504-Docena",
-        "variedad_id": "CHOM2504-Docena",
-        "variety_id": "CHOM2504-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 12000,
-        "precio_unitario": 12000,
-        "precio_final": 12000,
-        "final_price": 12000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM2059": [
-      {
-        "id": "CHOM2059-Menor",
-        "variedad_id": "CHOM2059-Menor",
-        "variety_id": "CHOM2059-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 16000,
-        "precio_unitario": 16000,
-        "precio_final": 16000,
-        "final_price": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM2059-Docena",
-        "variedad_id": "CHOM2059-Docena",
-        "variety_id": "CHOM2059-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 12000,
-        "precio_unitario": 12000,
-        "precio_final": 12000,
-        "final_price": 12000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM5183": [
-      {
-        "id": "CHOM5183-Menor",
-        "variedad_id": "CHOM5183-Menor",
-        "variety_id": "CHOM5183-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 16000,
-        "precio_unitario": 16000,
-        "precio_final": 16000,
-        "final_price": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM5183-Docena",
-        "variedad_id": "CHOM5183-Docena",
-        "variety_id": "CHOM5183-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 12000,
-        "precio_unitario": 12000,
-        "precio_final": 12000,
-        "final_price": 12000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM1766": [
-      {
-        "id": "CHOM1766-Menor",
-        "variedad_id": "CHOM1766-Menor",
-        "variety_id": "CHOM1766-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 20000,
-        "precio_unitario": 20000,
-        "precio_final": 20000,
-        "final_price": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM1766-Docena",
-        "variedad_id": "CHOM1766-Docena",
-        "variety_id": "CHOM1766-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 14500,
-        "precio_unitario": 14500,
-        "precio_final": 14500,
-        "final_price": 14500,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM2790": [
-      {
-        "id": "CHOM2790-Menor",
-        "variedad_id": "CHOM2790-Menor",
-        "variety_id": "CHOM2790-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 16000,
-        "precio_unitario": 16000,
-        "precio_final": 16000,
-        "final_price": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM2790-Docena",
-        "variedad_id": "CHOM2790-Docena",
-        "variety_id": "CHOM2790-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 11000,
-        "precio_unitario": 11000,
-        "precio_final": 11000,
-        "final_price": 11000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM4640": [
-      {
-        "id": "CHOM4640-Menor",
-        "variedad_id": "CHOM4640-Menor",
-        "variety_id": "CHOM4640-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 18000,
-        "precio_unitario": 18000,
-        "precio_final": 18000,
-        "final_price": 18000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM4640-Docena",
-        "variedad_id": "CHOM4640-Docena",
-        "variety_id": "CHOM4640-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 13000,
-        "precio_unitario": 13000,
-        "precio_final": 13000,
-        "final_price": 13000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CONJ4807": [
-      {
-        "id": "CONJ4807-Menor",
-        "variedad_id": "CONJ4807-Menor",
-        "variety_id": "CONJ4807-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CONJ4807-Docena",
-        "variedad_id": "CONJ4807-Docena",
-        "variety_id": "CONJ4807-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 23000,
-        "precio_unitario": 23000,
-        "precio_final": 23000,
-        "final_price": 23000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "BERM2335": [
-      {
-        "id": "BERM2335-Menor",
-        "variedad_id": "BERM2335-Menor",
-        "variety_id": "BERM2335-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 27000,
-        "precio_unitario": 27000,
-        "precio_final": 27000,
-        "final_price": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "BERM2335-Docena",
-        "variedad_id": "BERM2335-Docena",
-        "variety_id": "BERM2335-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 20000,
-        "precio_unitario": 20000,
-        "precio_final": 20000,
-        "final_price": 20000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "BERM1360": [
-      {
-        "id": "BERM1360-Menor",
-        "variedad_id": "BERM1360-Menor",
-        "variety_id": "BERM1360-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
-        "precio_final": 32000,
-        "final_price": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "BERM1360-Docena",
-        "variedad_id": "BERM1360-Docena",
-        "variety_id": "BERM1360-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 22000,
-        "precio_unitario": 22000,
-        "precio_final": 22000,
-        "final_price": 22000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "BERM9350": [
-      {
-        "id": "BERM9350-Menor",
-        "variedad_id": "BERM9350-Menor",
-        "variety_id": "BERM9350-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 30000,
-        "precio_unitario": 30000,
-        "precio_final": 30000,
-        "final_price": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "BERM9350-Docena",
-        "variedad_id": "BERM9350-Docena",
-        "variety_id": "BERM9350-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 22000,
-        "precio_unitario": 22000,
-        "precio_final": 22000,
-        "final_price": 22000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CHOM6662": [
-      {
-        "id": "CHOM6662-Menor",
-        "variedad_id": "CHOM6662-Menor",
-        "variety_id": "CHOM6662-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 20000,
-        "precio_unitario": 20000,
-        "precio_final": 20000,
-        "final_price": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CHOM6662-Docena",
-        "variedad_id": "CHOM6662-Docena",
-        "variety_id": "CHOM6662-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 13000,
-        "precio_unitario": 13000,
-        "precio_final": 13000,
-        "final_price": 13000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "BERM5149": [
-      {
-        "id": "BERM5149-Menor",
-        "variedad_id": "BERM5149-Menor",
-        "variety_id": "BERM5149-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "BERM5149-Docena",
-        "variedad_id": "BERM5149-Docena",
-        "variety_id": "BERM5149-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 20000,
-        "precio_unitario": 20000,
-        "precio_final": 20000,
-        "final_price": 20000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "PANT8320": [
-      {
-        "id": "PANT8320-Menor",
-        "variedad_id": "PANT8320-Menor",
-        "variety_id": "PANT8320-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 34000,
-        "precio_unitario": 34000,
-        "precio_final": 34000,
-        "final_price": 34000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT8320-Docena",
-        "variedad_id": "PANT8320-Docena",
-        "variety_id": "PANT8320-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 27000,
-        "precio_unitario": 27000,
-        "precio_final": 27000,
-        "final_price": 27000,
-        "cantidad_minima": 12,
-        "visible": true
-      }
-    ],
-    "CAMP3297": [
-      {
-        "id": "CAMP3297-Menor",
-        "variedad_id": "CAMP3297-Menor",
-        "variety_id": "CAMP3297-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 55000,
-        "precio_unitario": 55000,
-        "precio_final": 55000,
-        "final_price": 55000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP3297-Docena",
-        "variedad_id": "CAMP3297-Docena",
-        "variety_id": "CAMP3297-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 40000,
-        "precio_unitario": 40000,
-        "precio_final": 40000,
-        "final_price": 40000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMP3297-Media-Docena",
-        "variedad_id": "CAMP3297-Media-Docena",
-        "variety_id": "CAMP3297-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 40000,
-        "precio_unitario": 40000,
-        "precio_final": 40000,
-        "final_price": 40000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "SOQU4227": [
-      {
-        "id": "SOQU4227-Menor",
-        "variedad_id": "SOQU4227-Menor",
-        "variety_id": "SOQU4227-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 3000,
-        "precio_unitario": 3000,
-        "precio_final": 3000,
-        "final_price": 3000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "SOQU4227-Docena",
-        "variedad_id": "SOQU4227-Docena",
-        "variety_id": "SOQU4227-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 1750,
-        "precio_unitario": 1750,
-        "precio_final": 1750,
-        "final_price": 1750,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "SOQU4227-Pack x3",
-        "variedad_id": "SOQU4227-Pack x3",
-        "variety_id": "SOQU4227-Pack x3",
-        "nombre": "Pack x3",
-        "variedad": "Pack x3",
-        "variety_name": "Pack x3",
-        "precio": 2333.34,
-        "precio_unitario": 2333.34,
-        "precio_final": 2333.34,
-        "final_price": 2333.34,
-        "cantidad_minima": 3,
-        "visible": true
-      }
-    ],
-    "CAMP1160": [
-      {
-        "id": "CAMP1160-Menor",
-        "variedad_id": "CAMP1160-Menor",
-        "variety_id": "CAMP1160-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 55000,
-        "precio_unitario": 55000,
-        "precio_final": 55000,
-        "final_price": 55000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "CAMP1160-Docena",
-        "variedad_id": "CAMP1160-Docena",
-        "variety_id": "CAMP1160-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 40000,
-        "precio_unitario": 40000,
-        "precio_final": 40000,
-        "final_price": 40000,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMP1160-Media-Docena",
-        "variedad_id": "CAMP1160-Media-Docena",
-        "variety_id": "CAMP1160-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "variety_name": "Media-Docena",
-        "precio": 40000,
-        "precio_unitario": 40000,
-        "precio_final": 40000,
-        "final_price": 40000,
-        "cantidad_minima": 6,
         "visible": true
       }
     ]
