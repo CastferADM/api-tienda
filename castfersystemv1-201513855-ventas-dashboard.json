@@ -49293,70 +49293,6 @@
       ],
       "d4b935fb": [
         {
-          "id": "TPV-1786979437609",
-          "fecha": "2026-08-17 15:53",
-          "origen": "Pedido Local",
-          "estado": "CANCELADO",
-          "total": 0,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "CASTFER",
-          "metodoPago": "Efectivo",
-          "cajaId": "d4b935fb",
-          "asesor": "BRYAN COLQUE",
-          "fechaCaja": "2026-08-17",
-          "bancoTransferencia": "N/A",
-          "aliasTransferencia": "N/A",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1786979437609-j-0",
-              "descripcion": "Neoprene termico SOFTSHELL",
-              "cantidad": 24,
-              "precioUnitario": 35000,
-              "subtotal": 840000,
-              "tipoPrecio": "Docena",
-              "productoId": "CAMP3886",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "CAMP3886-Docena"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 840000,
-          "subtotal": 0,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false,
-          "tipoComprobante": "TICKET_COMUN",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": "",
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
-          "netoGravado": 0,
-          "montoIva": 0
-        },
-        {
           "id": "8d8af851",
           "fecha": "2026-08-17 17:13",
           "origen": "Pedido Local",
@@ -243887,5 +243823,5 @@
     "CAMP3297": "https://drive.google.com/thumbnail?id=1Q-rwbEXgxRrD32A-mNp1SpaqbcYOx2Kt&sz=s600-rw",
     "CAMP1160": "https://drive.google.com/thumbnail?id=10GzvxtkOH4Kog0AIlSGfOhDC9kj8fIqR&sz=s600-rw"
   },
-  "timestamp_ms": 1794752720455
+  "timestamp_ms": 1794770705393
 }
