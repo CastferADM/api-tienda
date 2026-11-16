@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T17:27:50.377Z",
-  "timestamp_ms": 1794763807334,
+  "generated_at": "2026-11-16T14:13:00.750Z",
+  "timestamp_ms": 1794838568632,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30,7 +30,7 @@
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "ticketFormat": "Formato Texto Plano",
+        "ticketFormat": "Formato Tabla",
         "printerIp": "192.168.0.31",
         "puntoVentaAfip": 9,
         "facturacionHabilitada": true,
@@ -1226,8 +1226,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 2,
-          "STOCK_ACTUAL": 2
+          "stock": 1,
+          "STOCK_ACTUAL": 1
         },
         {
           "variation_id": "MOCH5800-Surtido-Surtido-JM MAYORISTA",
@@ -29130,8 +29130,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 5,
-          "STOCK_ACTUAL": 5
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "JOGG4505-Surtido-Surtido-JM MAYORISTA",
@@ -32774,8 +32774,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 8262,
-          "STOCK_ACTUAL": 8262
+          "stock": 8258,
+          "STOCK_ACTUAL": 8258
         },
         {
           "variation_id": "OFER4741-Surtido-Surtido-JM MAYORISTA",
@@ -40194,8 +40194,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 313,
-          "STOCK_ACTUAL": 313
+          "stock": 309,
+          "STOCK_ACTUAL": 309
         },
         {
           "variation_id": "REME3620-Surtido-Surtido-JM MAYORISTA",
@@ -47366,8 +47366,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 132,
-          "STOCK_ACTUAL": 132
+          "stock": 131,
+          "STOCK_ACTUAL": 131
         },
         {
           "variation_id": "PANT2514-Surtido-Surtido-JM MAYORISTA",
@@ -93612,8 +93612,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 423,
-          "STOCK_ACTUAL": 423
+          "stock": 417,
+          "STOCK_ACTUAL": 417
         },
         {
           "variation_id": "BERM3109-Surtido-Surtido-JM MAYORISTA",
@@ -95676,8 +95676,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 87,
-          "STOCK_ACTUAL": 87
+          "stock": 75,
+          "STOCK_ACTUAL": 75
         },
         {
           "variation_id": "REME9053-Surtido-Surtido-JM MAYORISTA",
@@ -95920,8 +95920,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 71,
-          "STOCK_ACTUAL": 71
+          "stock": 59,
+          "STOCK_ACTUAL": 59
         },
         {
           "variation_id": "REME8926-Surtido-Surtido-JM MAYORISTA",
@@ -97333,8 +97333,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 109,
-          "STOCK_ACTUAL": 109
+          "stock": 108,
+          "STOCK_ACTUAL": 108
         },
         {
           "variation_id": "CAMP9338-Surtido-Surtido-JM MAYORISTA",
@@ -98215,8 +98215,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 537,
-          "STOCK_ACTUAL": 537
+          "stock": 524,
+          "STOCK_ACTUAL": 524
         },
         {
           "variation_id": "PANT4903-Surtido-Surtido-JM MAYORISTA",
@@ -98581,8 +98581,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -18,
-          "STOCK_ACTUAL": -18
+          "stock": -19,
+          "STOCK_ACTUAL": -19
         },
         {
           "variation_id": "CHOM2504-Surtido-Surtido-JM MAYORISTA",
@@ -99082,8 +99082,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 73,
-          "STOCK_ACTUAL": 73
+          "stock": 64,
+          "STOCK_ACTUAL": 64
         },
         {
           "variation_id": "CHOM2790-Surtido-Surtido-JM MAYORISTA",
@@ -99204,8 +99204,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 127,
-          "STOCK_ACTUAL": 127
+          "stock": 117,
+          "STOCK_ACTUAL": 117
         },
         {
           "variation_id": "CHOM4640-Surtido-Surtido-JM MAYORISTA",
@@ -99448,8 +99448,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 206,
-          "STOCK_ACTUAL": 206
+          "stock": 205,
+          "STOCK_ACTUAL": 205
         },
         {
           "variation_id": "BERM2335-Surtido-Surtido-JM MAYORISTA",
@@ -100330,8 +100330,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 216,
-          "STOCK_ACTUAL": 216
+          "stock": 213,
+          "STOCK_ACTUAL": 213
         },
         {
           "variation_id": "SOQU4227-Surtido-Surtido-JM MAYORISTA",
@@ -155178,8 +155178,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1555",
-    "DOLAR_BLUE_COMPRA": "1575",
+    "DOLAR_BLUE_VENTA": "1560",
+    "DOLAR_BLUE_COMPRA": "1580",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
