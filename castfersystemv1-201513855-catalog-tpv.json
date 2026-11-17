@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T19:27:57.891Z",
-  "timestamp_ms": 1794943903730,
+  "generated_at": "2026-11-17T23:42:53.229Z",
+  "timestamp_ms": 1794959131039,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -21590,7 +21590,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 107
+          "stock": 104
         },
         {
           "variation_id": "REME8635-Surtido-Surtido-JM MAYORISTA",
@@ -49348,7 +49348,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 394
+          "stock": 392
         },
         {
           "variation_id": "BERM3109-Surtido-Surtido-JM MAYORISTA",
@@ -50669,7 +50669,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 111
+          "stock": 110
         },
         {
           "variation_id": "REME4744-Surtido-Surtido-JM MAYORISTA",
@@ -51880,7 +51880,7 @@
           "precio": 16000,
           "precio_unitario": 16000,
           "cantidad_minima": 1,
-          "visible": true
+          "visible": false
         },
         {
           "id": "CHOM2059-Docena",
@@ -80360,6 +80360,47 @@
       "departamento": "",
       "observacion": "",
       "direccion": "Colon, Buenos Aires"
+    },
+    {
+      "CLIENTE_ID": "WC-7C499B59",
+      "CLASIFICACION": "WOOCOMMERCE",
+      "NOMBRE_COMPLETO": "Luciano Ludovico",
+      "CELULAR": "2326470537",
+      "CORREO_ELECTRONICO": "luchol_36@hotmail.com",
+      "CUIT_DNI": "34837916",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "DOMICILIO",
+      "AGENCIA_ENVIO": "",
+      "CODIGO_POSTAL": "2760",
+      "PROVINCIA": "Ciudad Autónoma de Buenos Aires",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "",
+      "CALLE": "Alvear, 4, San antonio de areco",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "Registrado automáticamente por Script",
+      "id": "WC-7C499B59",
+      "name": "Luciano Ludovico",
+      "phone": "2326470537",
+      "celular": "2326470537",
+      "email": "luchol_36@hotmail.com",
+      "correo": "luchol_36@hotmail.com",
+      "cuit_dni": "34837916",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "WOOCOMMERCE",
+      "tipo_envio": "DOMICILIO",
+      "agencia_envio": "",
+      "codigo_postal": "2760",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "municipio": "",
+      "localidad": "",
+      "calle": "Alvear, 4, San antonio de areco",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "Registrado automáticamente por Script",
+      "direccion": "Alvear, 4, San antonio de areco, Ciudad Autónoma de Buenos Aires"
     }
   ],
   "customers": [
@@ -107873,6 +107914,47 @@
       "departamento": "",
       "observacion": "",
       "direccion": "Colon, Buenos Aires"
+    },
+    {
+      "CLIENTE_ID": "WC-7C499B59",
+      "CLASIFICACION": "WOOCOMMERCE",
+      "NOMBRE_COMPLETO": "Luciano Ludovico",
+      "CELULAR": "2326470537",
+      "CORREO_ELECTRONICO": "luchol_36@hotmail.com",
+      "CUIT_DNI": "34837916",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "DOMICILIO",
+      "AGENCIA_ENVIO": "",
+      "CODIGO_POSTAL": "2760",
+      "PROVINCIA": "Ciudad Autónoma de Buenos Aires",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "",
+      "CALLE": "Alvear, 4, San antonio de areco",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "Registrado automáticamente por Script",
+      "id": "WC-7C499B59",
+      "name": "Luciano Ludovico",
+      "phone": "2326470537",
+      "celular": "2326470537",
+      "email": "luchol_36@hotmail.com",
+      "correo": "luchol_36@hotmail.com",
+      "cuit_dni": "34837916",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "WOOCOMMERCE",
+      "tipo_envio": "DOMICILIO",
+      "agencia_envio": "",
+      "codigo_postal": "2760",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "municipio": "",
+      "localidad": "",
+      "calle": "Alvear, 4, San antonio de areco",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "Registrado automáticamente por Script",
+      "direccion": "Alvear, 4, San antonio de areco, Ciudad Autónoma de Buenos Aires"
     }
   ],
   "paymentMethods": [
@@ -114865,7 +114947,7 @@
         "precio": 16000,
         "precio_unitario": 16000,
         "cantidad_minima": 1,
-        "visible": true
+        "visible": false
       },
       {
         "id": "CHOM2059-Docena",
