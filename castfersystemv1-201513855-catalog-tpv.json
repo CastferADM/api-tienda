@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T15:12:53.567Z",
-  "timestamp_ms": 1794928513494,
+  "generated_at": "2026-11-17T19:27:57.891Z",
+  "timestamp_ms": 1794943903730,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -30,7 +30,7 @@
         "minimumPurchase": 4,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "ticketFormat": "Formato Texto Plano",
+        "ticketFormat": "Formato Tabla",
         "printerIp": "192.168.0.31",
         "puntoVentaAfip": 9,
         "facturacionHabilitada": true,
@@ -15214,7 +15214,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": -1
+          "stock": -3
         },
         {
           "variation_id": "JOGG4505-Surtido-Surtido-JM MAYORISTA",
@@ -17156,7 +17156,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 8238
+          "stock": 8231
         },
         {
           "variation_id": "OFER4741-Surtido-Surtido-JM MAYORISTA",
@@ -17207,7 +17207,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": -12514
+          "stock": -12517
         },
         {
           "variation_id": "OFER9622-Surtido-Surtido-JM MAYORISTA",
@@ -20970,7 +20970,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 309
+          "stock": 306
         },
         {
           "variation_id": "REME3620-Surtido-Surtido-JM MAYORISTA",
@@ -21153,7 +21153,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 250
+          "stock": 248
         },
         {
           "variation_id": "REME4798-Surtido-Surtido-JM MAYORISTA",
@@ -22442,7 +22442,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 36
+          "stock": 12
         },
         {
           "variation_id": "SHOR5755-Surtido-Surtido-JM MAYORISTA",
@@ -24712,7 +24712,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 130
+          "stock": 127
         },
         {
           "variation_id": "PANT2514-Surtido-Surtido-JM MAYORISTA",
@@ -27721,7 +27721,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 11
+          "stock": -1
         },
         {
           "variation_id": "BOXE2093-Surtido-Surtido-JM MAYORISTA",
@@ -28167,7 +28167,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 43
+          "stock": 40
         },
         {
           "variation_id": "BOXE4913-Surtido-Surtido-JM MAYORISTA",
@@ -36484,7 +36484,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": -7
+          "stock": 41
         },
         {
           "variation_id": "MEDI6263-Surtido-Surtido-JM MAYORISTA",
@@ -45397,7 +45397,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 74
+          "stock": 73
         },
         {
           "variation_id": "CAMP1830-Surtido-Surtido-JM MAYORISTA",
@@ -50293,7 +50293,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 68
+          "stock": 67
         },
         {
           "variation_id": "PANT3348-Surtido-Surtido-JM MAYORISTA",
@@ -50486,7 +50486,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 51
+          "stock": 50
         },
         {
           "variation_id": "REME8926-Surtido-Surtido-JM MAYORISTA",
@@ -50730,7 +50730,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 159
+          "stock": 158
         },
         {
           "variation_id": "PANT2493-Surtido-Surtido-JM MAYORISTA",
@@ -51363,7 +51363,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 89
+          "stock": 88
         },
         {
           "variation_id": "CHOM5986-Surtido-Surtido-JM MAYORISTA",
@@ -51617,7 +51617,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 522
+          "stock": 518
         },
         {
           "variation_id": "PANT4903-Surtido-Surtido-JM MAYORISTA",
@@ -51678,7 +51678,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 47
+          "stock": 46
         },
         {
           "variation_id": "MOCH9833-Surtido-Surtido-JM MAYORISTA",
@@ -51854,7 +51854,7 @@
       "ageGroup": "Adulto",
       "sizes": "Surtido,M,L,XL,2XL",
       "colors": "Surtido,Negro,Blanco,Gris claro,Verde,Salmon",
-      "image": "https://drive.google.com/thumbnail?id=1ACzvVX93FSNIX6dPW5qlg7_vWgN00CYl&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=1DxIgmRk8JVgKbc26vq3B5mPhA2sMiPL0&sz=s600-rw",
       "variations": [
         {
           "variation_id": "CHOM2059-Surtido-Surtido-CASTFER",
@@ -52173,7 +52173,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 106
+          "stock": 105
         },
         {
           "variation_id": "CONJ4807-Surtido-Surtido-JM MAYORISTA",
@@ -52356,7 +52356,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 103
+          "stock": 102
         },
         {
           "variation_id": "BERM9350-Surtido-Surtido-JM MAYORISTA",
@@ -52417,7 +52417,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 196
+          "stock": 195
         },
         {
           "variation_id": "CHOM6662-Surtido-Surtido-JM MAYORISTA",
@@ -52478,7 +52478,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 262
+          "stock": 250
         },
         {
           "variation_id": "BERM5149-Surtido-Surtido-JM MAYORISTA",
@@ -52539,7 +52539,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 520
+          "stock": 519
         },
         {
           "variation_id": "PANT8320-Surtido-Surtido-JM MAYORISTA",
@@ -52813,7 +52813,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 0
+          "stock": 144
         },
         {
           "variation_id": "REME9534-Surtido-Surtido-JM MAYORISTA",
@@ -52829,8 +52829,8 @@
           "variedad_id": "REME9534-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 15400,
-          "precio_unitario": 15400,
+          "precio": 14000,
+          "precio_unitario": 14000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -52839,29 +52839,9 @@
           "variedad_id": "REME9534-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 11550,
-          "precio_unitario": 11550,
+          "precio": 9500,
+          "precio_unitario": 9500,
           "cantidad_minima": 12,
-          "visible": true
-        },
-        {
-          "id": "REME9534-Curva",
-          "variedad_id": "REME9534-Curva",
-          "nombre": "Curva",
-          "variedad": "Curva",
-          "precio": 11550,
-          "precio_unitario": 11550,
-          "cantidad_minima": 4,
-          "visible": true
-        },
-        {
-          "id": "REME9534-Media-Docena",
-          "variedad_id": "REME9534-Media-Docena",
-          "nombre": "Media-Docena",
-          "variedad": "Media-Docena",
-          "precio": 11550,
-          "precio_unitario": 11550,
-          "cantidad_minima": 6,
           "visible": true
         }
       ],
@@ -80339,6 +80319,47 @@
       "departamento": "",
       "observacion": "Registrado automáticamente por Script",
       "direccion": "Guemes 196 entre Feliciano e Ilia, Macia, Entre Ríos"
+    },
+    {
+      "CLIENTE_ID": "8be4a6fa",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "Patricio Ivan Howlin",
+      "CELULAR": "+54 9 2473 40-8379",
+      "CORREO_ELECTRONICO": "patriciohowlin8@gmail.com",
+      "CUIT_DNI": "39094809",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "SUCURSAL",
+      "AGENCIA_ENVIO": "VIA CARGO",
+      "CODIGO_POSTAL": "2720",
+      "PROVINCIA": "Buenos Aires",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "Colon",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "8be4a6fa",
+      "name": "Patricio Ivan Howlin",
+      "phone": "+54 9 2473 40-8379",
+      "celular": "+54 9 2473 40-8379",
+      "email": "patriciohowlin8@gmail.com",
+      "correo": "patriciohowlin8@gmail.com",
+      "cuit_dni": "39094809",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "SUCURSAL",
+      "agencia_envio": "VIA CARGO",
+      "codigo_postal": "2720",
+      "provincia": "Buenos Aires",
+      "municipio": "",
+      "localidad": "Colon",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "Colon, Buenos Aires"
     }
   ],
   "customers": [
@@ -107811,6 +107832,47 @@
       "departamento": "",
       "observacion": "Registrado automáticamente por Script",
       "direccion": "Guemes 196 entre Feliciano e Ilia, Macia, Entre Ríos"
+    },
+    {
+      "CLIENTE_ID": "8be4a6fa",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "Patricio Ivan Howlin",
+      "CELULAR": "+54 9 2473 40-8379",
+      "CORREO_ELECTRONICO": "patriciohowlin8@gmail.com",
+      "CUIT_DNI": "39094809",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "SUCURSAL",
+      "AGENCIA_ENVIO": "VIA CARGO",
+      "CODIGO_POSTAL": "2720",
+      "PROVINCIA": "Buenos Aires",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "Colon",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "8be4a6fa",
+      "name": "Patricio Ivan Howlin",
+      "phone": "+54 9 2473 40-8379",
+      "celular": "+54 9 2473 40-8379",
+      "email": "patriciohowlin8@gmail.com",
+      "correo": "patriciohowlin8@gmail.com",
+      "cuit_dni": "39094809",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "SUCURSAL",
+      "agencia_envio": "VIA CARGO",
+      "codigo_postal": "2720",
+      "provincia": "Buenos Aires",
+      "municipio": "",
+      "localidad": "Colon",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "Colon, Buenos Aires"
     }
   ],
   "paymentMethods": [
@@ -122900,8 +122962,8 @@
         "variedad_id": "REME9534-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 15400,
-        "precio_unitario": 15400,
+        "precio": 14000,
+        "precio_unitario": 14000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -122910,29 +122972,9 @@
         "variedad_id": "REME9534-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 11550,
-        "precio_unitario": 11550,
+        "precio": 9500,
+        "precio_unitario": 9500,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "REME9534-Curva",
-        "variedad_id": "REME9534-Curva",
-        "nombre": "Curva",
-        "variedad": "Curva",
-        "precio": 11550,
-        "precio_unitario": 11550,
-        "cantidad_minima": 4,
-        "visible": true
-      },
-      {
-        "id": "REME9534-Media-Docena",
-        "variedad_id": "REME9534-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "precio": 11550,
-        "precio_unitario": 11550,
-        "cantidad_minima": 6,
         "visible": true
       }
     ]
