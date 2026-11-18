@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T07:58:06.772Z",
-  "timestamp_ms": 1794988800614,
+  "generated_at": "2026-11-18T12:13:08.637Z",
+  "timestamp_ms": 1795004089137,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -52793,7 +52793,7 @@
       "secondarySku": "GW-0614",
       "model": "Deportivo",
       "name": "Deportivo",
-      "price": 7700,
+      "price": 7200,
       "minor_surcharge": 0,
       "category": "Remera",
       "categoryName": "Remera",
@@ -52845,7 +52845,230 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-11-16T08:00:00.000Z",
+      "lastUpdate": "2026-11-18T08:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME6130",
+      "sku": "GW-0617",
+      "secondarySku": "GW-0617",
+      "model": "Deportivo",
+      "name": "Deportivo",
+      "price": 7700,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "URUS",
+      "gender": "Hombre",
+      "season": "VERANO",
+      "style": "Liso",
+      "material": "Dry Fit",
+      "ageGroup": "",
+      "sizes": "Surtido,L,XL,2XL,3XL",
+      "colors": "Surtido,Negro,Gris,Blanco,Beige,Arena",
+      "image": "",
+      "variations": [
+        {
+          "variation_id": "REME6130-Surtido-Surtido-CASTFER",
+          "store_id": "CASTFER",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 144
+        },
+        {
+          "variation_id": "REME6130-Surtido-Surtido-JM MAYORISTA",
+          "store_id": "JM MAYORISTA",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME6130-Menor",
+          "variedad_id": "REME6130-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 14000,
+          "precio_unitario": 14000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "REME6130-Docena",
+          "variedad_id": "REME6130-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 9500,
+          "precio_unitario": 9500,
+          "cantidad_minima": 12,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-18T08:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CHOM9266",
+      "sku": "N5615",
+      "secondarySku": "N5615",
+      "model": "Classic  alg comvinado",
+      "name": "Classic  alg comvinado",
+      "price": 8500,
+      "minor_surcharge": 0,
+      "category": "Chomba",
+      "categoryName": "Chomba",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "SSJ",
+      "gender": "Hombre",
+      "season": "SIN-TEMPORADA",
+      "style": "Liso",
+      "material": "Algodon",
+      "ageGroup": "Adulto",
+      "sizes": "Surtido,M,L,XL,2XL",
+      "colors": "Surtido,Negro,Azul marino,Blanco,Gris,Amarillo Verde",
+      "image": "",
+      "variations": [
+        {
+          "variation_id": "CHOM9266-Surtido-Surtido-CASTFER",
+          "store_id": "CASTFER",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 118
+        },
+        {
+          "variation_id": "CHOM9266-Surtido-Surtido-JM MAYORISTA",
+          "store_id": "JM MAYORISTA",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "CHOM9266-Menor",
+          "variedad_id": "CHOM9266-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 17000,
+          "precio_unitario": 17000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "CHOM9266-Docena",
+          "variedad_id": "CHOM9266-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 12750,
+          "precio_unitario": 12750,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "CHOM9266-Curva",
+          "variedad_id": "CHOM9266-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 12750,
+          "precio_unitario": 12750,
+          "cantidad_minima": 4,
+          "visible": true
+        },
+        {
+          "id": "CHOM9266-Media-Docena",
+          "variedad_id": "CHOM9266-Media-Docena",
+          "nombre": "Media-Docena",
+          "variedad": "Media-Docena",
+          "precio": 12750,
+          "precio_unitario": 12750,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-18T08:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CHOM8180",
+      "sku": "N5616",
+      "secondarySku": "N5616",
+      "model": "Classic  Alg.",
+      "name": "Classic  Alg.",
+      "price": 8500,
+      "minor_surcharge": 0,
+      "category": "Chomba",
+      "categoryName": "Chomba",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "SSJ",
+      "gender": "Hombre",
+      "season": "SIN-TEMPORADA",
+      "style": "Liso",
+      "material": "Algodon",
+      "ageGroup": "Adulto",
+      "sizes": "Surtido,M,L,XL,2XL",
+      "colors": "Surtido,Negro,Azul marino,Blanco,Gris,Amarillo Verde",
+      "image": "",
+      "variations": [
+        {
+          "variation_id": "CHOM8180-Surtido-Surtido-CASTFER",
+          "store_id": "CASTFER",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 12
+        },
+        {
+          "variation_id": "CHOM8180-Surtido-Surtido-JM MAYORISTA",
+          "store_id": "JM MAYORISTA",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "CHOM8180-Menor",
+          "variedad_id": "CHOM8180-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 17000,
+          "precio_unitario": 17000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "CHOM8180-Docena",
+          "variedad_id": "CHOM8180-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 12750,
+          "precio_unitario": 12750,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "CHOM8180-Curva",
+          "variedad_id": "CHOM8180-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 12750,
+          "precio_unitario": 12750,
+          "cantidad_minima": 4,
+          "visible": true
+        },
+        {
+          "id": "CHOM8180-Media-Docena",
+          "variedad_id": "CHOM8180-Media-Docena",
+          "nombre": "Media-Docena",
+          "variedad": "Media-Docena",
+          "precio": 12750,
+          "precio_unitario": 12750,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-18T08:00:00.000Z",
       "fecha_creacion": ""
     }
   ],
@@ -123057,6 +123280,112 @@
         "precio": 9500,
         "precio_unitario": 9500,
         "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "REME6130": [
+      {
+        "id": "REME6130-Menor",
+        "variedad_id": "REME6130-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 14000,
+        "precio_unitario": 14000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "REME6130-Docena",
+        "variedad_id": "REME6130-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 9500,
+        "precio_unitario": 9500,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "CHOM9266": [
+      {
+        "id": "CHOM9266-Menor",
+        "variedad_id": "CHOM9266-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 17000,
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "CHOM9266-Docena",
+        "variedad_id": "CHOM9266-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 12750,
+        "precio_unitario": 12750,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CHOM9266-Curva",
+        "variedad_id": "CHOM9266-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 12750,
+        "precio_unitario": 12750,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "id": "CHOM9266-Media-Docena",
+        "variedad_id": "CHOM9266-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "precio": 12750,
+        "precio_unitario": 12750,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "CHOM8180": [
+      {
+        "id": "CHOM8180-Menor",
+        "variedad_id": "CHOM8180-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 17000,
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "CHOM8180-Docena",
+        "variedad_id": "CHOM8180-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 12750,
+        "precio_unitario": 12750,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CHOM8180-Curva",
+        "variedad_id": "CHOM8180-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 12750,
+        "precio_unitario": 12750,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "id": "CHOM8180-Media-Docena",
+        "variedad_id": "CHOM8180-Media-Docena",
+        "nombre": "Media-Docena",
+        "variedad": "Media-Docena",
+        "precio": 12750,
+        "precio_unitario": 12750,
+        "cantidad_minima": 6,
         "visible": true
       }
     ]
