@@ -237850,6 +237850,70 @@
           "facturaPdfUrl": "",
           "netoGravado": 0,
           "montoIva": 0
+        },
+        {
+          "id": "d8f09c3b",
+          "fecha": "2026-11-19 20:34",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 15000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "CASTFER",
+          "metodoPago": "Efectivo",
+          "cajaId": "8ed57886",
+          "asesor": "BRYAN COLQUE",
+          "fechaCaja": "2026-11-19",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "d8f09c3b-28162",
+              "descripcion": "OFER4741-Surtido-Surtido-CASTFER",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "OFER4741-Menor",
+              "productoId": "OFER4741",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER4741-Surtido-Surtido-CASTFER"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 15000,
+          "subtotal": 15000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 4,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ]
     },
@@ -244746,5 +244810,5 @@
     "CAMP3297": "https://drive.google.com/thumbnail?id=1Q-rwbEXgxRrD32A-mNp1SpaqbcYOx2Kt&sz=s600-rw",
     "CAMP1160": "https://drive.google.com/thumbnail?id=10GzvxtkOH4Kog0AIlSGfOhDC9kj8fIqR&sz=s600-rw"
   },
-  "timestamp_ms": 1795116339121
+  "timestamp_ms": 1795130836045
 }
