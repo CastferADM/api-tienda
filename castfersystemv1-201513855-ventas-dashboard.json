@@ -224483,7 +224483,7 @@
           "id": "f6dc2ab3",
           "fecha": "2026-11-14 13:34",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 1230000,
           "clienteId": "CLI238",
           "nombreCliente": "Karina Resinoscky",
@@ -229585,7 +229585,7 @@
           "id": "3781fca9",
           "fecha": "2026-11-14 13:35",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "CANCELADO",
           "total": 140000.16,
           "clienteId": "53ee0b79",
           "nombreCliente": "franco alvarez",
@@ -229649,7 +229649,7 @@
           "id": "f1506ab0",
           "fecha": "2026-11-16 13:50",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 260000,
           "clienteId": "6f2f6239",
           "nombreCliente": "Sol solo Comercial",
@@ -230705,7 +230705,7 @@
           "id": "32a61522",
           "fecha": "2026-11-16 16:58",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 367000,
           "clienteId": "CLI242",
           "nombreCliente": "Luka Bilokapic",
@@ -233075,7 +233075,7 @@
           "id": "e26762d9",
           "fecha": "2026-11-17 16:27",
           "origen": "Pedido Local",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 72000,
           "clienteId": "8be4a6fa",
           "nombreCliente": "Patricio Ivan Howlin",
@@ -243822,5 +243822,5 @@
     "CAMP3297": "https://drive.google.com/thumbnail?id=1Q-rwbEXgxRrD32A-mNp1SpaqbcYOx2Kt&sz=s600-rw",
     "CAMP1160": "https://drive.google.com/thumbnail?id=10GzvxtkOH4Kog0AIlSGfOhDC9kj8fIqR&sz=s600-rw"
   },
-  "timestamp_ms": 1795040784878
+  "timestamp_ms": 1795066064059
 }
