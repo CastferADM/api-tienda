@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T17:12:53.277Z",
-  "timestamp_ms": 1795108476865,
+  "generated_at": "2026-11-19T21:12:59.560Z",
+  "timestamp_ms": 1795122942321,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -13228,7 +13228,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 59
+          "stock": 41
         },
         {
           "variation_id": "CHOM5070-Surtido-Surtido-JM MAYORISTA",
@@ -14628,7 +14628,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 353
+          "stock": 345
         },
         {
           "variation_id": "JOGG2883-Surtido-Surtido-JM MAYORISTA",
@@ -15204,7 +15204,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": -46
+          "stock": -47
         },
         {
           "variation_id": "JOGG4505-Surtido-Surtido-JM MAYORISTA",
@@ -17146,7 +17146,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 8210
+          "stock": 8208
         },
         {
           "variation_id": "OFER4741-Surtido-Surtido-JM MAYORISTA",
@@ -27711,7 +27711,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 983
+          "stock": 975
         },
         {
           "variation_id": "BOXE2093-Surtido-Surtido-JM MAYORISTA",
@@ -27833,7 +27833,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 180
+          "stock": 144
         },
         {
           "variation_id": "BOXE2830-Surtido-Surtido-JM MAYORISTA",
@@ -28746,7 +28746,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 2
+          "stock": -22
         },
         {
           "variation_id": "BOXE7641-Surtido-Surtido-JM MAYORISTA",
@@ -36808,7 +36808,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 36
+          "stock": 24
         },
         {
           "variation_id": "MEDI7388-Surtido-Surtido-JM MAYORISTA",
@@ -48536,7 +48536,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 13
+          "stock": 12
         },
         {
           "variation_id": "JOGG4417-Surtido-Surtido-JM MAYORISTA",
@@ -49338,7 +49338,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 348
+          "stock": 332
         },
         {
           "variation_id": "BERM3109-Surtido-Surtido-JM MAYORISTA",
@@ -51231,7 +51231,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 1
+          "stock": -5
         },
         {
           "variation_id": "CAMI4652-Surtido-Surtido-JM MAYORISTA",
@@ -51292,7 +51292,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 171
+          "stock": 156
         },
         {
           "variation_id": "CHOM9170-Surtido-Surtido-JM MAYORISTA",
@@ -52041,7 +52041,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 59
+          "stock": 50
         },
         {
           "variation_id": "CHOM2790-Surtido-Surtido-JM MAYORISTA",
@@ -52468,7 +52468,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 231
+          "stock": 203
         },
         {
           "variation_id": "BERM5149-Surtido-Surtido-JM MAYORISTA",
@@ -52568,8 +52568,8 @@
       "id": "CAMP3297",
       "sku": "68361",
       "secondarySku": "68361",
-      "model": "Motoquera Rebel Vintage Cuero",
-      "name": "Motoquera Rebel Vintage Cuero",
+      "model": "Cuero Motoquera Rebel Vintage",
+      "name": "Cuero Motoquera Rebel Vintage",
       "price": 32000,
       "minor_surcharge": 0,
       "category": "Campera",
@@ -52632,7 +52632,7 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-10-26T07:00:00.000Z",
+      "lastUpdate": "2026-11-19T08:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -108693,8 +108693,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1620",
-    "DOLAR_BLUE_COMPRA": "1640",
+    "DOLAR_BLUE_VENTA": "#N/A",
+    "DOLAR_BLUE_COMPRA": "#N/A",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
