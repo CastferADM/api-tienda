@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T21:57:56.651Z",
-  "timestamp_ms": 1795471179177,
+  "generated_at": "2026-11-24T14:27:58.873Z",
+  "timestamp_ms": 1795530585759,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -1241,7 +1241,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": -14
+          "stock": 106
         },
         {
           "variation_id": "BERM2040-Surtido-Surtido-JM MAYORISTA",
@@ -1759,7 +1759,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 6
+          "stock": 5
         },
         {
           "variation_id": "BERM3956-Surtido-Surtido-JM MAYORISTA",
@@ -2530,7 +2530,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 53
+          "stock": 52
         },
         {
           "variation_id": "BERM6206-Surtido-Surtido-JM MAYORISTA",
@@ -12974,7 +12974,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 122
+          "stock": 116
         },
         {
           "variation_id": "CHOM1097-Surtido-Surtido-JM MAYORISTA",
@@ -13472,7 +13472,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 21
+          "stock": 20
         },
         {
           "variation_id": "CHOM6474-Surtido-Surtido-JM MAYORISTA",
@@ -15749,7 +15749,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 119
+          "stock": 118
         },
         {
           "variation_id": "JOGG6718-Surtido-Surtido-JM MAYORISTA",
@@ -17146,7 +17146,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 8166
+          "stock": 8161
         },
         {
           "variation_id": "OFER4741-Surtido-Surtido-JM MAYORISTA",
@@ -17984,8 +17984,8 @@
           "variedad_id": "PANT2685-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 25000,
-          "precio_unitario": 25000,
+          "precio": 26000,
+          "precio_unitario": 26000,
           "cantidad_minima": 12,
           "visible": false
         }
@@ -18136,8 +18136,8 @@
           "variedad_id": "PANT2984-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 40000,
-          "precio_unitario": 40000,
+          "precio": 42000,
+          "precio_unitario": 42000,
           "cantidad_minima": 1,
           "visible": false
         },
@@ -18146,8 +18146,8 @@
           "variedad_id": "PANT2984-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 30000,
-          "precio_unitario": 30000,
+          "precio": 32000,
+          "precio_unitario": 32000,
           "cantidad_minima": 12,
           "visible": true
         }
@@ -18908,19 +18908,9 @@
           "variedad_id": "PANT6124-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 25000,
-          "precio_unitario": 25000,
+          "precio": 26000,
+          "precio_unitario": 26000,
           "cantidad_minima": 12,
-          "visible": true
-        },
-        {
-          "id": "PANT6124-Curva",
-          "variedad_id": "PANT6124-Curva",
-          "nombre": "Curva",
-          "variedad": "Curva",
-          "precio": 25500,
-          "precio_unitario": 25500,
-          "cantidad_minima": 6,
           "visible": true
         }
       ],
@@ -19496,8 +19486,8 @@
           "variedad_id": "PANT8330-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 34000,
+          "precio_unitario": 34000,
           "cantidad_minima": 1,
           "visible": false
         },
@@ -19506,8 +19496,8 @@
           "variedad_id": "PANT8330-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
+          "precio": 27000,
+          "precio_unitario": 27000,
           "cantidad_minima": 12,
           "visible": false
         }
@@ -22432,7 +22422,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 121
+          "stock": 118
         },
         {
           "variation_id": "SHOR5755-Surtido-Surtido-JM MAYORISTA",
@@ -27538,7 +27528,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 210
+          "stock": 204
         },
         {
           "variation_id": "BOXE1208-Surtido-Surtido-JM MAYORISTA",
@@ -46901,7 +46891,7 @@
       "season": "SIN-TEMPORADA",
       "style": "Liso",
       "material": "Gabardina",
-      "ageGroup": "",
+      "ageGroup": "Adulto",
       "sizes": "Surtido,40,42,44,46,48,50",
       "colors": "Negro,Beige,Amarillo mostaza,Gris,Verde,Surtido",
       "image": "https://drive.google.com/thumbnail?id=1Y6fA_kqVaXt4jAvKQqD-QTvccIdoS47I&sz=s600-rw",
@@ -46911,7 +46901,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 219
+          "stock": 218
         },
         {
           "variation_id": "PANT9505-Surtido-Surtido-JM MAYORISTA",
@@ -46937,13 +46927,13 @@
           "variedad_id": "PANT9505-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 25000,
-          "precio_unitario": 25000,
+          "precio": 26000,
+          "precio_unitario": 26000,
           "cantidad_minima": 12,
           "visible": true
         }
       ],
-      "lastUpdate": "2026-06-12T07:00:00.000Z",
+      "lastUpdate": "2026-11-24T08:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -48729,7 +48719,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 32
+          "stock": 31
         },
         {
           "variation_id": "PANT3122-Surtido-Surtido-JM MAYORISTA",
@@ -48745,8 +48735,8 @@
           "variedad_id": "PANT3122-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 34000,
+          "precio_unitario": 34000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -48755,8 +48745,8 @@
           "variedad_id": "PANT3122-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
+          "precio": 27000,
+          "precio_unitario": 27000,
           "cantidad_minima": 12,
           "visible": true
         }
@@ -49019,8 +49009,8 @@
           "variedad_id": "PANT4837-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 34000,
+          "precio_unitario": 34000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -49029,8 +49019,8 @@
           "variedad_id": "PANT4837-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
+          "precio": 27000,
+          "precio_unitario": 27000,
           "cantidad_minima": 12,
           "visible": true
         }
@@ -49283,8 +49273,8 @@
           "variedad_id": "PANT2419-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 34000,
+          "precio_unitario": 34000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -49293,19 +49283,9 @@
           "variedad_id": "PANT2419-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
+          "precio": 27000,
+          "precio_unitario": 27000,
           "cantidad_minima": 12,
-          "visible": true
-        },
-        {
-          "id": "PANT2419-Media-Docena",
-          "variedad_id": "PANT2419-Media-Docena",
-          "nombre": "Media-Docena",
-          "variedad": "Media-Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
-          "cantidad_minima": 6,
           "visible": true
         }
       ],
@@ -49338,7 +49318,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 319
+          "stock": 313
         },
         {
           "variation_id": "BERM3109-Surtido-Surtido-JM MAYORISTA",
@@ -49872,8 +49852,8 @@
           "variedad_id": "PANT2863-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 34000,
+          "precio_unitario": 34000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -49882,8 +49862,8 @@
           "variedad_id": "PANT2863-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
+          "precio": 27000,
+          "precio_unitario": 27000,
           "cantidad_minima": 12,
           "visible": true
         }
@@ -49943,8 +49923,8 @@
           "variedad_id": "PANT3690-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 25000,
-          "precio_unitario": 25000,
+          "precio": 26000,
+          "precio_unitario": 26000,
           "cantidad_minima": 12,
           "visible": true
         }
@@ -50263,7 +50243,7 @@
       "secondarySku": "DL6880BZ",
       "model": "Cargo Táctico Trekking",
       "name": "Cargo Táctico Trekking",
-      "price": 0,
+      "price": 18000,
       "minor_surcharge": 0,
       "category": "Pantalon",
       "categoryName": "Pantalon",
@@ -50283,7 +50263,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 66
+          "stock": 65
         },
         {
           "variation_id": "PANT3348-Surtido-Surtido-JM MAYORISTA",
@@ -50299,8 +50279,8 @@
           "variedad_id": "PANT3348-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 34000,
+          "precio_unitario": 34000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -50309,23 +50289,13 @@
           "variedad_id": "PANT3348-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
+          "precio": 27000,
+          "precio_unitario": 27000,
           "cantidad_minima": 12,
-          "visible": true
-        },
-        {
-          "id": "PANT3348-Media-Docena",
-          "variedad_id": "PANT3348-Media-Docena",
-          "nombre": "Media-Docena",
-          "variedad": "Media-Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
-          "cantidad_minima": 6,
           "visible": true
         }
       ],
-      "lastUpdate": "2026-10-02T07:00:00.000Z",
+      "lastUpdate": "2026-11-24T08:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -50967,7 +50937,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 116
+          "stock": 115
         },
         {
           "variation_id": "PANT5317-Surtido-Surtido-JM MAYORISTA",
@@ -51044,8 +51014,8 @@
           "variedad_id": "PANT2128-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 34000,
+          "precio_unitario": 34000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -51054,8 +51024,8 @@
           "variedad_id": "PANT2128-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
+          "precio": 27000,
+          "precio_unitario": 27000,
           "cantidad_minima": 12,
           "visible": true
         }
@@ -51118,26 +51088,6 @@
           "precio": 26000,
           "precio_unitario": 26000,
           "cantidad_minima": 12,
-          "visible": true
-        },
-        {
-          "id": "PANT9923-Curva",
-          "variedad_id": "PANT9923-Curva",
-          "nombre": "Curva",
-          "variedad": "Curva",
-          "precio": 26250,
-          "precio_unitario": 26250,
-          "cantidad_minima": 6,
-          "visible": true
-        },
-        {
-          "id": "PANT9923-Media-Docena",
-          "variedad_id": "PANT9923-Media-Docena",
-          "nombre": "Media-Docena",
-          "variedad": "Media-Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
-          "cantidad_minima": 6,
           "visible": true
         }
       ],
@@ -51292,7 +51242,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 149
+          "stock": 148
         },
         {
           "variation_id": "CHOM9170-Surtido-Surtido-JM MAYORISTA",
@@ -51587,7 +51537,7 @@
       "secondarySku": "TC8322A",
       "model": "2 en 1 Desmontable  Secado rapido",
       "name": "2 en 1 Desmontable  Secado rapido",
-      "price": 18500,
+      "price": 19300,
       "minor_surcharge": 0,
       "category": "Pantalon",
       "categoryName": "Pantalon",
@@ -51623,8 +51573,8 @@
           "variedad_id": "PANT4903-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 34000,
+          "precio_unitario": 34000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -51633,13 +51583,13 @@
           "variedad_id": "PANT4903-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 26000,
-          "precio_unitario": 26000,
+          "precio": 27000,
+          "precio_unitario": 27000,
           "cantidad_minima": 12,
           "visible": true
         }
       ],
-      "lastUpdate": "2026-10-04T07:00:00.000Z",
+      "lastUpdate": "2026-11-24T08:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -51973,7 +51923,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 89
+          "stock": 86
         },
         {
           "variation_id": "CHOM1766-Surtido-Surtido-JM MAYORISTA",
@@ -52041,7 +51991,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 36
+          "stock": 34
         },
         {
           "variation_id": "CHOM2790-Surtido-Surtido-JM MAYORISTA",
@@ -52346,7 +52296,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 89
+          "stock": 88
         },
         {
           "variation_id": "BERM9350-Surtido-Surtido-JM MAYORISTA",
@@ -52529,7 +52479,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 507
+          "stock": 506
         },
         {
           "variation_id": "PANT8320-Surtido-Surtido-JM MAYORISTA",
@@ -53047,7 +52997,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 141
+          "stock": 133
         },
         {
           "variation_id": "SHOR6505-Surtido-Surtido-JM MAYORISTA",
@@ -119723,8 +119673,8 @@
         "variedad_id": "PANT2128-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 34000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -119733,8 +119683,8 @@
         "variedad_id": "PANT2128-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
+        "precio": 27000,
+        "precio_unitario": 27000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -119745,8 +119695,8 @@
         "variedad_id": "PANT2419-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 34000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -119755,19 +119705,9 @@
         "variedad_id": "PANT2419-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
+        "precio": 27000,
+        "precio_unitario": 27000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT2419-Media-Docena",
-        "variedad_id": "PANT2419-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "cantidad_minima": 6,
         "visible": true
       }
     ],
@@ -119853,8 +119793,8 @@
         "variedad_id": "PANT2685-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
+        "precio": 26000,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
         "visible": false
       }
@@ -119909,8 +119849,8 @@
         "variedad_id": "PANT2863-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 34000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -119919,8 +119859,8 @@
         "variedad_id": "PANT2863-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
+        "precio": 27000,
+        "precio_unitario": 27000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -119985,8 +119925,8 @@
         "variedad_id": "PANT2984-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 40000,
-        "precio_unitario": 40000,
+        "precio": 42000,
+        "precio_unitario": 42000,
         "cantidad_minima": 1,
         "visible": false
       },
@@ -119995,8 +119935,8 @@
         "variedad_id": "PANT2984-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 30000,
-        "precio_unitario": 30000,
+        "precio": 32000,
+        "precio_unitario": 32000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -120007,8 +119947,8 @@
         "variedad_id": "PANT3122-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 34000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -120017,8 +119957,8 @@
         "variedad_id": "PANT3122-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
+        "precio": 27000,
+        "precio_unitario": 27000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -120095,8 +120035,8 @@
         "variedad_id": "PANT3348-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 34000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -120105,19 +120045,9 @@
         "variedad_id": "PANT3348-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
+        "precio": 27000,
+        "precio_unitario": 27000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT3348-Media-Docena",
-        "variedad_id": "PANT3348-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "cantidad_minima": 6,
         "visible": true
       }
     ],
@@ -120181,8 +120111,8 @@
         "variedad_id": "PANT3690-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
+        "precio": 26000,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -120379,8 +120309,8 @@
         "variedad_id": "PANT4837-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 34000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -120389,8 +120319,8 @@
         "variedad_id": "PANT4837-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
+        "precio": 27000,
+        "precio_unitario": 27000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -120423,8 +120353,8 @@
         "variedad_id": "PANT4903-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 34000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -120433,8 +120363,8 @@
         "variedad_id": "PANT4903-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
+        "precio": 27000,
+        "precio_unitario": 27000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -120695,19 +120625,9 @@
         "variedad_id": "PANT6124-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
+        "precio": 26000,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT6124-Curva",
-        "variedad_id": "PANT6124-Curva",
-        "nombre": "Curva",
-        "variedad": "Curva",
-        "precio": 25500,
-        "precio_unitario": 25500,
-        "cantidad_minima": 6,
         "visible": true
       }
     ],
@@ -120981,8 +120901,8 @@
         "variedad_id": "PANT8330-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 34000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": false
       },
@@ -120991,8 +120911,8 @@
         "variedad_id": "PANT8330-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
+        "precio": 27000,
+        "precio_unitario": 27000,
         "cantidad_minima": 12,
         "visible": false
       }
@@ -121233,8 +121153,8 @@
         "variedad_id": "PANT9505-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 25000,
-        "precio_unitario": 25000,
+        "precio": 26000,
+        "precio_unitario": 26000,
         "cantidad_minima": 12,
         "visible": true
       }
@@ -121356,26 +121276,6 @@
         "precio": 26000,
         "precio_unitario": 26000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "PANT9923-Curva",
-        "variedad_id": "PANT9923-Curva",
-        "nombre": "Curva",
-        "variedad": "Curva",
-        "precio": 26250,
-        "precio_unitario": 26250,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "id": "PANT9923-Media-Docena",
-        "variedad_id": "PANT9923-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "cantidad_minima": 6,
         "visible": true
       }
     ],
