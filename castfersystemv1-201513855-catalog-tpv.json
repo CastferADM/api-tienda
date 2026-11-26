@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T16:13:10.124Z",
-  "timestamp_ms": 1795709738853,
+  "generated_at": "2026-11-26T20:27:53.157Z",
+  "timestamp_ms": 1795724989549,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -1241,7 +1241,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 98
+          "stock": 96
         },
         {
           "variation_id": "BERM2040-Surtido-Surtido-JM MAYORISTA",
@@ -3485,7 +3485,7 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2025-11-22T08:00:00.000Z",
+      "lastUpdate": "2026-11-26T08:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -17197,7 +17197,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": -12534
+          "stock": -12537
         },
         {
           "variation_id": "OFER9622-Surtido-Surtido-JM MAYORISTA",
@@ -21011,7 +21011,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 90
+          "stock": 88
         },
         {
           "variation_id": "REME3916-Surtido-Surtido-JM MAYORISTA",
@@ -24782,10 +24782,10 @@
           "precio": 15000,
           "precio_unitario": 15000,
           "cantidad_minima": 6,
-          "visible": true
+          "visible": false
         }
       ],
-      "lastUpdate": "2026-02-27T08:00:00.000Z",
+      "lastUpdate": "2026-11-26T08:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -27701,7 +27701,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 937
+          "stock": 934
         },
         {
           "variation_id": "BOXE2093-Surtido-Surtido-JM MAYORISTA",
@@ -27823,7 +27823,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 120
+          "stock": 117
         },
         {
           "variation_id": "BOXE2830-Surtido-Surtido-JM MAYORISTA",
@@ -46840,7 +46840,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 38
+          "stock": 37
         },
         {
           "variation_id": "PANT3853-Surtido-Surtido-JM MAYORISTA",
@@ -49257,7 +49257,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 47
+          "stock": 46
         },
         {
           "variation_id": "PANT2419-Surtido-Surtido-JM MAYORISTA",
@@ -49318,7 +49318,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 309
+          "stock": 308
         },
         {
           "variation_id": "BERM3109-Surtido-Surtido-JM MAYORISTA",
@@ -49643,7 +49643,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 282
+          "stock": 279
         },
         {
           "variation_id": "REME3522-Surtido-Surtido-JM MAYORISTA",
@@ -51242,7 +51242,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 147
+          "stock": 146
         },
         {
           "variation_id": "CHOM9170-Surtido-Surtido-JM MAYORISTA",
@@ -51923,7 +51923,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 86
+          "stock": 85
         },
         {
           "variation_id": "CHOM1766-Surtido-Surtido-JM MAYORISTA",
@@ -52418,7 +52418,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 176
+          "stock": 175
         },
         {
           "variation_id": "BERM5149-Surtido-Surtido-JM MAYORISTA",
@@ -81235,6 +81235,47 @@
       "departamento": "",
       "observacion": "",
       "direccion": "Cordoba, Córdoba"
+    },
+    {
+      "CLIENTE_ID": "f9e37484",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "Liliana giannico",
+      "CELULAR": "+54 9 3468 41-5510",
+      "CORREO_ELECTRONICO": "Liligiannico_7@hotmail.com",
+      "CUIT_DNI": "22092138",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "SUCURSAL",
+      "AGENCIA_ENVIO": "VIA CARGO",
+      "CODIGO_POSTAL": "2624",
+      "PROVINCIA": "Córdoba",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "Arias",
+      "CALLE": "Calle Tucumán",
+      "NUMERO": 802,
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "código postal (2624)",
+      "id": "f9e37484",
+      "name": "Liliana giannico",
+      "phone": "+54 9 3468 41-5510",
+      "celular": "+54 9 3468 41-5510",
+      "email": "Liligiannico_7@hotmail.com",
+      "correo": "Liligiannico_7@hotmail.com",
+      "cuit_dni": "22092138",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "SUCURSAL",
+      "agencia_envio": "VIA CARGO",
+      "codigo_postal": "2624",
+      "provincia": "Córdoba",
+      "municipio": "",
+      "localidad": "Arias",
+      "calle": "Calle Tucumán",
+      "numero": "802",
+      "piso": "",
+      "departamento": "",
+      "observacion": "código postal (2624)",
+      "direccion": "Calle Tucumán, 802, Arias, Córdoba"
     }
   ],
   "customers": [
@@ -108830,6 +108871,47 @@
       "departamento": "",
       "observacion": "",
       "direccion": "Cordoba, Córdoba"
+    },
+    {
+      "CLIENTE_ID": "f9e37484",
+      "CLASIFICACION": "COMPLETO",
+      "NOMBRE_COMPLETO": "Liliana giannico",
+      "CELULAR": "+54 9 3468 41-5510",
+      "CORREO_ELECTRONICO": "Liligiannico_7@hotmail.com",
+      "CUIT_DNI": "22092138",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "SUCURSAL",
+      "AGENCIA_ENVIO": "VIA CARGO",
+      "CODIGO_POSTAL": "2624",
+      "PROVINCIA": "Córdoba",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "Arias",
+      "CALLE": "Calle Tucumán",
+      "NUMERO": 802,
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "código postal (2624)",
+      "id": "f9e37484",
+      "name": "Liliana giannico",
+      "phone": "+54 9 3468 41-5510",
+      "celular": "+54 9 3468 41-5510",
+      "email": "Liligiannico_7@hotmail.com",
+      "correo": "Liligiannico_7@hotmail.com",
+      "cuit_dni": "22092138",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "COMPLETO",
+      "tipo_envio": "SUCURSAL",
+      "agencia_envio": "VIA CARGO",
+      "codigo_postal": "2624",
+      "provincia": "Córdoba",
+      "municipio": "",
+      "localidad": "Arias",
+      "calle": "Calle Tucumán",
+      "numero": "802",
+      "piso": "",
+      "departamento": "",
+      "observacion": "código postal (2624)",
+      "direccion": "Calle Tucumán, 802, Arias, Córdoba"
     }
   ],
   "paymentMethods": [
@@ -109126,7 +109208,7 @@
         "precio": 15000,
         "precio_unitario": 15000,
         "cantidad_minima": 6,
-        "visible": true
+        "visible": false
       }
     ],
     "BERM1360": [
