@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T21:13:01.352Z",
-  "timestamp_ms": 1795814100122,
+  "generated_at": "2026-11-28T01:27:56.302Z",
+  "timestamp_ms": 1795829434410,
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -21753,7 +21753,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 6
+          "stock": 1
         },
         {
           "variation_id": "SACO5319-Surtido-Surtido-JM MAYORISTA",
@@ -24692,7 +24692,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 115
+          "stock": 103
         },
         {
           "variation_id": "PANT2514-Surtido-Surtido-JM MAYORISTA",
@@ -46901,7 +46901,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 216
+          "stock": 210
         },
         {
           "variation_id": "PANT9505-Surtido-Surtido-JM MAYORISTA",
@@ -49257,7 +49257,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 42
+          "stock": 30
         },
         {
           "variation_id": "PANT2419-Surtido-Surtido-JM MAYORISTA",
@@ -49318,7 +49318,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 306
+          "stock": 304
         },
         {
           "variation_id": "BERM3109-Surtido-Surtido-JM MAYORISTA",
@@ -52682,7 +52682,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 27
+          "stock": 17
         },
         {
           "variation_id": "CAMP1160-Surtido-Surtido-JM MAYORISTA",
@@ -53180,7 +53180,7 @@
           "store_id": "CASTFER",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 0
+          "stock": 48
         },
         {
           "variation_id": "CAMI1153-Surtido-Surtido-JM MAYORISTA",
@@ -53196,8 +53196,8 @@
           "variedad_id": "CAMI1153-Menor",
           "nombre": "Menor",
           "variedad": "Menor",
-          "precio": 32000,
-          "precio_unitario": 32000,
+          "precio": 30000,
+          "precio_unitario": 30000,
           "cantidad_minima": 1,
           "visible": false
         },
@@ -53206,29 +53206,9 @@
           "variedad_id": "CAMI1153-Docena",
           "nombre": "Docena",
           "variedad": "Docena",
-          "precio": 24000,
-          "precio_unitario": 24000,
+          "precio": 23000,
+          "precio_unitario": 23000,
           "cantidad_minima": 12,
-          "visible": true
-        },
-        {
-          "id": "CAMI1153-Curva",
-          "variedad_id": "CAMI1153-Curva",
-          "nombre": "Curva",
-          "variedad": "Curva",
-          "precio": 24000,
-          "precio_unitario": 24000,
-          "cantidad_minima": 7,
-          "visible": true
-        },
-        {
-          "id": "CAMI1153-Media-Docena",
-          "variedad_id": "CAMI1153-Media-Docena",
-          "nombre": "Media-Docena",
-          "variedad": "Media-Docena",
-          "precio": 24000,
-          "precio_unitario": 24000,
-          "cantidad_minima": 6,
           "visible": true
         }
       ],
@@ -124422,8 +124402,8 @@
         "variedad_id": "CAMI1153-Menor",
         "nombre": "Menor",
         "variedad": "Menor",
-        "precio": 32000,
-        "precio_unitario": 32000,
+        "precio": 30000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1,
         "visible": false
       },
@@ -124432,29 +124412,9 @@
         "variedad_id": "CAMI1153-Docena",
         "nombre": "Docena",
         "variedad": "Docena",
-        "precio": 24000,
-        "precio_unitario": 24000,
+        "precio": 23000,
+        "precio_unitario": 23000,
         "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "CAMI1153-Curva",
-        "variedad_id": "CAMI1153-Curva",
-        "nombre": "Curva",
-        "variedad": "Curva",
-        "precio": 24000,
-        "precio_unitario": 24000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "id": "CAMI1153-Media-Docena",
-        "variedad_id": "CAMI1153-Media-Docena",
-        "nombre": "Media-Docena",
-        "variedad": "Media-Docena",
-        "precio": 24000,
-        "precio_unitario": 24000,
-        "cantidad_minima": 6,
         "visible": true
       }
     ],
